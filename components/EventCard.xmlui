@@ -1,7 +1,8 @@
 <Component name="EventCard">
 
   <Card padding="2px 6px" marginBottom="4px" borderLeft="{window.clusterBorder($props.event.cluster_id, $props.filterTerm)}">
-    <VStack gap="0px">
+    <HStack gap="$space-2" verticalAlignment="top">
+    <VStack gap="0px" style="flex: 1; min-width: 0;">
       <Text
         fontSize="13px"
         color="$color-text-secondary"
@@ -81,6 +82,14 @@
         />
       </HStack>
     </VStack>
+    <Image
+      when="{$props.event.image_url}"
+      src="{$props.event.image_url}"
+      width="80px"
+      height="80px"
+      style="object-fit: cover; border-radius: 4px; flex-shrink: 0;"
+    />
+    </HStack>
   </Card>
 
   <ModalDialog id="categoryDialog" title="Set Category" var.selectedCategory="{$param.category || ''}">
@@ -102,6 +111,7 @@
 
   <ModalDialog id="detailDialog" title="{$param.title}">
     <VStack gap="$space-2">
+      <Image when="{$param.image_url}" src="{$param.image_url}" maxWidth="100%" style="border-radius: 4px;" />
       <Text
         fontSize="$fontSize-xs"
         color="$color-text-secondary"

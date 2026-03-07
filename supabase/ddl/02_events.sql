@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS events (
   cluster_id text,          -- groups similar events within same timeslot for UI display
   source_urls jsonb,        -- per-source URLs for aggregator attribution links
   category text,            -- auto-classified bucket (e.g., 'Music & Concerts', 'Arts & Culture')
+  image_url text,           -- optional image for display in the feed
   created_at timestamptz DEFAULT now()
 );
 
@@ -40,3 +41,6 @@ CREATE POLICY "Anyone can read events"
 CREATE POLICY "Service function can insert events"
   ON events FOR INSERT
   WITH CHECK (true);
+
+-- Migration: add image_url column if not present
+ALTER TABLE events ADD COLUMN IF NOT EXISTS image_url text;
