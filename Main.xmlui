@@ -145,7 +145,7 @@
 
   <!-- Main Content -->
   <HStack when="{!!city}" horizontalAlignment="center" width="100%" overflowX="hidden">
-  <VStack maxWidth="600px" width="100%" overflowX="hidden">
+  <VStack maxWidth="1400px" width="100%" overflowX="hidden">
     <VStack>
     <VStack gap="$space-2">
     <Bookmark id="topAnchor">
@@ -255,9 +255,11 @@
       marginBottom="$space-2"
       onClick="const prevIndex = window._morePrevIndex ?? 0; displayStartIndex = prevIndex; browseStartIndex = prevIndex; scrollRequest = scrollRequest + 1;"
     />
-    <List id="eventsList" when="{events.loaded && viewMode === 'all'}" data="{window.getPagedEvents(processedEvents, filterTerm, displayStartIndex, 50, categoryFilter)}" fixedItemSize="true" limit="50">
-      <EventCard event="{$item}" filterTerm="{filterTerm}" categoryColorMap="{window.categoryColorMap}" categoryList="{window.categoryList}" />
-    </List>
+    <HStack id="eventsList" when="{events.loaded && viewMode === 'all'}" wrapContent="true" gap="$space-2" verticalAlignment="top">
+      <Items data="{window.getPagedEvents(processedEvents, filterTerm, displayStartIndex, 50, categoryFilter)}">
+        <EventCard event="{$item}" filterTerm="{filterTerm}" categoryColorMap="{window.categoryColorMap}" categoryList="{window.categoryList}" />
+      </Items>
+    </HStack>
     <Button
       when="{events.loaded && viewMode === 'all' && !filterTerm && window._moreHasMore}"
       label="Later"
