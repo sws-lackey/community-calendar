@@ -15,15 +15,15 @@ export default function ClassicCard({ event, filterTerm, onCategoryFilter }) {
             <img src={event.image_url} alt="" className="w-full h-[180px] object-cover rounded-t-lg" loading="lazy" />
           ) : undefined}
         >
-          <p className="text-sm text-gray-500">
+          <p className="text-sm text-gray-500 dark:text-gray-400">
             {dateStr}{timeStr ? `, ${timeStr}` : ''}
           </p>
           <EventTitle event={event} />
-          {event.location && <p className="font-normal text-sm text-gray-500">{event.location}</p>}
+          {event.location && <p className="font-normal text-sm text-gray-500 dark:text-gray-400">{event.location}</p>}
           {event.source && <p className="text-sm text-gray-400 italic">{event.source}</p>}
           <SearchSnippet html={searchSnippetHtml} />
           {snippet && (
-            <p className="font-normal text-sm text-gray-700 cursor-pointer" onClick={() => setShowDetail(true)}>
+            <p className="font-normal text-sm text-gray-700 dark:text-gray-300 cursor-pointer" onClick={() => setShowDetail(true)}>
               {snippet}
             </p>
           )}

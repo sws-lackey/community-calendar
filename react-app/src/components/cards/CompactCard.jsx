@@ -11,8 +11,8 @@ export default function CompactCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-1.5">
         <div
-          className="group/compact bg-white rounded-lg border border-gray-100 overflow-hidden
-                     hover:bg-gray-50 hover:border-gray-200 transition-all duration-150 cursor-pointer"
+          className="group/compact bg-white dark:bg-gray-800 rounded-lg border border-gray-100 dark:border-gray-700 overflow-hidden
+                     hover:bg-gray-50 dark:hover:bg-gray-700 hover:border-gray-200 dark:hover:border-gray-600 transition-all duration-150 cursor-pointer"
           onClick={() => (event.description || event.image_url) && setShowDetail(true)}
         >
           <div className="flex items-center gap-3 px-3 py-2.5">
@@ -23,7 +23,7 @@ export default function CompactCard({ event, filterTerm, onCategoryFilter }) {
 
             {/* Date column */}
             <div className="flex-shrink-0 w-16 text-center">
-              <span className="text-xs font-bold text-gray-800 block leading-none">
+              <span className="text-xs font-bold text-gray-800 dark:text-gray-200 block leading-none">
                 {dateParts.month} {dateParts.day}
               </span>
               <span className="text-[10px] text-gray-400 block mt-0.5">
@@ -35,12 +35,12 @@ export default function CompactCard({ event, filterTerm, onCategoryFilter }) {
             <div className="flex-1 min-w-0">
               {event.url ? (
                 <a href={event.url} target="_blank" rel="noopener noreferrer"
-                  className="text-sm font-semibold text-gray-900 hover:underline truncate block"
+                  className="text-sm font-semibold text-gray-900 dark:text-gray-100 hover:underline truncate block"
                   onClick={e => e.stopPropagation()}>
                   {event.title}
                 </a>
               ) : (
-                <span className="text-sm font-semibold text-gray-900 truncate block">{event.title}</span>
+                <span className="text-sm font-semibold text-gray-900 dark:text-gray-100 truncate block">{event.title}</span>
               )}
               <span className="text-xs text-gray-400 truncate block">
                 {[event.location, event.source].filter(Boolean).join(' \u00B7 ')}

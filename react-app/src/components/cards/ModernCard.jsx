@@ -9,7 +9,7 @@ export default function ModernCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-4">
         <div
-          className="rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100"
+          className="rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 dark:border-gray-700"
           style={{ backgroundColor: `${colors.background}60` }}
         >
           {/* Image with inset rounded corners */}
@@ -38,11 +38,11 @@ export default function ModernCard({ event, filterTerm, onCategoryFilter }) {
             </div>
 
             {/* Title */}
-            <EventTitle event={event} className="text-lg font-bold tracking-tight text-gray-900 leading-snug" />
+            <EventTitle event={event} className="text-lg font-bold tracking-tight text-gray-900 dark:text-gray-100 leading-snug" />
 
             {/* Meta */}
             {event.location && (
-              <p className="text-sm text-gray-500 mt-1.5">{event.location}</p>
+              <p className="text-sm text-gray-500 dark:text-gray-400 mt-1.5">{event.location}</p>
             )}
             {event.source && (
               <p className="text-xs text-gray-400 mt-1 italic">{event.source}</p>
@@ -50,7 +50,7 @@ export default function ModernCard({ event, filterTerm, onCategoryFilter }) {
 
             <SearchSnippet html={searchSnippetHtml} />
             {snippet && (
-              <p className="text-sm text-gray-600 mt-2.5 leading-relaxed cursor-pointer" onClick={() => setShowDetail(true)}>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mt-2.5 leading-relaxed cursor-pointer" onClick={() => setShowDetail(true)}>
                 {snippet}
               </p>
             )}

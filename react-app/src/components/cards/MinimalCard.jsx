@@ -25,7 +25,7 @@ export default function MinimalCard({ event, filterTerm, onCategoryFilter }) {
         )}
 
         {/* Title — large, bold */}
-        <EventTitle event={event} className="text-lg font-bold tracking-tight text-gray-900 leading-snug mt-1" />
+        <EventTitle event={event} className="text-lg font-bold tracking-tight text-gray-900 dark:text-gray-100 leading-snug mt-1" />
 
         {/* Date + time */}
         <p className="text-xs text-gray-400 mt-1">
@@ -34,12 +34,12 @@ export default function MinimalCard({ event, filterTerm, onCategoryFilter }) {
         </p>
 
         {/* Location + source */}
-        {event.location && <p className="text-sm text-gray-500 mt-1">{event.location}</p>}
+        {event.location && <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">{event.location}</p>}
         {event.source && <p className="text-xs text-gray-400 italic mt-0.5">{event.source}</p>}
 
         <SearchSnippet html={searchSnippetHtml} />
         {snippet && (
-          <p className="text-sm text-gray-500 mt-2 leading-relaxed cursor-pointer" onClick={() => setShowDetail(true)}>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-2 leading-relaxed cursor-pointer" onClick={() => setShowDetail(true)}>
             {snippet}
           </p>
         )}
@@ -50,7 +50,7 @@ export default function MinimalCard({ event, filterTerm, onCategoryFilter }) {
         </div>
 
         {/* Separator line */}
-        <div className="mt-5 border-b border-gray-200" />
+        <div className="mt-5 border-b border-gray-200 dark:border-gray-600" />
       </div>
       {showDetail && <DetailModal event={event} dateStr={dateStr} timeStr={timeStr} onClose={() => setShowDetail(false)} />}
     </>
