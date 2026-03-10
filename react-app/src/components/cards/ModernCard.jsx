@@ -9,7 +9,7 @@ export default function ModernCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-4">
         <div
-          className="rounded-2xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-gray-100"
+          className="rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100"
           style={{ backgroundColor: `${colors.background}60` }}
         >
           {/* Image with inset rounded corners */}

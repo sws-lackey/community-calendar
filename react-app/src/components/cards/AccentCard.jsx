@@ -10,7 +10,7 @@ export default function AccentCard({ event, filterTerm, onCategoryFilter }) {
       <div className="mb-3">
         <div
           className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden
-                     hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
+                     hover:shadow-lg transition-all duration-200"
           style={{ borderLeftWidth: '3px', borderLeftColor: colors.label }}
         >
           {event.image_url ? (
