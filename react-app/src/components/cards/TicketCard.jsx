@@ -9,7 +9,7 @@ export default function TicketCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-3">
         <div className="flex bg-white rounded-lg shadow-sm overflow-hidden
-                        hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200
+                        hover:shadow-lg transition-all duration-200
                         border border-gray-200">
 
           {/* Stub — date section */}

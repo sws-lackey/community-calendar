@@ -9,7 +9,7 @@ export default function OverlayCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-3">
         <div className="rounded-lg overflow-hidden shadow-sm border border-gray-200 bg-white
-                        hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200">
+                        hover:shadow-lg transition-all duration-200">
 
           {event.image_url ? (
             /* Image with date chip + category overlaid */

@@ -9,7 +9,7 @@ export default function SplitImageCard({ event, filterTerm, onCategoryFilter }) 
     <>
       <div className="mb-3">
         <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden
-                        hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200">
+                        hover:shadow-lg transition-all duration-200">
           <div className="flex">
             {/* Left — image or narrow icon placeholder */}
             <div className={`flex-shrink-0 ${event.image_url ? 'w-2/5' : 'w-16'}`}>

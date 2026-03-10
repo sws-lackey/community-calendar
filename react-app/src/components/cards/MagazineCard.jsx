@@ -8,7 +8,7 @@ export default function MagazineCard({ event, filterTerm, onCategoryFilter }) {
   return (
     <>
       <div className="mb-3">
-        <div className="rounded-xl overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 bg-white border border-gray-200">
+        <div className="rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-200 bg-white border border-gray-200">
 
           {/* Hero area — image with overlay, or colored block */}
           {event.image_url ? (
