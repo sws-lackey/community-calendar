@@ -117,7 +117,7 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
       </div>
       {/* Curator tools row */}
       {user && (
-        <div className="border-t border-gray-100 mt-2 pt-2 flex items-center gap-2">
+        <div className="border-t border-gray-100 dark:border-gray-700 mt-2 pt-2 flex items-center gap-2">
           <span className="text-[10px] font-medium text-gray-400 uppercase tracking-wide">Curator</span>
           <div className="flex-1" />
           {event.category ? (
@@ -131,7 +131,7 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
           ) : (
             <button
               onClick={() => setShowCatModal(true)}
-              className="text-xs text-gray-500 hover:text-gray-700 transition-colors"
+              className="text-xs text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300 transition-colors"
             >
               + category
             </button>
@@ -199,7 +199,7 @@ export function CuratorTools({ event }) {
         ) : (
           <button
             onClick={e => { e.stopPropagation(); setShowCatModal(true); }}
-            className="text-xs text-gray-500 hover:text-gray-700 transition-colors"
+            className="text-xs text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300 transition-colors"
           >
             +cat
           </button>
@@ -311,7 +311,7 @@ export function SearchSnippet({ html }) {
   if (!html) return null;
   return (
     <p
-      className="text-sm text-gray-700 mt-2"
+      className="text-sm text-gray-700 dark:text-gray-300 mt-2"
       dangerouslySetInnerHTML={{ __html: html }}
     />
   );
@@ -325,32 +325,32 @@ export function DetailModal({ event, dateStr, timeStr, onClose }) {
       onClick={onClose}
     >
       <div
-        className="bg-white rounded-lg max-w-lg w-full max-h-[80vh] overflow-y-auto p-6 shadow-xl"
+        className="bg-white dark:bg-gray-800 rounded-lg max-w-lg w-full max-h-[80vh] overflow-y-auto p-6 shadow-xl"
         onClick={e => e.stopPropagation()}
       >
-        <h2 className="text-xl font-bold tracking-tight text-gray-900 mb-2">{event.title}</h2>
-        <p className="text-sm text-gray-500 mb-1">
+        <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-2">{event.title}</h2>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">
           {dateStr}{timeStr ? `, ${timeStr}` : ''}
         </p>
-        {event.location && <p className="text-sm text-gray-700 mb-1">{event.location}</p>}
+        {event.location && <p className="text-sm text-gray-700 dark:text-gray-300 mb-1">{event.location}</p>}
         {event.source && <p className="text-sm text-gray-400 italic mb-3">{event.source}</p>}
         {event.image_url && (
           <img src={event.image_url} alt="" className="w-full object-contain mb-4 rounded-lg" />
         )}
         {event.description && (
           <div
-            className="text-sm font-normal text-gray-700 whitespace-pre-wrap break-words"
+            className="text-sm font-normal text-gray-700 dark:text-gray-300 whitespace-pre-wrap break-words"
             dangerouslySetInnerHTML={{ __html: event.description }}
           />
         )}
         {event.url && (
           <a href={event.url} target="_blank" rel="noopener noreferrer"
-            className="text-sm text-blue-600 hover:underline mt-3 block">
+            className="text-sm text-blue-600 dark:text-blue-400 hover:underline mt-3 block">
             Event link
           </a>
         )}
         <button onClick={onClose}
-          className="mt-4 px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200 text-sm font-medium transition-colors">
+          className="mt-4 px-4 py-2 bg-gray-100 dark:bg-gray-700 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 text-sm font-medium transition-colors">
           Close
         </button>
       </div>
@@ -359,7 +359,7 @@ export function DetailModal({ event, dateStr, timeStr, onClose }) {
 }
 
 export function EventTitle({ event, className }) {
-  const base = className || 'text-base font-bold tracking-tight text-gray-900 leading-snug';
+  const base = className || 'text-base font-bold tracking-tight text-gray-900 dark:text-gray-100 leading-snug';
   if (event.url) {
     return (
       <a href={event.url} target="_blank" rel="noopener noreferrer"
@@ -406,10 +406,10 @@ function CategoryOverrideModal({ event, onClose }) {
 
   return createPortal(
     <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4" onClick={onClose}>
-      <div className="bg-white rounded-xl max-w-sm w-full max-h-[70vh] overflow-y-auto shadow-xl" onClick={e => e.stopPropagation()}>
+      <div className="bg-white dark:bg-gray-800 rounded-xl max-w-sm w-full max-h-[70vh] overflow-y-auto shadow-xl" onClick={e => e.stopPropagation()}>
         <div className="px-5 pt-4 pb-2">
-          <h3 className="text-base font-bold text-gray-900">Set Category</h3>
-          <p className="text-sm text-gray-500 truncate mt-0.5">{event.title}</p>
+          <h3 className="text-base font-bold text-gray-900 dark:text-gray-100">Set Category</h3>
+          <p className="text-sm text-gray-500 dark:text-gray-400 truncate mt-0.5">{event.title}</p>
         </div>
         <div className="px-5 py-2 space-y-1">
           {CATEGORIES.map(cat => {
@@ -418,7 +418,7 @@ function CategoryOverrideModal({ event, onClose }) {
               <label
                 key={cat.name}
                 className={`flex items-center gap-2.5 px-3 py-1.5 rounded-lg cursor-pointer transition-colors ${
-                  isSelected ? 'bg-gray-100' : 'hover:bg-gray-50'
+                  isSelected ? 'bg-gray-100 dark:bg-gray-700' : 'hover:bg-gray-50 dark:hover:bg-gray-700'
                 }`}
               >
                 <input
@@ -432,15 +432,15 @@ function CategoryOverrideModal({ event, onClose }) {
                   className="inline-block w-2.5 h-2.5 rounded-full flex-shrink-0"
                   style={{ backgroundColor: cat.label }}
                 />
-                <span className="text-sm text-gray-700">{cat.name}</span>
+                <span className="text-sm text-gray-700 dark:text-gray-300">{cat.name}</span>
               </label>
             );
           })}
         </div>
-        <div className="flex justify-end gap-2 px-5 py-3 border-t border-gray-100">
+        <div className="flex justify-end gap-2 px-5 py-3 border-t border-gray-100 dark:border-gray-700">
           <button
             onClick={onClose}
-            className="px-3 py-1.5 text-sm text-gray-500 hover:text-gray-700 transition-colors"
+            className="px-3 py-1.5 text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300 transition-colors"
           >
             Cancel
           </button>

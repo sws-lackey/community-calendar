@@ -8,9 +8,9 @@ export default function TicketCard({ event, filterTerm, onCategoryFilter }) {
   return (
     <>
       <div className="mb-3">
-        <div className="flex bg-white rounded-lg shadow-sm overflow-hidden
+        <div className="flex bg-white dark:bg-gray-800 rounded-lg shadow-sm overflow-hidden
                         hover:shadow-lg transition-all duration-200
-                        border border-gray-200">
+                        border border-gray-200 dark:border-gray-600">
 
           {/* Stub — date section */}
           <div
@@ -37,17 +37,17 @@ export default function TicketCard({ event, filterTerm, onCategoryFilter }) {
 
             <EventTitle event={event} />
 
-            {event.location && <p className="text-xs text-gray-500 mt-1 truncate">{event.location}</p>}
+            {event.location && <p className="text-xs text-gray-500 dark:text-gray-400 mt-1 truncate">{event.location}</p>}
             {event.source && <p className="text-xs text-gray-400 italic mt-0.5 truncate">{event.source}</p>}
 
             <SearchSnippet html={searchSnippetHtml} />
             {snippet && (
-              <p className="text-sm text-gray-600 mt-1.5 leading-snug cursor-pointer" onClick={() => setShowDetail(true)}>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mt-1.5 leading-snug cursor-pointer" onClick={() => setShowDetail(true)}>
                 {snippet}
               </p>
             )}
 
-            <div className="mt-3 pt-2 border-t border-gray-100">
+            <div className="mt-3 pt-2 border-t border-gray-100 dark:border-gray-700">
               <ActionBar event={event} onCategoryFilter={onCategoryFilter} onShowDetail={() => setShowDetail(true)} colors={colors} />
             </div>
           </div>

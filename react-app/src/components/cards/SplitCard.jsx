@@ -8,7 +8,7 @@ export default function SplitCard({ event, filterTerm, onCategoryFilter }) {
   return (
     <>
       <div className="mb-3">
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden
+        <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-600 overflow-hidden
                         hover:shadow-lg transition-all duration-200">
           <div className="flex">
             {/* Left — image */}
@@ -30,12 +30,12 @@ export default function SplitCard({ event, filterTerm, onCategoryFilter }) {
               <EventTitle event={event} />
 
               {/* Meta */}
-              {event.location && <p className="text-xs text-gray-500 mt-1 truncate">{event.location}</p>}
+              {event.location && <p className="text-xs text-gray-500 dark:text-gray-400 mt-1 truncate">{event.location}</p>}
               {event.source && <p className="text-xs text-gray-400 italic mt-0.5 truncate">{event.source}</p>}
 
               <SearchSnippet html={searchSnippetHtml} />
               {snippet && (
-                <p className="text-sm text-gray-600 mt-1.5 leading-snug cursor-pointer line-clamp-2" onClick={() => setShowDetail(true)}>
+                <p className="text-sm text-gray-600 dark:text-gray-400 mt-1.5 leading-snug cursor-pointer line-clamp-2" onClick={() => setShowDetail(true)}>
                   {snippet}
                 </p>
               )}

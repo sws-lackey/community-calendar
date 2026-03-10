@@ -11,7 +11,8 @@ import MasonryGrid from './MasonryGrid.jsx';
  * Posts height to parent window via postMessage so the host page
  * can auto-resize the iframe (no scroll-within-scroll).
  */
-export default function EmbedView({ feedId, style, title, bg }) {
+export default function EmbedView({ feedId, style, title, bg, mode }) {
+  const isDark = mode === 'dark';
   const { collection, events, loading } = useCollection(feedId);
   const rawColumnCount = useColumnCount();
   const containerRef = useRef(null);
@@ -78,7 +79,7 @@ export default function EmbedView({ feedId, style, title, bg }) {
     content = (
       <>
         {displayTitle && (
-          <h1 className="text-lg font-bold text-gray-900 mb-3 px-1">{displayTitle}</h1>
+          <h1 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayTitle}</h1>
         )}
         <MasonryGrid
           masonryColumns={masonryColumns}
@@ -91,7 +92,7 @@ export default function EmbedView({ feedId, style, title, bg }) {
   }
 
   return (
-    <div ref={containerRef} className="w-full px-3 py-4" style={{ backgroundColor: bg || 'transparent' }}>
+    <div ref={containerRef} className={`w-full px-3 py-4 ${isDark ? 'dark' : ''}`} style={{ backgroundColor: bg || 'transparent' }}>
       {content}
     </div>
   );

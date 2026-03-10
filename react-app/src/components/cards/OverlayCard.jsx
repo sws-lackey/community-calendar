@@ -8,7 +8,7 @@ export default function OverlayCard({ event, filterTerm, onCategoryFilter }) {
   return (
     <>
       <div className="mb-3">
-        <div className="rounded-lg overflow-hidden shadow-sm border border-gray-200 bg-white
+        <div className="rounded-lg overflow-hidden shadow-sm border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800
                         hover:shadow-lg transition-all duration-200">
 
           {event.image_url ? (
@@ -65,16 +65,16 @@ export default function OverlayCard({ event, filterTerm, onCategoryFilter }) {
           {/* Body — title + meta always below the image/band */}
           <div className="p-4 pt-3">
             <EventTitle event={event} />
-            {timeStr && <p className="text-xs text-gray-500 mt-0.5">{timeStr}</p>}
-            {event.location && <p className="text-xs text-gray-500 mt-0.5 truncate">{event.location}</p>}
+            {timeStr && <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{timeStr}</p>}
+            {event.location && <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5 truncate">{event.location}</p>}
             {event.source && <p className="text-xs text-gray-400 italic mt-0.5 truncate">{event.source}</p>}
 
             <SearchSnippet html={searchSnippetHtml} />
             {snippet && (
-              <p className="text-sm text-gray-600 mt-2 cursor-pointer leading-snug" onClick={() => setShowDetail(true)}>{snippet}</p>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mt-2 cursor-pointer leading-snug" onClick={() => setShowDetail(true)}>{snippet}</p>
             )}
 
-            <div className="mt-3 pt-2 border-t border-gray-100">
+            <div className="mt-3 pt-2 border-t border-gray-100 dark:border-gray-700">
               <ActionBar event={event} onCategoryFilter={onCategoryFilter} onShowDetail={() => setShowDetail(true)} colors={colors} />
             </div>
           </div>

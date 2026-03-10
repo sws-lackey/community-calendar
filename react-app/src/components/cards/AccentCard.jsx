@@ -9,14 +9,14 @@ export default function AccentCard({ event, filterTerm, onCategoryFilter }) {
     <>
       <div className="mb-3">
         <div
-          className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden
+          className="bg-white dark:bg-gray-800 rounded-lg shadow-sm border border-gray-200 dark:border-gray-600 overflow-hidden
                      hover:shadow-lg transition-all duration-200"
           style={{ borderLeftWidth: '3px', borderLeftColor: colors.label }}
         >
           {event.image_url ? (
             <div className="relative">
               <img src={event.image_url} alt="" className="w-full h-[180px] object-cover" loading="lazy" />
-              <div className="absolute inset-x-0 bottom-0 h-12 bg-gradient-to-t from-white to-transparent" />
+              <div className="absolute inset-x-0 bottom-0 h-12 bg-gradient-to-t from-white dark:from-gray-800 to-transparent" />
             </div>
           ) : (
             <div className="h-2 w-full" style={{ background: `linear-gradient(135deg, ${colors.label}30, ${colors.background})` }} />
@@ -32,16 +32,16 @@ export default function AccentCard({ event, filterTerm, onCategoryFilter }) {
               </div>
               <div className="flex-1 min-w-0">
                 <EventTitle event={event} />
-                {timeStr && <p className="text-xs text-gray-500 mt-0.5">{timeStr}</p>}
-                {event.location && <p className="text-xs text-gray-500 mt-0.5 truncate">{event.location}</p>}
+                {timeStr && <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{timeStr}</p>}
+                {event.location && <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5 truncate">{event.location}</p>}
                 {event.source && <p className="text-xs text-gray-400 italic mt-0.5 truncate">{event.source}</p>}
               </div>
             </div>
             <SearchSnippet html={searchSnippetHtml} />
             {snippet && (
-              <p className="text-sm text-gray-600 mt-2 cursor-pointer leading-snug" onClick={() => setShowDetail(true)}>{snippet}</p>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mt-2 cursor-pointer leading-snug" onClick={() => setShowDetail(true)}>{snippet}</p>
             )}
-            <div className="mt-3 pt-2 border-t border-gray-100">
+            <div className="mt-3 pt-2 border-t border-gray-100 dark:border-gray-700">
               <ActionBar event={event} onCategoryFilter={onCategoryFilter} onShowDetail={() => setShowDetail(true)} colors={colors} />
             </div>
           </div>
