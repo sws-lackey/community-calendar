@@ -1,15 +1,21 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 import { useCollection } from '../hooks/useCollection.js';
+import { useCollections } from '../hooks/useCollections.js';
+import { useAuth } from '../hooks/useAuth.jsx';
 import { useColumnCount } from '../hooks/useColumnCount.js';
+import { FeedProvider } from '../hooks/useFeedContext.jsx';
 import { getMasonryColumns } from '../lib/helpers.js';
 import MasonryGrid from './MasonryGrid.jsx';
 import StyleSwitcher from './StyleSwitcher.jsx';
 
 export default function FeedView({ feedId }) {
-  const { collection, events, loading } = useCollection(feedId);
+  const { collection, events: rawEvents, loading } = useCollection(feedId);
+  const { user } = useAuth();
+  const { removeEventFromCollection } = useCollections();
   const rawColumnCount = useColumnCount();
 
   const [styleOverride, setStyleOverride] = useState(null);
+  const [removedIds, setRemovedIds] = useState(new Set());
   const cardStyle = styleOverride || collection?.card_style || 'accent';
 
   const oneColStyles = ['list'];
@@ -18,10 +24,23 @@ export default function FeedView({ feedId }) {
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
     : rawColumnCount;
 
+  const events = useMemo(
+    () => rawEvents.filter(ev => !removedIds.has(ev.id)),
+    [rawEvents, removedIds]
+  );
+
   const masonryColumns = useMemo(
     () => getMasonryColumns(events, columnCount),
     [events, columnCount]
   );
+
+  const isOwner = user && collection && user.id === collection.user_id;
+
+  const handleRemoveEvent = useCallback(async (event) => {
+    if (!collection) return;
+    await removeEventFromCollection(collection.id, event.id, event.source_uid);
+    setRemovedIds(prev => new Set(prev).add(event.id));
+  }, [collection, removeEventFromCollection]);
 
   if (loading) {
     return (
@@ -40,6 +59,23 @@ export default function FeedView({ feedId }) {
       </div>
     );
   }
+
+  const grid = (
+    <>
+      <StyleSwitcher value={cardStyle} onChange={setStyleOverride} />
+
+      {events.length === 0 ? (
+        <p className="text-center text-gray-400 py-12">This collection has no events yet.</p>
+      ) : (
+        <MasonryGrid
+          masonryColumns={masonryColumns}
+          filterTerm=""
+          onCategoryFilter={() => {}}
+          variant={cardStyle}
+        />
+      )}
+    </>
+  );
 
   return (
     <div className="flex justify-center w-full overflow-x-hidden bg-gray-50 min-h-screen">
@@ -62,17 +98,12 @@ export default function FeedView({ feedId }) {
           </p>
         </div>
 
-        <StyleSwitcher value={cardStyle} onChange={setStyleOverride} />
-
-        {events.length === 0 ? (
-          <p className="text-center text-gray-400 py-12">This collection has no events yet.</p>
+        {isOwner ? (
+          <FeedProvider collection={collection} onRemoveEvent={handleRemoveEvent}>
+            {grid}
+          </FeedProvider>
         ) : (
-          <MasonryGrid
-            masonryColumns={masonryColumns}
-            filterTerm=""
-            onCategoryFilter={() => {}}
-            variant={cardStyle}
-          />
+          grid
         )}
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { createPortal } from 'react-dom';
 import {
-  Info, CalendarPlus, Download, Bookmark, Pencil,
+  Info, CalendarPlus, Download, Bookmark, Pencil, X,
   Palette, BookOpen, Laugh, Users, Drama, GraduationCap, Baby,
   Film, UtensilsCrossed, Landmark, Heart, Clock, Music,
   TreePine, Church, Dumbbell, Calendar,
@@ -9,6 +9,7 @@ import {
 import { useAuth } from '../../hooks/useAuth.jsx';
 import { usePicks, useIsEventPicked } from '../../hooks/usePicks.jsx';
 import { useTargetCollection } from '../../hooks/useTargetCollection.jsx';
+import { useFeedContext } from '../../hooks/useFeedContext.jsx';
 import {
   formatDayOfWeek,
   formatMonthDay,
@@ -70,7 +71,11 @@ export function useEventCardData(event, filterTerm) {
 
 export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
   const { user } = useAuth();
+  const feedCtx = useFeedContext();
   const [showCatModal, setShowCatModal] = React.useState(false);
+
+  const isAutoFeed = feedCtx?.collection?.type === 'auto';
+  const removeTitle = isAutoFeed ? 'Exclude from collection' : 'Remove from collection';
 
   return (
     <div className="flex items-center gap-2">
@@ -103,6 +108,15 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
         />
       )}
       <div className="flex-1" />
+      {feedCtx?.onRemoveEvent && (
+        <button
+          onClick={() => feedCtx.onRemoveEvent(event)}
+          className="text-gray-300 hover:text-red-400 transition-colors"
+          title={removeTitle}
+        >
+          <X size={16} />
+        </button>
+      )}
       <BookmarkButton event={event} />
       {(event.description || event.image_url) && (
         <button
