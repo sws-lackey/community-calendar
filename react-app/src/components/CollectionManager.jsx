@@ -193,7 +193,11 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
           <div className="border border-gray-200 rounded-lg p-3 space-y-3 bg-gray-50">
             {/* Sources */}
             <div>
-              <p className="text-xs font-medium text-gray-600 mb-1">Sources</p>
+              <div className="flex items-center gap-2 mb-1">
+                <p className="text-xs font-medium text-gray-600">Sources</p>
+                <button onClick={() => setSelectedSources([...availableSources])} className="text-[10px] text-gray-400 hover:text-gray-600">All</button>
+                <button onClick={() => setSelectedSources([])} className="text-[10px] text-gray-400 hover:text-gray-600">None</button>
+              </div>
               {availableSources.length === 0 ? (
                 <p className="text-xs text-gray-400">Loading sources…</p>
               ) : (
@@ -215,7 +219,11 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
 
             {/* Categories */}
             <div>
-              <p className="text-xs font-medium text-gray-600 mb-1">Categories</p>
+              <div className="flex items-center gap-2 mb-1">
+                <p className="text-xs font-medium text-gray-600">Categories</p>
+                <button onClick={() => setSelectedCategories([...categoryList])} className="text-[10px] text-gray-400 hover:text-gray-600">All</button>
+                <button onClick={() => setSelectedCategories([])} className="text-[10px] text-gray-400 hover:text-gray-600">None</button>
+              </div>
               <div className="flex flex-wrap gap-1.5">
                 {categoryList.map(c => (
                   <label key={c} className="flex items-center gap-1 text-xs text-gray-700 cursor-pointer">
