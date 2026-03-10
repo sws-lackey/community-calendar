@@ -84,6 +84,17 @@ export function formatMonthDay(isoString) {
   return new Date(isoString).toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
 }
 
+// Return separate month/day/weekday parts for date chip rendering
+export function formatDateParts(isoString) {
+  if (!isoString) return { month: '', day: '', weekday: '' };
+  const d = new Date(isoString);
+  return {
+    month: d.toLocaleDateString('en-US', { month: 'short', timeZone: 'UTC' }).toUpperCase(),
+    day: String(d.getUTCDate()),
+    weekday: d.toLocaleDateString('en-US', { weekday: 'short', timeZone: 'UTC' }),
+  };
+}
+
 export function formatTime(isoString) {
   if (!isoString) return '';
   const d = new Date(isoString);

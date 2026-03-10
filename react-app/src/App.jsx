@@ -2,6 +2,7 @@ import React, { useState, useCallback, useMemo } from 'react';
 import CityPicker from './components/CityPicker.jsx';
 import Header from './components/Header.jsx';
 import SearchBar from './components/SearchBar.jsx';
+import StyleSwitcher from './components/StyleSwitcher.jsx';
 import MasonryGrid from './components/MasonryGrid.jsx';
 import { useEvents } from './hooks/useEvents.js';
 import { useEnrichments } from './hooks/useEnrichments.js';
@@ -20,10 +21,13 @@ function App() {
   const [filterTerm, setFilterTerm] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('');
   const [displayCount, setDisplayCount] = useState(50);
+  const [cardStyle, setCardStyle] = useState('accent');
 
   const { events, loading } = useEvents(city);
   const enrichments = useEnrichments(city);
-  const columnCount = useColumnCount();
+  const rawColumnCount = useColumnCount();
+  const twoColStyles = ['compact', 'split', 'splitimage'];
+  const columnCount = twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2) : rawColumnCount;
 
   const { processedEvents, cardEvents, hasMore, masonryColumns } = useProcessedEvents(
     events,
@@ -83,6 +87,7 @@ function App() {
           activeCategories={activeCategories}
           onClearAll={handleClearAll}
         />
+        <StyleSwitcher value={cardStyle} onChange={setCardStyle} />
 
         {loading && (
           <div className="flex justify-center py-12">
@@ -96,6 +101,7 @@ function App() {
               masonryColumns={masonryColumns}
               filterTerm={filterTerm}
               onCategoryFilter={handleCategoryFilter}
+              variant={cardStyle}
             />
 
             {hasMore && !filterTerm && (
