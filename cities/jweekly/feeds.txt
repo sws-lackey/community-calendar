@@ -31,6 +31,8 @@ https://www.urbanadamah.org/events/?ical=1
 https://www.kehillasynagogue.org/events/?ical=1
 https://magnes.berkeley.edu/events/?ical=1
 https://www.tbaoakland.org/happenings/?ical=1
+https://adamah.org/events/?ical=1
+https://jvs.org/events/?ical=1
 
 # Google Calendar
 https://calendar.google.com/calendar/ical/bethsholomsf%40gmail.com/public/basic.ics

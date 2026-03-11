@@ -804,6 +804,9 @@ jobs:
         curl -sL "https://calendar.google.com/calendar/ical/ptbepublic%40gmail.com/public/basic.ics" -o ptbe_worship.ics || true
         curl -sL "https://calendar.google.com/calendar/ical/s2l7r73tbre0l6qm0m2562op78%40group.calendar.google.com/public/basic.ics" -o ptbe_education.ics || true
         curl -sL "https://calendar.google.com/calendar/ical/38p21cqhdqhliae6im7lms4has%40group.calendar.google.com/public/basic.ics" -o ptbe_community.ics || true
+        # Additional orgs
+        curl -sL -A "Mozilla/5.0" "https://adamah.org/events/?ical=1" -o adamah.ics || true
+        curl -sL -A "Mozilla/5.0" "https://jvs.org/events/?ical=1" -o jvs.ics || true
         # Meetup groups
         curl -sL -A "Mozilla/5.0" "https://www.meetup.com/bayareajews/events/ical/" -o meetup_bayareajews.ics || true
         curl -sL -A "Mozilla/5.0" "https://www.meetup.com/Bay-Area-Jewish-Singles-Havurah/events/ical/" -o meetup_jewish_singles.ics || true
