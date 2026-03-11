@@ -27,6 +27,7 @@
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
 | Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
 | Northwestern Men's Basketball | `https://calendar.google.com/calendar/ical/jsngbk0i8va6uorpk6v7jjltfccp94eg%40import.calendar.google.com/public/basic.ics` | Google Calendar sync from SideArm Sports; 35 events |
+| Northwestern Baseball | `https://calendar.google.com/calendar/ical/ho3mvmg665805gfalfr2orsajd95d97n%40import.calendar.google.com/public/basic.ics` | Google Calendar sync; 56 events |
 
 ### Meetup Groups
 | Source | Feed URL | Notes |
