@@ -8,6 +8,7 @@ https://www.northshorecenter.org/events/?ical=1
 https://evanstonhistorycenter.org/calendar-of-events/?ical=1
 https://www.skokielibrary.info/events/feed/ical
 https://www.mgpl.org/events/feed/ical
+https://www.lincolnwoodlibrary.org/events/feed/ical
 
 # Live feed
 https://events.oakton.edu/calendar/1.ics

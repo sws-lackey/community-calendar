@@ -833,6 +833,7 @@ jobs:
         # Libraries
         curl -sL -A "Mozilla/5.0" "https://www.skokielibrary.info/events/feed/ical" -o skokie_library.ics || true
         curl -sL -A "Mozilla/5.0" "https://www.mgpl.org/events/feed/ical" -o morton_grove_library.ics || true
+        curl -sL -A "Mozilla/5.0" "https://www.lincolnwoodlibrary.org/events/feed/ical" -o lincolnwood_library.ics || true
         # Education
         curl -sL -A "Mozilla/5.0" "https://events.oakton.edu/calendar/1.ics" -o oakton_college.ics || true
         # Meetup groups

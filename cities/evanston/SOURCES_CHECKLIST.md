@@ -11,6 +11,7 @@
 | Evanston History Center | `https://evanstonhistorycenter.org/calendar-of-events/?ical=1` | WordPress + The Events Calendar |
 | Skokie Public Library | `https://www.skokielibrary.info/events/feed/ical` | Drupal + Sabre VObject; library events |
 | Morton Grove Public Library | `https://www.mgpl.org/events/feed/ical` | Sabre VObject; library events |
+| Lincolnwood Public Library | `https://www.lincolnwoodlibrary.org/events/feed/ical` | Sabre VObject; library events |
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
 
 ### Meetup Groups
@@ -46,13 +47,13 @@
 | Wilmette Public Library | Communico platform with ICS/RSS disabled |
 | Writers Theatre | Custom CMS + proprietary ticketing (my.writerstheatre.org) |
 | Music Theater Works | Custom site, no feeds or calendar |
+| Glenview Public Library | BiblioCommons, no ICS feed |
+| Niles-Maine District Library | Communico with RSS/ICS disabled |
+| Evanston Folk Festival | Single annual event, no calendar feed |
 
 ## To Investigate
 
 - [ ] Evanston Public Library via BiblioCommons API or RSS
-- [ ] Glenview Public Library
-- [ ] Lincolnwood Public Library
-- [ ] Evanston Folk Festival
 - [ ] Northwestern athletics (nuwildcats.com was ECONNREFUSED)
 - [ ] Beth Emet Synagogue
 - [ ] More Meetup groups in the area
