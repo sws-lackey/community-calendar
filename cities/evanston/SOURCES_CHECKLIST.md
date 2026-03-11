@@ -84,16 +84,16 @@
 |--------|--------|
 | Evanston Public Library | BiblioCommons platform, no ICS/RSS feed |
 | Northwestern Bienen School of Music | No feed export visible |
-| Block Museum (Northwestern) | Calendar page 404; now via Eventbrite |
+
 | Illinois Holocaust Museum (Skokie) | WordPress but no ICS feed at ?ical=1 |
 | Evanston Art Center | Drupal, no feeds |
 | Glenview Park District | Individual ICS download only, no feed |
 | Skokie Park District | Custom system, no feeds |
-| SPACE Evanston (website) | Squarespace + See Tickets widget; now covered via Ticketmaster venue KovZpakJQe |
+
 | Temperance Beer | 401 Unauthorized |
 | Sketchbook Brewing | No events page found |
 | McGaw YMCA | No feed visible |
-| Downtown Evanston | Custom site, no feeds; now via Eventbrite |
+
 | Evanston RoundTable | Embedded calendar, no ICS at ?ical=1 |
 | Wilmette Village | Redirects, 404 |
 | Evanston Art Center Eventbrite | Organizer page 404 |
@@ -102,7 +102,7 @@
 | Music Theater Works | Custom site, no feeds |
 | Glenview Public Library | BiblioCommons, no ICS feed |
 | Niles-Maine District Library | Communico with RSS/ICS disabled |
-| Evanston Folk Festival | Single annual event; now covered via Ticketmaster promoter 6085 |
+
 | Glencoe Public Library | 404 |
 | Double Clutch Brewing | Wix, no events page |
 
