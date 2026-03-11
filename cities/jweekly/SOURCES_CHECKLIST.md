@@ -3,9 +3,6 @@
 This calendar aggregates events from Jewish organizations across the San Francisco Bay Area / Northern California, sourced from the [J. Weekly Jewish Resource Guide](https://jweekly.com/jewishresourceguide/).
 
 ## Currently Implemented
-(none yet)
-
-## Discovered - Ready to Add
 
 ### ICS Feeds (The Events Calendar / WordPress)
 | Source | Feed URL | Events | Notes |
@@ -23,12 +20,7 @@ This calendar aggregates events from Jewish organizations across the San Francis
 ### Google Calendar Feeds
 | Source | Feed URL | Events | Notes |
 |--------|----------|--------|-------|
-| Congregation Beth Sholom SF | `https://calendar.google.com/calendar/ical/bethsholomsf%40gmail.com/public/basic.ics` | 7172 | Very large - includes recurring services, will need geo-filtering review |
-
-### Hebcal (Jewish Holiday Calendar)
-| Source | Feed URL | Events | Notes |
-|--------|----------|--------|-------|
-| Hebcal SF | `https://www.hebcal.com/hebcal/?v=1&geo=geoname&geonameid=5391959&m=50&cfg=ics&year=now&maj=on&min=on&mod=on&nx=on&ss=on&mf=on&c=on&s=on` | 270 | Jewish holidays, candle lighting times, Torah readings - consider as overlay |
+| Congregation Beth Sholom SF | `https://calendar.google.com/calendar/ical/bethsholomsf%40gmail.com/public/basic.ics` | 7172 | Very large - includes recurring services, will need review |
 
 ### Meetup Groups
 | Source | Feed URL | Events | Notes |
