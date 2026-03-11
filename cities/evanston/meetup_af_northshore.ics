@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Alliance Française du North Shore
+X-WR-CALNAME:Alliance Française du North Shore
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_308627452@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260312T133000
+DTEND;TZID=America/Chicago:20260312T153000
+SUMMARY:Ciné Club
+DESCRIPTION:Alliance Française du North Shore\nJoin a group of *cinéphiles* online for a discussion in French of a French film with English subtitles.\nThe choice for this month is *Diva*. You'll watch the film on your own: view it for free on [Kanopy](https://www.kanopy.com/en/). For more details\, write to cine-club@AFnorthshore.org.\n**Diva (1981)**\n**Un film de Jean-Jacques Beine**ix\nJules. Frédéric Andrei\nCynthia Hawkins. Wilhelmina Fernandez\nAlba. They An Lu\nJean Saporta. Jacques Fabbri\nLe curé Dominique Piñon\nL’antillais Gérard Darmon\nQuestions to kick off our discussion:\n1.) La musique que chante Cynthia Hawkins est une aria de ‘La Wally’\, un opéra d'Alfredo Catalani (1892). L’opéra est rarement joué à l’exception de cet aria. Que pensez-vous de cette musique? Dans l’article ci-joint\, l’auteur affirme qu'on ressent la musique différemment chaque fois qu’on l'entend. Êtes-vous d’accord?\n\n2\\. A mon avis\\\, le style du film est plus ‘punk’ que ‘classique’ \\(les personnages\\\, les vêtements\\\, la mise en scène\\)\\. Pourquoi ont\\-ils choisi que la musique préférée de Jules est l’opéra?\n\n3\\. Le film montre de nombreux sites célèbres à Paris\\. Quels sites avez\\-vous reconnus?\n\n4\\. Plusieurs des emplacements utilisés étaient en ruines \\(comme l’appartement de Jules\\\, le Théâtre du Châtelet\\)\\. Pourquoi?\n\n5\\. La poursuite dans le métro est très célèbre\\. Qu’en pensez\\-vous?\n\n6\\. Pourquoi Cynthia ne voulait\\-t\\-elle pas enregistrer sa musique?\n\n7\\. Que pensez\\-vous du personnage d'Alba?\n\n8\\. Diva est classifiée comme faisant partie du "cinéma du look’" un mouvement des années 1980 avec ces caractéristiques:\\-\n\nA. La prédominance du spectacle visuel comparée à la substance narrative\nB. Les personnages sont de jeunes marginaux\nC. Le métro est souvent présent comme symbole d’une société alternative\nD. Les cultures pop d’une part et plus élitistes d’autre part sont mélangées\n\nÊtes vous d'accord avec cette classification pour Diva? Avez-vous trouvé une scène particulèrement mémorable? Laquelle? Pourquoi?\n\n9\\. Recommanderiez\\-vous ce film à vos amis?\n\nhtt*ps://operawire.com/opera-meets-film-how-la-wallys-most-famous-aria-expresses-vast-array-of-emotions-throughout-diva/*\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/) or [contact us](https://afnorthshore.org/contact-us). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/308627452/
+STATUS:CONFIRMED
+CREATED:20250624T132229Z
+LAST-MODIFIED:20250624T132229Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/5/6/d/600_513822349.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_312930678@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260316T130000
+DTEND;TZID=America/Chicago:20260316T143000
+SUMMARY:The Dark Side of the Eiffel Tower
+DESCRIPTION:Alliance Française du North Shore\nHolly Clayson will explore little-known\, forgotten and erased aspects of the Eiffel Tower's identity when it first arose in the French capital in 1889. The tallest structure on Earth\, it was the centerpiece of that year's Exposition Universelle. She will discuss the Tower's use of profuse iron ornament and illumination as surveillance alongside a consideration of its function as the emblem par excellence of Republican Imperialism. She will also discuss the imagery of the Tower in the visual arts.\n\nS. Hollis “Holly” Clayson was Professor of Art History at Northwestern University for 35 years and retired in 2020 as Professor Emerita of Art History and Bergen Evans Professor Emerita in the Humanities.\n\n**Program Registration for Members of the AF DuPage: Free**\nIf you're a member of the AF DuPage and are attending a monthly program for the first time\, please RSVP to programmes@AFnorthshore.org with “DuPage” in the subject line. Include your name and Zoom screen name\, if different. If you're a member of our Meetup group\, we'll mark you as such and you'll no longer need to send RSVP emails as long as you RSVP on Meetup.\nIf you're not a member of the AFduNS Meetup group\, you'll need to send an email RSVP for each monthly program.\n\n**Program Registration for Nonmembers: $10**\nIf you're not a member of the AFduNS or the AF DuPage\, the cost of attending this program is $10. [Click here](https://forms.gle/f89WGYhPkj867tYi8) to register and pay online with PayPal by 8 PM the day before the program. There will be no refunds or credits.\n\nWe appreciate reservations by 8 PM the day before the program. Walk-ins may pay at the door on their mobile device.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/312930678/
+STATUS:CONFIRMED
+CREATED:20260117T171901Z
+LAST-MODIFIED:20260117T171901Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/7/6/a/600_532290570.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313509334@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260319T130000
+DTEND;TZID=America/Chicago:20260319T140000
+SUMMARY:Café Conversation Après-midi
+DESCRIPTION:Alliance Française du North Shore\nJoin fellow Francophones for relaxed\, afternoon conversations in French on third Thursdays. All fluency levels are welcome.\n\nFor further information\, visit [AFnorthshore.org](https://afnorthshore.org/) or contact cafe-apresmidi@AFnorthshore.org.\n\n**Membership in the AFduNS**\n\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313509334/
+STATUS:CONFIRMED
+CREATED:20260224T183443Z
+LAST-MODIFIED:20260224T183443Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/6/e/5/600_524002245.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313077527@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260323T190000
+DTEND;TZID=America/Chicago:20260323T200000
+SUMMARY:Online Apéro Conversation
+DESCRIPTION:Alliance Française du North Shore\nMeet fellow Francophones for evening conversation. This gathering is facilitated by one or more of our native or fluent AFduNS leaders.\n\nPour yourself a glass of wine\, gather some snacks and settle in at home for our online conversation group.\n\nThe meeting will be held on Zoom. Although you don't need to download Zoom to attend this meeting\, we encourage you to do so (https://zoom.us/download) for a smoother experience. Depending on the number of attendees\, we may break out into smaller groups.\n\nThe link to the meeting will be visible when you RSVP. The meeting ID is 859 8255 4800.\n\nAll fluency levels are welcome. RSVPs help us plan.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313077527/
+STATUS:CONFIRMED
+CREATED:20260127T093527Z
+LAST-MODIFIED:20260127T093527Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/a/4/4/600_480743108.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313039549@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260326T190000
+DTEND;TZID=America/Chicago:20260326T203000
+SUMMARY:Apéro Conversation
+DESCRIPTION:Alliance Française du North Shore\nCan't make it to the daytime café conversations? Then join us for coffee and/or wine at [Oak at The Glen](https://www.oakattheglen.com/). Appetizers are also available.\n\nAll fluency levels are welcome.\n\nFor further information\, visit www.AFnorthshore.org.\n\n**Membership in the AFduNS**\n\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313039549/
+STATUS:CONFIRMED
+CREATED:20260124T200632Z
+LAST-MODIFIED:20260124T200632Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/8/7/c/600_528450844.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313518016@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260406T100000
+DTEND;TZID=America/Chicago:20260406T110000
+SUMMARY:Café Conversation Matin
+DESCRIPTION:Alliance Française du North Shore\nJoin fellow Francophones for relaxed\, mid-morning conversations in French on first Mondays\, facilitated by one or more of our native or fluent AFduNS leaders.\n\nAll fluency levels are welcome.\n\nFor further info\, visit [afnorthshore.org](https://afnorthshore.org) or contact cafe-matin@AFnorthshore.org.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313518016/
+STATUS:CONFIRMED
+CREATED:20260225T042038Z
+LAST-MODIFIED:20260225T042038Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/c/1/1/600_480764049.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_308627471@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260409T133000
+DTEND;TZID=America/Chicago:20260409T153000
+SUMMARY:Ciné Club
+DESCRIPTION:Alliance Française du North Shore\nJoin a group of *cinéphiles* online for a discussion in French of a French film with English subtitles.\n\nThe choice for this month is *Jules et Jim*. You'll watch the film on your own: view it for free on [Kanopy](https://www.kanopy.com/en/). For more details\, write to cine-club@AFnorthshore.org.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/) or [contact us](https://afnorthshore.org/contact-us). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/308627471/
+STATUS:CONFIRMED
+CREATED:20250624T132346Z
+LAST-MODIFIED:20250624T132346Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/5/6/d/600_513822349.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313518017@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260416T130000
+DTEND;TZID=America/Chicago:20260416T140000
+SUMMARY:Café Conversation Après-midi
+DESCRIPTION:Alliance Française du North Shore\nJoin fellow Francophones for relaxed\, afternoon conversations in French on third Thursdays. All fluency levels are welcome.\n\nFor further information\, visit [AFnorthshore.org](https://afnorthshore.org/) or contact cafe-apresmidi@AFnorthshore.org.\n\n**Membership in the AFduNS**\n\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313518017/
+STATUS:CONFIRMED
+CREATED:20260225T042041Z
+LAST-MODIFIED:20260225T042041Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/6/e/5/600_524002245.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_312272027@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260420T130000
+DTEND;TZID=America/Chicago:20260420T143000
+SUMMARY:Annual Meeting and Program: Songs for Spring
+DESCRIPTION:Alliance Française du North Shore\n**Annual Meeting for Alliance Française Members**\nRequired by Alliance Française du North Shore bylaws\, this short members' meeting will convene at approximately 2:15 PM\, immediately following the monthly program. This meeting will include approval of the proposed 2026-2027 budget and the election of members of the board of directors. Members of the AFduNS as of April 1 are eligible to vote in the election and on other matters.\n\nIf you're unable to attend the annual meeting\, please complete this proxy ballot (link to come) **by 10 AM on Monday\, April 20**.\n\n**Program**\nSinger and guitarist Kevin Soucie returns to share his extensive repertoire\, including songs by Jacques Brel\, Édith Piaf\, Charles Trenet\, Francis Cabrel\, Charles Aznavour and many others. This intimate performance will transport you to the cafés of Paris with timeless melodies. [Click here for the program selections.](https://storage.googleapis.com/production-ipage-v1-0-0/830/1512830/9C8FaW1X/5b3eb831f2be4f27a020c51e7e705663?fileName=Music%20Program%202026.pdf) You won’t be able to help but sing along.\n\nKevin Soucie travels the country performing timeless\, popular and contemporary French songs for francophone audiences. A native of Milwaukee\, Soucie was a student in Québec and in Europe\, and also served as a Peace Corps volunteer in Senegal. Hearing French and Québecois songs along the way\, Soucie was inspired to sing and play *chansons* with his guitar—a hobby that became a passion.\n\n**Program Registration for Members of the AF DuPage: Free**\nIf you're a member of the AF DuPage and are attending a monthly program for the first time\, please RSVP to programmes@AFnorthshore.org with “DuPage” in the subject line. Include your name and Zoom screen name\, if different. If you're a member of our Meetup group\, we'll mark you as such and you'll no longer need to send RSVP emails as long as you RSVP on Meetup.\nIf you're not a member of the AFduNS Meetup group\, you'll need to send an email RSVP for each monthly program.\n\n**Program Registration for Nonmembers: $10**\nIf you're not a member of the AFduNS or the AF DuPage\, the cost of attending this program is $10. [Click here](https://forms.gle/f89WGYhPkj867tYi8) to register and pay online with PayPal by 8 PM the day before the program. There will be no refunds or credits.\n\nWe appreciate reservations by 8 PM the day before the program. Walk-ins may pay at the door on their mobile device.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/312272027/
+STATUS:CONFIRMED
+CREATED:20251202T225828Z
+LAST-MODIFIED:20251202T225828Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/b/c/a/600_531592170.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313513417@meetup.com
+SEQUENCE:1
+DTSTAMP:20260311T170250Z
+DTSTART;TZID=America/Chicago:20260423T190000
+DTEND;TZID=America/Chicago:20260423T203000
+SUMMARY:Apéro Conversation
+DESCRIPTION:Alliance Française du North Shore\nCan't make it to the daytime café conversations? Then join us for coffee and/or wine at [Oak at The Glen](https://www.oakattheglen.com/). Appetizers are also available.\n\nAll fluency levels are welcome.\n\nFor further information\, visit www.AFnorthshore.org.\n\n**Membership in the AFduNS**\n\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313513417/
+STATUS:CONFIRMED
+CREATED:20260224T224659Z
+LAST-MODIFIED:20260224T224659Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/8/7/c/600_528450844.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/afnorthshore/events/ical/
+X-WR-CALNAME:Alliance Française du North Shore
+END:VCALENDAR

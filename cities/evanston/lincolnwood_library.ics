@@ -1,0 +1,3207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sabre//Sabre VObject 4.5.8//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:33058
+DTSTAMP:20260311T170245Z
+SUMMARY:Academy Award Contest
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/academy-award-contes
+ t-33058
+STATUS:CONFIRMED
+CREATED:20251222T170717Z
+LAST-MODIFIED:20251230T171030Z
+DESCRIPTION:Calling all movie lovers! Starting on Sunday\, February 22 look
+  for Academy Award Contest entry forms at the Adult Services Desk. Check o
+ ff your predictions from this year’s Oscar-nominated films. The entry wi
+ th the most correct answers will be eligible to win a $50 AMC gift card. I
+ n the event of a tie\, prize will be awarded by means of a random drawing.
+ One entry per person. Entries will be accepted at the Adult Services Desk 
+ until 5:00 PM on Sunday\, March 15th. The winner will be notified when the
+  prize is available to pick up. Good luck!
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260222T060000Z
+DTEND:20260315T050000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33661
+DTSTAMP:20260311T170245Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-33661
+STATUS:CONFIRMED
+CREATED:20260115T150317Z
+LAST-MODIFIED:20260116T004535Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260311T160000Z
+DTEND:20260311T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33279
+DTSTAMP:20260311T170245Z
+SUMMARY:STEAM: Exploration Station: Makey\, Makey\, Dance\, Dance Revolutio
+ n! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/steam-exploration-st
+ ation-makey-makey-dance-dance-revolution-33279
+STATUS:CONFIRMED
+CREATED:20251230T201847Z
+LAST-MODIFIED:20260223T173334Z
+DESCRIPTION:Using circuitry and coding\, create your own Dance\, Dance Revo
+ lution board\; then\, show us your best dance moves!Grades K-5.
+CATEGORIES:STEAM
+DTSTART:20260311T213000Z
+DTEND:20260311T221500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33665
+DTSTAMP:20260311T170245Z
+SUMMARY:Flower Arranging Workshop (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/flower-arranging-wor
+ kshop-c-33665
+STATUS:CONFIRMED
+CREATED:20260115T150701Z
+LAST-MODIFIED:20260116T004647Z
+DESCRIPTION:Enjoy a hands-on flower arranging workshop led by Jessica from 
+ Anemone Floral. Discover simple design techniques\, explore seasonal bloom
+ s\, and bring home a stunning arrangement you create yourself.This event i
+ s for Lincolnwood Library cardholders.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260311T233000Z
+DTEND:20260312T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33243
+DTSTAMP:20260311T170245Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-33243
+STATUS:CONFIRMED
+CREATED:20251230T162538Z
+LAST-MODIFIED:20260116T152623Z
+DESCRIPTION:This active story time features stories\, musical movement and 
+ games for 18 to 36 month olds with a caregiver. Join us on 3/19 for a spe
+ cial Fire woman storytime featuring the Lincolnwood Fire Department!
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260312T150000Z
+DTEND:20260312T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34820
+DTSTAMP:20260311T170245Z
+SUMMARY:Pajama Storytime (D)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/pajama-storytime-348
+ 20
+STATUS:CONFIRMED
+CREATED:20260220T190330Z
+LAST-MODIFIED:20260223T170001Z
+DESCRIPTION:Wind down and get cozy with some bedtime stories. Feel free to 
+ wear your pajamas and bring your favorite stuffed animal!Ages 0-5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260312T231500Z
+DTEND:20260312T234500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33929
+DTSTAMP:20260311T170245Z
+SUMMARY:Chair Yoga at Home with Joan [Z]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/chair-yoga-home-joan
+ -z-33929
+STATUS:CONFIRMED
+CREATED:20260122T195227Z
+LAST-MODIFIED:20260122T195227Z
+DESCRIPTION:Join us online for a relaxing chair yoga session led by certifi
+ ed yoga instructor Joan McGee. From the comfort of home\, you’ll practic
+ e simple seated poses that support wellness\, balance\, and peace of mind.
+  Perfect for all levels—no special equipment needed.This program will ta
+ ke place on Zoom.Register Here!
+CATEGORIES:Health & Wellness
+DTSTART:20260312T233000Z
+DTEND:20260313T003000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:33235
+DTSTAMP:20260311T170245Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-33
+ 235
+STATUS:CONFIRMED
+CREATED:20251230T162034Z
+LAST-MODIFIED:20260224T170550Z
+DESCRIPTION:Bring your little ones to this fun\, weekly playgroup and conne
+ ct with other caregivers. We provide toys and coffee for your enjoyment. A
+ nd on 2/20 and 3/20\, come first for yoga led by Keyla Ortiz\, certified y
+ oga instructor\, and stay to play after.Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260313T150000Z
+DTEND:20260313T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33629
+DTSTAMP:20260311T170245Z
+SUMMARY:Lincolnwood Reads: Evening Social (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lincolnwood-reads-ev
+ ening-social-c-33629
+STATUS:CONFIRMED
+CREATED:20260114T021839Z
+LAST-MODIFIED:20260311T151345Z
+DESCRIPTION:You’re invited to an evening of conversation and mingling in 
+ celebration of the Lincolnwood Reads 2026 selection\, How to Read a Book
+  by Monica Wood. This is a book for book lovers\, so whether you’ve fin
+ ished it\, still have it on your to-read list\, or have been busy reading 
+ other things--join us!We’ll have live music played by local celebrated h
+ arpist Nichole Young. Guests can also enjoy small bites\, mocktails\, and 
+ alcoholic beverages including beer and wine. Registration is required and
+  limited to Lincolnwood residents\, who may add up to two guests (non-resi
+ dent guests welcome) to their registration. All attendees must be 21 or ol
+ der and provide a valid ID before entering the event. Doors open at 6pm.
+CATEGORIES:Book Discussions,Special Events,Fun & Games
+DTSTART:20260313T230000Z
+DTEND:20260314T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Library Plaza
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33261
+DTSTAMP:20260311T170245Z
+SUMMARY:Lego Robotics Club First LEGO League
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lego-robotics-club-f
+ irst-lego-league-33261
+STATUS:CONFIRMED
+CREATED:20251230T172037Z
+LAST-MODIFIED:20260202T193948Z
+DESCRIPTION:First LEGO League team members meet for their final sessions fo
+ r the season! February 4th and the Festival on March 15th. (Registration f
+ or the LEGO team closed in August of 2025. Look next August for registrati
+ on for next year's team!)Ages 6 - 10.
+CATEGORIES:STEAM,Technology
+DTSTART:20260315T173000Z
+DTEND:20260315T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:33218
+DTSTAMP:20260311T170245Z
+SUMMARY:The Little Dancer: A Reimagining of Le Petit Prince (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/little-dancer-reimag
+ ining-le-petit-prince-33218
+STATUS:CONFIRMED
+CREATED:20251230T154408Z
+LAST-MODIFIED:20260223T174106Z
+DESCRIPTION:Ede2 celebrates its 15th Anniversary with an original dance pro
+ duction “The Little Dancer: A Reimagining of Le Petit Prince” written
+  by Antoine de Saint-Exupéry. The out-of-this-world production will foll
+ ow the story of a pilot marooned in the desert when they meet the mysterio
+ us stranger who traveled to Earth from a far away asteroid in search of th
+ e meaning of connection and friendship. This family-friendly show features
+  an eccentric cast of characters who populate various planets\, such as sp
+ ace royalty\, a talking rose and a friendly fox\, who all teach The Littl
+ e Dancer unique lessons on becoming a good person and how to care for othe
+ rs.All ages are welcome to attend. Children must be accompanied by a careg
+ iver.
+CATEGORIES:History & Culture,Special Events
+DTSTART:20260315T200000Z
+DTEND:20260315T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33103
+DTSTAMP:20260311T170245Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-33103
+STATUS:CONFIRMED
+CREATED:20251226T183350Z
+LAST-MODIFIED:20260224T165948Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets and more! Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260316T143000Z
+DTEND:20260316T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33659
+DTSTAMP:20260311T170245Z
+SUMMARY:Books in the Woods (R) (Hybrid)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/books-woods-r-hybrid
+ -33659
+STATUS:CONFIRMED
+CREATED:20260115T150147Z
+LAST-MODIFIED:20260116T004436Z
+DESCRIPTION:This month we will be reading Spoon River Anthology by Edgar 
+ Lee Masters.This unique classic of narrative poetry is a connecting thread
+  throughout How to Read a Book\, standing out as the characters' favorite
+  book club pick. We'll read it for ourselves and discuss why it plays such
+  a big role in our Lincolnwood Reads novel. Registration required to rece
+ ive Zoom information.
+CATEGORIES:Book Discussions
+DTSTART:20260317T000000Z
+DTEND:20260317T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33112
+DTSTAMP:20260311T170245Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-331
+ 12
+STATUS:CONFIRMED
+CREATED:20251226T183736Z
+LAST-MODIFIED:20260224T170442Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260317T150000Z
+DTEND:20260317T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34124
+DTSTAMP:20260311T170245Z
+SUMMARY:Lincolnwood Reads: Author Talk with Monica Wood Viewing Party (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lincolnwood-reads-au
+ thor-talk-monica-wood-viewing-party-r-34124
+STATUS:CONFIRMED
+CREATED:20260128T223058Z
+LAST-MODIFIED:20260128T224625Z
+DESCRIPTION:Join fellow readers at the library for a viewing party featurin
+ g a virtual author talk with Monica Wood\, author of How to Read a Book. W
+ e will watch the Zoom interview together and reflect on this year’s Linc
+ olnwood Reads title and its themes of redemption and second chances. Audie
+ nce members may submit questions during the Q&A segment of the program. Pl
+ ease note that this is a virtual appearance\, and the author will not be p
+ resent at the library.If you would like to watch the Zoom interview from t
+ he comfort of your own home\, register for the Zoom webinar here.
+CATEGORIES:Book Discussions,Special Events
+DTSTART:20260318T000000Z
+DTEND:20260318T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33630
+DTSTAMP:20260311T170245Z
+SUMMARY:Lincolnwood Reads: Author Talk with Monica Wood [Zoom]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lincolnwood-reads-au
+ thor-talk-monica-wood-z-33630
+STATUS:CONFIRMED
+CREATED:20260114T022219Z
+LAST-MODIFIED:20260128T222852Z
+DESCRIPTION:Meet Monica Wood–author of How to Read a Book–from the com
+ fort of your own home! Join us on Zoom for an engaging discussion about th
+ is year’s Lincolnwood Reads pick\, exploring its heartfelt themes of red
+ emption and second chances. Don’t miss this opportunity to hear from the
+  author and join the community conversation. Register Here!
+CATEGORIES:Book Discussions,Special Events
+DTSTART:20260318T000000Z
+DTEND:20260318T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:33253
+DTSTAMP:20260311T170245Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-33
+ 253
+STATUS:CONFIRMED
+CREATED:20251230T163003Z
+LAST-MODIFIED:20251230T163003Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260318T143000Z
+DTEND:20260318T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33662
+DTSTAMP:20260311T170245Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-33662
+STATUS:CONFIRMED
+CREATED:20260115T150317Z
+LAST-MODIFIED:20260116T004542Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260318T160000Z
+DTEND:20260318T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33666
+DTSTAMP:20260311T170245Z
+SUMMARY:Coptic Stitch Book Binding Journal (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/coptic-stitch-book-b
+ inding-c-33666
+STATUS:CONFIRMED
+CREATED:20260115T150909Z
+LAST-MODIFIED:20260202T153147Z
+DESCRIPTION:Join us for a Coptic stitch bookbinding workshop inspired by H
+ ow to Read a Book. Led by Jamie Thome of the Evanston Art Center\, this se
+ ssion will teach you how to craft a beautifully bound journal—an ideal c
+ ompanion for your reading journey and a celebration of the book as an art 
+ form. This workshop is generously sponsored by Evanston Art Center.This e
+ vent is for Lincolnwood Library cardholders.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260318T230000Z
+DTEND:20260319T013000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33322
+DTSTAMP:20260311T170245Z
+SUMMARY:Kids Creatives: Finger Knit Bookmarks
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/kids-creatives-finge
+ r-knit-bookmarks-33322
+STATUS:CONFIRMED
+CREATED:20260103T172417Z
+LAST-MODIFIED:20260103T214041Z
+DESCRIPTION:Join us for upper elementary focused arts and crafts each month
+ . In March\, celebrate National Reading month with a DIY finger knit bookm
+ ark!Grades 3-5
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260318T233000Z
+DTEND:20260319T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33244
+DTSTAMP:20260311T170245Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-33244
+STATUS:CONFIRMED
+CREATED:20251230T162538Z
+LAST-MODIFIED:20260116T152623Z
+DESCRIPTION:This active story time features stories\, musical movement and 
+ games for 18 to 36 month olds with a caregiver. Join us on 3/19 for a spe
+ cial Fire woman storytime featuring the Lincolnwood Fire Department!
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260319T150000Z
+DTEND:20260319T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34912
+DTSTAMP:20260311T170245Z
+SUMMARY:Gentle Moves for Strength & Stability (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/gentle-moves-strengt
+ h-stability-r-34912
+STATUS:CONFIRMED
+CREATED:20260223T173319Z
+LAST-MODIFIED:20260223T173341Z
+DESCRIPTION:This gentle movement class is designed to help adults improve m
+ obility\, balance\, and body awareness. Participants will be guided throug
+ h light exercises that focus on activating key muscle groups while relaxin
+ g others\, helping to build better control and coordination for everyday m
+ ovement. Participants must bring their own yoga mat or a beach towel. Wear
+  comfy clothes and shoes!
+CATEGORIES:Health & Wellness
+DTSTART:20260319T150000Z
+DTEND:20260319T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33669
+DTSTAMP:20260311T170245Z
+SUMMARY:Afternoon Scrabble! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/afternoon-scrabble-r
+ -33669
+STATUS:CONFIRMED
+CREATED:20260115T151411Z
+LAST-MODIFIED:20260116T004842Z
+DESCRIPTION:Join us for a fun and friendly game of Scrabble at the Library!
+  Whether you're a seasoned wordsmith or a beginner\, all experience levels
+  are welcome. We’ll provide the space and the game —just bring your lo
+ ve of words! Come with friends or meet new ones as you strategize\, spell\
+ , and score big.
+CATEGORIES:Fun & Games
+DTSTART:20260319T180000Z
+DTEND:20260319T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33708
+DTSTAMP:20260311T170245Z
+SUMMARY:Family Paint Night (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-paint-night-3
+ 3708
+STATUS:CONFIRMED
+CREATED:20260115T223640Z
+LAST-MODIFIED:20260223T170306Z
+DESCRIPTION:Create beautiful masterpieces together using step-by-step paint
+ ing. Please register each family member that will be attending.Ages 5+
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260319T230000Z
+DTEND:20260320T000000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33631
+DTSTAMP:20260311T170245Z
+SUMMARY:Illinois Libraries Presents: Beyond the Page with Percival Everett 
+ [ZOOM ONLY]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/illinois-libraries-p
+ resents-beyond-page-percival-everett-zoom-only-33631
+STATUS:CONFIRMED
+CREATED:20260114T022428Z
+LAST-MODIFIED:20260116T003852Z
+DESCRIPTION:Industrious\, irreverent\, humble–though he may deny the accu
+ sation–Percival Everett\, like his fiction\, defies categorization. His 
+ most recent novel\, James\, earned both the Pulitzer Prize for fiction an
+ d the National Book Award\, and his 2001 novel Erasure inspired the film
+  American Fiction\, which received the Academy Award for Best Adapted Scr
+ eenplay in 2024. Tune in for our conversation with Percival Everett to get
+  a glimpse beyond the page. This program will not be shown in person at t
+ he library. Register Here!This is an online event\, made possible by Illi
+ nois Libraries Present\, a statewide collaboration between public librarie
+ s\, including Lincolnwood Public Library.
+CATEGORIES:Book Discussions,Adult Learning
+DTSTART:20260320T000000Z
+DTEND:20260320T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:33236
+DTSTAMP:20260311T170245Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-33
+ 236
+STATUS:CONFIRMED
+CREATED:20251230T162034Z
+LAST-MODIFIED:20260224T170550Z
+DESCRIPTION:Bring your little ones to this fun\, weekly playgroup and conne
+ ct with other caregivers. We provide toys and coffee for your enjoyment. A
+ nd on 2/20 and 3/20\, come first for yoga led by Keyla Ortiz\, certified y
+ oga instructor\, and stay to play after.Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260320T150000Z
+DTEND:20260320T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33281
+DTSTAMP:20260311T170245Z
+SUMMARY:After Hours Escape Room: Five Nights At Freddy's
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/after-hours-escape-r
+ oom-five-nights-freddys-33281
+STATUS:CONFIRMED
+CREATED:20251230T202326Z
+LAST-MODIFIED:20260129T224138Z
+DESCRIPTION:Sign up to receive a time slot to get "locked" into Freddy Fazb
+ ear's Pizza. Can you earn your check and escape from the haunted animatron
+ ics before you are trapped there forever? Pizza and snacks will be served.
+ Grades 6-12.
+CATEGORIES:Special Events
+DTSTART:20260320T230000Z
+DTEND:20260321T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:32084
+DTSTAMP:20260311T170245Z
+SUMMARY:Saturday Stories and Playtime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/saturday-stories-and
+ -playtime-32084
+STATUS:CONFIRMED
+CREATED:20251114T181834Z
+LAST-MODIFIED:20260115T220942Z
+DESCRIPTION:Kick off the weekend with a special Saturday storytime\, follow
+ ed by open playtime with the library’s collection of toys.Ages 0-5 with 
+ caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260321T150000Z
+DTEND:20260321T154500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33632
+DTSTAMP:20260311T170246Z
+SUMMARY:Talking Feathers –Life Inside a Parrot Rescue (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/talking-feathers-lif
+ e-inside-parrot-rescue-r-33632
+STATUS:CONFIRMED
+CREATED:20260114T022706Z
+LAST-MODIFIED:20260116T003922Z
+DESCRIPTION:Join A Refuge for Saving the Wildlife for an inspiring look int
+ o the world of rescue parrots. Discover how these intelligent\, social bir
+ ds find new beginnings through the care and dedication of volunteers. Lear
+ n about their unique personalities\, challenges\, and the lifelong bonds t
+ hey form—with a chance to meet a few feathered friends in person!
+CATEGORIES:Adult Learning
+DTSTART:20260321T160000Z
+DTEND:20260321T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33075
+DTSTAMP:20260311T170246Z
+SUMMARY:D&D with Dungeon Master Grease
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/dd-dungeon-master-gr
+ ease-33075
+STATUS:CONFIRMED
+CREATED:20251223T200059Z
+LAST-MODIFIED:20260212T175917Z
+DESCRIPTION:Interested in playing Dungeons and Dragons? Come and learn the 
+ best way– by playing. Newbs and seasoned adventurers alike are welcome. 
+ Dice\, character sheets\, and snacks provided.Grades 6-12.
+CATEGORIES:Fun & Games
+DTSTART:20260322T181500Z
+DTEND:20260322T214500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33633
+DTSTAMP:20260311T170246Z
+SUMMARY:Sunday Afternoon with HERstory: Trailblazing Female Firsts (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/sunday-afternoon-her
+ story-trailblazing-female-firsts-r-33633
+STATUS:CONFIRMED
+CREATED:20260114T022800Z
+LAST-MODIFIED:20260116T004235Z
+DESCRIPTION:Celebrate Women’s History Month with Chicago cabaret artists 
+ Catherine Thomson and Anita Kallen in HERstory: Trailblazing Female Firsts
+ . Through songs by Harold Arlen\, Stephen Schwartz\, Dolly Parton\, Tom Le
+ hrer\, Kander & Ebb\, Sara Bareilles\, and more\, they shine a spotlight o
+ n the women who boldly defied expectations and changed history. Enjoy insp
+ iring stories\, dynamic performances\, and a musical tribute to the trailb
+ lazers who paved the way.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260322T190000Z
+DTEND:20260322T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33104
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-33104
+STATUS:CONFIRMED
+CREATED:20251226T183350Z
+LAST-MODIFIED:20260224T165948Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets and more! Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260323T143000Z
+DTEND:20260323T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33683
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3368
+ 3
+STATUS:CONFIRMED
+CREATED:20260115T152156Z
+LAST-MODIFIED:20260116T005321Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Father of the Bride (1991)Mon\, Mar 2 • 1-2:45pm • PG\, 10
+ 0 mins •  [D]In this remake of the 1950 comedy\, a frazzled shoe execut
+ ive tries to cope with the financial and emotional costs of his only daugh
+ ter's impending marriage while also dealing with an eccentric wedding coor
+ dinator. **Paulie (1998)Mon\, Mar 9 • 1-2:45pm • PG\, 91 mins •  
+ [D]A chatty parrot named Paulie recalls his search to find the little girl
+  who first owned him and gets help from a kind janitor. Wicked: For Good
+  (2025)Mon\, Mar 23 • 1-3:30pm • PG\, 138 mins •  [D]Now demonized
+  as the Wicked Witch of the West\, Elphaba lives in exile in the Ozian for
+ est\, while Glinda resides at the palace in Emerald City\, reveling in the
+  perks of fame and popularity. As an angry mob rises against the Wicked Wi
+ tch\, she'll need to reunite with Glinda to transform herself\, and all of
+  Oz\, for good. The Long Walk (2025)Mon\, Mar 30 • 1-3pm • R\, 108 m
+ ins •  [D]In a dystopian near-future\, 100 teenage boys must embark on 
+ an annual competitive test known as "The Long Walk." The rules are simple:
+  maintain a speed above 4 miles per hour. Receive three warnings in an hou
+ r and you're shot dead. The last one walking gets whatever he wants for th
+ e rest of his life. Under these grim circumstances\, the boys develop deep
+  friendships despite knowing that each of their friends' survival is a thr
+ eat to their own. There will be no Monday Matinee on March 16 due to the 
+ library serving as a polling location.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260323T180000Z
+DTEND:20260323T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33268
+DTSTAMP:20260311T170246Z
+SUMMARY:Pokémon Battle Academy
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/pokemon-battle-acade
+ my-33268
+STATUS:CONFIRMED
+CREATED:20251230T181733Z
+LAST-MODIFIED:20251230T181900Z
+DESCRIPTION:Learn how to play the Pokémon Trading Card game! It is not nec
+ essary to have your own cards to come and play.Grades K-5.
+CATEGORIES:Fun & Games
+DTSTART:20260323T210000Z
+DTEND:20260323T214500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:26043
+DTSTAMP:20260311T170246Z
+SUMMARY:Regular Board Meeting
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/regular-board-meetin
+ g-26043
+STATUS:CONFIRMED
+CREATED:20250421T165344Z
+LAST-MODIFIED:20250624T182713Z
+DESCRIPTION:Regular Board Meeting
+CATEGORIES:Board Meetings
+DTSTART:20260323T230000Z
+DTEND:20260324T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35353
+DTSTAMP:20260311T170246Z
+SUMMARY:*RESCHEDULED* Words That Change Lives: A Conversation with Chicago 
+ Books to Women in Prison (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/rescheduled-words-ch
+ ange-lives-conversation-chicago-books-women-prison-r-35353
+STATUS:CONFIRMED
+CREATED:20260310T220945Z
+LAST-MODIFIED:20260310T234835Z
+DESCRIPTION:Join us for an inspiring evening that explores the power of boo
+ ks to heal\, connect\, and transform lives. In partnership with Chicago Bo
+ oks to Women in Prison\, we’ll learn how access to reading supports educ
+ ation\, reflection\, escape\, and much more for women and trans people who
+  are incarcerated. Volunteers from the organization will share their exper
+ iences sending books to readers behind bars\, and we’ll hear from someon
+ e who will share how the program supported them during their time in priso
+ n and beyond.
+CATEGORIES:Adult Learning
+DTSTART:20260323T233000Z
+DTEND:20260324T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33113
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-331
+ 13
+STATUS:CONFIRMED
+CREATED:20251226T183736Z
+LAST-MODIFIED:20260224T170442Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260324T150000Z
+DTEND:20260324T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33677
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-33677
+STATUS:CONFIRMED
+CREATED:20260115T151739Z
+LAST-MODIFIED:20260116T004932Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.There will be no Mah Jongg on March 17 due to
+  the library serving as a polling location.
+CATEGORIES:Fun & Games
+DTSTART:20260324T180000Z
+DTEND:20260324T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33074
+DTSTAMP:20260311T170246Z
+SUMMARY:Teen Tween Yoga
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/teen-tween-yoga-3307
+ 4
+STATUS:CONFIRMED
+CREATED:20251223T195346Z
+LAST-MODIFIED:20260220T184145Z
+DESCRIPTION:Take a break\, stretch it out\, and recharge! Join us for a rel
+ axed yoga session designed for tweens and teens of all skill levels. We’
+ ll focus on movement\, breathing\, and mindfulness to help you unwind afte
+ r a busy day. Wear comfortable clothes and bring a water bottle. Mats prov
+ ided.Grades 6-12
+CATEGORIES:Health & Wellness
+DTSTART:20260325T000000Z
+DTEND:20260325T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33254
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-33
+ 254
+STATUS:CONFIRMED
+CREATED:20251230T163003Z
+LAST-MODIFIED:20251230T163003Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260325T143000Z
+DTEND:20260325T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33663
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-33663
+STATUS:CONFIRMED
+CREATED:20260115T150317Z
+LAST-MODIFIED:20260116T004550Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260325T160000Z
+DTEND:20260325T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33217
+DTSTAMP:20260311T170246Z
+SUMMARY:Masterpiece Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/masterpiece-storytim
+ e-33217
+STATUS:CONFIRMED
+CREATED:20251230T154158Z
+LAST-MODIFIED:20260106T163649Z
+DESCRIPTION:All ages are welcome to this cozy\, classic storytime. Snuggle 
+ up as we read aloud picture book masterpieces each month. March books: Ra
+ punzel\; Ada Twist\, Scientist\; Not All Princesses Dress in PinkAges 0-10
+  with caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260325T233000Z
+DTEND:20260326T001500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33667
+DTSTAMP:20260311T170246Z
+SUMMARY:Bookish Cross Stitch (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/bookish-cross-stitch
+ -c-33667
+STATUS:CONFIRMED
+CREATED:20260115T151033Z
+LAST-MODIFIED:20260126T213728Z
+DESCRIPTION:Celebrate your love of books by stitching a stack! Learn the ba
+ sics of how to cross stitch\, and spend some time working on your project 
+ with fellow book lovers. You'll get to take the provided supplies home to 
+ finish the piece in your own time. This event is for Lincolnwood Library 
+ cardholders.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260325T233000Z
+DTEND:20260326T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33245
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-33245
+STATUS:CONFIRMED
+CREATED:20251230T162538Z
+LAST-MODIFIED:20260116T152623Z
+DESCRIPTION:This active story time features stories\, musical movement and 
+ games for 18 to 36 month olds with a caregiver. Join us on 3/19 for a spe
+ cial Fire woman storytime featuring the Lincolnwood Fire Department!
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260326T150000Z
+DTEND:20260326T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33271
+DTSTAMP:20260311T170246Z
+SUMMARY:Checkmates! Chess Club (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/checkmates-chess-clu
+ b-33271
+STATUS:CONFIRMED
+CREATED:20251230T184414Z
+LAST-MODIFIED:20260223T173855Z
+DESCRIPTION:Develop your chess game with experienced instructor Chris Chris
+ tmas. All skill levels are welcome!Grades K-5.
+CATEGORIES:STEAM,Fun & Games
+DTSTART:20260326T233000Z
+DTEND:20260327T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33930
+DTSTAMP:20260311T170246Z
+SUMMARY:Easy Does It Yoga at Home with Joan [Z]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/easy-does-it-yoga-ho
+ me-joan-z-33930
+STATUS:CONFIRMED
+CREATED:20260122T195414Z
+LAST-MODIFIED:20260122T195413Z
+DESCRIPTION:Join certified yoga instructor Joan McGee from the comfort of y
+ our home for a relaxing Zoom session focused on improving flexibility\, co
+ ncentration\, and strength—while boosting your mood and reducing stress.
+  All experience levels are welcome. Grab your yoga mat or towel\, get comf
+ y\, and log in for a peaceful practice.This program will take place on Zoo
+ m.Register Here!
+CATEGORIES:Health & Wellness
+DTSTART:20260326T233000Z
+DTEND:20260327T003000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:33237
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-33
+ 237
+STATUS:CONFIRMED
+CREATED:20251230T162034Z
+LAST-MODIFIED:20260224T170550Z
+DESCRIPTION:Bring your little ones to this fun\, weekly playgroup and conne
+ ct with other caregivers. We provide toys and coffee for your enjoyment. A
+ nd on 2/20 and 3/20\, come first for yoga led by Keyla Ortiz\, certified y
+ oga instructor\, and stay to play after.Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260327T150000Z
+DTEND:20260327T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33679
+DTSTAMP:20260311T170246Z
+SUMMARY:iPhone & iPad Club (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/iphone-ipad-club-r-3
+ 3679
+STATUS:CONFIRMED
+CREATED:20260115T151842Z
+LAST-MODIFIED:20260116T005013Z
+DESCRIPTION:Bring your iPhone and iPad to meet fellow Apple users and learn
+  to do more with your device.
+CATEGORIES:Technology,Adult Learning
+DTSTART:20260327T180000Z
+DTEND:20260327T193000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33275
+DTSTAMP:20260311T170246Z
+SUMMARY:Lego Club
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lego-club-33275
+STATUS:CONFIRMED
+CREATED:20251230T185322Z
+LAST-MODIFIED:20251230T185322Z
+DESCRIPTION:Create your own LEGO or Duplo masterpiece with the Library’s 
+ collection of bricks.Grades K-5
+CATEGORIES:STEAM,Fun & Games
+DTSTART:20260328T150000Z
+DTEND:20260328T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33105
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-33105
+STATUS:CONFIRMED
+CREATED:20251226T183350Z
+LAST-MODIFIED:20260224T165948Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets and more! Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260330T143000Z
+DTEND:20260330T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33684
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3368
+ 4
+STATUS:CONFIRMED
+CREATED:20260115T152156Z
+LAST-MODIFIED:20260116T005329Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Father of the Bride (1991)Mon\, Mar 2 • 1-2:45pm • PG\, 10
+ 0 mins •  [D]In this remake of the 1950 comedy\, a frazzled shoe execut
+ ive tries to cope with the financial and emotional costs of his only daugh
+ ter's impending marriage while also dealing with an eccentric wedding coor
+ dinator. **Paulie (1998)Mon\, Mar 9 • 1-2:45pm • PG\, 91 mins •  
+ [D]A chatty parrot named Paulie recalls his search to find the little girl
+  who first owned him and gets help from a kind janitor. Wicked: For Good
+  (2025)Mon\, Mar 23 • 1-3:30pm • PG\, 138 mins •  [D]Now demonized
+  as the Wicked Witch of the West\, Elphaba lives in exile in the Ozian for
+ est\, while Glinda resides at the palace in Emerald City\, reveling in the
+  perks of fame and popularity. As an angry mob rises against the Wicked Wi
+ tch\, she'll need to reunite with Glinda to transform herself\, and all of
+  Oz\, for good. The Long Walk (2025)Mon\, Mar 30 • 1-3pm • R\, 108 m
+ ins •  [D]In a dystopian near-future\, 100 teenage boys must embark on 
+ an annual competitive test known as "The Long Walk." The rules are simple:
+  maintain a speed above 4 miles per hour. Receive three warnings in an hou
+ r and you're shot dead. The last one walking gets whatever he wants for th
+ e rest of his life. Under these grim circumstances\, the boys develop deep
+  friendships despite knowing that each of their friends' survival is a thr
+ eat to their own. There will be no Monday Matinee on March 16 due to the 
+ library serving as a polling location.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260330T180000Z
+DTEND:20260330T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33221
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Bingo: Disney Edition! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-bingo-disney
+ -edition-33221
+STATUS:CONFIRMED
+CREATED:20251230T155523Z
+LAST-MODIFIED:20260224T170520Z
+DESCRIPTION:Step into the magic with Musical Bingo: Disney Edition! Match 
+ your bingo card to iconic Disney songs\, win fun prizes\, and enjoy a whim
+ sical\, music-filled event that’s great for families\, friends\, and Dis
+ ney lovers of all ages.This program is best enjoyed by ages 6 and up. Par
+ ticipants under the age of 14 must participate with a family group that in
+ cludes an adult.
+CATEGORIES:Movies\, Music & Entertainment,Special Events
+DTSTART:20260330T233000Z
+DTEND:20260331T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33114
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-331
+ 14
+STATUS:CONFIRMED
+CREATED:20251226T183736Z
+LAST-MODIFIED:20260224T170442Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260331T150000Z
+DTEND:20260331T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33678
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-33678
+STATUS:CONFIRMED
+CREATED:20260115T151739Z
+LAST-MODIFIED:20260116T004942Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.There will be no Mah Jongg on March 17 due to
+  the library serving as a polling location.
+CATEGORIES:Fun & Games
+DTSTART:20260331T180000Z
+DTEND:20260331T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33280
+DTSTAMP:20260311T170246Z
+SUMMARY:STEAM Drop-In: Minifig Volcano!
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/steam-drop-minifig-v
+ olcano-33280
+STATUS:CONFIRMED
+CREATED:20251230T202011Z
+LAST-MODIFIED:20251230T202158Z
+DESCRIPTION:Create a city with a volcano at its center. See if you can dire
+ ct the flow of lava away from your minifigs.Grades K-5.
+CATEGORIES:STEAM,Fun & Games
+DTSTART:20260331T190000Z
+DTEND:20260331T194500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33634
+DTSTAMP:20260311T170246Z
+SUMMARY:Feminine Footprints: Stories of African American Women Trailblazers
+  (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/feminine-footprints-
+ stories-african-american-women-trailblazers-r-33634
+STATUS:CONFIRMED
+CREATED:20260114T024223Z
+LAST-MODIFIED:20260119T145554Z
+DESCRIPTION:Join presenter Carolyn Armenta Davis for Feminine Footprints\, 
+ a powerful look at ten groundbreaking African American women whose achieve
+ ments helped shape history. Drawn from her award-winning 1978 network radi
+ o series profiling 65 Black women trailblazers\, this program highlights t
+ he courage\, creativity\, and lasting impact of these inspiring pioneers.
+CATEGORIES:History & Culture,Adult Learning
+DTSTART:20260331T233000Z
+DTEND:20260401T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33657
+DTSTAMP:20260311T170246Z
+SUMMARY:Navigating News Media with Michael Spikes [Z]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/navigating-news-medi
+ a-michael-spikes-z-33657
+STATUS:CONFIRMED
+CREATED:20260115T144940Z
+LAST-MODIFIED:20260116T004352Z
+DESCRIPTION:Join us for a virtual session of the Civic Empowerment Series 2
+ 026\, presented in partnership with Schaumburg Public Library and other ar
+ ea libraries. Dr. Michael A. Spikes of Northwestern University’s Medill 
+ School of Journalism will explain how today’s media landscape—shaped b
+ y social platforms\, mixed information sources\, and AI-generated content
+ —can make it difficult to know what to trust. Learn practical strategies
+  for evaluating credibility and building a reliable set of news sources yo
+ u can use with confidence.The Civic Empowerment Series 2026 is brought to 
+ you in partnership with Schaumburg Public Library\, Skokie Public Library\
+ , Vernon Area Public Library\, Blue Island Public Library\, Highland Park 
+ Public Library\, Aurora Public Library District\, La Grange Public Library
+ \, Fox River Valley Public Library\, Algonquin Area Public Library Distric
+ t\, Roselle Public Library and Oak Park Public Library. Please note: On t
+ he Schaumburg Township District Library registration page\, please select 
+ online. Schaumburg Township District Library will email a Zoom link three 
+ hours prior to the start of the program.This program will take place on Zo
+ om.Register Here!
+CATEGORIES:Community Engagement,Adult Learning
+DTSTART:20260401T000000Z
+DTEND:20260401T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:34579
+DTSTAMP:20260311T170246Z
+SUMMARY:Teen Book Boxes
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/teen-book-boxes-3457
+ 9
+STATUS:CONFIRMED
+CREATED:20260212T215606Z
+LAST-MODIFIED:20260224T170413Z
+DESCRIPTION:Teen BookBoxes are free subscription-style boxes for teen bibli
+ ophiles! Each customized box contains a selected library book and other go
+ odies to keep. Sign up in April\, and we’ll contact you when your BookBo
+ x is ready for pickup. For Lincolnwood Library cardholders only. You must 
+ complete the accompanying book survey to receive your box.Grades 9-12BOOK 
+ SURVEY https://forms.gle/qNXuTfcFkV5Rph717
+CATEGORIES:Special Events
+DTSTART:20260401T050000Z
+DTEND:20260401T050000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33255
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-33
+ 255
+STATUS:CONFIRMED
+CREATED:20251230T163003Z
+LAST-MODIFIED:20251230T163003Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260401T143000Z
+DTEND:20260401T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34985
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-34985
+STATUS:CONFIRMED
+CREATED:20260225T150912Z
+LAST-MODIFIED:20260302T212147Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260401T160000Z
+DTEND:20260401T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34897
+DTSTAMP:20260311T170246Z
+SUMMARY:Lego Robotics Club: Challenges (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lego-robotics-club-c
+ hallenges-34897
+STATUS:CONFIRMED
+CREATED:20260223T165327Z
+LAST-MODIFIED:20260224T165800Z
+DESCRIPTION:Experiment and grow your critical thinking\, coding\, and desig
+ n skills through hands-on STEM learning and robotics. Take on a new challe
+ nge each month.Grades 1-5.
+CATEGORIES:STEAM,Technology
+DTSTART:20260401T213000Z
+DTEND:20260401T221500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34902
+DTSTAMP:20260311T170246Z
+SUMMARY:Lego Robotics Club: Challenges (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lego-robotics-club-c
+ hallenges-r-34902
+STATUS:CONFIRMED
+CREATED:20260223T171711Z
+LAST-MODIFIED:20260225T153155Z
+DESCRIPTION:Experiment and grow your critical thinking\, coding\, and desig
+ n skills through hands-on STEM learning and robotics. Take on a new challe
+ nge each month.Grades 1-5.
+CATEGORIES:STEAM,Technology
+DTSTART:20260401T233000Z
+DTEND:20260402T001500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34998
+DTSTAMP:20260311T170246Z
+SUMMARY:Lincolnwood Writes: Writing Club (R) (Hybrid)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/lincolnwood-writes-w
+ riting-club-r-hybrid-34998
+STATUS:CONFIRMED
+CREATED:20260225T153202Z
+LAST-MODIFIED:20260302T213633Z
+DESCRIPTION:Whether you’re writing for fun or to be published someday\, f
+ oster your creativity with like-minded authors in this monthly group. Brin
+ g in original work to be read aloud and get constructive feedback from you
+ r peers. Ages high school and up.Registration required to receive Zoom inf
+ ormation.
+CATEGORIES:Crafts\, Hobbies & DIY,Adult Learning
+DTSTART:20260402T000000Z
+DTEND:20260402T020000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33246
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-33246
+STATUS:CONFIRMED
+CREATED:20251230T162538Z
+LAST-MODIFIED:20260116T152623Z
+DESCRIPTION:This active story time features stories\, musical movement and 
+ games for 18 to 36 month olds with a caregiver. Join us on 3/19 for a spe
+ cial Fire woman storytime featuring the Lincolnwood Fire Department!
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260402T150000Z
+DTEND:20260402T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34919
+DTSTAMP:20260311T170246Z
+SUMMARY:Mario Release Party (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mario-release-party-
+ r-34919
+STATUS:CONFIRMED
+CREATED:20260223T174426Z
+LAST-MODIFIED:20260310T142414Z
+DESCRIPTION:Celebrate all things Mario in this Super Mario Galaxy release p
+ arty. Play Mario-themed games\, eat Mario-themed snacks\, and have a chanc
+ e to win a prize!Grades K-5.
+CATEGORIES:Movies\, Music & Entertainment,Special Events,Fun & Games
+DTSTART:20260402T190000Z
+DTEND:20260402T194500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34569
+DTSTAMP:20260311T170246Z
+SUMMARY:Mario Kart World Tournament (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mario-kart-world-tou
+ rnament-34569
+STATUS:CONFIRMED
+CREATED:20260212T205920Z
+LAST-MODIFIED:20260310T142846Z
+DESCRIPTION:Put your Mario Kart World skills to the test in this single-eli
+ mination head-to-head bracket tournament. Prizes will be awarded to the to
+ p three players. Arrive on time to be assigned a spot.GRADES 6-12
+CATEGORIES:Fun & Games
+DTSTART:20260402T203000Z
+DTEND:20260402T220000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34991
+DTSTAMP:20260311T170246Z
+SUMMARY:Eat • Craft • Watch
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/eat-craft-watch-3499
+ 1
+STATUS:CONFIRMED
+CREATED:20260225T151517Z
+LAST-MODIFIED:20260302T213325Z
+DESCRIPTION:Calling all crafters! Gather together over snacks\, movies\, an
+ d dedicated time for creating what you love. We’ll decide as a group wha
+ t to watch while enjoying each other’s company and working on our own pr
+ ojects. As long as you can get your supplies through the door\, your craft
+  is welcome.
+CATEGORIES:Crafts\, Hobbies & DIY,Movies\, Music & Entertainment
+DTSTART:20260402T233000Z
+DTEND:20260403T020000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:33238
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-33
+ 238
+STATUS:CONFIRMED
+CREATED:20251230T162034Z
+LAST-MODIFIED:20260224T170550Z
+DESCRIPTION:Bring your little ones to this fun\, weekly playgroup and conne
+ ct with other caregivers. We provide toys and coffee for your enjoyment. A
+ nd on 2/20 and 3/20\, come first for yoga led by Keyla Ortiz\, certified y
+ oga instructor\, and stay to play after.Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260403T150000Z
+DTEND:20260403T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34920
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Movie
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-movie-
+ 34920
+STATUS:CONFIRMED
+CREATED:20260223T175821Z
+LAST-MODIFIED:20260224T170621Z
+DESCRIPTION:Watch a movie with us at the library. Popcorn provided.4/3: Ho
+ w to Train Your Dragon (2010)4/24: Tangled (2010)
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34758
+DTSTAMP:20260311T170246Z
+SUMMARY:Sunday Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/sunday-storytime-347
+ 58
+STATUS:CONFIRMED
+CREATED:20260218T191244Z
+LAST-MODIFIED:20260224T170823Z
+DESCRIPTION:Read stories\, sing songs\, and more! Aimed at kids under 5\, b
+ ut older siblings are welcome to join the fun too. Ages 0-5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260405T203000Z
+DTEND:20260405T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34656
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-34656
+STATUS:CONFIRMED
+CREATED:20260215T204303Z
+LAST-MODIFIED:20260224T170859Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets\, and more.Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260406T143000Z
+DTEND:20260406T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35004
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3500
+ 4
+STATUS:CONFIRMED
+CREATED:20260225T154014Z
+LAST-MODIFIED:20260302T213916Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Eternity (2025)Mon\, Apr 6 • 1-3pm • PG-13\, 112 mins • 
+ [D]In an afterlife where souls have one week to decide where to spend eter
+ nity\, Joan is faced with the impossible choice between the man she spent 
+ her life with and her first love\, who died young and has waited decades f
+ or her to arrive. Sinners (2025)Mon\, Apr 13 • 1-3:30pm • R\, 128 mi
+ ns • [D]Trying to leave their troubled lives behind\, twin brothers retu
+ rn to their hometown to start again\, only to discover that an even greate
+ r evil is waiting to welcome them back. Song Sung Blue (2025)Mon\, Apr 2
+ 0 • 1-3:30pm • PG-13\, 133 mins • [D]Two down-on-their-luck performe
+ rs form a Neil Diamond tribute band\, proving it's never too late to find 
+ love and follow your dreams. Hamnet (2025)Mon\, Apr 27 • 1-3:30pm • 
+ PG-13\, 125 mins • [D]William Shakespeare and his wife\, Agnes\, celebra
+ te the birth of their son\, Hamnet. However\, when tragedy strikes and Ham
+ net dies at a young age\, it inspires Shakespeare to write his timeless ma
+ sterpiece Hamlet.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260406T180000Z
+DTEND:20260406T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34815
+DTSTAMP:20260311T170246Z
+SUMMARY:Reading to the Dogs (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/reading-dogs-34815
+STATUS:CONFIRMED
+CREATED:20260220T183556Z
+LAST-MODIFIED:20260224T171044Z
+DESCRIPTION:Build reading skills by reading next to trained dogs from Rainb
+ ow Animal Assisted Therapy. Participants should receive at least 10-15 min
+ utes of personal reading time with a dog.Grades K-5.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260406T230000Z
+DTEND:20260407T000000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34747
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 47
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260407T150000Z
+DTEND:20260407T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34999
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-34999
+STATUS:CONFIRMED
+CREATED:20260225T153607Z
+LAST-MODIFIED:20260302T213807Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.
+CATEGORIES:Fun & Games
+DTSTART:20260407T180000Z
+DTEND:20260407T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34570
+DTSTAMP:20260311T170246Z
+SUMMARY:Sour Candy Swap (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/sour-candy-swap-3457
+ 0
+STATUS:CONFIRMED
+CREATED:20260212T211945Z
+LAST-MODIFIED:20260224T171220Z
+DESCRIPTION:Bring a bag of your favorite sour candy to swap with fellow sou
+ r candy aficionados. Discover new favorites and taste a curated selection 
+ of the finest sour candies\, handpicked by the sour candy experts at Linco
+ lnwood Library. Candy is not required for attendance.GRADES 6-12
+CATEGORIES:Fun & Games
+DTSTART:20260407T230000Z
+DTEND:20260408T000000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34966
+DTSTAMP:20260311T170246Z
+SUMMARY:Making the Most of Social Security (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/making-most-social-s
+ ecurity-r-34966
+STATUS:CONFIRMED
+CREATED:20260225T020949Z
+LAST-MODIFIED:20260302T212401Z
+DESCRIPTION:Do you want to get the most out of your Social Security? Discov
+ er strategies to boost your monthly lifetime benefits beyond standard fili
+ ng options. This seminar from The Dala Group offers tailored guidance for 
+ singles\, married couples\, divorced individuals\, and widows. You’ll al
+ so learn about earned income limits and how Social Security benefits are t
+ axed\; key information to help you make informed retirement decisions.
+CATEGORIES:Adult Learning
+DTSTART:20260408T000000Z
+DTEND:20260408T013000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34674
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-34
+ 674
+STATUS:CONFIRMED
+CREATED:20260215T205345Z
+LAST-MODIFIED:20260224T171251Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260408T143000Z
+DTEND:20260408T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34986
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-34986
+STATUS:CONFIRMED
+CREATED:20260225T150912Z
+LAST-MODIFIED:20260302T212159Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260408T160000Z
+DTEND:20260408T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34905
+DTSTAMP:20260311T170246Z
+SUMMARY:STEAM: Exploration Station: Seed Dispersal (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/steam-exploration-st
+ ation-seed-dispersal-34905
+STATUS:CONFIRMED
+CREATED:20260223T172027Z
+LAST-MODIFIED:20260224T171337Z
+DESCRIPTION:Design your own seed and devise how it might travel in this eng
+ ineering STEAM challenge. Learn how seeds disperse and compete to get your
+  seed to go the greatest distance.Grades K-5.
+CATEGORIES:STEAM
+DTSTART:20260408T213000Z
+DTEND:20260408T221500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34669
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-34669
+STATUS:CONFIRMED
+CREATED:20260215T205148Z
+LAST-MODIFIED:20260224T171413Z
+DESCRIPTION:This active story time features stories\, musical movement\, an
+ d games for 18- to 36-month-olds with a caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260409T150000Z
+DTEND:20260409T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34755
+DTSTAMP:20260311T170246Z
+SUMMARY:Pajama Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/pajama-storytime-347
+ 55
+STATUS:CONFIRMED
+CREATED:20260218T190503Z
+LAST-MODIFIED:20260224T171501Z
+DESCRIPTION:Wind down and get cozy with some bedtime stories. Feel free to 
+ wear your pajamas and bring your favorite stuffed animal!Ages 0-5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260409T231500Z
+DTEND:20260409T234500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34967
+DTSTAMP:20260311T170246Z
+SUMMARY:Chair Yoga with Joan (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/chair-yoga-joan-r-34
+ 967
+STATUS:CONFIRMED
+CREATED:20260225T021416Z
+LAST-MODIFIED:20260302T212455Z
+DESCRIPTION:Chair yoga is back in person! Practice seated poses in one of t
+ he gentlest forms of yoga available\, led by certified yoga instructor Joa
+ n McGee. All experience levels are welcome. Wear comfy clothes and shoes!
+CATEGORIES:Health & Wellness
+DTSTART:20260409T233000Z
+DTEND:20260410T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34969
+DTSTAMP:20260311T170246Z
+SUMMARY:Financial Fitness: Budgeting and Savings Basics with Ryan Decker [Z
+ ]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/financial-fitness-bu
+ dgeting-and-savings-basics-ryan-decker-z-34969
+STATUS:CONFIRMED
+CREATED:20260225T021808Z
+LAST-MODIFIED:20260302T212552Z
+DESCRIPTION:Presented as part of the Financial Fitness 2026 series\, this o
+ nline program features financial professional Ryan Decker\, discussing bud
+ geting\, saving\, investing\, and debt management. Participants will also 
+ receive resources for further learning.This virtual program is part of Fin
+ ancial Fitness 2026\, a free financial literacy series presented by BIG (B
+ usiness Interest Group)\,a group of business librarians in the Chicago sub
+ urbs in support of the libraries’ mission of providing access to reliabl
+ e information\; these virtual programs offer practical tips and advice fro
+ m experienced financial advisors.Register Here!
+CATEGORIES:STEAM,Adult Learning
+DTSTART:20260410T000000Z
+DTEND:20260410T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:34686
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 686
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260410T150000Z
+DTEND:20260410T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35003
+DTSTAMP:20260311T170246Z
+SUMMARY:Spring Clean Your Phone (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/spring-clean-your-ph
+ one-r-35003
+STATUS:CONFIRMED
+CREATED:20260225T153711Z
+LAST-MODIFIED:20260302T213731Z
+DESCRIPTION:Let's delete those apps you never use\, prune your unwanted not
+ ifications\, weed out aggressive permission settings\, and tidy up your ph
+ one in general. This session will include hands-on time with one-on-one at
+ tention from the instructor as needed. Please come prepared with passwords
+  for your Apple (iPhone) or Google (Android) accounts\, as they may be nee
+ ded for you to access and configure settings on your phone.
+CATEGORIES:Technology,Adult Learning
+DTSTART:20260410T183000Z
+DTEND:20260410T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34910
+DTSTAMP:20260311T170246Z
+SUMMARY:Donut Storytime (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/donut-storytime-r-34
+ 910
+STATUS:CONFIRMED
+CREATED:20260223T173032Z
+LAST-MODIFIED:20260224T171618Z
+DESCRIPTION:Begin your day with songs\, stories\, and donuts kindly provide
+ d by Schlegl’s Bakery. Ages 0-10.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260411T153000Z
+DTEND:20260411T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34922
+DTSTAMP:20260311T170246Z
+SUMMARY:Miss Jamie's Farm (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/miss-jamies-farm-r-3
+ 4922
+STATUS:CONFIRMED
+CREATED:20260223T180121Z
+LAST-MODIFIED:20260224T171711Z
+DESCRIPTION:Miss Jamie and her farm animal puppet friends take you on a mus
+ ical imagination adventure on the farm. Sing and dance as you learn about 
+ the animals\, the seed cycle\, and answer farm trivia. All Ages are welco
+ me but aimed at kids 0-5.
+CATEGORIES:Storytimes & Early Learning,Special Events
+DTSTART:20260412T190000Z
+DTEND:20260412T194500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34657
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-34657
+STATUS:CONFIRMED
+CREATED:20260215T204303Z
+LAST-MODIFIED:20260224T170859Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets\, and more.Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260413T143000Z
+DTEND:20260413T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34982
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Morning Book Discussion (R) (Hybrid)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-morning-book-
+ discussion-r-hybrid-34982
+STATUS:CONFIRMED
+CREATED:20260225T150414Z
+LAST-MODIFIED:20260302T213203Z
+DESCRIPTION:This month we will be reading The Names by Florence Knapp.A ha
+ unting and inventive novel that follows one family across multiple possibl
+ e lives shaped by a single\, seemingly small decision. Through shifting pe
+ rspectives and timelines\, the book explores identity\, motherhood\, grief
+ \, and the lasting power of names. Registration required to receive Zoom 
+ information.
+CATEGORIES:Book Discussions
+DTSTART:20260413T160000Z
+DTEND:20260413T170000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35005
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3500
+ 5
+STATUS:CONFIRMED
+CREATED:20260225T154014Z
+LAST-MODIFIED:20260302T213923Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Eternity (2025)Mon\, Apr 6 • 1-3pm • PG-13\, 112 mins • 
+ [D]In an afterlife where souls have one week to decide where to spend eter
+ nity\, Joan is faced with the impossible choice between the man she spent 
+ her life with and her first love\, who died young and has waited decades f
+ or her to arrive. Sinners (2025)Mon\, Apr 13 • 1-3:30pm • R\, 128 mi
+ ns • [D]Trying to leave their troubled lives behind\, twin brothers retu
+ rn to their hometown to start again\, only to discover that an even greate
+ r evil is waiting to welcome them back. Song Sung Blue (2025)Mon\, Apr 2
+ 0 • 1-3:30pm • PG-13\, 133 mins • [D]Two down-on-their-luck performe
+ rs form a Neil Diamond tribute band\, proving it's never too late to find 
+ love and follow your dreams. Hamnet (2025)Mon\, Apr 27 • 1-3:30pm • 
+ PG-13\, 125 mins • [D]William Shakespeare and his wife\, Agnes\, celebra
+ te the birth of their son\, Hamnet. However\, when tragedy strikes and Ham
+ net dies at a young age\, it inspires Shakespeare to write his timeless ma
+ sterpiece Hamlet.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260413T180000Z
+DTEND:20260413T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34908
+DTSTAMP:20260311T170246Z
+SUMMARY:Yes\, And! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/yes-and-r-34908
+STATUS:CONFIRMED
+CREATED:20260223T172629Z
+LAST-MODIFIED:20260224T171750Z
+DESCRIPTION:You be the storyteller! Come and play improv games in this fun 
+ acting program for kids.Grades K-5
+CATEGORIES:Fun & Games
+DTSTART:20260413T210000Z
+DTEND:20260413T214500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35154
+DTSTAMP:20260311T170246Z
+SUMMARY:Teen Creatives: Library Card Holders
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/teen-creatives-libra
+ ry-card-holders-35154
+STATUS:CONFIRMED
+CREATED:20260303T022754Z
+LAST-MODIFIED:20260303T023500Z
+DESCRIPTION:Take a walk on the creative side with teen-focused arts and cra
+ fts each month!April: decorate library card holders.
+CATEGORIES:Crafts\, Hobbies & DIY,Fun & Games
+DTSTART:20260413T233000Z
+DTEND:20260414T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34970
+DTSTAMP:20260311T170246Z
+SUMMARY:Financial Fitness: Buying a Home–The Basics with Open Communities
+  [Z]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/financial-fitness-bu
+ ying-home-basics-open-communities-z-34970
+STATUS:CONFIRMED
+CREATED:20260225T022020Z
+LAST-MODIFIED:20260302T212630Z
+DESCRIPTION:Presented as part of the Financial Fitness 2026 series\, this o
+ nline program provides an overview of what it takes to purchase a home. Th
+ is course covers what lenders look for in a loan application\, credit basi
+ cs\, down payments\, and the players in the home-buying process.This virtu
+ al program is part of Financial Fitness 2026\, a free financial literacy s
+ eries presented by BIG (Business Interest Group)\,a group of business libr
+ arians in the Chicago suburbs in support of the libraries’ mission of pr
+ oviding access to reliable information\; these virtual programs offer prac
+ tical tips and advice from experienced financial advisors.Register Here!
+CATEGORIES:STEAM,Adult Learning
+DTSTART:20260414T000000Z
+DTEND:20260414T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:34748
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 48
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260414T150000Z
+DTEND:20260414T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35000
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-35000
+STATUS:CONFIRMED
+CREATED:20260225T153607Z
+LAST-MODIFIED:20260302T213814Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.
+CATEGORIES:Fun & Games
+DTSTART:20260414T180000Z
+DTEND:20260414T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34756
+DTSTAMP:20260311T170246Z
+SUMMARY:International Snack Exploration
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/international-snack-
+ exploration-34756
+STATUS:CONFIRMED
+CREATED:20260218T190731Z
+LAST-MODIFIED:20260224T171831Z
+DESCRIPTION:Taste and rank snacks from around the world and learn about a n
+ ew country each month while you munch on unique foods!Grades 6-12
+CATEGORIES:History & Culture
+DTSTART:20260414T211500Z
+DTEND:20260414T220000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34971
+DTSTAMP:20260311T170246Z
+SUMMARY:Wills\, Trusts\, and Estate Planning Basics (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/wills-trusts-and-est
+ ate-planning-basics-r-34971
+STATUS:CONFIRMED
+CREATED:20260225T022151Z
+LAST-MODIFIED:20260302T212654Z
+DESCRIPTION:Learn from attorney Jacob K. Ehrensaft about wills\, trusts\, p
+ owers of attorney probate\, and guardianship. Take the first step to creat
+ e or update a plan that is appropriate for you.
+CATEGORIES:Adult Learning
+DTSTART:20260415T000000Z
+DTEND:20260415T013000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34675
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-34
+ 675
+STATUS:CONFIRMED
+CREATED:20260215T205345Z
+LAST-MODIFIED:20260224T171251Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260415T143000Z
+DTEND:20260415T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34987
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-34987
+STATUS:CONFIRMED
+CREATED:20260225T150912Z
+LAST-MODIFIED:20260302T212209Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260415T160000Z
+DTEND:20260415T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35153
+DTSTAMP:20260311T170246Z
+SUMMARY:Kid Creatives: Library Tote Bag
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/kid-creatives-librar
+ y-tote-bag-35153
+STATUS:CONFIRMED
+CREATED:20260303T021105Z
+LAST-MODIFIED:20260303T022132Z
+DESCRIPTION:Think creatively and take home your art in this upper-elementar
+ y-focused program!In April\, we’ll decorate a library tote bag.
+CATEGORIES:Crafts\, Hobbies & DIY,Fun & Games
+DTSTART:20260415T233000Z
+DTEND:20260416T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34972
+DTSTAMP:20260311T170246Z
+SUMMARY:You Can Brew It! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/you-can-brew-it-r-34
+ 972
+STATUS:CONFIRMED
+CREATED:20260225T022346Z
+LAST-MODIFIED:20260302T212725Z
+DESCRIPTION:Do you enjoy good quality craft beer? Home brewing is a fun and
+  rewarding hobby that is enjoyed by millions of people all over the world.
+  Award-winning master home brewer Scott Pointon will discuss the equipment
+ \, ingredients\, brewing process\, and resources available to would-be bre
+ w masters.
+CATEGORIES:Crafts\, Hobbies & DIY,Adult Learning
+DTSTART:20260415T233000Z
+DTEND:20260416T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34670
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-34670
+STATUS:CONFIRMED
+CREATED:20260215T205148Z
+LAST-MODIFIED:20260225T022651Z
+DESCRIPTION:This active story time features stories\, musical movement\, an
+ d games for 18- to 36-month-olds with a caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260416T150000Z
+DTEND:20260416T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34973
+DTSTAMP:20260311T170246Z
+SUMMARY:Gentle Moves for Strength & Stability (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/gentle-moves-strengt
+ h-stability-r-34973
+STATUS:CONFIRMED
+CREATED:20260225T022657Z
+LAST-MODIFIED:20260302T212758Z
+DESCRIPTION:This gentle movement class is designed to help adults improve m
+ obility\, balance\, and body awareness. Participants will be guided throug
+ h light exercises that focus on activating key muscle groups while relaxin
+ g others\, helping to build better control and coordination for everyday m
+ ovement. Participants must bring their own yoga mat or a beach towel. Wear
+  comfy clothes and shoes!
+CATEGORIES:Health & Wellness
+DTSTART:20260416T150000Z
+DTEND:20260416T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34996
+DTSTAMP:20260311T170246Z
+SUMMARY:Afternoon Scrabble! (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/afternoon-scrabble-r
+ -34996
+STATUS:CONFIRMED
+CREATED:20260225T152704Z
+LAST-MODIFIED:20260302T213657Z
+DESCRIPTION:Enjoy a fun and relaxed game of Scrabble at the library. All ex
+ perience levels are welcome\, from seasoned word lovers to first time play
+ ers. The boards and tiles are provided\, just bring your love of words and
+  get ready to strategize and score.
+CATEGORIES:Fun & Games
+DTSTART:20260416T180000Z
+DTEND:20260416T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34757
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Paint Night (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-paint-night-3
+ 4757
+STATUS:CONFIRMED
+CREATED:20260218T190819Z
+LAST-MODIFIED:20260224T171921Z
+DESCRIPTION:Create beautiful masterpieces together using step-by-step paint
+ ing. Please register each family member that will be attending.Ages 5+
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260416T230000Z
+DTEND:20260417T000000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34975
+DTSTAMP:20260311T170246Z
+SUMMARY:Illinois Libraries Presents: Cristina Henríquez - Voice\, Culture\
+ , and Human Connection [ZOOM ONLY]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/illinois-libraries-p
+ resents-cristina-henriquez-voice-culture-and-human-connection-zoom-only
+STATUS:CONFIRMED
+CREATED:20260225T023141Z
+LAST-MODIFIED:20260302T212849Z
+DESCRIPTION:In this online interview\, critically acclaimed\, bestselling a
+ uthor\, Cristina Henríquez\, will discuss her work. Henríquez’s newest
+  book\, The Great Divide\, is a moving exploration of the people who live
+ d\, loved\, and labored during the construction of the Panama Canal. Named
+  a New York Times Editors’ Choice selection and TIME Magazine “100 M
+ ust-Read Books of 2024\,” The Great Divide explores history and adversit
+ y in a place very special to her–her father’s homeland of Panama. Thi
+ s program will not be shown in person at the library. Register Here!This 
+ is an online event\, made possible by Illinois Libraries Present\, a state
+ wide collaboration between public libraries\, including Lincolnwood Public
+  Library.
+CATEGORIES:Book Discussions,Adult Learning
+DTSTART:20260417T000000Z
+DTEND:20260417T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:34693
+DTSTAMP:20260311T170246Z
+SUMMARY:Yoga for Tots
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/yoga-tots-34693
+STATUS:CONFIRMED
+CREATED:20260215T213622Z
+LAST-MODIFIED:20260224T172040Z
+DESCRIPTION:Keyla Ortiz\, certified yoga instructor\, introduces children a
+ ges 0-5 and their caregivers to yoga poses through play. Please arrive on
+  time as space may be limited.Ages 0-5 with caregiver.
+CATEGORIES:Health & Wellness
+DTSTART:20260417T150000Z
+DTEND:20260417T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34703
+DTSTAMP:20260311T170246Z
+SUMMARY:Saturday Stories and Playtime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/saturday-stories-and
+ -playtime-34703
+STATUS:CONFIRMED
+CREATED:20260216T163932Z
+LAST-MODIFIED:20260224T172111Z
+DESCRIPTION:Kick off the weekend with a special Saturday storytime\, follow
+ ed by open playtime with the library’s collection of toys.Ages 0-5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260418T150000Z
+DTEND:20260418T154500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34573
+DTSTAMP:20260311T170246Z
+SUMMARY:Nintendo Switch 2 Free Play
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/nintendo-switch-2-fr
+ ee-play-34573
+STATUS:CONFIRMED
+CREATED:20260212T213432Z
+LAST-MODIFIED:20260224T172142Z
+DESCRIPTION:Saturdays are for Switch 2. Experience the latest and greatest 
+ Nintendo Switch 2 games with snacks and candy.GRADES 6-8
+CATEGORIES:Fun & Games
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34924
+DTSTAMP:20260311T170246Z
+SUMMARY:A Seed Called Hope
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/seed-called-hope-349
+ 24
+STATUS:CONFIRMED
+CREATED:20260223T180403Z
+LAST-MODIFIED:20260224T172206Z
+DESCRIPTION:Join us for a joyful celebration for families to enjoy together
+  that brings themes of hope\, growth\, and caring for our world.All ages a
+ re wlecome.
+CATEGORIES:Storytimes & Early Learning,Special Events
+DTSTART:20260419T190000Z
+DTEND:20260419T194500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34992
+DTSTAMP:20260311T170246Z
+SUMMARY:Intermediate Crochet: Flower Granny Square (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/intermediate-crochet
+ -flower-granny-square-c-34992
+STATUS:CONFIRMED
+CREATED:20260225T151849Z
+LAST-MODIFIED:20260302T213403Z
+DESCRIPTION:Take your crochet skills to the next level! This workshop focus
+ es on creating flower granny squares and is perfect for those already comf
+ ortable with basic stitches.This event is for Lincolnwood Library cardhold
+ ers.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260419T190000Z
+DTEND:20260419T203000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34658
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-34658
+STATUS:CONFIRMED
+CREATED:20260215T204303Z
+LAST-MODIFIED:20260224T170859Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets\, and more.Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260420T143000Z
+DTEND:20260420T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35006
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3500
+ 6
+STATUS:CONFIRMED
+CREATED:20260225T154014Z
+LAST-MODIFIED:20260302T213930Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Eternity (2025)Mon\, Apr 6 • 1-3pm • PG-13\, 112 mins • 
+ [D]In an afterlife where souls have one week to decide where to spend eter
+ nity\, Joan is faced with the impossible choice between the man she spent 
+ her life with and her first love\, who died young and has waited decades f
+ or her to arrive. Sinners (2025)Mon\, Apr 13 • 1-3:30pm • R\, 128 mi
+ ns • [D]Trying to leave their troubled lives behind\, twin brothers retu
+ rn to their hometown to start again\, only to discover that an even greate
+ r evil is waiting to welcome them back. Song Sung Blue (2025)Mon\, Apr 2
+ 0 • 1-3:30pm • PG-13\, 133 mins • [D]Two down-on-their-luck performe
+ rs form a Neil Diamond tribute band\, proving it's never too late to find 
+ love and follow your dreams. Hamnet (2025)Mon\, Apr 27 • 1-3:30pm • 
+ PG-13\, 125 mins • [D]William Shakespeare and his wife\, Agnes\, celebra
+ te the birth of their son\, Hamnet. However\, when tragedy strikes and Ham
+ net dies at a young age\, it inspires Shakespeare to write his timeless ma
+ sterpiece Hamlet.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260420T180000Z
+DTEND:20260420T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34749
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 49
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260225T152145Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260421T150000Z
+DTEND:20260421T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34993
+DTSTAMP:20260311T170246Z
+SUMMARY:Sunrise Painting Workshop for Older Adults (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/sunrise-painting-wor
+ kshop-older-adults-r-34993
+STATUS:CONFIRMED
+CREATED:20260225T152041Z
+LAST-MODIFIED:20260302T213441Z
+DESCRIPTION:Artist and Lincolnwood resident Shirley Aberg\, who has exhibit
+ ed her work all around the world\, returns to lead a workshop on painting 
+ a sunrise. Choose from a variety of inspirations and let your creativity g
+ uide your work. Shirley will be available for advice and tips along the wa
+ y. Shirley Aberg was a school counselor for 25 years but has always dabbl
+ ed in art. She painted watercolors for several years and multimedia (paste
+ ls and collages). Recently\, she's begun painting with acrylic. A native o
+ f Chicago\, Shirley has exhibited and sold her art in Illinois\, Florida\,
+  California\, New York\, and England.
+CATEGORIES:Crafts\, Hobbies & DIY,Adult Learning
+DTSTART:20260421T153000Z
+DTEND:20260421T170000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35001
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-35001
+STATUS:CONFIRMED
+CREATED:20260225T153607Z
+LAST-MODIFIED:20260302T213823Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.
+CATEGORIES:Fun & Games
+DTSTART:20260421T180000Z
+DTEND:20260421T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34576
+DTSTAMP:20260311T170246Z
+SUMMARY:Tween & Teen Yoga (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tween-teen-yoga-3457
+ 6
+STATUS:CONFIRMED
+CREATED:20260212T213856Z
+LAST-MODIFIED:20260224T172239Z
+DESCRIPTION:Slow down and take a moment for yourself\, away from screens an
+ d your feed. Keyla Ortiz\, a certified yoga instructor\, will guide you th
+ rough gentle yoga poses to help you feel grounded and calm. Please arrive
+  on time\, as space may be limited.GRADES 6-12
+CATEGORIES:Health & Wellness
+DTSTART:20260422T000000Z
+DTEND:20260422T004500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34976
+DTSTAMP:20260311T170246Z
+SUMMARY:Financial Fitness: Retirement Reality with Jill Schlesinger [Z]
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/financial-fitness-re
+ tirement-reality-jill-schlesinger-z-34976
+STATUS:CONFIRMED
+CREATED:20260225T023339Z
+LAST-MODIFIED:20260302T212920Z
+DESCRIPTION:Presented as part of the Financial Fitness 2026 series\, this o
+ nline program features CBS News Business Analyst Jill Schlesinger\, CFP\, 
+ discussing practical steps toward retirement planning. The program address
+ es strategies for those early in their careers as well as those preparing 
+ to wind down\, helping demystify personal finances and build confidence fo
+ r the future.This virtual program is part of Financial Fitness 2026\, a fr
+ ee financial literacy series presented by BIG (Business Interest Group)\,a
+  group of business librarians in the Chicago suburbs in support of the lib
+ raries’ mission of providing access to reliable information\; these virt
+ ual programs offer practical tips and advice from experienced financial ad
+ visors.Register Here!
+CATEGORIES:STEAM,Adult Learning
+DTSTART:20260422T000000Z
+DTEND:20260422T010000Z
+LOCATION:US
+END:VEVENT
+BEGIN:VEVENT
+UID:34676
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-34
+ 676
+STATUS:CONFIRMED
+CREATED:20260215T205345Z
+LAST-MODIFIED:20260224T171251Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260422T143000Z
+DTEND:20260422T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34988
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-34988
+STATUS:CONFIRMED
+CREATED:20260225T150912Z
+LAST-MODIFIED:20260302T212219Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260422T160000Z
+DTEND:20260422T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34994
+DTSTAMP:20260311T170246Z
+SUMMARY:Counting Nails\, Crossing Strings & Creating Magic with Pinlura Cre
+ ation (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/counting-nails-cross
+ ing-strings-creating-magic-pinlura-creation-c-34994
+STATUS:CONFIRMED
+CREATED:20260225T152309Z
+LAST-MODIFIED:20260302T213511Z
+DESCRIPTION:Explore the intersection of math and creativity through string 
+ art. Learn patterns\, counting\, and geometry while crafting a unique hand
+ made design.This event is for Lincolnwood Library cardholders.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260422T233000Z
+DTEND:20260423T013000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34671
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-34671
+STATUS:CONFIRMED
+CREATED:20260215T205148Z
+LAST-MODIFIED:20260224T171413Z
+DESCRIPTION:This active story time features stories\, musical movement\, an
+ d games for 18- to 36-month-olds with a caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260423T150000Z
+DTEND:20260423T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34915
+DTSTAMP:20260311T170246Z
+SUMMARY:Checkmates! Chess Club (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/checkmates-chess-clu
+ b-r-34915
+STATUS:CONFIRMED
+CREATED:20260223T173958Z
+LAST-MODIFIED:20260224T172341Z
+DESCRIPTION:Develop your chess game with experienced instructor Chris Chris
+ tmas. All skill levels are welcome!Grades K-5.
+CATEGORIES:STEAM,Fun & Games
+DTSTART:20260423T233000Z
+DTEND:20260424T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34977
+DTSTAMP:20260311T170246Z
+SUMMARY:Easy Does It Yoga (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/easy-does-it-yoga-r-
+ 34977
+STATUS:CONFIRMED
+CREATED:20260225T023525Z
+LAST-MODIFIED:20260302T212950Z
+DESCRIPTION:Easy Does It Yoga is back in person! Join certified yoga instru
+ ctor Joan McGee for yoga\, a practice that can improve your flexibility\, 
+ concentration\, and strength\, while boosting your mood and reducing stres
+ s and joint strain. Participants must bring their own yoga mat or a beach 
+ towel. Yoga blocks are optional. All experience levels are welcome. Wear c
+ omfy clothes and shoes!
+CATEGORIES:Health & Wellness
+DTSTART:20260423T233000Z
+DTEND:20260424T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34687
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 687
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260424T150000Z
+DTEND:20260424T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34921
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Movie
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-movie-
+ 34921
+STATUS:CONFIRMED
+CREATED:20260223T175821Z
+LAST-MODIFIED:20260224T170621Z
+DESCRIPTION:Watch a movie with us at the library. Popcorn provided.4/3: Ho
+ w to Train Your Dragon (2010)4/24: Tangled (2010)
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260424T190000Z
+DTEND:20260424T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34979
+DTSTAMP:20260311T170246Z
+SUMMARY:Sunday Afternoon with Lakeside Flutes (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/sunday-afternoon-lak
+ eside-flutes-r-34979
+STATUS:CONFIRMED
+CREATED:20260225T023937Z
+LAST-MODIFIED:20260302T213020Z
+DESCRIPTION:Lakeside Flutes\, a flute choir founded in 1987\, is an ensembl
+ e of flutists from the greater Chicago area. They introduce the public to 
+ a wide variety of flute literature from the styles of classical\, pop\, ja
+ zz\, and contemporary.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260426T190000Z
+DTEND:20260426T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34659
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-34659
+STATUS:CONFIRMED
+CREATED:20260215T204303Z
+LAST-MODIFIED:20260224T170859Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets\, and more.Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260427T143000Z
+DTEND:20260427T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35007
+DTSTAMP:20260311T170246Z
+SUMMARY:Monday Matinees
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/monday-matinees-3500
+ 7
+STATUS:CONFIRMED
+CREATED:20260225T154014Z
+LAST-MODIFIED:20260302T213938Z
+DESCRIPTION:Enjoy great films at your library every Monday! Doors open at 1
+ 2:45pm.  Eternity (2025)Mon\, Apr 6 • 1-3pm • PG-13\, 112 mins • 
+ [D]In an afterlife where souls have one week to decide where to spend eter
+ nity\, Joan is faced with the impossible choice between the man she spent 
+ her life with and her first love\, who died young and has waited decades f
+ or her to arrive. Sinners (2025)Mon\, Apr 13 • 1-3:30pm • R\, 128 mi
+ ns • [D]Trying to leave their troubled lives behind\, twin brothers retu
+ rn to their hometown to start again\, only to discover that an even greate
+ r evil is waiting to welcome them back. Song Sung Blue (2025)Mon\, Apr 2
+ 0 • 1-3:30pm • PG-13\, 133 mins • [D]Two down-on-their-luck performe
+ rs form a Neil Diamond tribute band\, proving it's never too late to find 
+ love and follow your dreams. Hamnet (2025)Mon\, Apr 27 • 1-3:30pm • 
+ PG-13\, 125 mins • [D]William Shakespeare and his wife\, Agnes\, celebra
+ te the birth of their son\, Hamnet. However\, when tragedy strikes and Ham
+ net dies at a young age\, it inspires Shakespeare to write his timeless ma
+ sterpiece Hamlet.
+CATEGORIES:Movies\, Music & Entertainment
+DTSTART:20260427T180000Z
+DTEND:20260427T204500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34913
+DTSTAMP:20260311T170246Z
+SUMMARY:Pokémon Battle Academy (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/pokemon-battle-acade
+ my-r-34913
+STATUS:CONFIRMED
+CREATED:20260223T173610Z
+LAST-MODIFIED:20260224T172455Z
+DESCRIPTION:Learn how to play the Pokémon Trading Card game! It is not nec
+ essary to have your own cards to come and play.Grades K-5.
+CATEGORIES:Fun & Games
+DTSTART:20260427T210000Z
+DTEND:20260427T214500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:26044
+DTSTAMP:20260311T170246Z
+SUMMARY:Regular Board Meeting
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/regular-board-meetin
+ g-26044
+STATUS:CONFIRMED
+CREATED:20250421T165411Z
+LAST-MODIFIED:20250624T182821Z
+DESCRIPTION:Regular Board Meeting
+CATEGORIES:Board Meetings
+DTSTART:20260427T230000Z
+DTEND:20260428T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34984
+DTSTAMP:20260311T170246Z
+SUMMARY:Books in the Woods (R) (Hybrid)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/books-woods-r-hybrid
+ -34984
+STATUS:CONFIRMED
+CREATED:20260225T150640Z
+LAST-MODIFIED:20260302T213243Z
+DESCRIPTION:This month we will be reading What Strange Paradise by Omar El
+  Akkad.This novel is the story of Amir\, a Syrian refugee who washes up on
+  an island after the ship he was escaping on collapses\, and Vanna\, the t
+ eenage girl native to the island who finds him. Though Vanna and Amir are 
+ complete strangers\, though they don't speak a common language\, Vanna is 
+ determined to do whatever it takes to save the boy.Registration required t
+ o receive Zoom information.
+CATEGORIES:Book Discussions
+DTSTART:20260428T000000Z
+DTEND:20260428T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34750
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 50
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260428T150000Z
+DTEND:20260428T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35002
+DTSTAMP:20260311T170246Z
+SUMMARY:Mah Jongg
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/mah-jongg-35002
+STATUS:CONFIRMED
+CREATED:20260225T153607Z
+LAST-MODIFIED:20260302T213832Z
+DESCRIPTION:Meet other enthusiasts and play the Chinese tile-based game of 
+ Mah Jongg. Beginners welcome.
+CATEGORIES:Fun & Games
+DTSTART:20260428T180000Z
+DTEND:20260428T200000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34980
+DTSTAMP:20260311T170246Z
+SUMMARY:The Life and Times of Babe Ruth (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/life-and-times-babe-
+ ruth-r-34980
+STATUS:CONFIRMED
+CREATED:20260225T024157Z
+LAST-MODIFIED:20260302T213102Z
+DESCRIPTION:Gary Livacari presents a look at the life and times of Babe Rut
+ h\, from his difficult early childhood and years at St. Mary’s Industria
+ l School for Boys\, to his rise as one of baseball’s most iconic figures
+ . The program also highlights Ruth’s personal journey and the relationsh
+ ips that shaped his life beyond the ballpark.
+CATEGORIES:Adult Learning
+DTSTART:20260428T233000Z
+DTEND:20260429T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34677
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-34
+ 677
+STATUS:CONFIRMED
+CREATED:20260215T205345Z
+LAST-MODIFIED:20260224T171251Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260429T143000Z
+DTEND:20260429T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34989
+DTSTAMP:20260311T170246Z
+SUMMARY:Knitting Social Circle
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/knitting-social-circ
+ le-34989
+STATUS:CONFIRMED
+CREATED:20260225T150912Z
+LAST-MODIFIED:20260302T212231Z
+DESCRIPTION:Share tips and show off your work with needle-art enthusiasts.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260429T160000Z
+DTEND:20260429T173000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34917
+DTSTAMP:20260311T170246Z
+SUMMARY:Masterpiece Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/masterpiece-storytim
+ e-34917
+STATUS:CONFIRMED
+CREATED:20260223T174311Z
+LAST-MODIFIED:20260224T172533Z
+DESCRIPTION:All ages are welcome to this cozy\, classic storytime. Snuggle 
+ up as we read aloud picture book masterpieces.April books: The Carrot See
+ d by Ruth Krauss\, Planting a Rainbow by Louise Ehlert\, The Bad Seed by
+  Jory JohnMay books: Up in the Garden and Down in the Dirt by Kate Messn
+ er\, A Seed Is Sleepy by Dianna Hutts Aston\, The Grumpy Ladybug by Eri
+ c Carle.Ages 0-10 with caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260429T233000Z
+DTEND:20260430T001500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34995
+DTSTAMP:20260311T170246Z
+SUMMARY:Decoupage Trinket Box (C)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/decoupage-trinket-bo
+ x-c-34995
+STATUS:CONFIRMED
+CREATED:20260225T152521Z
+LAST-MODIFIED:20260302T213601Z
+DESCRIPTION:In this workshop with Liz from BrentArt\, you will learn the ar
+ t of decoupage to decorate your own wooden trinket box.This event is for L
+ incolnwood Library cardholders.
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260429T233000Z
+DTEND:20260430T010000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34672
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-34672
+STATUS:CONFIRMED
+CREATED:20260215T205148Z
+LAST-MODIFIED:20260224T171413Z
+DESCRIPTION:This active story time features stories\, musical movement\, an
+ d games for 18- to 36-month-olds with a caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260430T150000Z
+DTEND:20260430T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34759
+DTSTAMP:20260311T170246Z
+SUMMARY:Potato Fashion Show (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/potato-fashion-show-
+ 34759
+STATUS:CONFIRMED
+CREATED:20260218T191721Z
+LAST-MODIFIED:20260224T172617Z
+DESCRIPTION:Outfit and accessorize your potato to create a fabulous look fo
+ r the runway using fabrics and no-heat glue guns. Potatoes will be provide
+ d. Grades 2-5
+CATEGORIES:Crafts\, Hobbies & DIY
+DTSTART:20260430T210000Z
+DTEND:20260430T220000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34688
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 688
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260501T150000Z
+DTEND:20260501T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34926
+DTSTAMP:20260311T170246Z
+SUMMARY:Free Comic Book Day (R)
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/free-comic-book-day-
+ r-34926
+STATUS:CONFIRMED
+CREATED:20260223T181133Z
+LAST-MODIFIED:20260224T172708Z
+DESCRIPTION:Saturday May 2\, is Free Comic Book Day! Head to Lincolnwood Li
+ brary and pick up your free comic book courtesy of a generous donation fro
+ m Zombie Unicorn Comics (while supplies last). Stay for comic-themed craft
+ s and a visit from a web-slinging superhero and a Pokémon trainer.Grades 
+ K-12.
+CATEGORIES:Movies\, Music & Entertainment,Special Events,Fun & Games
+DTSTART:20260502T190000Z
+DTEND:20260502T210000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:YTS
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34660
+DTSTAMP:20260311T170246Z
+SUMMARY:Book Babies
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/book-babies-34660
+STATUS:CONFIRMED
+CREATED:20260215T204303Z
+LAST-MODIFIED:20260224T170859Z
+DESCRIPTION:Play and learn with your baby during this interactive lap-sit u
+ sing rhymes\, songs\, board books\, puppets\, and more.Ages 0-18 months wi
+ th caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260504T143000Z
+DTEND:20260504T150000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34751
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 51
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260505T150000Z
+DTEND:20260505T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34678
+DTSTAMP:20260311T170246Z
+SUMMARY:Musical Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/musical-storytime-34
+ 678
+STATUS:CONFIRMED
+CREATED:20260215T205345Z
+LAST-MODIFIED:20260224T171251Z
+DESCRIPTION:Sing and dance along at this musical storytime led by Michael
+ ’s Music Machine. Tickets are required for this program\, see here for
+  details.Ages 0 to 5
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260506T143000Z
+DTEND:20260506T151500Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34673
+DTSTAMP:20260311T170246Z
+SUMMARY:Tales and Tunes for Toddlers
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/tales-and-tunes-todd
+ lers-34673
+STATUS:CONFIRMED
+CREATED:20260215T205148Z
+LAST-MODIFIED:20260224T171413Z
+DESCRIPTION:This active story time features stories\, musical movement\, an
+ d games for 18- to 36-month-olds with a caregiver.
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260507T150000Z
+DTEND:20260507T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34689
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 689
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260508T150000Z
+DTEND:20260508T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35156
+DTSTAMP:20260311T170246Z
+SUMMARY:Teen Creatives: Summer Vision
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/teen-creatives-summe
+ r-vision-35156
+STATUS:CONFIRMED
+CREATED:20260303T024313Z
+LAST-MODIFIED:20260303T024313Z
+DESCRIPTION:Take a walk on the creative side with teen-focused arts and cra
+ fts each month!May: make summer vision boards.
+CATEGORIES:Crafts\, Hobbies & DIY,Fun & Games
+DTSTART:20260511T233000Z
+DTEND:20260512T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34752
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 52
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260512T150000Z
+DTEND:20260512T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:35157
+DTSTAMP:20260311T170246Z
+SUMMARY:Kid Creatives: Seed Paper
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/kid-creatives-librar
+ y-tote-bag-35157
+STATUS:CONFIRMED
+CREATED:20260303T024544Z
+LAST-MODIFIED:20260303T024620Z
+DESCRIPTION:Think creatively and take home your art in this upper-elementar
+ y-focused program!In May\, we’ll make seed paper.
+CATEGORIES:Crafts\, Hobbies & DIY,Fun & Games
+DTSTART:20260513T233000Z
+DTEND:20260514T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room C
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:26045
+DTSTAMP:20260311T170246Z
+SUMMARY:Regular Board Meeting
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/regular-board-meetin
+ g-26045
+STATUS:CONFIRMED
+CREATED:20250421T165436Z
+LAST-MODIFIED:20250624T182856Z
+DESCRIPTION:Regular Board Meeting
+CATEGORIES:Board Meetings
+DTSTART:20260518T230000Z
+DTEND:20260519T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34753
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 53
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260519T150000Z
+DTEND:20260519T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34690
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 690
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260522T150000Z
+DTEND:20260522T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:28221
+DTSTAMP:20260311T170246Z
+SUMMARY:Library Closed-Memorial Day
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/library-closed-memor
+ ial-day-28221
+STATUS:CONFIRMED
+CREATED:20250703T180647Z
+LAST-MODIFIED:20250703T180712Z
+DTSTART:20260524T050000Z
+DTEND:20260525T050000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34754
+DTSTAMP:20260311T170246Z
+SUMMARY:Family Storytime
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/family-storytime-347
+ 54
+STATUS:CONFIRMED
+CREATED:20260218T190235Z
+LAST-MODIFIED:20260224T171126Z
+DESCRIPTION:Read stories\, sing songs\, and play games at this all-ages sto
+ rytime. Ages 0-5 with caregiver
+CATEGORIES:Storytimes & Early Learning
+DTSTART:20260526T150000Z
+DTEND:20260526T153000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34691
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 691
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260529T150000Z
+DTEND:20260529T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:34692
+DTSTAMP:20260311T170246Z
+SUMMARY:Friday Family Fun
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/friday-family-fun-34
+ 692
+STATUS:CONFIRMED
+CREATED:20260215T213117Z
+LAST-MODIFIED:20260224T171528Z
+DESCRIPTION:Your little ones will love this fun\, weekly playgroup\, as you
+  connect with other caregivers. We provide toys and coffee for your enjoym
+ ent. Yoga for Tots occurs on 4/17 and 5/15. Ages 0-5 with caregiver.
+CATEGORIES:Crafts\, Hobbies & DIY,STEAM
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:28222
+DTSTAMP:20260311T170246Z
+SUMMARY:Library Closed-Juneteenth
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/library-closed-junet
+ eenth-28222
+STATUS:CONFIRMED
+CREATED:20250703T180716Z
+LAST-MODIFIED:20250703T180738Z
+DTSTART:20260619T050000Z
+DTEND:20260619T050000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+GEO:42.0047721;-87.7292067
+END:VEVENT
+BEGIN:VEVENT
+UID:26046
+DTSTAMP:20260311T170246Z
+SUMMARY:Regular Board Meeting
+URL;VALUE=URI:https://www.lincolnwoodlibrary.org/event/regular-board-meetin
+ g-26046
+STATUS:CONFIRMED
+CREATED:20250421T165459Z
+LAST-MODIFIED:20250624T182920Z
+DESCRIPTION:Regular Board Meeting
+CATEGORIES:Board Meetings
+DTSTART:20260622T230000Z
+DTEND:20260623T003000Z
+LOCATION:4000 W. Pratt Ave.\, Lincolnwood\, IL\, 60712\, US
+ROOM:Meeting Room A/B
+GEO:42.0047721;-87.7292067
+END:VEVENT
+END:VCALENDAR

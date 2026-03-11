@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T16:31:43.609814",
+  "generated": "2026-03-11T17:04:45.617463",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -37307,6 +37307,273 @@
             "source": "JCCSF, Jccsf",
             "events": 3,
             "unique_urls": 3,
+            "specificity_pct": 100
+          }
+        ]
+      }
+    },
+    "evanston": {
+      "feeds": {
+        "evanston_history_center": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 26
+            }
+          ]
+        },
+        "lincolnwood_library": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 160
+            }
+          ]
+        },
+        "meetup_af_northshore": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_black_girls_read": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 2
+            }
+          ]
+        },
+        "meetup_board_games": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 3
+            }
+          ]
+        },
+        "meetup_evanston_writers": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 10
+            }
+          ]
+        },
+        "morton_grove_library": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 235
+            }
+          ]
+        },
+        "north_shore_center": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 26
+            }
+          ]
+        },
+        "oakton_college": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 421
+            }
+          ]
+        },
+        "skokie_library": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 454
+            }
+          ]
+        }
+      },
+      "categories": [
+        {
+          "category": "Family / Kids",
+          "count": 302
+        },
+        {
+          "category": "Education / Workshops",
+          "count": 274
+        },
+        {
+          "category": "Community / Social",
+          "count": 108
+        },
+        {
+          "category": "Books / Literature / Poetry",
+          "count": 80
+        },
+        {
+          "category": "Government / Civic",
+          "count": 56
+        },
+        {
+          "category": "(uncategorized)",
+          "count": 51
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 48
+        },
+        {
+          "category": "Film / Cinema",
+          "count": 48
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 40
+        },
+        {
+          "category": "History / Heritage",
+          "count": 39
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 19
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 18
+        },
+        {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 15
+        },
+        {
+          "category": "Food / Drink",
+          "count": 11
+        },
+        {
+          "category": "Comedy / Improv",
+          "count": 4
+        },
+        {
+          "category": "Religion / Spirituality",
+          "count": 2
+        },
+        {
+          "category": "Sports / Fitness",
+          "count": 1
+        }
+      ],
+      "images": {
+        "total": 1116,
+        "with_image": 97,
+        "by_source": [
+          {
+            "source": "Morton Grove Library",
+            "total": 211,
+            "with_image": 70
+          },
+          {
+            "source": "Meetup Af Northshore",
+            "total": 10,
+            "with_image": 10
+          },
+          {
+            "source": "Meetup Evanston Writers",
+            "total": 10,
+            "with_image": 10
+          },
+          {
+            "source": "Meetup: Yolo Board Game Gathering",
+            "total": 3,
+            "with_image": 3
+          },
+          {
+            "source": "Evanston History Center",
+            "total": 26,
+            "with_image": 2
+          },
+          {
+            "source": "Meetup Black Girls Read",
+            "total": 2,
+            "with_image": 2
+          }
+        ]
+      },
+      "url_quality": {
+        "total_with_url": 1116,
+        "total_events": 1116,
+        "unique_urls": 1072,
+        "generic_count": 0,
+        "generic_domains": [],
+        "http_count": 0,
+        "http_domains": 0,
+        "source_specificity": [
+          {
+            "source": "Skokie Library",
+            "events": 438,
+            "unique_urls": 438,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Oakton College",
+            "events": 235,
+            "unique_urls": 191,
+            "specificity_pct": 81
+          },
+          {
+            "source": "Morton Grove Library",
+            "events": 211,
+            "unique_urls": 211,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Lincolnwood Library",
+            "events": 158,
+            "unique_urls": 158,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Evanston History Center",
+            "events": 26,
+            "unique_urls": 26,
+            "specificity_pct": 100
+          },
+          {
+            "source": "North Shore Center",
+            "events": 22,
+            "unique_urls": 22,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Af Northshore",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Evanston Writers",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup: Yolo Board Game Gathering",
+            "events": 3,
+            "unique_urls": 3,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Black Girls Read",
+            "events": 2,
+            "unique_urls": 2,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Morton Grove Library, Skokie Library",
+            "events": 1,
+            "unique_urls": 1,
             "specificity_pct": 100
           }
         ]
