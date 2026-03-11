@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       locations:
-        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,jweekly or "all")'
+        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,jweekly,evanston or "all")'
         required: false
         default: 'all'
       regenerate_only:
@@ -821,6 +821,21 @@ jobs:
         python scripts/combine_ics.py --input-dir cities/jweekly --output cities/jweekly/combined.ics --name "JWeekly Community Calendar"
 
     # ==========================================
+    # Evanston, IL
+    # ==========================================
+    - name: Download Evanston feeds
+      if: contains(steps.locations.outputs.list, 'evanston')
+      run: |
+        cd cities/evanston
+        # Placeholder — feeds will be added as sources are discovered
+        cd ../..
+
+    - name: Combine Evanston ICS
+      if: contains(steps.locations.outputs.list, 'evanston')
+      run: |
+        python scripts/combine_ics.py --input-dir cities/evanston --output cities/evanston/combined.ics --name "Evanston Community Calendar"
+
+    # ==========================================
     # Post-processing (all cities)
     # ==========================================
     - name: Convert ICS to JSON for Supabase
@@ -885,7 +900,7 @@ jobs:
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         
         # Save generated files before any git operations
-        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly; do
+        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
           if [ -f "cities/$city/events.json" ]; then
             cp "cities/$city/events.json" "/tmp/${city}_events.json"
           fi
@@ -904,7 +919,7 @@ jobs:
             fi
             echo "Push failed, restoring generated files and retrying..."
             # Restore generated files that may have been clobbered by rebase
-            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly; do
+            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
               if [ -f "/tmp/${city}_events.json" ]; then
                 cp "/tmp/${city}_events.json" "cities/$city/events.json"
               fi
