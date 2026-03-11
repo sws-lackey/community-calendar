@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-11T17:04:45.617463",
+  "generated": "2026-03-11T17:11:50.840094",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -37393,72 +37393,112 @@
               "count": 454
             }
           ]
+        },
+        "beth_emet": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 30
+            }
+          ]
+        },
+        "meetup_drum_circle": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_trivia_nerds": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 1
+            }
+          ]
+        },
+        "skokie_community": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 26
+            }
+          ]
+        },
+        "winnetka_northfield_library": {
+          "history": [
+            {
+              "date": "2026-03-11",
+              "count": 270
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Family / Kids",
-          "count": 302
+          "count": 433
         },
         {
           "category": "Education / Workshops",
-          "count": 274
+          "count": 331
         },
         {
           "category": "Community / Social",
-          "count": 108
+          "count": 133
         },
         {
           "category": "Books / Literature / Poetry",
-          "count": 80
-        },
-        {
-          "category": "Government / Civic",
-          "count": 56
-        },
-        {
-          "category": "(uncategorized)",
-          "count": 51
+          "count": 101
         },
         {
           "category": "Arts / Culture",
-          "count": 48
+          "count": 75
         },
         {
-          "category": "Film / Cinema",
-          "count": 48
+          "category": "Government / Civic",
+          "count": 71
         },
         {
           "category": "Health / Wellness",
-          "count": 40
+          "count": 59
+        },
+        {
+          "category": "Film / Cinema",
+          "count": 56
         },
         {
           "category": "History / Heritage",
-          "count": 39
-        },
-        {
-          "category": "Dance / Performance",
-          "count": 19
+          "count": 51
         },
         {
           "category": "Music / Concerts",
+          "count": 29
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 21
+        },
+        {
+          "category": "(uncategorized)",
+          "count": 19
+        },
+        {
+          "category": "Food / Drink",
           "count": 18
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 15
-        },
-        {
-          "category": "Food / Drink",
-          "count": 11
-        },
-        {
-          "category": "Comedy / Improv",
-          "count": 4
+          "count": 16
         },
         {
           "category": "Religion / Spirituality",
-          "count": 2
+          "count": 15
+        },
+        {
+          "category": "Comedy / Improv",
+          "count": 5
         },
         {
           "category": "Sports / Fitness",
@@ -37466,13 +37506,23 @@
         }
       ],
       "images": {
-        "total": 1116,
-        "with_image": 97,
+        "total": 1434,
+        "with_image": 251,
         "by_source": [
+          {
+            "source": "Winnetka Northfield Library",
+            "total": 252,
+            "with_image": 120
+          },
           {
             "source": "Morton Grove Library",
             "total": 211,
             "with_image": 70
+          },
+          {
+            "source": "Beth Emet",
+            "total": 29,
+            "with_image": 23
           },
           {
             "source": "Meetup Af Northshore",
@@ -37481,6 +37531,11 @@
           },
           {
             "source": "Meetup Evanston Writers",
+            "total": 10,
+            "with_image": 10
+          },
+          {
+            "source": "Meetup Drum Circle",
             "total": 10,
             "with_image": 10
           },
@@ -37498,13 +37553,18 @@
             "source": "Meetup Black Girls Read",
             "total": 2,
             "with_image": 2
+          },
+          {
+            "source": "Meetup Trivia Nerds",
+            "total": 1,
+            "with_image": 1
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 1116,
-        "total_events": 1116,
-        "unique_urls": 1072,
+        "total_with_url": 1434,
+        "total_events": 1434,
+        "unique_urls": 1390,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -37512,8 +37572,14 @@
         "source_specificity": [
           {
             "source": "Skokie Library",
-            "events": 438,
-            "unique_urls": 438,
+            "events": 434,
+            "unique_urls": 434,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Winnetka Northfield Library",
+            "events": 252,
+            "unique_urls": 252,
             "specificity_pct": 100
           },
           {
@@ -37530,12 +37596,24 @@
           },
           {
             "source": "Lincolnwood Library",
-            "events": 158,
-            "unique_urls": 158,
+            "events": 152,
+            "unique_urls": 152,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Beth Emet",
+            "events": 29,
+            "unique_urls": 29,
             "specificity_pct": 100
           },
           {
             "source": "Evanston History Center",
+            "events": 26,
+            "unique_urls": 26,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Skokie Community",
             "events": 26,
             "unique_urls": 26,
             "specificity_pct": 100
@@ -37559,21 +37637,27 @@
             "specificity_pct": 100
           },
           {
+            "source": "Meetup Drum Circle",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Lincolnwood Library, Winnetka Northfield Library",
+            "events": 6,
+            "unique_urls": 6,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Skokie Library, Winnetka Northfield Library",
+            "events": 4,
+            "unique_urls": 4,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup: Yolo Board Game Gathering",
             "events": 3,
             "unique_urls": 3,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Meetup Black Girls Read",
-            "events": 2,
-            "unique_urls": 2,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Morton Grove Library, Skokie Library",
-            "events": 1,
-            "unique_urls": 1,
             "specificity_pct": 100
           }
         ]
