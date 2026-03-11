@@ -11,6 +11,7 @@
 | Evanston History Center | `https://evanstonhistorycenter.org/calendar-of-events/?ical=1` | WordPress + The Events Calendar |
 | Beth Emet Synagogue | `https://bethemet.org/calendar/?ical=1` | WordPress + The Events Calendar |
 | Village of Skokie Community Calendar | `https://www.skokie.org/common/modules/iCalendar/iCalendar.aspx?catID=22&feed=calendar` | CivicPlus; 25 events |
+| City of Evanston | `scrapers/revize.py` (Events category) | Revize CMS JSON API; 39 events |
 
 ### Libraries
 | Source | Feed URL | Notes |
@@ -24,6 +25,22 @@
 | Source | Feed URL | Notes |
 |--------|----------|-------|
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
+| Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
+### Northwestern Athletics (SideArm Sports API)
+| Source | Feed URL | Notes |
+|--------|----------|-------|
+| Football | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=2&scheduleId=1742` | 13 events |
+| Men's Basketball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=4&scheduleId=1737` | 31 events |
+| Women's Basketball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=10&scheduleId=1732` | 31 events |
+| Baseball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=1&scheduleId=1739` | 52 events |
+| Softball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1741` | |
+| Women's Lacrosse | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=14&scheduleId=1740` | |
+| Men's Soccer | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=1724` | |
+| Women's Soccer | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=15&scheduleId=1725` | |
+| Volleyball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=18&scheduleId=1722` | |
+| Field Hockey | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=28&scheduleId=1726` | |
+| Wrestling | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=30&scheduleId=1738` | |
+| Women's Swimming & Diving | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=16&scheduleId=1728` | 15 events |
 
 ### Meetup Groups
 | Source | Feed URL | Notes |
@@ -39,9 +56,8 @@
 
 | Source | Reason |
 |--------|--------|
-| City of Evanston (cityofevanston.org) | Revize CMS, no standard feeds |
 | Evanston Public Library | BiblioCommons platform, no ICS/RSS feed |
-| Northwestern PlanIt Purple | No feed export, browse-only calendar |
+| Northwestern Athletics (nusports.evenue.net) | Paciolan ticketing platform; 403 Forbidden |
 | Northwestern Bienen School of Music | No feed export visible |
 | Block Museum (Northwestern) | Calendar page 404 |
 | Illinois Holocaust Museum (Skokie) | WordPress but no ICS feed at ?ical=1 |
@@ -68,8 +84,6 @@
 
 ## To Investigate
 
-- [ ] City of Evanston Revize calendar scraper (cityofevanston.org/calendar.php)
-- [ ] Northwestern athletics (nuwildcats.com was ECONNREFUSED)
 - [ ] More Eventbrite organizers in Evanston
 - [ ] Evanston Farmers Market
 - [ ] Celtic Knot Public House events

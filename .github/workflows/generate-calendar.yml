@@ -837,6 +837,19 @@ jobs:
         curl -sL -A "Mozilla/5.0" "https://www.wnpld.org/events/feed/ical" -o winnetka_northfield_library.ics || true
         # Education
         curl -sL -A "Mozilla/5.0" "https://events.oakton.edu/calendar/1.ics" -o oakton_college.ics || true
+        # Northwestern Athletics (SideArm Sports API)
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=2&scheduleId=1742&downloadFile=false" -o nw_football.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=4&scheduleId=1737&downloadFile=false" -o nw_mens_basketball.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=10&scheduleId=1732&downloadFile=false" -o nw_womens_basketball.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=1&scheduleId=1739&downloadFile=false" -o nw_baseball.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1741&downloadFile=false" -o nw_softball.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=14&scheduleId=1740&downloadFile=false" -o nw_womens_lacrosse.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=1724&downloadFile=false" -o nw_mens_soccer.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=15&scheduleId=1725&downloadFile=false" -o nw_womens_soccer.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=18&scheduleId=1722&downloadFile=false" -o nw_volleyball.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=28&scheduleId=1726&downloadFile=false" -o nw_field_hockey.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=30&scheduleId=1738&downloadFile=false" -o nw_wrestling.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=16&scheduleId=1728&downloadFile=false" -o nw_womens_swimming.ics || true
         # Religious / Community
         curl -sL -A "Mozilla/5.0" "https://bethemet.org/calendar/?ical=1" -o beth_emet.ics || true
         # Government
@@ -849,6 +862,12 @@ jobs:
         curl -sL -A "Mozilla/5.0" "https://www.meetup.com/chicagodrumcircle/events/ical/" -o meetup_drum_circle.ics || true
         curl -sL -A "Mozilla/5.0" "https://www.meetup.com/evanston-trivia-nerds-meetup/events/ical/" -o meetup_trivia_nerds.ics || true
         cd ../..
+
+    - name: Scrape Evanston sources
+      if: contains(steps.locations.outputs.list, 'evanston')
+      run: |
+        python scrapers/revize.py --webspace evanstonil --host cityofevanston.org --name "City of Evanston" --categories "Events" --output cities/evanston/city_of_evanston.ics || true
+        python scrapers/planitpurple.py --categories 2 --days 60 --name "Northwestern University" --output cities/evanston/northwestern.ics || true
 
     - name: Combine Evanston ICS
       if: contains(steps.locations.outputs.list, 'evanston')
