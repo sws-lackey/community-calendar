@@ -11,7 +11,9 @@
 | Evanston History Center | `https://evanstonhistorycenter.org/calendar-of-events/?ical=1` | WordPress + The Events Calendar |
 | Beth Emet Synagogue | `https://bethemet.org/calendar/?ical=1` | WordPress + The Events Calendar |
 | Village of Skokie Community Calendar | `https://www.skokie.org/common/modules/iCalendar/iCalendar.aspx?catID=22&feed=calendar` | CivicPlus; 25 events |
-| City of Evanston | `scrapers/revize.py` (Events category) | Revize CMS JSON API; 39 events |
+| City of Evanston (Events) | `scrapers/revize.py` (Events category) | Revize CMS JSON API; ~51 events |
+| City of Evanston (Meetings) | `scrapers/revize.py` (Meetings category) | Revize CMS JSON API; ~103 events |
+| City of Evanston (City Council) | `scrapers/revize.py` (City Council category) | Revize CMS JSON API; ~11 events |
 | Chicago Botanic Garden | `scrapers/chicagobotanic.py` | Drupal calendar scraper; ~157 events with images |
 
 ### Libraries
@@ -27,6 +29,9 @@
 |--------|----------|-------|
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
 | Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
+| District 65 | `scrapers/finalsite.py` | Finalsite CMS; ~18 events (K-8 school calendar) |
+| ETHS District 202 | `scrapers/finalsite.py` | Finalsite CMS; ~18 events (high school calendar) |
+
 ### Northwestern Athletics (SideArm Sports API)
 | Source | Feed URL | Notes |
 |--------|----------|-------|
@@ -70,7 +75,8 @@
 ### Ticketmaster (via Discovery API)
 | Source | Query | Notes |
 |--------|-------|-------|
-| SPACE Evanston | `--promoter-id 6085` | Promoter ID from evanstonspace.com; requires TICKETMASTER_API_KEY |
+| Ticketmaster/Evanston | `--promoter-id 6085` | Local promoter (Folk Fest, Winnetka Music Fest); ~3 events |
+| Ticketmaster/Evanston Venues | `--venue-id KovZpakJQe --venue-id KovZ917At8O` | SPACE + Cahn Auditorium; ~99 events with images |
 
 ## Discovered - Non-Starters
 
@@ -80,11 +86,10 @@
 | Northwestern Bienen School of Music | No feed export visible |
 | Block Museum (Northwestern) | Calendar page 404; now via Eventbrite |
 | Illinois Holocaust Museum (Skokie) | WordPress but no ICS feed at ?ical=1 |
-| Chicago Botanic Garden (Glencoe) | Drupal; no ICS feed — now scraped via chicagobotanic.py |
 | Evanston Art Center | Drupal, no feeds |
 | Glenview Park District | Individual ICS download only, no feed |
 | Skokie Park District | Custom system, no feeds |
-| SPACE Evanston (website) | Squarespace + See Tickets widget, events load via JS only |
+| SPACE Evanston (website) | Squarespace + See Tickets widget; now covered via Ticketmaster venue KovZpakJQe |
 | Temperance Beer | 401 Unauthorized |
 | Sketchbook Brewing | No events page found |
 | McGaw YMCA | No feed visible |
@@ -97,7 +102,7 @@
 | Music Theater Works | Custom site, no feeds |
 | Glenview Public Library | BiblioCommons, no ICS feed |
 | Niles-Maine District Library | Communico with RSS/ICS disabled |
-| Evanston Folk Festival | Single annual event, no calendar feed |
+| Evanston Folk Festival | Single annual event; now covered via Ticketmaster promoter 6085 |
 | Glencoe Public Library | 404 |
 | Double Clutch Brewing | Wix, no events page |
 
