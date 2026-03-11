@@ -849,6 +849,7 @@ jobs:
         curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=18&scheduleId=1722&downloadFile=false" -o nw_volleyball.ics || true
         curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=28&scheduleId=1726&downloadFile=false" -o nw_field_hockey.ics || true
         curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=30&scheduleId=1738&downloadFile=false" -o nw_wrestling.ics || true
+        curl -sL -A "Mozilla/5.0" "https://nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=16&scheduleId=1728&downloadFile=false" -o nw_womens_swimming.ics || true
         # Religious / Community
         curl -sL -A "Mozilla/5.0" "https://bethemet.org/calendar/?ical=1" -o beth_emet.ics || true
         # Government

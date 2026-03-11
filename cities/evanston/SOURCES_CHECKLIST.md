@@ -40,6 +40,7 @@
 | Volleyball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=18&scheduleId=1722` | |
 | Field Hockey | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=28&scheduleId=1726` | |
 | Wrestling | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=30&scheduleId=1738` | |
+| Women's Swimming & Diving | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=16&scheduleId=1728` | 15 events |
 
 ### Meetup Groups
 | Source | Feed URL | Notes |
