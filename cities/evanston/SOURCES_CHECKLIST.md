@@ -26,9 +26,20 @@
 |--------|----------|-------|
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
 | Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
-| Northwestern Men's Basketball | `https://calendar.google.com/calendar/ical/jsngbk0i8va6uorpk6v7jjltfccp94eg%40import.calendar.google.com/public/basic.ics` | Google Calendar sync from SideArm Sports; 35 events |
-| Northwestern Baseball | `https://calendar.google.com/calendar/ical/ho3mvmg665805gfalfr2orsajd95d97n%40import.calendar.google.com/public/basic.ics` | Google Calendar sync; 56 events |
-| Northwestern Football | `https://calendar.google.com/calendar/ical/fddenohomaoj9d48m087j9s1kss68kp9%40import.calendar.google.com/public/basic.ics` | Google Calendar sync; 12 events |
+### Northwestern Athletics (SideArm Sports API)
+| Source | Feed URL | Notes |
+|--------|----------|-------|
+| Football | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=2&scheduleId=1742` | 13 events |
+| Men's Basketball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=4&scheduleId=1737` | 31 events |
+| Women's Basketball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=10&scheduleId=1732` | 31 events |
+| Baseball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=1&scheduleId=1739` | 52 events |
+| Softball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=11&scheduleId=1741` | |
+| Women's Lacrosse | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=14&scheduleId=1740` | |
+| Men's Soccer | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=6&scheduleId=1724` | |
+| Women's Soccer | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=15&scheduleId=1725` | |
+| Volleyball | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=18&scheduleId=1722` | |
+| Field Hockey | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=28&scheduleId=1726` | |
+| Wrestling | `nusports.com/api/v2/Calendar/subscribe?type=ics&sportId=30&scheduleId=1738` | |
 
 ### Meetup Groups
 | Source | Feed URL | Notes |
@@ -45,7 +56,6 @@
 | Source | Reason |
 |--------|--------|
 | Evanston Public Library | BiblioCommons platform, no ICS/RSS feed |
-| Northwestern Athletics (nusports.com) | SideArm Sports platform; no direct ICS/RSS feeds, but syncs to Google Calendar |
 | Northwestern Athletics (nusports.evenue.net) | Paciolan ticketing platform; 403 Forbidden |
 | Northwestern Bienen School of Music | No feed export visible |
 | Block Museum (Northwestern) | Calendar page 404 |
@@ -73,7 +83,6 @@
 
 ## To Investigate
 
-- [ ] More Northwestern athletics Google Calendar IDs (football, women's basketball, etc.)
 - [ ] More Eventbrite organizers in Evanston
 - [ ] Evanston Farmers Market
 - [ ] Celtic Knot Public House events
