@@ -23,6 +23,9 @@ https://www.skokie.org/common/modules/iCalendar/iCalendar.aspx?catID=22&feed=cal
 # Live feed
 https://events.oakton.edu/calendar/1.ics
 
+# Google Calendar
+https://calendar.google.com/calendar/ical/jsngbk0i8va6uorpk6v7jjltfccp94eg%40import.calendar.google.com/public/basic.ics
+
 # Meetup
 https://www.meetup.com/afnorthshore/events/ical/
 https://www.meetup.com/evanston-beer-and-board-games-meetup/events/ical/

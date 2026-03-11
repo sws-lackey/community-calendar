@@ -837,6 +837,8 @@ jobs:
         curl -sL -A "Mozilla/5.0" "https://www.wnpld.org/events/feed/ical" -o winnetka_northfield_library.ics || true
         # Education
         curl -sL -A "Mozilla/5.0" "https://events.oakton.edu/calendar/1.ics" -o oakton_college.ics || true
+        # Northwestern Athletics (Google Calendar syncs)
+        curl -sL -A "Mozilla/5.0" "https://calendar.google.com/calendar/ical/jsngbk0i8va6uorpk6v7jjltfccp94eg%40import.calendar.google.com/public/basic.ics" -o nw_mens_basketball.ics || true
         # Religious / Community
         curl -sL -A "Mozilla/5.0" "https://bethemet.org/calendar/?ical=1" -o beth_emet.ics || true
         # Government

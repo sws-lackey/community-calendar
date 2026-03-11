@@ -26,6 +26,7 @@
 |--------|----------|-------|
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
 | Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
+| Northwestern Men's Basketball | `https://calendar.google.com/calendar/ical/jsngbk0i8va6uorpk6v7jjltfccp94eg%40import.calendar.google.com/public/basic.ics` | Google Calendar sync from SideArm Sports; 35 events |
 
 ### Meetup Groups
 | Source | Feed URL | Notes |
@@ -42,7 +43,8 @@
 | Source | Reason |
 |--------|--------|
 | Evanston Public Library | BiblioCommons platform, no ICS/RSS feed |
-| Northwestern Athletics (nusports.com) | SideArm Sports platform; no ICS/RSS feeds, no API; Vue.js SPA only |
+| Northwestern Athletics (nusports.com) | SideArm Sports platform; no direct ICS/RSS feeds, but syncs to Google Calendar |
+| Northwestern Athletics (nusports.evenue.net) | Paciolan ticketing platform; 403 Forbidden |
 | Northwestern Bienen School of Music | No feed export visible |
 | Block Museum (Northwestern) | Calendar page 404 |
 | Illinois Holocaust Museum (Skokie) | WordPress but no ICS feed at ?ical=1 |
@@ -69,6 +71,7 @@
 
 ## To Investigate
 
+- [ ] More Northwestern athletics Google Calendar IDs (football, women's basketball, etc.)
 - [ ] More Eventbrite organizers in Evanston
 - [ ] Evanston Farmers Market
 - [ ] Celtic Knot Public House events
