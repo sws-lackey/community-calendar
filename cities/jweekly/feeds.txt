@@ -4,6 +4,8 @@
 
 # --- Scrapers ---
 # Scraper
+# cmd: python scrapers/jewishlearningworks.py
+cities/jweekly/jewishlearningworks.ics
 # cmd: python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/115705078411" --name "JCCSF"
 cities/jweekly/eventbrite_jccsf.ics
 # cmd: python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/congregation-emanu-el-san-francisco-74110536583" --name "Congregation Emanu-El SF"

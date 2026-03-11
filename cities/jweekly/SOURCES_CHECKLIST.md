@@ -64,11 +64,10 @@ This calendar aggregates events from Jewish organizations across the San Francis
 | Berkeley Hillel | berkeleyhillel.org | WordPress + The Events Calendar | /calendar/ page exists but ICS feed returns empty |
 | Stanford Hillel | stanfordhillel.org | Own website | /event-list; also on events.stanford.edu |
 
-## Scrapers to Build
-
-| Source | URL | Target | Notes |
-|--------|-----|--------|-------|
-| Jewish LearningWorks | `https://jewishlearning.works/calendar/` | `.event-categories-professional-learning` elements | Each contains one event linking to a detail page |
+### Scrapers
+| Source | Scraper | Notes |
+|--------|---------|-------|
+| Jewish LearningWorks | `scrapers/jewishlearningworks.py` | WP REST API + detail page scraping; professional-learning category |
 
 ## Discovered - Non-Starters
 
