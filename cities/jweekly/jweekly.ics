@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//J. - ECPv6.15.17//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:J.
+X-ORIGINAL-URL:https://jweekly.com
+X-WR-CALDESC:Events for J.
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260311T190000
+DTEND;TZID=America/Los_Angeles:20260311T203000
+DTSTAMP:20260311T074612
+CREATED:20260303T184817Z
+LAST-MODIFIED:20260303T184817Z
+UID:300321-1773255600-1773261000@jweekly.com
+SUMMARY:“Maxi’s Kitchen” Book Tour
+DESCRIPTION:Social media star Maxine Sharf shares recipes from her debut cookbook and discusses her multicultural heritage blending Korean\, Chinese\, Romanian\, Russian and Polish cuisines. $42; includes book.
+URL:https://jweekly.com/event/maxis-kitchen-book-tour/
+LOCATION:JCCSF\, 3200 California St.\, San Francisco\, CA\, United States
+CATEGORIES:Books
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260314T190000
+DTEND;TZID=America/Los_Angeles:20260314T210000
+DTSTAMP:20260311T074612
+CREATED:20260303T184943Z
+LAST-MODIFIED:20260303T184943Z
+UID:300323-1773514800-1773522000@jweekly.com
+SUMMARY:Murder Mystery Night
+DESCRIPTION:Solve a crime at this 1920s-themed party. Includes drinks\, dessert and hors d’oeuvres.
+URL:https://jweekly.com/event/murder-mystery-night/
+LOCATION:Congregation Am Tikvah\, 625 Brotherhood Way\, San Francisco\, CA
+CATEGORIES:Social Event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260315T140000
+DTEND;TZID=America/Los_Angeles:20260315T160000
+DTSTAMP:20260311T074612
+CREATED:20260211T181943Z
+LAST-MODIFIED:20260211T181943Z
+UID:298697-1773583200-1773590400@jweekly.com
+SUMMARY:Miriam's Seder
+DESCRIPTION:Passover seder inspired by Miriam for female and nonbinary-identifying adults and kids (third grade and up) and nursing infants. Members free\, nonmembers $18-$36.
+URL:https://jweekly.com/event/miriams-seder/
+LOCATION:Peninsula Sinai\, 499 Boothbay Ave.\, Foster City\, CA\, United States
+CATEGORIES:Holidays & Spiritual
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260315T170000
+DTEND;TZID=America/Los_Angeles:20260315T193000
+DTSTAMP:20260311T074612
+CREATED:20260303T185333Z
+LAST-MODIFIED:20260303T185333Z
+UID:300327-1773594000-1773603000@jweekly.com
+SUMMARY:30th JCRC Freedom Seder San Francisco
+DESCRIPTION:Hosted by S.F. City Attorney David Chiu and Congregation Beth Sholom Rabbi Amanda Russell. Sponsored by Jewish Federation Bay Area.
+URL:https://jweekly.com/event/30th-jcrc-freedom-seder-san-francisco/
+LOCATION:Fort Mason Center\, Fort Mason Center\, Gateway Pavilion\, Pier 2\, San Francisco
+CATEGORIES:Holidays & Spiritual
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260317T183000
+DTEND;TZID=America/Los_Angeles:20260317T203000
+DTSTAMP:20260311T074612
+CREATED:20260303T185102Z
+LAST-MODIFIED:20260303T185102Z
+UID:300325-1773772200-1773779400@jweekly.com
+SUMMARY:“Create Your Own Meaningful Seder”
+DESCRIPTION:Interactive DIY workshop with Rabbi Batshir Torro\, senior Jewish educator at the JCC of San Francisco. Design your own Passover seder and make different styles of haroset.
+URL:https://jweekly.com/event/create-your-own-meaningful-seder/
+LOCATION:JCCSF\, 3200 California St.\, San Francisco\, CA\, United States
+CATEGORIES:Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T180000
+DTEND;TZID=America/Los_Angeles:20260318T180000
+DTSTAMP:20260311T074612
+CREATED:20260303T185457Z
+LAST-MODIFIED:20260303T185457Z
+UID:300331-1773856800-1773856800@jweekly.com
+SUMMARY:“Bearing Witness: Writing Memory and Change”
+DESCRIPTION:Generative poetry writing workshop focused on beliefs about Israel\, Zionism\, memory and morality. Presented by Beyt Tikkun. Online. Members $15; nonmembers $25.
+URL:https://jweekly.com/event/bearing-witness-writing-memory-and-change/
+CATEGORIES:Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T180000
+DTEND;TZID=America/Los_Angeles:20260318T193000
+DTSTAMP:20260311T074612
+CREATED:20260310T191603Z
+LAST-MODIFIED:20260310T191603Z
+UID:300803-1773856800-1773862200@jweekly.com
+SUMMARY:“Israel and the European Union”
+DESCRIPTION:Stanford Israel studies director Amichai Magen in conversation with UC Berkeley Israel studies professor Ron Hassner on the complicated and evolving relationship between the EU and Israel. Sixth annual “Libitzky Lecture on Israel and the Great Powers” at the Helen Diller Institute. Co-sponsored with the Institute of International Studies at UC Berkeley and the Jan Koum Israel Studies Program at Stanford University. At UC Berkeley School of Law\, exact location provided with registration.
+URL:https://jweekly.com/event/israel-and-the-european-union/
+CATEGORIES:Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T193000
+DTEND;TZID=America/Los_Angeles:20260318T210000
+DTSTAMP:20260311T074612
+CREATED:20260303T190250Z
+LAST-MODIFIED:20260303T190250Z
+UID:300333-1773862200-1773867600@jweekly.com
+SUMMARY:“The Wise Parent Within Us”
+DESCRIPTION:Workshop with coach Elana Reinin exploring parenting styles and tools to empower parents and children. Co-sponsored by Congregation Beth Israel in Berkeley\, Beth Jacob Congregation in Oakland\, Edah–JCC East Bay\, and Oakland Hebrew Day School. Free; registration required.
+URL:https://jweekly.com/event/the-wise-parent-within-us/
+LOCATION:Oakland Hebrew Day School\, 5500 Redwood Road\, Oakland
+CATEGORIES:Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T183000
+DTEND;TZID=America/Los_Angeles:20260319T183000
+DTSTAMP:20260311T074612
+CREATED:20260211T182049Z
+LAST-MODIFIED:20260211T182049Z
+UID:298699-1773945000-1773945000@jweekly.com
+SUMMARY:“You Had Me at Shalom”
+DESCRIPTION:Gathering for singles in their 40s-60s. Hosted by Chabad of the North Peninsula.
+URL:https://jweekly.com/event/you-had-me-at-shalom/
+LOCATION:Chabad North Peninsula\, 115 Monte Diablo Ave.\, San Mateo\, CA\, United States
+CATEGORIES:Singles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T183000
+DTEND;TZID=America/Los_Angeles:20260319T203000
+DTSTAMP:20260311T074612
+CREATED:20260303T190521Z
+LAST-MODIFIED:20260304T200628Z
+UID:300337-1773945000-1773952200@jweekly.com
+SUMMARY:Women's Seder
+DESCRIPTION:Oshman Family JCC Passover celebration for women. Vegetarian kosher-style dinner\, storytelling and music. Registration closes March 16 at 3 p.m.
+URL:https://jweekly.com/event/womens-seder-2/
+LOCATION:Oshman Family JCC\, 3921 Fabian Way\, Palo Alto\, CA\, United States
+CATEGORIES:Holidays & Spiritual
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T100000
+DTEND;TZID=America/Los_Angeles:20260322T113000
+DTSTAMP:20260311T074612
+CREATED:20260303T190944Z
+LAST-MODIFIED:20260303T190944Z
+UID:300345-1774173600-1774179000@jweekly.com
+SUMMARY:Fighting Antisemitism in the Bay Area
+DESCRIPTION:Maya Bronicki\, education director for the Bay Area Jewish Coalition\, discusses antisemitism in schools and ways to respond politically.
+URL:https://jweekly.com/event/fighting-antisemitism-in-the-bay-area/
+LOCATION:Congregation Beth David\, 19700 Prospect Road\, Saratoga\, CA\, United States
+CATEGORIES:Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T103000
+DTEND;TZID=America/Los_Angeles:20260322T120000
+DTSTAMP:20260311T074612
+CREATED:20260303T190824Z
+LAST-MODIFIED:20260303T190824Z
+UID:300343-1774175400-1774180800@jweekly.com
+SUMMARY:¡Cantamos! Passover
+DESCRIPTION:Spanish and Jewish music and dancing with Verónica Freidkes from Olamim\, with snacks and Passover gift bags. Presented by Jewish Baby Network and JCC East Bay. Registration required\, limited to 15 families.
+URL:https://jweekly.com/event/cantamos-passover/
+LOCATION:JCC East Bay\, 1414 Walnut St.\, Berkeley\, CA\, United States
+CATEGORIES:Holidays & Spiritual
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T153000
+DTEND;TZID=America/Los_Angeles:20260322T170000
+DTSTAMP:20260311T074612
+CREATED:20260303T191101Z
+LAST-MODIFIED:20260303T191101Z
+UID:300347-1774193400-1774198800@jweekly.com
+SUMMARY:Sunday Fun Day
+DESCRIPTION:Families with young children are invited to enjoy arts and crafts\, dancing\, puppets\, Passover songs and a take-home gift bag.
+URL:https://jweekly.com/event/sunday-fun-day-6/
+LOCATION:JCCSF\, 3200 California St.\, San Francisco\, CA\, United States
+CATEGORIES:Kids & Family
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T170000
+DTEND;TZID=America/Los_Angeles:20260322T170000
+DTSTAMP:20260311T074612
+CREATED:20260303T190704Z
+LAST-MODIFIED:20260304T200509Z
+UID:300339-1774198800-1774198800@jweekly.com
+SUMMARY:30th JCRC Freedom Seder Silicon Valley
+DESCRIPTION:Hosted by state Sen. Josh Becker\, Assemblymembers Marc Berman and Patrick Ahrens and Santa Clara County Supervisor Margaret Abe-Koga.
+URL:https://jweekly.com/event/30th-freedom-seder-silicon-valley/
+LOCATION:Villa Ragusa\, 35 S. Second St.\, Campbell
+CATEGORIES:Holidays & Spiritual
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260326T130000
+DTEND;TZID=America/Los_Angeles:20260326T143000
+DTSTAMP:20260311T074612
+CREATED:20260303T191229Z
+LAST-MODIFIED:20260303T191229Z
+UID:300349-1774530000-1774535400@jweekly.com
+SUMMARY:All-Girl Swing Bands & Female Entertainers: WWII
+DESCRIPTION:Learn about female musicians who entertained soldiers at home and overseas.
+URL:https://jweekly.com/event/all-girl-swing-bands-female-entertainers-wwii/
+LOCATION:JCCSF\, 3200 California St.\, San Francisco\, CA\, United States
+CATEGORIES:Talks & Workshops,Music
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260328T193000
+DTEND;TZID=America/Los_Angeles:20260328T193000
+DTSTAMP:20260311T074612
+CREATED:20260303T191429Z
+LAST-MODIFIED:20260303T191429Z
+UID:300351-1774726200-1774726200@jweekly.com
+SUMMARY:“Our Class”
+DESCRIPTION:Opening night of award-winning play about a wartime massacre of Jews by their neighbors in a small Polish village. Through April 5. Talkbacks March 29 after 2 p.m. performance with descendants of Jedwabne pogrom\, moderated by director Igor Golyak\, and April 3 after 7:30 p.m. performance with Golyak and Carey Perloff. $68 and up.
+URL:https://jweekly.com/event/our-class/
+LOCATION:Z Space\, 470 Florida St.\, San Francisco\, CA\, 94110\, United States
+CATEGORIES:On Stage
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260329T101500
+DTEND;TZID=America/Los_Angeles:20260329T101500
+DTSTAMP:20260311T074612
+CREATED:20260303T191556Z
+LAST-MODIFIED:20260303T191556Z
+UID:300354-1774779300-1774779300@jweekly.com
+SUMMARY:“Silly Singing Seder”
+DESCRIPTION:Jewish Baby Network and Congregation Etz Chayim invite families with children 5 and under to celebrate Passover with songs\, crafts and inspiration for kid-friendly seders.
+URL:https://jweekly.com/event/silly-singing-seder-4/
+LOCATION:Congregation Etz Chayim\, 4161 Alma St.\, Palo Alto\, CA\, United States
+CATEGORIES:Holidays & Spiritual,Kids & Family
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260329T160000
+DTEND;TZID=America/Los_Angeles:20260329T160000
+DTSTAMP:20260311T074612
+CREATED:20260303T191721Z
+LAST-MODIFIED:20260303T191721Z
+UID:300356-1774800000-1774800000@jweekly.com
+SUMMARY:"Spin Me a Shadow\, Tell Me a Folk Tale"
+DESCRIPTION:Daniel Barash of Firelight Shadow Theater performs folktales with shadow puppets.
+URL:https://jweekly.com/event/spin-me-a-shadow-tell-me-a-folk-tale/
+LOCATION:Oshman Family JCC\, 3921 Fabian Way\, Palo Alto\, CA\, United States
+CATEGORIES:On Stage
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jewish Community Center of San Francisco - ECPv5.10.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jewish Community Center of San Francisco
+X-ORIGINAL-URL:https://www.jccsf.org
+X-WR-CALDESC:Events for Jewish Community Center of San Francisco
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260301T100000
+DTEND;TZID=America/Los_Angeles:20260301T130000
+DTSTAMP:20260311T062718
+CREATED:20240212T213842Z
+LAST-MODIFIED:20260226T225132Z
+UID:89387-1772359200-1772370000@www.jccsf.org
+SUMMARY:Purimpalooza
+DESCRIPTION:
+URL:https://www.jccsf.org/event/purimpalooza/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2024/02/260107_HOL_Purimpalooza_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260301T100000
+DTEND;TZID=America/Los_Angeles:20260331T220000
+DTSTAMP:20260311T062718
+CREATED:20250131T201701Z
+LAST-MODIFIED:20260226T024441Z
+UID:97907-1772359200-1774994400@www.jccsf.org
+SUMMARY:Fitness Member Appreciation Month
+DESCRIPTION:
+URL:https://www.jccsf.org/event/fitness-member-appreciation-month/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/png:https://www.jccsf.org/wp-content/uploads/2025/01/230927_FIT_MAM_EventPage_1260x944_v1dm.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260303T130000
+DTEND;TZID=America/Los_Angeles:20260303T140000
+DTSTAMP:20260311T062718
+CREATED:20260128T183030Z
+LAST-MODIFIED:20260217T191027Z
+UID:105056-1772542800-1772546400@www.jccsf.org
+SUMMARY:The San Francisco Symphony Presents: A Purim Community Concert
+DESCRIPTION:
+URL:https://www.jccsf.org/event/the-san-francisco-symphony-presents-a-purim-community-concert/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260112_AI_SFSymphony_1260x944_v1mh-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260305T130000
+DTEND;TZID=America/Los_Angeles:20260305T143000
+DTSTAMP:20260311T062718
+CREATED:20260127T000902Z
+LAST-MODIFIED:20260302T170228Z
+UID:104952-1772715600-1772721000@www.jccsf.org
+SUMMARY:Live Long & Prosper: Jews & Star Trek
+DESCRIPTION:
+URL:https://www.jccsf.org/event/live-long-prosper-jews-star-trek/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260108_AI_StarTrek_1260x944_v1mh-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260309T140000
+DTEND;TZID=America/Los_Angeles:20260309T160000
+DTSTAMP:20260311T062718
+CREATED:20250501T222535Z
+LAST-MODIFIED:20250501T222535Z
+UID:106236-1773064800-1773072000@www.jccsf.org
+SUMMARY:Tech Tutoring: Get Valuable Support
+DESCRIPTION:
+URL:https://www.jccsf.org/event/tech-tutoring-get-valuable-support-2026-02-23-2/2026-03-09/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2025/11/251107_Headshot_DavidBlakeley_1260x944_v2mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260310T183000
+DTEND;TZID=America/Los_Angeles:20260310T203000
+DTSTAMP:20260311T062718
+CREATED:20250407T211751Z
+LAST-MODIFIED:20260305T221521Z
+UID:100079-1773167400-1773174600@www.jccsf.org
+SUMMARY:The Lunch Club: Serving Up Tzedek with Repair The World
+DESCRIPTION:
+URL:https://www.jccsf.org/event/the-lunch-club-serving-up-tzedek-with-repair-the-world-2025-06-17-2/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2025/04/250404_JLL_RepairTheWorld_1260x944.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260311T190000
+DTEND;TZID=America/Los_Angeles:20260311T203000
+DTSTAMP:20260311T062718
+CREATED:20260114T222957Z
+LAST-MODIFIED:20260226T210325Z
+UID:104884-1773255600-1773261000@www.jccsf.org
+SUMMARY:MAXINE SHARF – MAXI’S KITCHEN BOOK TOUR
+DESCRIPTION:
+URL:https://www.jccsf.org/event/maxine-sharf-maxis-kitchen-book-tour/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260112_AI_MaxineSharf_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260317T183000
+DTEND;TZID=America/Los_Angeles:20260317T203000
+DTSTAMP:20260311T062718
+CREATED:20250301T064341Z
+LAST-MODIFIED:20260207T012937Z
+UID:98581-1773772200-1773779400@www.jccsf.org
+SUMMARY:DIY Passover: Create Your Own Meaningful Seder
+DESCRIPTION:
+URL:https://www.jccsf.org/event/diy-passover-create-your-own-seder/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2025/02/250224_HOL_Passover_DIY_Hero_1260x944.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T130000
+DTEND;TZID=America/Los_Angeles:20260318T140000
+DTSTAMP:20260311T062718
+CREATED:20260129T202524Z
+LAST-MODIFIED:20260202T213806Z
+UID:105053-1773838800-1773842400@www.jccsf.org
+SUMMARY:Understanding Anosognosia: Hidden Barrier in Dementia Care
+DESCRIPTION:
+URL:https://www.jccsf.org/event/understanding-anosognosia-hidden-barrier-in-dementia-care/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260128_AI_UnderstandingAnosognosia_1260x944_v2mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T190000
+DTEND;TZID=America/Los_Angeles:20260319T203000
+DTSTAMP:20260311T062718
+CREATED:20260212T173006Z
+LAST-MODIFIED:20260301T172253Z
+UID:105926-1773946800-1773952200@www.jccsf.org
+SUMMARY:SARAH SILVERMAN – In Conversation
+DESCRIPTION:
+URL:https://www.jccsf.org/event/sarah-silverman-in-conversation/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/png:https://www.jccsf.org/wp-content/uploads/2026/02/260202_AI_SarahSilverman_Program_1260x944_v2dm.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T153000
+DTEND;TZID=America/Los_Angeles:20260322T170000
+DTSTAMP:20260311T062718
+CREATED:20250909T000219Z
+LAST-MODIFIED:20260219T001046Z
+UID:100910-1774193400-1774198800@www.jccsf.org
+SUMMARY:Sunday Fun Day
+DESCRIPTION:
+URL:https://www.jccsf.org/event/sunday-fun-day/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2025/09/260108_JLL_JBN_SundayFunDay_Updated_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260323T140000
+DTEND;TZID=America/Los_Angeles:20260323T160000
+DTSTAMP:20260311T062718
+CREATED:20250501T222535Z
+LAST-MODIFIED:20250501T222535Z
+UID:106237-1774274400-1774281600@www.jccsf.org
+SUMMARY:Tech Tutoring: Get Valuable Support
+DESCRIPTION:
+URL:https://www.jccsf.org/event/tech-tutoring-get-valuable-support-2026-02-23-2/2026-03-23/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2025/11/251107_Headshot_DavidBlakeley_1260x944_v2mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260326T130000
+DTEND;TZID=America/Los_Angeles:20260326T143000
+DTSTAMP:20260311T062718
+CREATED:20260128T223045Z
+LAST-MODIFIED:20260130T225318Z
+UID:105062-1774530000-1774535400@www.jccsf.org
+SUMMARY:All-Girl Swing Bands & Female Entertainers: WWII
+DESCRIPTION:
+URL:https://www.jccsf.org/event/all-girl-swing-bands-female-entertainers-wwii/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260128_AI_All-GirlSwingBands_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260327T143000
+DTEND;TZID=America/Los_Angeles:20260327T170000
+DTSTAMP:20260311T062718
+CREATED:20251212T233903Z
+LAST-MODIFIED:20260220T175303Z
+UID:104410-1774621800-1774630800@www.jccsf.org
+SUMMARY:Twist of Tradition: Hands-On Challah
+DESCRIPTION:
+URL:https://www.jccsf.org/event/twist-of-tradition-hands-on-challah-passover/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2024/12/250902_JLL_HandsonChallah_FallUpdate_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260328T170000
+DTEND;TZID=America/Los_Angeles:20260328T190000
+DTSTAMP:20260311T062718
+CREATED:20260225T211249Z
+LAST-MODIFIED:20260309T233912Z
+UID:106195-1774717200-1774724400@www.jccsf.org
+SUMMARY:Roots & Wings Gallery Reception & Artist Talk
+DESCRIPTION:
+URL:https://www.jccsf.org/event/roots-wings-gallery-reception-artist-talk/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/02/260223_AI_RootsWings_ArtistReception_1260x944_v1mh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T113000
+DTEND;TZID=America/Los_Angeles:20260330T130000
+DTSTAMP:20260311T062718
+CREATED:20260130T225223Z
+LAST-MODIFIED:20260306T222323Z
+UID:104949-1774870200-1774875600@www.jccsf.org
+SUMMARY:60+ Passover Seder Gathering
+DESCRIPTION:
+URL:https://www.jccsf.org/event/60-daytime-passover-seder/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2024/02/230213_AI_Passover_OlderAdultsSeder_1260x944.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T131500
+DTEND;TZID=America/Los_Angeles:20260330T141500
+DTSTAMP:20260311T062718
+CREATED:20260130T002445Z
+LAST-MODIFIED:20260218T182452Z
+UID:105059-1774876500-1774880100@www.jccsf.org
+SUMMARY:DAYENU – A MUSICAL CELEBRATION OF FREEDOM WITH TASTE OF TALENT
+DESCRIPTION:
+URL:https://www.jccsf.org/event/dayenu-a-musical-celebration-of-freedom-with-taste-of-talent/
+LOCATION:JCCSF\, 3200 California Street\, San Francisco\, CA\, 94118\, United States
+CATEGORIES:Event
+ATTACH;FMTTYPE=image/jpeg:https://www.jccsf.org/wp-content/uploads/2026/01/260127_AI_PassoverTasteOfTalent_1260x944_v3mh.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Osher Marin Jewish Community Center - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Osher Marin Jewish Community Center
+X-ORIGINAL-URL:https://www.marinjcc.org
+X-WR-CALDESC:Events for Osher Marin Jewish Community Center
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260203T130000
+DTEND;TZID=America/Los_Angeles:20260317T144500
+DTSTAMP:20260311T062726
+CREATED:20260108T230015Z
+LAST-MODIFIED:20260108T230157Z
+UID:10001815-1770123600-1773758700@www.marinjcc.org
+SUMMARY:Israeli Folk Dance!
+DESCRIPTION:January 6-February 10 \nTuesdays from 1:00-2:45 PM \n  \n  \nDancing is great for the mind\, body\, and soul\, and it’s also fun! We’ll be dancing to a wonderful assortment of Israeli and world music. The first hour is tailored to beginners and includes learning and dancing easy-to-follow dances. The second hour moves into intermediate-level dancing and includes popular old and new dances. The class is a great way to get started\, return to\, or just keep on dancing in a friendly and supportive environment. Come for one hour or both. Newcomers welcome.\n\n  \nMembers of the OMJCC: Free\nNon-members:\n\n6-Class Pack: $50\nDrop-In: $10 per class\n\n  \nPlease register in advance to reserve your spot.
+URL:https://www.marinjcc.org/event/israeli-folk-dance-jan-feb/2026-02-03/
+LOCATION:Osher Marin JCC\, 200 North San Pedro Road\, San Rafael\, CA\, 94903\, United States
+CATEGORIES:FItness Event,Jewish Life
+ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2025/08/New-Israeli-Dance-3.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260311T130000
+DTEND;TZID=America/New_York:20260311T140000
+DTSTAMP:20260311T062726
+CREATED:20251212T221119Z
+LAST-MODIFIED:20260307T172445Z
+UID:10001808-1773234000-1773237600@www.marinjcc.org
+SUMMARY:Midweek Musical Matinee: "From Baroque Elegance to Romantic Fire"
+DESCRIPTION:Join pianist David Manley and flutist Rustam Baibikov on a musical journey of masterworks from the Baroque to the Romantic period. Enjoy a performance of seven transportative works from Bach to Vivaldi. \nThanks to generous donors to Marin JCC programs\, tickets are free. Limit two tickets per person and advance registration is required.
+URL:https://www.marinjcc.org/event/https-www-eventbrite-com-e-midweek-musical-matinee-from-baroque-elegance-to-romantic-fire-tickets-1979265920649affebdsoporgprofile/
+LOCATION:Osher Marin JCC\, 200 North San Pedro Road\, San Rafael\, CA\, 94903\, United States
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/jpeg:https://www.marinjcc.org/wp-content/uploads/2025/12/midweek-musical-2-24-26_cw.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260313T160000
+DTEND;TZID=America/Los_Angeles:20260313T171500
+DTSTAMP:20260311T062726
+CREATED:20260225T202058Z
+LAST-MODIFIED:20260225T202800Z
+UID:10001685-1773417600-1773422100@www.marinjcc.org
+SUMMARY:Shabbat Shmooze
+DESCRIPTION:Please join us in the JCC lobby to welcome in Shabbat\, where we will be joined by Covenant Winery proprietor Jodie Morgan and General Manager Zoe Morgan-Koelewijn for a wine tasting! Enjoy the live French cafe music of Bistro Mustache. Light snacks will be provided. \n  \n \n  \nCovenant Winery is an urban winery located in Berkeley. We source grapes grown in some of the finest vineyards in California and Israel\, places where we enjoy a historical and personal connection to the land. As such\, we strive to harness quality in the bottle that reflects the unique aspects of the land and the vines we are privileged to work with. Our winemaking techniques highlight what the land gives us naturally. All our wines are certified kosher and are naturally vegan. Discover our world through our wines! www.covenantwines.com \n  \nWe will gather every 2nd Friday\, monthly.  \n  \nFree event! All are welcome. No registration\, just drop-in! 
+URL:https://www.marinjcc.org/event/shabbat-shmooze-4/
+LOCATION:Osher Marin JCC\, 200 North San Pedro Road\, San Rafael\, CA\, 94903\, United States
+CATEGORIES:Jewish Life
+ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2025/09/1400x1080-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T133000
+DTEND;TZID=America/Los_Angeles:20260330T143000
+DTSTAMP:20260311T062726
+CREATED:20260307T164843Z
+LAST-MODIFIED:20260307T164844Z
+UID:10001836-1774877400-1774881000@www.marinjcc.org
+SUMMARY:Jewish Meditation Group
+DESCRIPTION:Come join us for a monthly Jewish Meditation Group\, led by Larry and Diane Yermack. \nMeets monthly on the last Monday of each month. No registration needed\, just drop-in! \n\n\n\nIn this group you will discover the joy and impact of developing an ongoing meditation practice\, led by Larry and Diane Yermack. It is also an opportunity to grow an open\, compassionate attentiveness to the world around you. Join us whether you’re new to meditation or it’s been a long-term practice of yours.
+URL:https://www.marinjcc.org/event/jewish-meditation-group-4-3-2/2026-03-30/
+LOCATION:JCC 2nd Floor Yoga Studio\, 200 N. San Pedro Rd.\, San Rafael\, 94903\, United States
+CATEGORIES:Jewish Life
+ATTACH;FMTTYPE=image/jpeg:https://www.marinjcc.org/wp-content/uploads/2025/09/Meditation.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T153000
+DTEND;TZID=America/Los_Angeles:20260330T170000
+DTSTAMP:20260311T062726
+CREATED:20250901T202714Z
+LAST-MODIFIED:20260108T231037Z
+UID:10001748-1774884600-1774890000@www.marinjcc.org
+SUMMARY:Ecstatic Jewish Dance Group
+DESCRIPTION:Come join us for a monthly Jewish embodied dance group\, the last Monday of the month!\n\n\nFree for members\, $10 non-members. Please register in advance to reserve your spot.
+URL:https://www.marinjcc.org/event/ecstatic-jewish-dance-group-15/2026-03-30/
+LOCATION:JCC 2nd Floor Yoga Studio\, 200 N. San Pedro Rd.\, San Rafael\, 94903\, United States
+CATEGORIES:Jewish Life
+ATTACH;FMTTYPE=image/jpeg:https://www.marinjcc.org/wp-content/uploads/2024/09/e912e023aca8133fd9b9cefcd4f8497f.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260407T110000
+DTEND;TZID=America/Los_Angeles:20260407T123000
+DTSTAMP:20260311T062726
+CREATED:20260115T175258Z
+LAST-MODIFIED:20260115T184245Z
+UID:10001846-1775559600-1775565000@www.marinjcc.org
+SUMMARY:Jewish Book Club 2026
+DESCRIPTION:Join the Center for Jewish Peoplehood for Jewish Book Club 2026! \nWe will be reading 6 books from Jewish Book Council’s new Nu Reads\, which is a curated\, reader-powered book subscription series that builds community\, strengthens the Jewish literary market\, and ensures Jewish voices are heard—and read. \n\nCheck out their page here: Nu Reads. You do not have to subscribe to Nu Reads to participate. \n\nContact Rachel Chancellor rchancellor@marinjcc.org for any questions.\n\nThis event is free of charge & open to all!
+URL:https://www.marinjcc.org/event/jewish-book-club-2026/2026-04-07/
+LOCATION:Osher Marin JCC – Isaac’s Gallery\, 200 North San Pedro Rd.\, San Rafael\, 94903\, United States
+CATEGORIES:Jewish Life
+ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2026/01/web-updates-1-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260411T180000
+DTEND;TZID=America/New_York:20260428T090000
+DTSTAMP:20260311T062726
+CREATED:20250613T131920Z
+LAST-MODIFIED:20250613T131920Z
+UID:10001529-1775930400-1777366800@www.marinjcc.org
+SUMMARY:Cultural Xperiences: "Magical Morocco"
+DESCRIPTION:  \nFrom seaside to mountain-top to desert\, from historical sites to modern wonders\, from natural to man-made beauty\, with a rich history of Berbers\, Arabs\, Christians & Jews. Morocco has it all! \n  \n\n  \nTravel on this adventure — created specifically for GenX’ers! — to this marvelous\, magical North African country\, so different from most Arab-dominant countries\, Morocco has its own unique\, fascinating culture – a blend of indigenous Berber\, Arabian\, Sub-Saharan African\, and European influences. In fact\, ethnically speaking\, though Morocco is composed mainly of Berbers and Arabs\, or a mix of the two\, some segments of the population are descendants of refugees from Spain and Portugal who fled during the Inquisition to be welcomed by the Moroccans. \n  \nExplore bustling imperial cities (Fes\, Meknes & Marrakech). Experience ocean-side towns (Tangier\, Essaouira). Stay in a charming hillside retreat (Chefchaouen) and in the mountain region (Dades). Camp (if you like) in among the dunes at the edge of the Sahara Desert (Merzouga). Enjoy “off the tourist track” locals (Taroudant). Even stop in a nomadic home for a cup of tea. \n  \nVisit several UNESCO World Heritage sites including the Archaeological site of Volubilis\, the historic city of Meknes\, the Ksar of Ait-Ben-Haddou\, the old Medinas of Essaouira\, Fes and Marrakesh. \n  \nMarvel at the natural beauty of the Atlas mountains\, the majesty of the Todgha Gorge\, the serenity of the graceful sand dunes at the edge of the desert.Discover the traditions of hand-made beauty – stunning handicrafts still being made with pride! Meet craftsman engaged in ceramics\, mosaics\, metalworking\, fabric weaving\, rug making\, wood working and more!Learn about indigenous products such as rose oil\, supplied to the French perfume industry; Argan oil – the wonder of the beauty & cosmetic industries; Saffron – the world’s most expensive spice\, and more! \n  \nWith a rich itinerary of traditional and “off the beaten path” sites and experiences\, this exciting journey is not to be missed. \n  \nFor details & pricing\, contact James at jsokol@marinjcc.org or register for a “ticket” via this Eventbrite registration. \n  \n\n  \nCultural Xperiences offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds and faiths are invited to join in these enriching & delicious cultural programs! \n  \n\n  \n  \n 
+URL:https://www.marinjcc.org/event/cultural-xperiences-magical-morocco/
+LOCATION:Grand Hôtel Villa de France\, Rue d'Angleterre\, Tanger\, Tanger-Tétouan-Al Hoceïma\, Morocco
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_1050303903_44784881969_1_original.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260519T160000
+DTEND;TZID=America/New_York:20260525T110000
+DTSTAMP:20260311T062726
+CREATED:20250606T191211Z
+LAST-MODIFIED:20250606T195740Z
+UID:10001523-1779206400-1779706800@www.marinjcc.org
+SUMMARY:In-Person Cultural Arts Trip - "The Best of Broadway: Mostly Musicals"
+DESCRIPTION:Join in this delightful trip to enjoy seven of Bway’s hottest shows\, “behind-the-curtain” meetings w/theater pros\, sumptuous meals & more!\n\n\n\n\n\n\nGive your regards to Broadway with a musical journey to the “city that never sleeps!” \n  \nHead to NYC which is bustling with the excitement of countless shows and with the anticipation of the Tony Awards. Join in this trip to see seven – yes\, seven! – of Broadway’s hottest shows – mostly musicals! \n  \nCheck into the InterContinental Times Square for a 6-night stay at this lovely hotel\, conveniently located in the Theater District. \n  \nThree exclusive “Behind-the-Scenes” discussions with Broadway professionals not only offer personal insights into the lives of those in the theater community\, but also are sure to be a highlight of trip! New in 2026! One of these events will be a private meeting with a Broadway Dresser and a “Quick Change” workshop! \n  \nEnjoy sumptuous meals in some of the Theater Districts culinary gems! \n  \n…and more! \n  \nCome for the delightful musicals! Leave with memories of great shows\, interesting “behind the scenes” discussions\, delicious meals\, and more! \n  \nFor Details & Pricing\, email James at jsokol@marinjcc.org with “B’way Trip Info Request” in the subject line. \n\n\n\n\n\n\n\n\n\n\n\nThe Cultural Arts Trips offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds & faiths\, hair styles and chocolate preferences are invited to join in these enriching & delicious cultural programs! \n  \n\n\n\n\nOur group after another exclusive “behind-the-scenes” meeting…this time\, with Jerrod Spector\, who starred as Frankie Valli for four years of the Broadway run in Jersey Boys\, was Tony-nominated for his role as Barry Mann in Beautiful: The Carole King Musical\, and recently played Sonny Bono in Broadway’s The Cher Show\, and is currently starring at King George III in Hamilton.\n\n\n  \nFor information on this and other upcoming In-Person Cultural Arts Trips as well as on Online Programs\, click here
+URL:https://www.marinjcc.org/event/the-best-of-broadway-mostly-musicals/
+LOCATION:InterContinental Times Square\, Various Broadway Theaters\, Etc.\, 300 W 44th St\, New York\, NY\, 10036\, United States
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_532085849_44784881969_1_original-1.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260526T160000
+DTEND;TZID=America/New_York:20260601T110000
+DTSTAMP:20260311T062726
+CREATED:20250606T192538Z
+LAST-MODIFIED:20250606T195824Z
+UID:10001525-1779811200-1780311600@www.marinjcc.org
+SUMMARY:In-Person Cultural Arts Trip - "The Best of Broadway: Mostly Musicals"
+DESCRIPTION:Join in this delightful trip to enjoy seven of Bway’s hottest shows\, “behind-the-curtain” meetings w/theater pros\, sumptuous meals & more!\n\n\n\n\n\n\nGive your regards to Broadway with a musical journey to the “city that never sleeps!” \n  \nHead to NYC which is bustling with the excitement of countless shows and with the anticipation of the Tony Awards. Join in this trip to see seven – yes\, seven! – of Broadway’s hottest shows – mostly musicals! \n  \nCheck into the InterContinental Times Square for a 6-night stay at this lovely hotel\, conveniently located in the Theater District. \n  \nThree exclusive “Behind-the-Scenes” discussions with Broadway professionals not only offer personal insights into the lives of those in the theater community\, but also are sure to be a highlight of trip! New in 2026! One of these events will be a private meeting with a Broadway Dresser and a “Quick Change” workshop! \n  \nEnjoy sumptuous meals in some of the Theater Districts culinary gems! \n  \n…and more! \n  \nCome for the delightful musicals! Leave with memories of great shows\, interesting “behind the scenes” discussions\, delicious meals\, and more! \n  \nFor Details & Pricing\, email James at jsokol@marinjcc.org with “B’way Trip Info Request” in the subject line. \n\n\n\n\n\n\n\n\n\n\n\nThe Cultural Arts Trips offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds & faiths\, hair styles and chocolate preferences are invited to join in these enriching & delicious cultural programs! \n  \n\n\n\n\nOur group after another exclusive “behind-the-scenes” meeting…this time\, with Jerrod Spector\, who starred as Frankie Valli for four years of the Broadway run in Jersey Boys\, was Tony-nominated for his role as Barry Mann in Beautiful: The Carole King Musical\, and recently played Sonny Bono in Broadway’s The Cher Show\, and is currently starring at King George III in Hamilton.\n\n\n  \nFor information on this and other upcoming In-Person Cultural Arts Trips as well as on Online Programs\, click here
+URL:https://www.marinjcc.org/event/in-person-cultural-arts-trip-the-best-of-broadway-mostly-musicals-12/
+LOCATION:InterContinental Times Square\, Various Broadway Theaters\, Etc.\, 300 W 44th St\, New York\, NY\, 10036\, United States
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_532085849_44784881969_1_original-1.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260602T160000
+DTEND;TZID=America/New_York:20260608T110000
+DTSTAMP:20260311T062726
+CREATED:20250606T192637Z
+LAST-MODIFIED:20250606T195852Z
+UID:10001526-1780416000-1780916400@www.marinjcc.org
+SUMMARY:In-Person Cultural Arts Trip - "The Best of Broadway: Mostly Musicals"
+DESCRIPTION:Join in this delightful trip to enjoy seven of Bway’s hottest shows\, “behind-the-curtain” meetings w/theater pros\, sumptuous meals & more!\n\n\n\n\n\n\nGive your regards to Broadway with a musical journey to the “city that never sleeps!” \n  \nHead to NYC which is bustling with the excitement of countless shows and with the anticipation of the Tony Awards. Join in this trip to see seven – yes\, seven! – of Broadway’s hottest shows – mostly musicals! \n  \nCheck into the InterContinental Times Square for a 6-night stay at this lovely hotel\, conveniently located in the Theater District. \n  \nThree exclusive “Behind-the-Scenes” discussions with Broadway professionals not only offer personal insights into the lives of those in the theater community\, but also are sure to be a highlight of trip! New in 2026! One of these events will be a private meeting with a Broadway Dresser and a “Quick Change” workshop! \n  \nEnjoy sumptuous meals in some of the Theater Districts culinary gems! \n  \n…and more! \n  \nCome for the delightful musicals! Leave with memories of great shows\, interesting “behind the scenes” discussions\, delicious meals\, and more! \n  \nFor Details & Pricing\, email James at jsokol@marinjcc.org with “B’way Trip Info Request” in the subject line. \n\n\n\n\n\n\n\n\n\n\n\nThe Cultural Arts Trips offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds & faiths\, hair styles and chocolate preferences are invited to join in these enriching & delicious cultural programs! \n  \n\n\n\n\nOur group after another exclusive “behind-the-scenes” meeting…this time\, with Jerrod Spector\, who starred as Frankie Valli for four years of the Broadway run in Jersey Boys\, was Tony-nominated for his role as Barry Mann in Beautiful: The Carole King Musical\, and recently played Sonny Bono in Broadway’s The Cher Show\, and is currently starring at King George III in Hamilton.\n\n\n  \nFor information on this and other upcoming In-Person Cultural Arts Trips as well as on Online Programs\, click here
+URL:https://www.marinjcc.org/event/in-person-cultural-arts-trip-the-best-of-broadway-mostly-musicals-13/
+LOCATION:InterContinental Times Square\, Various Broadway Theaters\, Etc.\, 300 W 44th St\, New York\, NY\, 10036\, United States
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_532085849_44784881969_1_original-1.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260609T160000
+DTEND;TZID=America/New_York:20260615T110000
+DTSTAMP:20260311T062726
+CREATED:20250606T192807Z
+LAST-MODIFIED:20250606T195924Z
+UID:10001527-1781020800-1781521200@www.marinjcc.org
+SUMMARY:In-Person Cultural Arts Trip - "The Best of Broadway: Mostly Musicals"
+DESCRIPTION:Join in this delightful trip to enjoy seven of Bway’s hottest shows\, “behind-the-curtain” meetings w/theater pros\, sumptuous meals & more!\n\n\n\n\n\n\nGive your regards to Broadway with a musical journey to the “city that never sleeps!” \n  \nHead to NYC which is bustling with the excitement of countless shows and with the anticipation of the Tony Awards. Join in this trip to see seven – yes\, seven! – of Broadway’s hottest shows – mostly musicals! \n  \nCheck into the InterContinental Times Square for a 6-night stay at this lovely hotel\, conveniently located in the Theater District. \n  \nThree exclusive “Behind-the-Scenes” discussions with Broadway professionals not only offer personal insights into the lives of those in the theater community\, but also are sure to be a highlight of trip! New in 2026! One of these events will be a private meeting with a Broadway Dresser and a “Quick Change” workshop! \n  \nEnjoy sumptuous meals in some of the Theater Districts culinary gems! \n  \n…and more! \n  \nCome for the delightful musicals! Leave with memories of great shows\, interesting “behind the scenes” discussions\, delicious meals\, and more! \n  \nFor Details & Pricing\, email James at jsokol@marinjcc.org with “B’way Trip Info Request” in the subject line. \n\n\n\n\n\n\n\n\n\n\n\nThe Cultural Arts Trips offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds & faiths\, hair styles and chocolate preferences are invited to join in these enriching & delicious cultural programs! \n  \n\n\n\n\nOur group after another exclusive “behind-the-scenes” meeting…this time\, with Jerrod Spector\, who starred as Frankie Valli for four years of the Broadway run in Jersey Boys\, was Tony-nominated for his role as Barry Mann in Beautiful: The Carole King Musical\, and recently played Sonny Bono in Broadway’s The Cher Show\, and is currently starring at King George III in Hamilton.\n\n\n  \nFor information on this and other upcoming In-Person Cultural Arts Trips as well as on Online Programs\, click here
+URL:https://www.marinjcc.org/event/in-person-cultural-arts-trip-the-best-of-broadway-mostly-musicals-14/
+LOCATION:InterContinental Times Square\, Various Broadway Theaters\, Etc.\, 300 W 44th St\, New York\, NY\, 10036\, United States
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_532085849_44784881969_1_original-1.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260926T180000
+DTEND;TZID=America/New_York:20261007T110000
+DTSTAMP:20260311T062727
+CREATED:20250606T194937Z
+LAST-MODIFIED:20250606T195646Z
+UID:10001528-1790445600-1791370800@www.marinjcc.org
+SUMMARY:In-Person Cultural Arts Trip - "Beautiful & Beguiling Bali"
+DESCRIPTION:Sat\, Sep 26-(Wed\, Oct 7 or Sun\, Oct 11)\, 2026\n  \nOften regarded as a destination for honeymooners and affluent beach bums\, the Indonesian island of Bali offers a rich\, albeit overlooked\, ancient heritage\, beautiful arts & crafts\, deep religious & cultural traditions\, forward-thinking economic and environmental practices and much more. \n  \n\n\n  \n\n\n\nDiscover diverse facets of the “Island of the Gods\,” from ancient temples to lush rice fields\, from traditional villages to idyllic beaches\, from the visual & performing arts to the culinary arts and more! \n  \n\n  \n\n\n\n\nAlthough the predominant religion in Indonesia is Islam\, over 90% of this island’s citizens practice Balinese Hinduism; a unique mix of Hindu doctrines\, animistic beliefs – the belief that natural objects\, natural phenomena\, and the universe itself have souls – the worship of Buddhist saints and local customs. Visit historic sites important to this interesting mix of practices and beliefs.\n\n\n\n\n\n\n\n\n\nExtend your stay to explore and enjoy Bali’s stunning coast\, stroll a pristine beach\, splash or snorkel in the shimmering aquamarine-to-cobalt Bali Sea\, and learn about the local sea ecology.\n\n\n\n\n\n\n\n\n\n\n\n\nWith a rich itinerary of traditional and “off the beaten path” sites and experiences\, this exciting journey is not to be missed! \nFor Details & Pricing\, email James at jsokol@marinjcc.org with “Bali Trip Info Request” in the subject line. \n  \n\n\n\n\n\n\nThe Cultural Arts Trips offered by the National JCC Adult & Senior Alliance & the Osher Marin JCC are open to all. \nJCC Members and non-members; people of all backgrounds & faiths\, hair styles and chocolate preferences are invited to join in these enriching & delicious cultural programs! \n  \n  \n\n\n  \n\n\n\n  \nFor information on this and other upcoming In-Person Cultural Arts Trips as well as on Online Programs\, click here
+URL:https://www.marinjcc.org/event/beautiful-and-beguiling-bali/
+LOCATION:Ubud Palace\, No.8 Jalan Raya Ubud\, Ubud\, Bali\, 80571\, Indonesia
+CATEGORIES:Adult Learning
+ATTACH;FMTTYPE=image/avif:https://www.marinjcc.org/wp-content/uploads/2025/06/https___cdn.evbuc_.com_images_1043840403_44784881969_1_original.avif
+END:VEVENT
+END:VCALENDAR
