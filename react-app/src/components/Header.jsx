@@ -15,6 +15,7 @@ const CITY_NAMES = {
   roanoke: 'Roanoke',
   matsu: 'MatSu',
   jweekly: 'JWeekly',
+  evanston: 'Evanston',
 };
 
 export default function Header({ city, events }) {

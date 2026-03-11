@@ -82,6 +82,7 @@ function App() {
         santarosa: 'Santa Rosa', davis: 'Davis', bloomington: 'Bloomington',
         petaluma: 'Petaluma', toronto: 'Toronto', raleighdurham: 'Raleigh-Durham',
         montclair: 'Montclair', roanoke: 'Roanoke', matsu: 'MatSu', jweekly: 'JWeekly',
+        evanston: 'Evanston',
       };
       document.title = (CITY_NAMES[city] || city) + ' Community Calendar';
     }
