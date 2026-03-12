@@ -2,7 +2,12 @@
 
 Focus: Theater (initial phase)
 
-## Currently Implemented (12 sources)
+## Currently Implemented (13 sources)
+
+### Theater — Aggregators
+| Source | Type | Events | Notes |
+|--------|------|--------|-------|
+| Boston Theatre Scene | boston_theatre_scene.py (AJAX) | 178 | Aggregator covering 16+ productions across many venues |
 
 ### Theater — ICS Feeds
 | Source | Type | Events | Notes |
