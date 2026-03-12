@@ -1049,6 +1049,8 @@ jobs:
         python scrapers/art_calendar.py --output cities/boston/art.ics || true
         # ArtsEmerson (Tribe Events REST API — ICS feed is broken)
         python scrapers/artsemerson.py --output cities/boston/artsemerson.ics || true
+        # Lyric Stage Company (website scraper)
+        python scrapers/lyric_stage.py --output cities/boston/lyric_stage.ics || true
         # Boston Theatre Scene (aggregator)
         python scrapers/boston_theatre_scene.py --output cities/boston/boston_theatre_scene.ics || true
         # Ticketmaster venues (requires TICKETMASTER_API_KEY secret)

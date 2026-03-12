@@ -2,7 +2,7 @@
 
 Focus: Theater (initial phase)
 
-## Currently Implemented (16 sources)
+## Currently Implemented (17 sources)
 
 ### Theater — Aggregators
 | Source | Type | Events | Notes |
@@ -20,6 +20,7 @@ Focus: Theater (initial phase)
 | American Repertory Theater | art_calendar.py (embedded JSON) | 38 | Embedded FullCalendar JSON in /calendar/ page |
 | ArtsEmerson | artsemerson.py (Tribe Events REST API) | 32 | ICS feed broken; uses REST API instead |
 | BU School of Theatre | bu_cfa.py (topic 8637) | 23 | WordPress AJAX calendar, shows + student productions |
+| Lyric Stage Company | lyric_stage.py (website) | 60 | Scrapes /whats-on/ + /buy-tickets/?id=N; Angry Raucous, Something Rotten |
 
 ### Theater — OvationTix Venues
 | Source | Type | Events | Notes |
