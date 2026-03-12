@@ -14,6 +14,9 @@ const STYLES = [
   { id: 'polaroid', label: 'Polaroid', desc: 'Photo frame style' },
   { id: 'ticket', label: 'Ticket', desc: 'Event ticket stub' },
   { id: 'list', label: 'List', desc: 'Single-column list' },
+  { id: 'grid', label: 'Grid', desc: 'Uniform cards in a grid' },
+  { id: 'gridcompact', label: 'Grid Compact', desc: 'Dense text grid, no images' },
+  { id: 'gridtile', label: 'Tiles', desc: 'Square image tiles' },
 ];
 
 export default function StyleSwitcher({ value, onChange }) {
