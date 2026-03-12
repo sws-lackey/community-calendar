@@ -2,7 +2,7 @@
 
 Focus: Theater (initial phase)
 
-## Currently Implemented (7 sources)
+## Currently Implemented (9 sources)
 
 ### Theater — ICS Feeds
 | Source | Type | Events | Notes |
@@ -13,6 +13,12 @@ Focus: Theater (initial phase)
 | Source | Type | Events | Notes |
 |--------|------|--------|-------|
 | BU School of Theatre | bu_cfa.py (topic 8637) | 23 | WordPress AJAX calendar, shows + student productions |
+
+### Theater — OvationTix Venues
+| Source | Type | Events | Notes |
+|--------|------|--------|-------|
+| Central Square Theater | ovationtix.py (org 2462) | 46 | 2 productions, individual performances scraped |
+| Actors' Shakespeare Project | ovationtix.py (org 921) | 22 | OvationTix org 921 |
 
 ### Theater — Songkick Venues
 | Source | Type | Events | Notes |
@@ -25,11 +31,9 @@ Focus: Theater (initial phase)
 ## Discovered - Needs Investigation
 | Source | URL | Notes |
 |--------|-----|-------|
-| Central Square Theater | centralsquaretheater.org | WordPress/EventON, no ICS, not on Songkick |
 | SpeakEasy Stage Company | speakeasystage.com | WordPress Tribe installed but ICS returns HTML |
 | American Repertory Theater (A.R.T.) | americanrepertorytheater.org | WordPress, JSON in /calendar page, self-hosted ticketing |
-| Wheelock Family Theatre | wheelockfamilytheatre.org | OvationTix (#177), WordPress/Jupiter |
-| Actors' Shakespeare Project | actorsshakespeareproject.org | OvationTix (#921), WordPress |
+| Wheelock Family Theatre | wheelockfamilytheatre.org | OvationTix (#177), mostly children's classes |
 | Company One Theatre | companyone.org | WordPress/Divi, performs at BCA |
 | Boston Center for the Arts | bostonarts.org | WordPress, Salesforce ticketing |
 | Tufts TDPS | tdps.tufts.edu | Trumba calendar integration |
@@ -48,7 +52,7 @@ Focus: Theater (initial phase)
 
 ## To Investigate (future phases)
 - [ ] Ticketmaster venue IDs for Citizens Opera House, Emerson Colonial (for richer data)
-- [ ] OvationTix API/scraper for Wheelock Family Theatre, Actors' Shakespeare Project
+- [ ] Wheelock Family Theatre OvationTix (#177) — mostly children's classes, different format
 - [ ] A.R.T. calendar page JSON scraper
 - [ ] Huntington calendar Vue API
 - [ ] Music venues, comedy clubs, community events, meetups, libraries

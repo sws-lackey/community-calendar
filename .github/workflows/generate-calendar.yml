@@ -1041,6 +1041,9 @@ jobs:
         python scrapers/songkick.py --url "https://www.songkick.com/venues/4875-emerson-colonial-theatre" --name "Emerson Colonial Theatre" --output cities/boston/songkick_emerson_colonial.ics || true
         python scrapers/songkick.py --url "https://www.songkick.com/venues/656711-huntington-theatre" --name "Huntington Theatre" --output cities/boston/songkick_huntington.ics || true
         python scrapers/songkick.py --url "https://www.songkick.com/venues/4441925-lyric-stage-company-of-boston" --name "Lyric Stage Company" --output cities/boston/songkick_lyric_stage.ics || true
+        # OvationTix theater venues
+        python scrapers/ovationtix.py --org 2462 --name "Central Square Theater" --output cities/boston/ovationtix_central_square.ics || true
+        python scrapers/ovationtix.py --org 921 --name "Actors' Shakespeare Project" --output cities/boston/ovationtix_asp.ics || true
 
     - name: Fetch Boston live feeds
       if: contains(steps.locations.outputs.list, 'boston') && github.event.inputs.regenerate_only != 'true'

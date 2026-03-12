@@ -14,6 +14,10 @@ cities/boston/songkick_emerson_colonial.ics
 cities/boston/songkick_huntington.ics
 # cmd: python scrapers/songkick.py --url "https://www.songkick.com/venues/4441925-lyric-stage-company-of-boston" --name "Lyric Stage Company"
 cities/boston/songkick_lyric_stage.ics
+# cmd: python scrapers/ovationtix.py --org 2462 --name "Central Square Theater"
+cities/boston/ovationtix_central_square.ics
+# cmd: python scrapers/ovationtix.py --org 921 --name "Actors' Shakespeare Project"
+cities/boston/ovationtix_asp.ics
 
 # --- Live feeds ---
 # iCal feed
