@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T19:37:48.003112",
+  "generated": "2026-03-12T20:14:26.105789",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -41482,7 +41482,7 @@
           "history": [
             {
               "date": "2026-03-12",
-              "count": 1
+              "count": 32
             }
           ]
         },
@@ -41565,50 +41565,92 @@
               "count": 178
             }
           ]
+        },
+        "ticketmaster_citizens_opera": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 111
+            }
+          ]
+        },
+        "ticketmaster_emerson_colonial": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 70
+            }
+          ]
+        },
+        "ticketmaster_lyric_stage": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Arts / Culture",
-          "count": 122
+          "count": 235
         },
         {
           "category": "Dance / Performance",
-          "count": 120
-        },
-        {
-          "category": "Family / Kids",
-          "count": 15
+          "count": 119
         },
         {
           "category": "Music / Concerts",
-          "count": 4
+          "count": 21
+        },
+        {
+          "category": "Film / Cinema",
+          "count": 18
+        },
+        {
+          "category": "Family / Kids",
+          "count": 17
+        },
+        {
+          "category": "(uncategorized)",
+          "count": 11
+        },
+        {
+          "category": "Comedy / Improv",
+          "count": 3
         },
         {
           "category": "Education / Workshops",
           "count": 2
         },
         {
-          "category": "Comedy / Improv",
+          "category": "Community / Social",
           "count": 2
         },
         {
-          "category": "Film / Cinema",
-          "count": 1
-        },
-        {
-          "category": "Community / Social",
+          "category": "Books / Literature / Poetry",
           "count": 1
         }
       ],
       "images": {
-        "total": 267,
-        "with_image": 141,
+        "total": 429,
+        "with_image": 277,
         "by_source": [
           {
             "source": "Boston Theatre Scene",
             "total": 137,
             "with_image": 137
+          },
+          {
+            "source": "Citizens Opera House",
+            "total": 82,
+            "with_image": 82
+          },
+          {
+            "source": "Emerson Colonial Theatre",
+            "total": 58,
+            "with_image": 54
           },
           {
             "source": "Tufts Tdps",
@@ -41618,9 +41660,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 261,
-        "total_events": 267,
-        "unique_urls": 59,
+        "total_with_url": 387,
+        "total_events": 429,
+        "unique_urls": 185,
         "generic_count": 16,
         "generic_domains": [
           {
@@ -41639,15 +41681,33 @@
             "specificity_pct": 12
           },
           {
+            "source": "Citizens Opera House",
+            "events": 70,
+            "unique_urls": 70,
+            "specificity_pct": 100
+          },
+          {
             "source": "Central Square Theater",
             "events": 38,
             "unique_urls": 2,
             "specificity_pct": 5
           },
           {
+            "source": "Emerson Colonial Theatre",
+            "events": 34,
+            "unique_urls": 34,
+            "specificity_pct": 100
+          },
+          {
             "source": "American Repertory Theater",
             "events": 29,
             "unique_urls": 29,
+            "specificity_pct": 100
+          },
+          {
+            "source": "ArtsEmerson",
+            "events": 27,
+            "unique_urls": 27,
             "specificity_pct": 100
           },
           {
@@ -41669,22 +41729,10 @@
             "specificity_pct": 27
           },
           {
-            "source": "Emerson Colonial Theatre",
-            "events": 4,
-            "unique_urls": 4,
-            "specificity_pct": 100
-          },
-          {
             "source": "Tufts Tdps",
             "events": 3,
             "unique_urls": 1,
             "specificity_pct": 33
-          },
-          {
-            "source": "Artsemerson",
-            "events": 1,
-            "unique_urls": 1,
-            "specificity_pct": 100
           }
         ]
       }
