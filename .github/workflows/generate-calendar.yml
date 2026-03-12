@@ -1047,6 +1047,8 @@ jobs:
         python scrapers/ovationtix.py --org 177 --name "Wheelock Family Theatre" --output cities/boston/ovationtix_wheelock.ics || true
         # A.R.T. (embedded JSON calendar)
         python scrapers/art_calendar.py --output cities/boston/art.ics || true
+        # Boston Theatre Scene (aggregator)
+        python scrapers/boston_theatre_scene.py --output cities/boston/boston_theatre_scene.ics || true
 
     - name: Fetch Boston live feeds
       if: contains(steps.locations.outputs.list, 'boston') && github.event.inputs.regenerate_only != 'true'
