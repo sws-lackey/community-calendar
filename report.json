@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T15:53:27.085632",
+  "generated": "2026-03-12T16:11:49.492369",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -40669,43 +40669,227 @@
               "count": 0
             }
           ]
+        },
+        "ananda_portland": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "bird_alliance_oregon": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "crystal_ballroom": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 30
+            }
+          ]
+        },
+        "crystal_springs": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "hoyt_arboretum": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "lan_su_garden": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 30
+            }
+          ]
+        },
+        "meetup_active_dads": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 1
+            }
+          ]
+        },
+        "meetup_contra_dance": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 2
+            }
+          ]
+        },
+        "meetup_meditation": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_portland_free_community": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 10
+            }
+          ]
+        },
+        "pdx_parent": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 29
+            }
+          ]
+        },
+        "portland_public_schools": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "songkick_aladdin": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 4
+            }
+          ]
+        },
+        "songkick_alberta_rose": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 4
+            }
+          ]
+        },
+        "songkick_hawthorne": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "songkick_keller": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 2
+            }
+          ]
+        },
+        "songkick_mississippi_studios": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "songkick_revolution_hall": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "songkick_schnitzer": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "songkick_wonder_ballroom": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "tryon_creek": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 24
+            }
+          ]
+        },
+        "wccls_library": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Education / Workshops",
-          "count": 266
+          "count": 276
         },
         {
           "category": "Sports / Fitness",
-          "count": 260
+          "count": 261
         },
         {
           "category": "Community / Social",
-          "count": 239
-        },
-        {
-          "category": "Arts / Culture",
-          "count": 140
+          "count": 249
         },
         {
           "category": "Music / Concerts",
-          "count": 119
+          "count": 175
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 156
         },
         {
           "category": "Health / Wellness",
-          "count": 100
+          "count": 109
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 90
+          "count": 107
         },
         {
           "category": "Religion / Spirituality",
-          "count": 51
+          "count": 64
         },
         {
           "category": "Books / Literature / Poetry",
+          "count": 41
+        },
+        {
+          "category": "Food / Drink",
+          "count": 36
+        },
+        {
+          "category": "Family / Kids",
           "count": 35
         },
         {
@@ -40718,23 +40902,15 @@
         },
         {
           "category": "(uncategorized)",
-          "count": 30
-        },
-        {
-          "category": "Food / Drink",
-          "count": 24
-        },
-        {
-          "category": "Family / Kids",
-          "count": 24
+          "count": 29
         },
         {
           "category": "Dance / Performance",
-          "count": 15
+          "count": 21
         },
         {
           "category": "History / Heritage",
-          "count": 6
+          "count": 12
         },
         {
           "category": "Comedy / Improv",
@@ -40742,8 +40918,8 @@
         }
       ],
       "images": {
-        "total": 1468,
-        "with_image": 666,
+        "total": 1640,
+        "with_image": 772,
         "by_source": [
           {
             "source": "Lewis Clark",
@@ -40766,6 +40942,11 @@
             "with_image": 36
           },
           {
+            "source": "Lan Su Garden",
+            "total": 30,
+            "with_image": 30
+          },
+          {
             "source": "Literary Arts",
             "total": 29,
             "with_image": 29
@@ -40774,6 +40955,16 @@
             "source": "Portland Art Museum",
             "total": 29,
             "with_image": 29
+          },
+          {
+            "source": "Crystal Ballroom",
+            "total": 30,
+            "with_image": 28
+          },
+          {
+            "source": "Pdx Parent",
+            "total": 27,
+            "with_image": 27
           },
           {
             "source": "Pioneer Square",
@@ -40801,12 +40992,22 @@
             "with_image": 10
           },
           {
+            "source": "Meetup Meditation",
+            "total": 10,
+            "with_image": 10
+          },
+          {
             "source": "Meetup Slowpo Runners",
             "total": 10,
             "with_image": 10
           },
           {
             "source": "Meetup Coffee Sketch",
+            "total": 10,
+            "with_image": 10
+          },
+          {
+            "source": "Meetup Portland Free Community",
             "total": 10,
             "with_image": 10
           },
@@ -40856,11 +41057,6 @@
             "with_image": 4
           },
           {
-            "source": "Portland Nursery",
-            "total": 4,
-            "with_image": 4
-          },
-          {
             "source": "Portland Farmers Market",
             "total": 3,
             "with_image": 3
@@ -40871,12 +41067,22 @@
             "with_image": 3
           },
           {
+            "source": "Portland Nursery",
+            "total": 4,
+            "with_image": 3
+          },
+          {
             "source": "Meetup Art Guild",
             "total": 3,
             "with_image": 3
           },
           {
             "source": "Meetup Techacademy",
+            "total": 2,
+            "with_image": 2
+          },
+          {
+            "source": "Meetup Contra Dance",
             "total": 2,
             "with_image": 2
           },
@@ -40906,17 +41112,17 @@
             "with_image": 1
           },
           {
+            "source": "Meetup Active Dads",
+            "total": 1,
+            "with_image": 1
+          },
+          {
             "source": "Meetup Silent Books Club",
             "total": 1,
             "with_image": 1
           },
           {
             "source": "Meetup Silent Book Club Portland",
-            "total": 1,
-            "with_image": 1
-          },
-          {
-            "source": "Northwest Trail Alliance",
             "total": 1,
             "with_image": 1
           },
@@ -40928,13 +41134,13 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 1436,
-        "total_events": 1468,
-        "unique_urls": 1151,
+        "total_with_url": 1608,
+        "total_events": 1640,
+        "unique_urls": 1323,
         "generic_count": 0,
         "generic_domains": [],
-        "http_count": 0,
-        "http_domains": 0,
+        "http_count": 34,
+        "http_domains": 1,
         "source_specificity": [
           {
             "source": "Portland Community College",
@@ -40950,8 +41156,8 @@
           },
           {
             "source": "Reed College",
-            "events": 147,
-            "unique_urls": 77,
+            "events": 146,
+            "unique_urls": 76,
             "specificity_pct": 52
           },
           {
@@ -40997,7 +41203,19 @@
             "specificity_pct": 47
           },
           {
+            "source": "Crystal Ballroom",
+            "events": 30,
+            "unique_urls": 30,
+            "specificity_pct": 100
+          },
+          {
             "source": "Pioneer Square",
+            "events": 30,
+            "unique_urls": 30,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Lan Su Garden",
             "events": 30,
             "unique_urls": 30,
             "specificity_pct": 100
@@ -41012,18 +41230,6 @@
             "source": "Portland Art Museum",
             "events": 29,
             "unique_urls": 29,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Ohsu Library",
-            "events": 19,
-            "unique_urls": 19,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Meetup Portland Hiking",
-            "events": 10,
-            "unique_urls": 10,
             "specificity_pct": 100
           }
         ]
