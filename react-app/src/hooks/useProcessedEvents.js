@@ -45,5 +45,5 @@ export function useProcessedEvents(events, enrichments, filterTerm, displayCount
     return getMasonryColumns(regularEvents, columnCount);
   }, [regularEvents, columnCount]);
 
-  return { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns };
+  return { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns, featuredEvents, regularEvents };
 }

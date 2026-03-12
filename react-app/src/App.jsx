@@ -6,6 +6,7 @@ import Header from './components/Header.jsx';
 import SearchBar from './components/SearchBar.jsx';
 import StyleSwitcher from './components/StyleSwitcher.jsx';
 import MasonryGrid from './components/MasonryGrid.jsx';
+import UniformGrid from './components/UniformGrid.jsx';
 import PicksList from './components/PicksList.jsx';
 import CollectionTargetBar from './components/CollectionTargetBar.jsx';
 import { useEvents } from './hooks/useEvents.js';
@@ -52,7 +53,10 @@ function App() {
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
     : rawColumnCount;
 
-  const { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns } = useProcessedEvents(
+  const gridStyles = ['grid', 'gridcompact', 'gridtile'];
+  const isGridLayout = gridStyles.includes(cardStyle);
+
+  const { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns, featuredEvents, regularEvents } = useProcessedEvents(
     events,
     enrichments,
     filterTerm,
@@ -155,22 +159,47 @@ function App() {
 
             {!loading && events && (
               <>
-                {featuredColumns.some(col => col.length > 0) && (
-                  <div className="mb-6">
+                {isGridLayout ? (
+                  <>
+                    {featuredEvents.length > 0 && (
+                      <div className="mb-6">
+                        <UniformGrid
+                          events={featuredEvents}
+                          filterTerm={filterTerm}
+                          onCategoryFilter={handleCategoryFilter}
+                          variant={cardStyle}
+                          columnCount={columnCount}
+                        />
+                      </div>
+                    )}
+                    <UniformGrid
+                      events={regularEvents}
+                      filterTerm={filterTerm}
+                      onCategoryFilter={handleCategoryFilter}
+                      variant={cardStyle}
+                      columnCount={columnCount}
+                    />
+                  </>
+                ) : (
+                  <>
+                    {featuredColumns.some(col => col.length > 0) && (
+                      <div className="mb-6">
+                        <MasonryGrid
+                          masonryColumns={featuredColumns}
+                          filterTerm={filterTerm}
+                          onCategoryFilter={handleCategoryFilter}
+                          variant={cardStyle}
+                        />
+                      </div>
+                    )}
                     <MasonryGrid
-                      masonryColumns={featuredColumns}
+                      masonryColumns={masonryColumns}
                       filterTerm={filterTerm}
                       onCategoryFilter={handleCategoryFilter}
                       variant={cardStyle}
                     />
-                  </div>
+                  </>
                 )}
-                <MasonryGrid
-                  masonryColumns={masonryColumns}
-                  filterTerm={filterTerm}
-                  onCategoryFilter={handleCategoryFilter}
-                  variant={cardStyle}
-                />
 
                 {hasMore && !filterTerm && (
                   <div ref={sentinelRef} className="w-full text-center py-4 text-gray-400 text-sm">

@@ -13,6 +13,9 @@ import SplitCard from './cards/SplitCard.jsx';
 import SplitImageCard from './cards/SplitImageCard.jsx';
 import PolaroidCard from './cards/PolaroidCard.jsx';
 import TicketCard from './cards/TicketCard.jsx';
+import GridCard from './cards/GridCard.jsx';
+import GridCompactCard from './cards/GridCompactCard.jsx';
+import GridTileCard from './cards/GridTileCard.jsx';
 const VARIANTS = {
   classic: ClassicCard,
   accent: AccentCard,
@@ -27,6 +30,9 @@ const VARIANTS = {
   polaroid: PolaroidCard,
   ticket: TicketCard,
   list: SplitCard,
+  grid: GridCard,
+  gridcompact: GridCompactCard,
+  gridtile: GridTileCard,
 };
 
 export default function EventCard({ event, filterTerm, onCategoryFilter, variant }) {
