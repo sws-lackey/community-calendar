@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T18:35:38.495417",
+  "generated": "2026-03-12T18:59:37.180162",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -41464,6 +41464,166 @@
             "events": 35,
             "unique_urls": 17,
             "specificity_pct": 49
+          }
+        ]
+      }
+    },
+    "boston": {
+      "feeds": {
+        "art": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "artsemerson": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 1
+            }
+          ]
+        },
+        "bu_theatre": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 18
+            }
+          ]
+        },
+        "ovationtix_asp": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 17
+            }
+          ]
+        },
+        "ovationtix_central_square": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 23
+            }
+          ]
+        },
+        "ovationtix_wheelock": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 8
+            }
+          ]
+        },
+        "songkick_citizens_opera": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "songkick_emerson_colonial": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 5
+            }
+          ]
+        },
+        "songkick_huntington": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        },
+        "songkick_lyric_stage": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 0
+            }
+          ]
+        }
+      },
+      "categories": [
+        {
+          "category": "Dance / Performance",
+          "count": 49
+        },
+        {
+          "category": "Family / Kids",
+          "count": 8
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 4
+        },
+        {
+          "category": "Education / Workshops",
+          "count": 1
+        }
+      ],
+      "images": {
+        "total": 62,
+        "with_image": 0,
+        "by_source": []
+      },
+      "url_quality": {
+        "total_with_url": 62,
+        "total_events": 62,
+        "unique_urls": 12,
+        "generic_count": 16,
+        "generic_domains": [
+          {
+            "domain": "www.bu.edu",
+            "events": 16,
+            "url": "https://www.bu.edu/cfa/news/calendar/"
+          }
+        ],
+        "http_count": 4,
+        "http_domains": 1,
+        "source_specificity": [
+          {
+            "source": "Central Square Theater",
+            "events": 19,
+            "unique_urls": 1,
+            "specificity_pct": 5
+          },
+          {
+            "source": "BU School of Theatre",
+            "events": 16,
+            "unique_urls": 1,
+            "specificity_pct": 6
+          },
+          {
+            "source": "Actors' Shakespeare Project",
+            "events": 14,
+            "unique_urls": 1,
+            "specificity_pct": 7
+          },
+          {
+            "source": "Wheelock Family Theatre",
+            "events": 8,
+            "unique_urls": 4,
+            "specificity_pct": 50
+          },
+          {
+            "source": "Emerson Colonial Theatre",
+            "events": 4,
+            "unique_urls": 4,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Artsemerson",
+            "events": 1,
+            "unique_urls": 1,
+            "specificity_pct": 100
           }
         ]
       }
