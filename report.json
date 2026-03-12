@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-12T16:11:49.492369",
+  "generated": "2026-03-12T16:33:11.455475",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -40842,7 +40842,47 @@
           "history": [
             {
               "date": "2026-03-12",
-              "count": 0
+              "count": 1413
+            }
+          ]
+        },
+        "pdxgov_classes": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 18
+            }
+          ]
+        },
+        "pdxgov_community": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 44
+            }
+          ]
+        },
+        "pdxgov_council": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 23
+            }
+          ]
+        },
+        "pdxgov_public_meetings": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 38
+            }
+          ]
+        },
+        "pdxgov_volunteer": {
+          "history": [
+            {
+              "date": "2026-03-12",
+              "count": 64
             }
           ]
         }
@@ -40850,51 +40890,51 @@
       "categories": [
         {
           "category": "Education / Workshops",
-          "count": 276
+          "count": 681
         },
         {
-          "category": "Sports / Fitness",
-          "count": 261
+          "category": "Family / Kids",
+          "count": 510
         },
         {
           "category": "Community / Social",
-          "count": 249
+          "count": 341
         },
         {
-          "category": "Music / Concerts",
-          "count": 175
+          "category": "Sports / Fitness",
+          "count": 264
         },
         {
           "category": "Arts / Culture",
-          "count": 156
+          "count": 207
         },
         {
-          "category": "Health / Wellness",
-          "count": 109
+          "category": "Music / Concerts",
+          "count": 190
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 107
+          "count": 172
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 128
+        },
+        {
+          "category": "Books / Literature / Poetry",
+          "count": 115
+        },
+        {
+          "category": "Government / Civic",
+          "count": 105
         },
         {
           "category": "Religion / Spirituality",
           "count": 64
         },
         {
-          "category": "Books / Literature / Poetry",
-          "count": 41
-        },
-        {
           "category": "Food / Drink",
-          "count": 36
-        },
-        {
-          "category": "Family / Kids",
-          "count": 35
-        },
-        {
-          "category": "Government / Civic",
-          "count": 33
+          "count": 38
         },
         {
           "category": "Film / Cinema",
@@ -40902,24 +40942,24 @@
         },
         {
           "category": "(uncategorized)",
-          "count": 29
-        },
-        {
-          "category": "Dance / Performance",
-          "count": 21
+          "count": 30
         },
         {
           "category": "History / Heritage",
-          "count": 12
+          "count": 23
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 22
         },
         {
           "category": "Comedy / Improv",
-          "count": 3
+          "count": 4
         }
       ],
       "images": {
-        "total": 1640,
-        "with_image": 772,
+        "total": 2927,
+        "with_image": 864,
         "by_source": [
           {
             "source": "Lewis Clark",
@@ -40932,6 +40972,11 @@
             "with_image": 115
           },
           {
+            "source": "Portland Volunteer Events",
+            "total": 64,
+            "with_image": 47
+          },
+          {
             "source": "Tockify Kptv Calendar",
             "total": 41,
             "with_image": 41
@@ -40940,6 +40985,11 @@
             "source": "Tockify Theoldchurch",
             "total": 36,
             "with_image": 36
+          },
+          {
+            "source": "Portland Community Events",
+            "total": 44,
+            "with_image": 31
           },
           {
             "source": "Lan Su Garden",
@@ -40970,6 +41020,11 @@
             "source": "Pioneer Square",
             "total": 30,
             "with_image": 26
+          },
+          {
+            "source": "Portland Classes & Activities",
+            "total": 18,
+            "with_image": 11
           },
           {
             "source": "Meetup Portland Hiking",
@@ -41057,6 +41112,11 @@
             "with_image": 4
           },
           {
+            "source": "Portland Nursery",
+            "total": 4,
+            "with_image": 4
+          },
+          {
             "source": "Portland Farmers Market",
             "total": 3,
             "with_image": 3
@@ -41064,11 +41124,6 @@
           {
             "source": "Meetup Nw Trail Runners",
             "total": 3,
-            "with_image": 3
-          },
-          {
-            "source": "Portland Nursery",
-            "total": 4,
             "with_image": 3
           },
           {
@@ -41107,6 +41162,11 @@
             "with_image": 2
           },
           {
+            "source": "Portland Public Meetings",
+            "total": 38,
+            "with_image": 1
+          },
+          {
             "source": "Meetup Code For Pdx",
             "total": 1,
             "with_image": 1
@@ -41127,6 +41187,11 @@
             "with_image": 1
           },
           {
+            "source": "Northwest Trail Alliance",
+            "total": 1,
+            "with_image": 1
+          },
+          {
             "source": "Japanese Garden, Tockify Kptv Calendar",
             "total": 1,
             "with_image": 1
@@ -41134,14 +41199,20 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 1608,
-        "total_events": 1640,
-        "unique_urls": 1323,
+        "total_with_url": 2895,
+        "total_events": 2927,
+        "unique_urls": 2610,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 34,
         "http_domains": 1,
         "source_specificity": [
+          {
+            "source": "WCCLS Libraries",
+            "events": 1101,
+            "unique_urls": 1101,
+            "specificity_pct": 100
+          },
           {
             "source": "Portland Community College",
             "events": 322,
@@ -41156,8 +41227,8 @@
           },
           {
             "source": "Reed College",
-            "events": 146,
-            "unique_urls": 76,
+            "events": 145,
+            "unique_urls": 75,
             "specificity_pct": 52
           },
           {
@@ -41173,6 +41244,12 @@
             "specificity_pct": 37
           },
           {
+            "source": "Portland Volunteer Events",
+            "events": 64,
+            "unique_urls": 64,
+            "specificity_pct": 100
+          },
+          {
             "source": "Psu Athletics",
             "events": 59,
             "unique_urls": 59,
@@ -41185,9 +41262,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "Portland Community Events",
+            "events": 44,
+            "unique_urls": 44,
+            "specificity_pct": 100
+          },
+          {
             "source": "Tockify Kptv Calendar",
             "events": 41,
             "unique_urls": 41,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Portland Public Meetings",
+            "events": 38,
+            "unique_urls": 38,
             "specificity_pct": 100
           },
           {
@@ -41206,30 +41295,6 @@
             "source": "Crystal Ballroom",
             "events": 30,
             "unique_urls": 30,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Pioneer Square",
-            "events": 30,
-            "unique_urls": 30,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Lan Su Garden",
-            "events": 30,
-            "unique_urls": 30,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Literary Arts",
-            "events": 29,
-            "unique_urls": 29,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Portland Art Museum",
-            "events": 29,
-            "unique_urls": 29,
             "specificity_pct": 100
           }
         ]

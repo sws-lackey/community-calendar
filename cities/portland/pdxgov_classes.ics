@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Portland Classes & Activities//portland.gov//
+X-WR-CALNAME:Portland Classes & Activities
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:Renaissance Winds Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T193000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T193000
+UID:fbefedf807e8ac905aeff2d5d5a05a83@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:Community Music Center's recorder ensembles play their newly d
+ iscovered and polished musical gems.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/3/12/renaissan
+ ce-winds-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAP Ariba Supplier Registration- March 16\, 2026\, 1:00 PM- 3:00 P
+ M
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260316T130000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260316T130000
+UID:6d1b26dfcab876f357ba0e4ce219f47c@portland.gov
+DESCRIPTION:The City of Portland is introducing a new system to manage sup
+ plier registration\, bidding\, and contracting processes. This worksession
+  will help both new and existing suppliers successfully register in SAP Ar
+ iba.
+URL:https://www.portland.gov/procurement/inclusivecontracting/events/2026/
+ 3/16/sap-ariba-supplier-registration-march-16-2026-100
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Local Tree Care Providers Workshop
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260320T083000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260320T083000
+UID:f8b3e013232f27fc12de2caf2eabca6a@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/54445570324_ff3e1982b7_5k.jpg?itok=u5FNcAJR
+DESCRIPTION:This workshop is for tree care professionals who work in Portl
+ and. It's free to attend and is a requirement for companies that wish to b
+ e included on the City's Local Tree Care Providers web page.
+URL:https://www.portland.gov/trees/events/2026/3/20/local-tree-care-provid
+ ers-workshop
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Apply Session
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260325T120000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260325T120000
+UID:cf5f4f48755f3be447ac2f671a1eb77d@portland.gov
+DESCRIPTION:
+URL:https://www.portland.gov/bhr/events/2026/3/25/how-apply-session
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Donor Elections Candidate & Treasurer Mandatory Training - M
+ arch 27
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260327T120000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260327T120000
+UID:f4fecb1644801f75ceb6b1ba4d03b580@portland.gov
+DESCRIPTION:Mandatory training for Portlanders running for Mayor\, Auditor
+ \, or Council who wish to participate in the matching program. Those consi
+ dering running or considering participating are welcome and encouraged to 
+ join. Confidential one-on-one trainings are available. Call 503.823.5292 t
+ o schedule.
+URL:https://www.portland.gov/smalldonorelections/events/2026/3/27/small-do
+ nor-elections-candidate-treasurer-mandatory-training
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAP Ariba Supplier Registration - April 6\, 2026\, 10:00 AM-Noon
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260406T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260406T100000
+UID:ef4a0bcbf8bf9a4f79fdaf4dbcfb5711@portland.gov
+DESCRIPTION:The City of Portland is introducing a new system to manage sup
+ plier registration\, bidding\, and contracting processes. This worksession
+  will help both new and existing suppliers successfully register in SAP Ar
+ iba.
+URL:https://www.portland.gov/procurement/inclusivecontracting/events/2026/
+ 4/6/sap-ariba-supplier-registration-april-6-2026-1000
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Donor Elections Candidate & Treasurer Mandatory Training - A
+ pril 6
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260406T173000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260406T173000
+UID:64c35cc7fc670c8d2e4608423fed63ee@portland.gov
+DESCRIPTION:Mandatory training for Portlanders running for Mayor\, Auditor
+ \, or Council who wish to participate in the matching program. Those consi
+ dering running or considering participating are welcome and encouraged to 
+ join. Confidential one-on-one trainings are available. Call 503.823.5292 t
+ o schedule.
+URL:https://www.portland.gov/smalldonorelections/events/2026/4/6/small-don
+ or-elections-candidate-treasurer-mandatory-training
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wind Instrument Students of Kara Lane in Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260411T163000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260411T163000
+UID:28011749ccc1bd5e7a08eeee47e68101@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/4/11/wind-inst
+ rument-students-kara-lane-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cello Students of Katherine Schultz in Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260412T140000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260412T140000
+UID:f5a6827b31bcff9c15d37f283721ff03@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/4/12/cello-stu
+ dents-katherine-schultz-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Setting Students Up for Success in Music Lessons & Home Practice
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260418T160000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260418T160000
+UID:35376aba4db6dad9fef77f659a83dfff@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:A workshop for CMC Parents of Private Lesson Students: tips\, 
+ tricks\, insights and inspiration for parents of string instrument student
+ s.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/4/18/setting-s
+ tudents-success-music-lessons-home-practice
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cello Students of Collin Oldham in Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260419T140000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260419T140000
+UID:278fc35cd2037642370cbf77e1cadf38@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/4/19/cello-stu
+ dents-collin-oldham-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Donor Elections Candidate & Treasurer Mandatory Training - A
+ pril 24
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260424T120000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260424T120000
+UID:aa9ccfe30c9ce59a11f3e9b4238e26f9@portland.gov
+DESCRIPTION:Mandatory training for Portlanders running for Mayor\, Auditor
+ \, or Council who wish to participate in the matching program. Those consi
+ dering running or considering participating are welcome and encouraged to 
+ join. Confidential one-on-one trainings are available. Call 503.823.5292 t
+ o schedule.
+URL:https://www.portland.gov/smalldonorelections/events/2026/4/24/small-do
+ nor-elections-candidate-treasurer-mandatory-training
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suzuki All Play
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260425T160000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260425T160000
+UID:1940d40e9f59aa93e57707da3f4e032e@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC Suzuki students play through many favorite compositions fr
+ om the Suzuki collection. Note: no audience seating - livestream only (see
+  below).
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/4/25/suzuki-al
+ l-play
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violin Students of Erica Liebert in Recital (1 of 2)
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260503T130000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260503T130000
+UID:39a55edd9512ab8c7fc4950f890fdf55@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/5/3/violin-stu
+ dents-erica-liebert-recital-1-2
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violin Students of Erica Liebert in Recital (2 of 2)
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260503T140000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260503T140000
+UID:d97f70fe46062ba7e26e94914cd4c93c@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/5/3/violin-stu
+ dents-erica-liebert-recital-2-2
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violin Students of Scott Belleri in Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260503T170000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260503T170000
+UID:dbcfeff18d86bebbf2ef503de805d291@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/5/3/violin-stu
+ dents-scott-belleri-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Donor Elections Candidate & Treasurer Mandatory Training - M
+ ay 4
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260504T173000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260504T173000
+UID:e7b1ca62c2f80a463558666c35b0f2e8@portland.gov
+DESCRIPTION:Mandatory training for Portlanders running for Mayor\, Auditor
+ \, or Council who wish to participate in the matching program. Those consi
+ dering running or considering participating are welcome and encouraged to 
+ join. Confidential one-on-one trainings are available. Call 503.823.5292 t
+ o schedule.
+URL:https://www.portland.gov/smalldonorelections/events/2026/5/4/small-don
+ or-elections-candidate-treasurer-mandatory-training
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Violin & Viola Students of Cynthia Scott in Recital
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260509T183000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260509T183000
+UID:b39277c39b5dd6559450832aa9a882d0@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
+DESCRIPTION:CMC students of this instructor perform their most recently le
+ arned musical compositions for public enjoyment.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/5/9/violin-vio
+ la-students-cynthia-scott-recital
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+END:VCALENDAR
