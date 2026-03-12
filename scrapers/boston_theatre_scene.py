@@ -127,9 +127,12 @@ class BostonTheatreSceneScraper(BaseScraper):
         if not title or not dt:
             return None
 
-        # Venue
+        # Venue — append "Boston, MA" if no city is present
+        # (needed for geo-filter in combine_ics which checks for allowed city names)
         venue_el = soup.find(class_='c-calendar-instance__venue')
         venue = venue_el.get_text(strip=True) if venue_el else ''
+        if venue and ', MA' not in venue and 'Boston' not in venue and 'Cambridge' not in venue:
+            venue = f'{venue}, Boston, MA'
 
         # URL
         link = soup.find('a', class_='c-calendar-instance__event-link')
