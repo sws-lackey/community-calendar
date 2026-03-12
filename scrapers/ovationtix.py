@@ -90,7 +90,7 @@ class OvationTixScraper(BaseScraper):
 
             productions.append({'id': prod_id, 'title': text})
 
-        # Merge multi-part titles (author + title + director are separate links)
+        # Collect all link texts per production
         merged = {}
         for link in soup.find_all('a', href=re.compile(r'/production/(\d+)')):
             m = re.search(r'/production/(\d+)', link['href'])
@@ -102,27 +102,71 @@ class OvationTixScraper(BaseScraper):
                 continue
             merged.setdefault(prod_id, []).append(text)
 
+        # Also collect surrounding text for each production link (for sites
+        # where titles are outside the <a> tags, e.g. Wheelock)
+        context_titles = {}
+        for link in soup.find_all('a', href=re.compile(r'/production/(\d+)')):
+            m = re.search(r'/production/(\d+)', link['href'])
+            if not m or m.group(1) in context_titles:
+                continue
+            prod_id = m.group(1)
+            # Walk up to find a parent cell/div with meaningful text
+            for parent in link.parents:
+                if parent.name in ('td', 'div', 'li', 'tr'):
+                    # Get text from bold/strong elements or direct text
+                    for el in parent.find_all(['b', 'strong']):
+                        t = el.get_text(strip=True)
+                        if len(t) > 3 and not re.match(r'^\d{1,2}:\d{2}', t):
+                            context_titles[prod_id] = t
+                            break
+                    if prod_id in context_titles:
+                        break
+                    # Try all text in the parent, filtering out times, subtitles, dates
+                    title_candidates = []
+                    for s in parent.stripped_strings:
+                        if (len(s) > 3
+                                and not re.match(r'^\d{1,2}:\d{2}', s)
+                                and not re.match(r'^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)', s)
+                                and not s.lower().startswith('based on')
+                                and not s.lower().startswith('directed by')
+                                and s.lower() not in ('buy now »', 'buy now', 'see schedule')
+                                and '»' not in s):
+                            title_candidates.append(s)
+                    if title_candidates:
+                        context_titles[prod_id] = title_candidates[0]
+                    if prod_id in context_titles:
+                        break
+
         # Build final production list
-        # Link pattern: author ("Hugh Whitemore's"), title ("Breaking the Code"),
-        # director ("directed by Scott Edmiston"). Pick the title by excluding
-        # author/director patterns.
+        TIME_RE = re.compile(r'^\d{1,2}:\d{2}\s*(am|pm|AM|PM)')
         final = []
         seen = set()
         for prod_id, texts in merged.items():
             if prod_id in seen:
                 continue
             seen.add(prod_id)
-            # Filter out author credits (ending with 's) and director credits
+            # Filter out times, author credits, director credits
             candidates = [t for t in texts
                           if not t.lower().startswith('directed by')
-                          and not re.match(r".+('s|'s)$", t)]
-            title = candidates[0] if candidates else texts[0]
+                          and not re.match(r".+('s|'s)$", t)
+                          and not TIME_RE.match(t)]
+            if candidates:
+                title = candidates[0]
+            elif prod_id in context_titles:
+                title = context_titles[prod_id]
+            else:
+                title = texts[0]
             final.append({'id': prod_id, 'title': title})
 
         return final
 
     def _fetch_performances(self, production):
-        """Fetch individual performance dates/times for a production."""
+        """Fetch individual performance dates/times for a production.
+
+        Handles two OvationTix calendar formats:
+        1. List view: full dates like "Thursday, April 2, 2026" with times below
+        2. Grid view: month/year header with day numbers in table cells
+        """
         url = f'{BASE_URL}/{self.org_id}?productionId={production["id"]}'
         try:
             resp = self.session.get(url, timeout=15)
@@ -132,22 +176,33 @@ class OvationTixScraper(BaseScraper):
             return []
 
         soup = BeautifulSoup(resp.text, 'html.parser')
-        events = []
-
-        # Performance times are links like /trs/pe.c/{performanceId} with time text
-        # They appear grouped under date text
-        # Strategy: find all text containing full dates and times
         text = soup.get_text()
+        prod_url = f'https://ci.ovationtix.com/{self.org_id}/production/{production["id"]}'
+        venue = self._venue_name(soup)
 
-        # Find date + time patterns in the page text
-        # Dates appear as "Thursday, April 2, 2026" or similar
+        # Strategy 1: List view with full dates ("Thursday, April 2, 2026")
+        events = self._parse_list_view(text, production, prod_url, venue)
+        if events:
+            return events
+
+        # Strategy 2: Grid/calendar view — find performance links and resolve
+        # dates from the calendar grid structure
+        events = self._parse_grid_view(soup, production, prod_url, venue)
+        if events:
+            return events
+
+        logger.warning(f'No performances found for {production["title"]}')
+        return []
+
+    def _parse_list_view(self, text, production, prod_url, venue):
+        """Parse list-style calendar with full date headers."""
+        events = []
         current_date = None
         for line in text.split('\n'):
             line = line.strip()
             if not line:
                 continue
 
-            # Try to match a full date like "Thursday, April 2, 2026"
             date_match = re.match(
                 r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+'
                 r'(\w+ \d{1,2},\s*\d{4})', line
@@ -159,7 +214,6 @@ class OvationTixScraper(BaseScraper):
                     pass
                 continue
 
-            # Match time patterns like "7:30 PM" or "2:00 PM"
             if current_date:
                 times = re.findall(r'(\d{1,2}:\d{2}\s*[AP]M)', line, re.IGNORECASE)
                 for time_str in times:
@@ -169,33 +223,84 @@ class OvationTixScraper(BaseScraper):
                             'title': production['title'],
                             'dtstart': dt,
                             'dtend': dt + timedelta(hours=2),
-                            'url': f'https://ci.ovationtix.com/{self.org_id}/production/{production["id"]}',
-                            'location': self._venue_name(soup),
+                            'url': prod_url,
+                            'location': venue,
                         })
+        return events
 
-        # Fallback: if no individual performances found, create one event per production
-        if not events:
-            logger.warning(f'No individual performances found for {production["title"]}, using date range')
-            # Try to find date range from the listing
-            range_match = re.search(
-                r'(\w{3},\s+\w+ \d{1,2})\s*-\s*(\w{3},\s+\w+ \d{1,2})',
-                text
-            )
-            if range_match:
-                year = datetime.now().year
-                try:
-                    start = datetime.strptime(f'{range_match.group(1)}, {year}', '%a, %b %d, %Y')
-                    events.append({
-                        'title': production['title'],
-                        'dtstart': start.replace(hour=19, minute=30, tzinfo=self.tz),
-                        'dtend': start.replace(hour=21, minute=30, tzinfo=self.tz),
-                        'url': f'https://ci.ovationtix.com/{self.org_id}/production/{production["id"]}',
-                        'location': self._venue_name(soup),
-                    })
-                except ValueError:
-                    pass
+    def _parse_grid_view(self, soup, production, prod_url, venue):
+        """Parse grid/calendar view with month header and day-number cells.
+
+        Performance links (ci.ovationtix.com/.../production/X?performanceId=Y)
+        sit inside table cells. We find the month/year from the page, then
+        resolve each cell's day number to a full date.
+        """
+        # Find month/year — look for "March 2026" pattern in page text
+        text = soup.get_text()
+        months_found = re.findall(r'(January|February|March|April|May|June|July|'
+                                  r'August|September|October|November|December)\s+(\d{4})', text)
+        if not months_found:
+            return []
+
+        # Use the first month found (current view)
+        month_name, year_str = months_found[0]
+        base_month = datetime.strptime(f'{month_name} {year_str}', '%B %Y')
+
+        events = []
+        # Find all performance links for this production
+        for link in soup.find_all('a', href=re.compile(rf'/production/{production["id"]}\b')):
+            time_text = link.get_text(strip=True)
+            time_match = re.match(r'(\d{1,2}:\d{2}\s*[ap]m)', time_text, re.IGNORECASE)
+            if not time_match:
+                continue
+
+            # Walk up to find the day number in a parent cell
+            day = self._find_day_in_parents(link)
+            if not day:
+                continue
+
+            # Determine the correct month — if day < current month's first
+            # performance day and we have multiple months, it might be next month
+            dt = base_month.replace(day=day)
+
+            # If multiple months are shown, check if this day belongs to a later month
+            if len(months_found) > 1:
+                # Find which month section this link falls in by checking
+                # position relative to month headers in the HTML
+                for mn, yr in months_found:
+                    try:
+                        candidate = datetime.strptime(f'{mn} {day} {yr}', '%B %d %Y')
+                        # Simple heuristic: use later month if day is small
+                        # and appears after the first month's days
+                        dt = candidate
+                    except ValueError:
+                        continue
+
+            full_dt = self._combine_date_time(dt, time_match.group(1))
+            if full_dt:
+                events.append({
+                    'title': production['title'],
+                    'dtstart': full_dt,
+                    'dtend': full_dt + timedelta(hours=2),
+                    'url': prod_url,
+                    'location': venue,
+                })
 
         return events
+
+    def _find_day_in_parents(self, element):
+        """Walk up from a link to find the day number in a parent table cell."""
+        for parent in element.parents:
+            if parent.name == 'td':
+                # Look for a bare number (day of month) in the cell
+                for s in parent.stripped_strings:
+                    m = re.match(r'^(\d{1,2})$', s.strip())
+                    if m:
+                        day = int(m.group(1))
+                        if 1 <= day <= 31:
+                            return day
+                break
+        return None
 
     def _combine_date_time(self, date, time_str):
         """Combine a date object with a time string like '7:30 PM'."""

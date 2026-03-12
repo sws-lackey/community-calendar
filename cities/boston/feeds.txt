@@ -18,6 +18,8 @@ cities/boston/songkick_lyric_stage.ics
 cities/boston/ovationtix_central_square.ics
 # cmd: python scrapers/ovationtix.py --org 921 --name "Actors' Shakespeare Project"
 cities/boston/ovationtix_asp.ics
+# cmd: python scrapers/ovationtix.py --org 177 --name "Wheelock Family Theatre"
+cities/boston/ovationtix_wheelock.ics
 
 # --- Live feeds ---
 # iCal feed
