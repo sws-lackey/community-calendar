@@ -34,7 +34,7 @@ Focus: Theater (initial phase)
 ## Non-Starters
 | Source | Reason |
 |--------|--------|
-| SpeakEasy Stage ICS | WordPress Tribe plugin installed but ?ical=1 returns HTML, not ICS |
+| SpeakEasy Stage ICS | WordPress Tribe installed; webcal:// URL exists but returns empty ICS (0 events via curl, Google Calendar import also empty) |
 | Boston University CFA | Custom AJAX calendar, no feeds |
 | Emerson College events | Empty events page; use ArtsEmerson instead |
 | Cambridge Multicultural Arts Center | Site down (ECONNREFUSED) |
