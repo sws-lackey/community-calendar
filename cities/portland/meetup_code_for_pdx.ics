@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:CODE PDX
+X-WR-CALNAME:CODE PDX
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313622282@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153023Z
+DTSTART;TZID=America/Los_Angeles:20260312T190000
+DTEND;TZID=America/Los_Angeles:20260312T200000
+SUMMARY:Tech & AI online social night
+DESCRIPTION:CODE PDX\nOnline: come chat with fellow technologists.\n\n\\* What are you working on?\n\\* What are you using AI for?\n\\* What do you still want to learn?\n\\* What do you want to work on?\n\\* What's going on with CODE PDX's active project\, TenantFirstAid?
+URL;VALUE=URI:https://www.meetup.com/codepdx/events/313622282/
+STATUS:CONFIRMED
+CREATED:20260303T202422Z
+LAST-MODIFIED:20260303T202422Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/7/4/d/600_517915117.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/codepdx/events/ical/
+X-WR-CALNAME:CODE PDX
+END:VCALENDAR

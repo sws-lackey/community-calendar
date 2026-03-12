@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Portland Trail Runners
+X-WR-CALNAME:Portland Trail Runners
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313591914@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153027Z
+DTSTART;TZID=America/Los_Angeles:20260314T083000
+DTEND;TZID=America/Los_Angeles:20260314T103000
+SUMMARY:Maple-Wildwood Loop + Coffee! 🍀
+DESCRIPTION:Portland Trail Runners\nJoin us for a scenic loop from the **LOWER Saltzman Trailhead**! We’ll climb **Saltzman**\, take a right on **Maple**\, then right on **Leif**. From there\, it’s a left on **FL5** to **Wildwood**\, cruising until we drop down **Koenig**. We’ll finish with a left on **Leif**\, right on **FL4**\, and a final left on **Maple** back to the trailhead — about **6.3 miles** total.\n\n**The route**\nView the route on [AllTrails](https://www.alltrails.com/explore/map/maple-ww-no-bridge-f0b1d58?u=i&sh=bjqei2).\n\n*Want a shorter option?* Try the Maple-Leif-Saltzman loop at **3.16 miles** ([route here](https://www.alltrails.com/explore/map/map-august-17-2025-88f0bf2?u=i&sh=bjqei2)).\n\n**Where to meet**\nMeet at the LOWER Saltzman Trailhead. As with any trailhead\, practice good car hygiene and mind your valuables.\n\nWe start running at 8:35\, so please plan accordingly!\n\n**What to bring**\n\n* Grippy trail running shoes\n* Coffee cup/travel mug\n\n**Afterwards**\nWe will have post-run coffee and some St. Patty’s day goodies 🌈🍀\n\nIf you’d like\, bring a snack to share or chip in a couple bucks to the coffee fund (Venmo: @JeffMonaghanPDX). No pressure — just come enjoy the run and community.\n\nSee you there!
+URL;VALUE=URI:https://www.meetup.com/portland-trail-runners-group/events/313591914/
+STATUS:CONFIRMED
+CREATED:20260301T205747Z
+LAST-MODIFIED:20260301T205747Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/2/0/f/0/600_532988432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313682975@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153027Z
+DTSTART;TZID=America/Los_Angeles:20260318T183000
+DTEND;TZID=America/Los_Angeles:20260318T200000
+SUMMARY:Leif-Alder-Aspen (or Wild Cherry) Loop - Eve Run ed.
+DESCRIPTION:Portland Trail Runners\n**Wed Eve Run in Forest Park!**\n\n**Start on** **Leif Erickson** **with a steady climb to** **Alder****\, then turn right for another climb up to** **Wildwood****. Turning left\, follow Wildwood as it winds along\, then turn left down** **Aspen** **back to** **Leif****. From there\, return to the start at the** **Thurman Gate** **for a total of** **6 miles****.**\n\n**The Route** **(Segment 1):** [AllTrails](https://www.alltrails.com/explore/custom-routes/leif-alder-aspen-or-wildcherry-loop-69853b6)\n***Want a shorter option?*** **Check out Segment 2 -- Continue up** **Keil** **Trail from Wildwood/Alder\, connecting to** **Wild Cherry** **and take Wild Cherry all the way down to** **Leif** **\\- back to start\\. Total just shy of** **4 miles**\n\n**Meetup:** **Let's meet at the Thurman gate\, and we'll head out from there on Leif. Practice good car hygiene and mind your valuables! We will start running at 6:37pm PST.**\n\n**Bring:**\n\n* **Grippy trail running shoes**\n* **Headlamp - just in case**\n\n**After:** **Group kudos and home**
+URL;VALUE=URI:https://www.meetup.com/portland-trail-runners-group/events/313682975/
+STATUS:CONFIRMED
+CREATED:20260307T173217Z
+LAST-MODIFIED:20260307T173217Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/1/7/600_531442295.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313518505@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153027Z
+DTSTART;TZID=America/Los_Angeles:20260319T183000
+DTEND;TZID=America/Los_Angeles:20260319T210000
+SUMMARY:Trail Running Film Fest 2026!
+DESCRIPTION:Portland Trail Runners\nJoin us at **The Mountain Shop** on **Thursday\, March 19th from 6:30-8:30pm** for the ***Trail Running Film Festival*** Portland stop! The TRFF is a collaborative festival that focuses on an equitable future where everyone is celebrated on trails and within our broader trail running culture.\n\nThis will be a selection of films from multiple filmmakers\, who all celebrate running as a universal practice to explore our collective and individual potential to pursue our wildest dreams.\n\n**Buy your Tickets here!** https://www.eventbrite.com/e/mountain-shop-presents-the-trail-running-film-festival-tickets-1983922266906?aff=oddtdtcreator\n\n**New Store Location:**\n**Mountain Shop**\n**1205 NE 33rd Ave.**\n**Portland\, OR 97232**
+URL;VALUE=URI:https://www.meetup.com/portland-trail-runners-group/events/313518505/
+STATUS:CONFIRMED
+CREATED:20260225T054336Z
+LAST-MODIFIED:20260225T054336Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/0/c/0/600_532909344.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313580417@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153027Z
+DTSTART;TZID=America/Los_Angeles:20260328T190000
+DTEND;TZID=America/Los_Angeles:20260328T223000
+SUMMARY:🎤 PTR Karaoke Night: Jeff & Julie are getting Married! 🎉
+DESCRIPTION:Portland Trail Runners\n**Jeff and Julie met through PTR\, and now they’re tying the knot! Come join us for a casual\, fun-filled evening to celebrate their upcoming wedding\, connect with fellow runners\, and sing your heart out (or cheer from the crowd!)**\n\n**This is a low-key\, optional night of good(?) music\, great company\, and celebration. Start thinking about what songs you want to sing\, and come be part of the fun! 💍🎶**\n\n**Apologies in advance to both Jeff and Sarah who loathe karaoke! 🙃**
+URL;VALUE=URI:https://www.meetup.com/portland-trail-runners-group/events/313580417/
+STATUS:CONFIRMED
+CREATED:20260301T012451Z
+LAST-MODIFIED:20260301T012451Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/7/8/0/600_532971072.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/portland-trail-runners-group/events/ical/
+X-WR-CALNAME:Portland Trail Runners
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Community Calendar//Legistar Scraper//EN
+X-WR-CALNAME:Oregon Metro
+BEGIN:VEVENT
+UID:6791d90344b8fe26604a94c678fe6acf@legistar.com
+DTSTART:20260312T103000
+DTEND:20260312T123000
+SUMMARY:Council meeting
+LOCATION:Metro Regional Center\, Council chamber\; https://zoom.us/j/615079
+ 992 (Webinar ID: 615079992) or 253-205-0468 (toll free)\, https://www.yout
+ ube.com/watch?v=gyNYvJE8k-oIt
+DESCRIPTION:Board/Commission: Council meeting\\nAgenda: https://oregonmetro
+ .legistar1.com/oregonmetro/meetings/2026/3/3582_A_Council_meeting_26-03-12
+ _Agenda.pdf\\n\nSource: Oregon Metro
+URL:https://oregonmetro.legistar.com/MeetingDetail.aspx?LEGID=3582&GID=641&G=7309CF62-5730-456F-B280-2DEB3B0BE132
+DTSTAMP:20260312T153002Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a6080f2dd5e335fb75dc00952f22d6a2@legistar.com
+DTSTART:20260317T103000
+DTEND:20260317T123000
+SUMMARY:Council work session
+LOCATION:Metro Regional Center\, Council Chamber\; https://zoom.us/j/615079
+ 992 (Webinar ID: 615079992) or 253-205-0468 (toll free)\, https://www.yout
+ ube.com/watch?v=LqU10DawfWg
+DESCRIPTION:Board/Commission: Council work session\\nAgenda: https://oregon
+ metro.legistar1.com/oregonmetro/meetings/2026/3/3584_A_Council_work_sessio
+ n_26-03-17_Agenda.pdf\\n\nSource: Oregon Metro
+URL:https://oregonmetro.legistar.com/MeetingDetail.aspx?LEGID=3584&GID=641&G=7309CF62-5730-456F-B280-2DEB3B0BE132
+DTSTAMP:20260312T153002Z
+END:VEVENT
+END:VCALENDAR

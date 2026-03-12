@@ -1,0 +1,1843 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:University of Portland Athletics
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_13104-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260213T020000Z
+DTEND:20260213T040000Z
+LOCATION:Pullman\, Wash., Beasley Coliseum
+SUMMARY:[W] University of Portland Women's Basketball at Washington State
+DESCRIPTION:[W] University of Portland Women's Basketball at Washington State\nW 68-61\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13104&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13125-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+LOCATION:Seattle\, Wash., Dempsey Indoor
+SUMMARY:[N] University of Portland Men's Track and Field at Husky Classic
+DESCRIPTION:[N] University of Portland Men's Track and Field at Husky Classic\n\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13125&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13149-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+LOCATION:Seattle\, Wash., Dempsey Indoor
+SUMMARY:[N] University of Portland Women's Track and Field at Husky Classic
+DESCRIPTION:[N] University of Portland Women's Track and Field at Husky Classic\n\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13149&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13007-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260213T220000Z
+DTEND:20260214T010000Z
+LOCATION:Sugar Land\, Texas, Constellation Field
+SUMMARY:[W] University of Portland Baseball vs Purdue
+DESCRIPTION:[W] University of Portland Baseball vs Purdue\nW 9-3\nStreaming Audio: https://portal.stretchinternet.com/purdue/\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13007&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13008-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260214T170000Z
+DTEND:20260214T200000Z
+LOCATION:Sugar Land\, Texas, Constellation Field
+SUMMARY:[L] University of Portland Baseball vs Purdue
+DESCRIPTION:[L] University of Portland Baseball vs Purdue\nL 1-2\nStreaming Audio: https://portal.stretchinternet.com/purdue/\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13008&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12937-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260214T213000Z
+DTEND:20260215T003000Z
+LOCATION:Eugene\, Ore., Student Tennis Center
+SUMMARY:[W] University of Portland Men's Tennis vs Liberty
+DESCRIPTION:[W] University of Portland Men's Tennis vs Liberty\nW 5-2\nStreaming Video: https://web.playsight.com/facility/university-of-oregon-tennis/home\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12937&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13105-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260215T010000Z
+DTEND:20260215T030000Z
+LOCATION:Portland\, Ore., Chiles Center
+SUMMARY:[L] University of Portland Women's Basketball vs Santa Clara
+DESCRIPTION:[L] University of Portland Women's Basketball vs Santa Clara\nL 66-77\nTV: KUNP-TV\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/showcase?Live=38\nTickets: https://portlandpilots.evenue.net/events/womens-basketball\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13105&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13010-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260215T180000Z
+DTEND:20260215T210000Z
+LOCATION:Sugar Land\, Texas, Constellation Field
+SUMMARY:[L] University of Portland Baseball vs Purdue
+DESCRIPTION:[L] University of Portland Baseball vs Purdue\nL 7-10\nStreaming Audio: https://portal.stretchinternet.com/purdue/\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13010&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13011-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260218T230000Z
+DTEND:20260219T020000Z
+LOCATION:Northridge\, Calif., Robert J. Hiegert Field
+SUMMARY:[W] University of Portland Baseball at CSUN
+DESCRIPTION:[W] University of Portland Baseball at CSUN\nW 5-4\nStreaming Audio: https://gomatadors.com/watch/?Live=3919&type=Live\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13011&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13087-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260219T030000Z
+DTEND:20260219T050000Z
+LOCATION:Portland\, Ore., Chiles Center
+SUMMARY:[L] University of Portland Men's Basketball vs Pepperdine
+DESCRIPTION:[L] University of Portland Men's Basketball vs Pepperdine\nL 87-95\nTV: KUNP-TV\nStreaming Video: https://www.espn.com/watch/player/_/id/082a62d0-013e-42b7-93bf-cd362443b2e1\nStreaming Audio: https://portlandpilots.com/showcase?Live=21\nTickets: https://portlandpilots.evenue.net/events/mens-basketball\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13087&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13106-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260220T020000Z
+DTEND:20260220T040000Z
+LOCATION:Corvallis\, Ore., Gill Coliseum
+SUMMARY:[L] University of Portland Women's Basketball at Oregon State
+DESCRIPTION:[L] University of Portland Women's Basketball at Oregon State\nL 54-64\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nStreaming Audio: https://portlandpilots.com/showcase?Live=39\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13106&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13150-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+LOCATION:Newberg\, Ore., Multi-Use Facility
+SUMMARY:[N] University of Portland Women's Track and Field vs George Fox Indoor 2
+DESCRIPTION:[N] University of Portland Women's Track and Field vs George Fox Indoor 2\n\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13150&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13170-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260220T170000Z
+DTEND:20260220T190000Z
+LOCATION:Salem\, OR, Corban Beach Volleyball Courts
+SUMMARY:[L] University of Portland Beach Volleyball at Corban
+DESCRIPTION:[L] University of Portland Beach Volleyball at Corban\nL 0-5\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13170&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13195-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260220T210000Z
+DTEND:20260220T230000Z
+LOCATION:Salem\, OR, Corban Beach Volleyball Courts
+SUMMARY:[L] University of Portland Beach Volleyball vs Sacramento State
+DESCRIPTION:[L] University of Portland Beach Volleyball vs Sacramento State\nL 1-4\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13195&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12978-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260220T210000Z
+DTEND:20260221T000000Z
+LOCATION:Irvine\, Calif., Anteater Tennis Stadium
+SUMMARY:[L] University of Portland Women's Tennis at UC Irvine
+DESCRIPTION:[L] University of Portland Women's Tennis at UC Irvine\nL 3-4\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12978&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13012-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260221T000000Z
+DTEND:20260221T030000Z
+LOCATION:Santa Barbara\, Calif., Caesar Uyesaka Stadium
+SUMMARY:[L] University of Portland Baseball at UC Santa Barbara
+DESCRIPTION:[L] University of Portland Baseball at UC Santa Barbara\nL 1-4\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13012&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13196-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260221T110000Z
+DTEND:20260221T130000Z
+LOCATION:Salem\, OR, Corban Beach Volleyball Courts
+SUMMARY:[W] University of Portland Beach Volleyball vs Chaminade
+DESCRIPTION:[W] University of Portland Beach Volleyball vs Chaminade\nW 5-0\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13196&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13107-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260221T210000Z
+DTEND:20260221T230000Z
+LOCATION:Seattle\, Wash., Redhawk Center
+SUMMARY:[W] University of Portland Women's Basketball at Seattle
+DESCRIPTION:[W] University of Portland Women's Basketball at Seattle\nW 65-61\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\nStreaming Audio: https://portlandpilots.com/showcase?Live=40\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13107&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13013-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260221T230000Z
+DTEND:20260222T020000Z
+LOCATION:Santa Barbara\, Calif., Caesar Uyesaka Stadium
+SUMMARY:[L] University of Portland Baseball at UC Santa Barbara
+DESCRIPTION:[L] University of Portland Baseball at UC Santa Barbara\nL 2-3\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13013&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12979-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260221T233000Z
+DTEND:20260222T023000Z
+LOCATION:Santa Barbara\, Calif.
+SUMMARY:[L] University of Portland Women's Tennis vs TCU
+DESCRIPTION:[L] University of Portland Women's Tennis vs TCU\nL 0-4\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12979&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13088-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260222T030000Z
+DTEND:20260222T050000Z
+LOCATION:Seattle\, Wash., Redhawk Center
+SUMMARY:[L] University of Portland Men's Basketball at Seattle U
+DESCRIPTION:[L] University of Portland Men's Basketball at Seattle U\nL 59-71\nStreaming Video: https://www.espn.com/watch/player/_/id/6418293a-8e2d-4c68-ad8f-591ad352f352\nStreaming Audio: https://portlandpilots.com/showcase?Live=22\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13088&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13014-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260222T200000Z
+DTEND:20260222T230000Z
+LOCATION:Santa Barbara\, Calif., Caesar Uyesaka Stadium
+SUMMARY:[L] University of Portland Baseball at UC Santa Barbara
+DESCRIPTION:[L] University of Portland Baseball at UC Santa Barbara\nL 2-6\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13014&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12980-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260222T200000Z
+DTEND:20260222T230000Z
+LOCATION:Riverside\, Calif., SRC Tennis Courts
+SUMMARY:[W] University of Portland Women's Tennis at UC Riverside
+DESCRIPTION:[W] University of Portland Women's Tennis at UC Riverside\nW 4-3\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12980&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13089-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260226T020000Z
+DTEND:20260226T040000Z
+LOCATION:Spokane\, Wash., McArthey Athletic Center
+SUMMARY:[L] University of Portland Men's Basketball at #9 Gonzaga
+DESCRIPTION:[L] University of Portland Men's Basketball at #9 Gonzaga\nL 48-89\nStreaming Video: https://www.espn.com/watch/player/_/id/ffc3073b-c964-4f41-9721-24cb2ac7e60f\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13089&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13108-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260227T020000Z
+DTEND:20260227T040000Z
+LOCATION:Portland\, Ore., Chiles Center
+SUMMARY:[L] University of Portland Women's Basketball vs Pepperdine
+DESCRIPTION:[L] University of Portland Women's Basketball vs Pepperdine\nL 63-70\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/showcase?Live=41\nTickets: https://portlandpilots.evenue.net/events/womens-basketball\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13108&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13171-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260227T230000Z
+DTEND:20260228T010000Z
+LOCATION:Ashland\, Ore.
+SUMMARY:[W] University of Portland Beach Volleyball vs Simpson (Calif.)
+DESCRIPTION:[W] University of Portland Beach Volleyball vs Simpson (Calif.)\nW 5-0\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13171&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13015-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260228T020000Z
+DTEND:20260228T050000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Niagara
+DESCRIPTION:[W] University of Portland Baseball vs Niagara\nW 8-5\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13015&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13172-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260228T180000Z
+DTEND:20260228T200000Z
+LOCATION:Ashland\, Ore.
+SUMMARY:[L] University of Portland Beach Volleyball at Southern Oregon
+DESCRIPTION:[L] University of Portland Beach Volleyball at Southern Oregon\nL 2-3\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13172&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13183-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260228T200000Z
+DTEND:20260228T220000Z
+LOCATION:Ashland\, Ore.
+SUMMARY:[W] University of Portland Beach Volleyball vs Simpson (Calif.)
+DESCRIPTION:[W] University of Portland Beach Volleyball vs Simpson (Calif.)\nW 4-1\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13183&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13090-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260228T210000Z
+DTEND:20260228T230000Z
+LOCATION:Portland\, Ore., Chiles Center
+SUMMARY:[W] University of Portland Men's Basketball vs San Diego
+DESCRIPTION:[W] University of Portland Men's Basketball vs San Diego\nW 87-74\nStreaming Video: https://www.espn.com/watch/player/_/id/0b40986c-a747-4320-bd10-ba5619dd61e4\nStreaming Audio: https://portlandpilots.com/showcase?Live=23\nTickets: https://portlandpilots.evenue.net/events/mens-basketball\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13090&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13016-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260228T230000Z
+DTEND:20260301T020000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Niagara
+DESCRIPTION:[W] University of Portland Baseball vs Niagara\nW 3-1\nStreaming Video: https://www.youtube.com/live/mkJ093yhbGg\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13016&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13109-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260301T010000Z
+DTEND:20260301T030000Z
+LOCATION:Portland\, Ore., Chiles Center
+SUMMARY:[W] University of Portland Women's Basketball vs Gonzaga
+DESCRIPTION:[W] University of Portland Women's Basketball vs Gonzaga\nW 92-91 OT\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/showcase?Live=42\nTickets: https://portlandpilots.evenue.net/events/womens-basketball\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13109&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13127-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Reno\, Nev., Reno-Sparks Convention Center
+SUMMARY:[N] University of Portland Men's Track and Field vs MPSF Championships
+DESCRIPTION:[N] University of Portland Men's Track and Field vs MPSF Championships\n\nStreaming Video: https://mpsfchampionships.runnerspace.com/eprofile.php?event_id=37&do=videos&video_id=447535\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13127&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13151-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+LOCATION:Reno\, Nev., Reno-Sparks Convention Center
+SUMMARY:[N] University of Portland Women's Track and Field vs MPSF Championships
+DESCRIPTION:[N] University of Portland Women's Track and Field vs MPSF Championships\n\nStreaming Video: https://mpsfchampionships.runnerspace.com/eprofile.php?event_id=37&do=videos&video_id=447535\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13151&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12938-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260301T173000Z
+DTEND:20260301T203000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:[W] University of Portland Men's Tennis vs Montana State
+DESCRIPTION:[W] University of Portland Men's Tennis vs Montana State\nW 6-1\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12938&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13169-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260301T180000Z
+DTEND:20260301T210000Z
+LOCATION:Beaverton\, Ore., Babette Horenstein Tennis Center
+SUMMARY:[W] University of Portland Women's Tennis at Portland State
+DESCRIPTION:[W] University of Portland Women's Tennis at Portland State\nW 4-3\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13169&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13017-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260301T200000Z
+DTEND:20260301T230000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[L] University of Portland Baseball vs Niagara
+DESCRIPTION:[L] University of Portland Baseball vs Niagara\nL 1-3\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13017&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13018-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260305T230000Z
+DTEND:20260306T020000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Holy Cross
+DESCRIPTION:[W] University of Portland Baseball vs Holy Cross\nW 15-3 (7 Inn.)\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13018&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13091-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260306T020000Z
+DTEND:20260306T040000Z
+LOCATION:Las Vegas\, Nev., Orleans Arena
+SUMMARY:[W] University of Portland Men's Basketball vs Pepperdine (First Round)
+DESCRIPTION:[W] University of Portland Men's Basketball vs Pepperdine (First Round)\nW 77-68\nStreaming Video: https://www.espn.com/watch/player/_/id/a7ffdcfa-e0a6-42a6-9c54-888d621db449\nStreaming Audio: https://portlandpilots.com/watch/?Live=46&type=Live\nTickets: https://orleans.boydgaming.com/entertain/entertainment-calendar/2026-march-west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13091&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13153-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+LOCATION:McMinnville\, Ore., Maxwell Field
+SUMMARY:[N] University of Portland Women's Track and Field vs Erik Anderson Icebreaker
+DESCRIPTION:[N] University of Portland Women's Track and Field vs Erik Anderson Icebreaker\n\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13153&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13129-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+LOCATION:McMinnville\, Ore., Maxwell Field
+SUMMARY:[N] University of Portland Men's Track and Field vs Erik Anderson Icebreaker
+DESCRIPTION:[N] University of Portland Men's Track and Field vs Erik Anderson Icebreaker\n\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13129&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12939-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260306T180000Z
+DTEND:20260306T210000Z
+LOCATION:Davis\, Calif., Marya Welch Tennis Center
+SUMMARY:[W] University of Portland Men's Tennis at UC Davis
+DESCRIPTION:[W] University of Portland Men's Tennis at UC Davis\nW 4-1\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12939&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13203-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260306T230000Z
+DTEND:20260307T020000Z
+LOCATION:Davis\, Calif., Marya Welch Tennis Center
+SUMMARY:[L] University of Portland Men's Tennis vs Nevada
+DESCRIPTION:[L] University of Portland Men's Tennis vs Nevada\nL 0-4\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13203&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13205-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260307T020000Z
+DTEND:20260307T040000Z
+LOCATION:Las Vegas\, Nev., Orleans Arena
+SUMMARY:[W] University of Portland Men's Basketball vs Washington State (Second Round)
+DESCRIPTION:[W] University of Portland Men's Basketball vs Washington State (Second Round)\nW 74-68\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/watch/?Live=47&type=Live\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13205&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13019-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260307T020000Z
+DTEND:20260307T050000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Holy Cross
+DESCRIPTION:[W] University of Portland Baseball vs Holy Cross\nW 10-4\nStreaming Video: https://www.youtube.com/live/JIqsBHs53rE\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13019&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13066-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+LOCATION:Sacramento\, Calif., Sacramento State Aquatic Center
+SUMMARY:University of Portland Rowing at Sacramento State Invitational
+DESCRIPTION:University of Portland Rowing at Sacramento State Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13066&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13204-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260307T180000Z
+DTEND:20260307T210000Z
+LOCATION:Sacramento\, Calif., Sacramento State Tennis Complex
+SUMMARY:[L] University of Portland Men's Tennis vs New Mexico State
+DESCRIPTION:[L] University of Portland Men's Tennis vs New Mexico State\nL 3-4\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13204&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13116-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+LOCATION:Las Vegas\, Nev., Orleans Arena
+SUMMARY:[W] University of Portland Women's Basketball vs Washington State (Third Round)
+DESCRIPTION:[W] University of Portland Women's Basketball vs Washington State (Third Round)\nW 72-62\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/watch/\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13116&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13020-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260307T230000Z
+DTEND:20260308T020000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Holy Cross
+DESCRIPTION:[W] University of Portland Baseball vs Holy Cross\nW 13-3 (8 Inn.)\nStreaming Video: https://www.youtube.com/live/MgJAuD6vFno\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13020&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13206-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260308T020000Z
+DTEND:20260308T040000Z
+LOCATION:Las Vegas\, Nev., Orleans Arena
+SUMMARY:[L] University of Portland Men's Basketball vs #5 San Francisco (Third Round)
+DESCRIPTION:[L] University of Portland Men's Basketball vs #5 San Francisco (Third Round)\nL 65-82\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/watch/\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13206&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13207-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260308T183000Z
+DTEND:20260308T203000Z
+LOCATION:Las Vegas\, Nev., Orleans Arena
+SUMMARY:[L] University of Portland Women's Basketball vs Oregon State
+DESCRIPTION:[L] University of Portland Women's Basketball vs Oregon State\nL 50-60\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\nStreaming Audio: https://portlandpilots.com/watch/?Live=50&type=Live\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13207&amp;sport_id=9
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13021-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260308T190000Z
+DTEND:20260308T220000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:[W] University of Portland Baseball vs Holy Cross
+DESCRIPTION:[W] University of Portland Baseball vs Holy Cross\nW 11-3\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13021&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13173-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260309T200000Z
+DTEND:20260309T220000Z
+LOCATION:Eugene\, Ore., Grace Beach Courts
+SUMMARY:[W] University of Portland Beach Volleyball at Bushnell
+DESCRIPTION:[W] University of Portland Beach Volleyball at Bushnell\nW 3-2\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13173&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13184-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260309T220000Z
+DTEND:20260310T000000Z
+LOCATION:Eugene\, Ore., Grace Beach Courts
+SUMMARY:[L] University of Portland Beach Volleyball at Bushnell
+DESCRIPTION:[L] University of Portland Beach Volleyball at Bushnell\nL 1-4\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13184&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12940-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260313T180000Z
+DTEND:20260313T210000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs Montana
+DESCRIPTION:University of Portland Men's Tennis vs Montana\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12940&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13174-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260313T210000Z
+DTEND:20260313T230000Z
+LOCATION:Sacramento\, Calif., Hornet Beach
+SUMMARY:University of Portland Beach Volleyball at Sacramento State
+DESCRIPTION:University of Portland Beach Volleyball at Sacramento State\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13174&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13023-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260314T010000Z
+DTEND:20260314T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs UConn
+DESCRIPTION:University of Portland Baseball vs UConn\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13023&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13067-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+LOCATION:Lakewood\, Wash., American Lake
+SUMMARY:University of Portland Rowing at Puget Sound Invitational
+DESCRIPTION:University of Portland Rowing at Puget Sound Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13067&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13175-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260314T170000Z
+DTEND:20260314T190000Z
+LOCATION:Sacramento\, Calif., Hornet Beach
+SUMMARY:University of Portland Beach Volleyball vs Corban
+DESCRIPTION:University of Portland Beach Volleyball vs Corban\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13175&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13024-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260314T200000Z
+DTEND:20260314T230000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs UConn
+DESCRIPTION:University of Portland Baseball vs UConn\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13024&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13182-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260314T210000Z
+DTEND:20260314T230000Z
+LOCATION:Sacramento\, Calif., Hornet Beach
+SUMMARY:University of Portland Beach Volleyball vs San Francisco
+DESCRIPTION:University of Portland Beach Volleyball vs San Francisco\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13182&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13199-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260314T220000Z
+DTEND:20260315T000000Z
+LOCATION:Corvallis\, OR, Paul Lorenz Field
+SUMMARY:University of Portland Women's Soccer at Oregon State
+DESCRIPTION:University of Portland Women's Soccer at Oregon State\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13199&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12981-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260315T170000Z
+DTEND:20260315T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Montana
+DESCRIPTION:University of Portland Women's Tennis vs Montana\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12981&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13025-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260315T190000Z
+DTEND:20260315T220000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs UConn
+DESCRIPTION:University of Portland Baseball vs UConn\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13025&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12982-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260317T170000Z
+DTEND:20260317T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Montana State
+DESCRIPTION:University of Portland Women's Tennis vs Montana State\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12982&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13026-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260318T003000Z
+DTEND:20260318T033000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Oregon State
+DESCRIPTION:University of Portland Baseball vs Oregon State\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13026&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13130-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+LOCATION:Corvallis\, Ore., Whyte Track and Field Center
+SUMMARY:University of Portland Men's Track and Field at OSU PNW Invitational
+DESCRIPTION:University of Portland Men's Track and Field at OSU PNW Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13130&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13154-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+LOCATION:Corvallis\, Ore., Whyte Track and Field Center
+SUMMARY:University of Portland Women's Track and Field at OSU PNW Invitational
+DESCRIPTION:University of Portland Women's Track and Field at OSU PNW Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13154&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13176-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260320T180000Z
+DTEND:20260320T200000Z
+LOCATION:Eugene\, Ore.
+SUMMARY:University of Portland Beach Volleyball at Oregon (DH)
+DESCRIPTION:University of Portland Beach Volleyball at Oregon (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13176&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13186-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260320T200000Z
+DTEND:20260320T220000Z
+LOCATION:Eugene\, Ore.
+SUMMARY:University of Portland Beach Volleyball at Oregon (DH)
+DESCRIPTION:University of Portland Beach Volleyball at Oregon (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13186&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13027-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260321T010000Z
+DTEND:20260321T040000Z
+LOCATION:Los Angeles\, Calif., Page Stadium
+SUMMARY:University of Portland Baseball at LMU
+DESCRIPTION:University of Portland Baseball at LMU\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13027&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13155-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+LOCATION:Portland\, Ore., Eldon Fix Track
+SUMMARY:University of Portland Women's Track and Field vs Lewis & Clark Opener
+DESCRIPTION:University of Portland Women's Track and Field vs Lewis & Clark Opener\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13155&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13131-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+LOCATION:Portland\, Ore., Eldon Fix Track
+SUMMARY:University of Portland Men's Track and Field vs Lewis & Clark Opener
+DESCRIPTION:University of Portland Men's Track and Field vs Lewis & Clark Opener\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13131&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12983-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260321T170000Z
+DTEND:20260321T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Santa Clara
+DESCRIPTION:University of Portland Women's Tennis vs Santa Clara\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12983&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12941-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260321T200000Z
+DTEND:20260321T230000Z
+LOCATION:Stockton\, Calif., Eve Zimmerman Tennis Center
+SUMMARY:University of Portland Men's Tennis at Pacific
+DESCRIPTION:University of Portland Men's Tennis at Pacific\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12941&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13028-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260321T220000Z
+DTEND:20260322T010000Z
+LOCATION:Los Angeles\, Calif., Page Stadium
+SUMMARY:University of Portland Baseball at LMU
+DESCRIPTION:University of Portland Baseball at LMU\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13028&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12984-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260322T170000Z
+DTEND:20260322T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs San Diego
+DESCRIPTION:University of Portland Women's Tennis vs San Diego\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12984&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13177-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+LOCATION:Portland\, Ore., Tom and Meg Names Family Foundation Beach Volleyball Courts
+SUMMARY:University of Portland Beach Volleyball vs Oregon (DH)
+DESCRIPTION:University of Portland Beach Volleyball vs Oregon (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13177&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13187-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260322T200000Z
+DTEND:20260322T220000Z
+LOCATION:Portland\, Ore., Tom and Meg Names Family Foundation Beach Volleyball Courts
+SUMMARY:University of Portland Beach Volleyball vs Oregon (DH)
+DESCRIPTION:University of Portland Beach Volleyball vs Oregon (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13187&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13029-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260322T200000Z
+DTEND:20260322T230000Z
+LOCATION:Los Angeles\, Calif., Page Stadium
+SUMMARY:University of Portland Baseball at LMU
+DESCRIPTION:University of Portland Baseball at LMU\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13029&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13200-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260323T231500Z
+DTEND:20260324T011500Z
+LOCATION:Portland\, Ore., Merlo Field at the Clive Charles Soccer Complex
+SUMMARY:University of Portland Women's Soccer vs Oregon Surf Boys
+DESCRIPTION:University of Portland Women's Soccer vs Oregon Surf Boys\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13200&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13030-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260324T210000Z
+DTEND:20260325T000000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Northwestern
+DESCRIPTION:University of Portland Baseball vs Northwestern\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13030&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12942-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260327T170000Z
+DTEND:20260327T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs San Diego
+DESCRIPTION:University of Portland Men's Tennis vs San Diego\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12942&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13178-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260327T170000Z
+DTEND:20260327T190000Z
+LOCATION:Santa Cruz\, Calif.
+SUMMARY:University of Portland Beach Volleyball vs Pepperdine
+DESCRIPTION:University of Portland Beach Volleyball vs Pepperdine\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13178&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13189-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260327T190000Z
+DTEND:20260327T210000Z
+LOCATION:Santa Cruz\, Calif.
+SUMMARY:University of Portland Beach Volleyball vs Santa Clara
+DESCRIPTION:University of Portland Beach Volleyball vs Santa Clara\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13189&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13031-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260328T010000Z
+DTEND:20260328T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Saint Mary's
+DESCRIPTION:University of Portland Baseball vs Saint Mary's\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13031&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13132-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+LOCATION:Forest Grove\, Ore., Hanson Stadium
+SUMMARY:University of Portland Men's Track and Field vs Pacific Open
+DESCRIPTION:University of Portland Men's Track and Field vs Pacific Open\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13132&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13156-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+LOCATION:Forest Grove\, Ore., Hanson Stadium
+SUMMARY:University of Portland Women's Track and Field vs Pacific Open
+DESCRIPTION:University of Portland Women's Track and Field vs Pacific Open\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13156&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13188-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+LOCATION:Santa Cruz\, Calif.
+SUMMARY:University of Portland Beach Volleyball vs WCC Midseason Challange
+DESCRIPTION:University of Portland Beach Volleyball vs WCC Midseason Challange\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13188&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13068-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+LOCATION:Dexter\, Ore., Dexter Lake
+SUMMARY:University of Portland Rowing at Dexter Lake Invite
+DESCRIPTION:University of Portland Rowing at Dexter Lake Invite\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13068&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12985-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260328T180000Z
+DTEND:20260328T210000Z
+LOCATION:Los Angeles\, Calif., LMU Tennis Center
+SUMMARY:University of Portland Women's Tennis at LMU
+DESCRIPTION:University of Portland Women's Tennis at LMU\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12985&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13032-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260328T220000Z
+DTEND:20260329T010000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Saint Mary's
+DESCRIPTION:University of Portland Baseball vs Saint Mary's\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13032&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12943-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260329T170000Z
+DTEND:20260329T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs Santa Clara
+DESCRIPTION:University of Portland Men's Tennis vs Santa Clara\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12943&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12987-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260329T190000Z
+DTEND:20260329T220000Z
+LOCATION:Malibu\, Calif., Ralphs-Straus Tennis Center
+SUMMARY:University of Portland Women's Tennis at Pepperdine
+DESCRIPTION:University of Portland Women's Tennis at Pepperdine\nStreaming Video: https://pepperdinewaves.com/sports/2018/8/7/playsight.aspx\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12987&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13033-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260329T200000Z
+DTEND:20260329T230000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Saint Mary's
+DESCRIPTION:University of Portland Baseball vs Saint Mary's\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13033&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13034-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260401T000000Z
+DTEND:20260401T030000Z
+LOCATION:Eugene\, Ore., PK Park
+SUMMARY:University of Portland Baseball at Oregon
+DESCRIPTION:University of Portland Baseball at Oregon\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13034&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12988-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260402T170000Z
+DTEND:20260402T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Pacific
+DESCRIPTION:University of Portland Women's Tennis vs Pacific\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12988&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13035-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260402T230000Z
+DTEND:20260403T020000Z
+LOCATION:Seattle\, Wash., Bannerwood Park
+SUMMARY:University of Portland Baseball at Seattle U
+DESCRIPTION:University of Portland Baseball at Seattle U\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13035&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13133-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+LOCATION:Stanford\, Calif., Cobb Track and Angell Field
+SUMMARY:University of Portland Men's Track and Field vs Stanford Invitational
+DESCRIPTION:University of Portland Men's Track and Field vs Stanford Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13133&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13157-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+LOCATION:Stanford\, Calif., Cobb Track and Angell Field
+SUMMARY:University of Portland Women's Track and Field vs Stanford Invitational
+DESCRIPTION:University of Portland Women's Track and Field vs Stanford Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13157&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13036-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260403T210000Z
+DTEND:20260404T000000Z
+LOCATION:Seattle\, Wash., Bannerwood Park
+SUMMARY:University of Portland Baseball at Seattle U
+DESCRIPTION:University of Portland Baseball at Seattle U\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13036&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12989-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260404T170000Z
+DTEND:20260404T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Saint Mary's
+DESCRIPTION:University of Portland Women's Tennis vs Saint Mary's\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12989&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12944-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260404T180000Z
+DTEND:20260404T210000Z
+LOCATION:Los Angeles\, Calif., LMU Tennis Center
+SUMMARY:University of Portland Men's Tennis at LMU
+DESCRIPTION:University of Portland Men's Tennis at LMU\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12944&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13037-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260404T190000Z
+DTEND:20260404T220000Z
+LOCATION:Seattle\, Wash., Bannerwood Park
+SUMMARY:University of Portland Baseball at Seattle U
+DESCRIPTION:University of Portland Baseball at Seattle U\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13037&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12945-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260405T170000Z
+DTEND:20260405T200000Z
+LOCATION:Malibu\, Calif., Ralphs-Straus Tennis Center
+SUMMARY:University of Portland Men's Tennis at Pepperdine
+DESCRIPTION:University of Portland Men's Tennis at Pepperdine\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12945&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12946-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260406T170000Z
+DTEND:20260406T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs Idaho
+DESCRIPTION:University of Portland Men's Tennis vs Idaho\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12946&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13039-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260409T000000Z
+DTEND:20260409T030000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Oregon
+DESCRIPTION:University of Portland Baseball vs Oregon\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13039&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13134-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+LOCATION:Monmouth\, Ore., McArthur Field
+SUMMARY:University of Portland Men's Track and Field vs John Knight Twilight
+DESCRIPTION:University of Portland Men's Track and Field vs John Knight Twilight\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13134&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13158-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+LOCATION:Monmouth\, Ore., McArthur Field
+SUMMARY:University of Portland Women's Track and Field vs John Knight Twilight
+DESCRIPTION:University of Portland Women's Track and Field vs John Knight Twilight\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13158&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13041-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260411T010000Z
+DTEND:20260411T040000Z
+LOCATION:Spokane\, Wash., Patterson Baseball Complex
+SUMMARY:University of Portland Baseball at Gonzaga
+DESCRIPTION:University of Portland Baseball at Gonzaga\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13041&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13069-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+LOCATION:Vancouver\, Wash., Vancouver Lake
+SUMMARY:University of Portland Rowing vs Portland Invite
+DESCRIPTION:University of Portland Rowing vs Portland Invite\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13069&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12990-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260411T190000Z
+DTEND:20260411T220000Z
+LOCATION:Spokane\, Wash., Stevens Center
+SUMMARY:University of Portland Women's Tennis at Gonzaga
+DESCRIPTION:University of Portland Women's Tennis at Gonzaga\nStreaming Video: https://gozags.com/sports/2019/1/15/live-tennis-video-and-stats.aspx\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12990&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13201-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260411T200000Z
+DTEND:20260411T220000Z
+LOCATION:Eugene\, OR, Papé Field
+SUMMARY:University of Portland Women's Soccer at Oregon
+DESCRIPTION:University of Portland Women's Soccer at Oregon\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13201&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13042-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260412T010000Z
+DTEND:20260412T040000Z
+LOCATION:Spokane\, Wash., Patterson Baseball Complex
+SUMMARY:University of Portland Baseball at Gonzaga
+DESCRIPTION:University of Portland Baseball at Gonzaga\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13042&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12947-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260412T170000Z
+DTEND:20260412T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs Saint Mary's
+DESCRIPTION:University of Portland Men's Tennis vs Saint Mary's\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12947&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12991-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260412T180000Z
+DTEND:20260412T210000Z
+LOCATION:Pullman\, Wash., WSU Outdoor Tennis Courts
+SUMMARY:University of Portland Women's Tennis at Washington State
+DESCRIPTION:University of Portland Women's Tennis at Washington State\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12991&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13043-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260412T200000Z
+DTEND:20260412T230000Z
+LOCATION:Spokane\, Wash., Patterson Baseball Complex
+SUMMARY:University of Portland Baseball at Gonzaga
+DESCRIPTION:University of Portland Baseball at Gonzaga\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13043&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13044-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260413T190000Z
+DTEND:20260413T220000Z
+LOCATION:Pullman\, Wash., Bailey-Brayton Field
+SUMMARY:University of Portland Baseball at Washington State
+DESCRIPTION:University of Portland Baseball at Washington State\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13044&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13193-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260415T180000Z
+DTEND:20260415T200000Z
+LOCATION:Portland\, Ore., Tom and Meg Names Family Foundation Beach Volleyball Courts
+SUMMARY:University of Portland Beach Volleyball vs Corban (DH)
+DESCRIPTION:University of Portland Beach Volleyball vs Corban (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13193&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13194-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260415T210000Z
+DTEND:20260415T230000Z
+LOCATION:Portland\, Ore., Tom and Meg Names Family Foundation Beach Volleyball Courts
+SUMMARY:University of Portland Beach Volleyball vs Corban (DH)
+DESCRIPTION:University of Portland Beach Volleyball vs Corban (DH)\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13194&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13135-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+LOCATION:Azusa\, Calif., Cougar Athletic Stadium
+SUMMARY:University of Portland Men's Track and Field vs Bryan Clay Invitational
+DESCRIPTION:University of Portland Men's Track and Field vs Bryan Clay Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13135&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13136-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+LOCATION:La Verne\, Calif., Ortmayer Stadium
+SUMMARY:University of Portland Men's Track and Field vs Leopard Invitational
+DESCRIPTION:University of Portland Men's Track and Field vs Leopard Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13136&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13159-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+LOCATION:Azusa\, Calif., Cougar Athletic Stadium
+SUMMARY:University of Portland Women's Track and Field vs Bryan Clay Invitational
+DESCRIPTION:University of Portland Women's Track and Field vs Bryan Clay Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13159&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13160-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+LOCATION:La Verne\, Calif., Ortmayer Stadium
+SUMMARY:University of Portland Women's Track and Field vs Leopard Invitational
+DESCRIPTION:University of Portland Women's Track and Field vs Leopard Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13160&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13179-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260417T170000Z
+DTEND:20260417T190000Z
+LOCATION:Seattle\, Wash., Alki Beach
+SUMMARY:University of Portland Beach Volleyball vs Boise State
+DESCRIPTION:University of Portland Beach Volleyball vs Boise State\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13179&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13190-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260417T193000Z
+DTEND:20260417T213000Z
+LOCATION:Seattle\, Wash., Alki Beach
+SUMMARY:University of Portland Beach Volleyball at Washington
+DESCRIPTION:University of Portland Beach Volleyball at Washington\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13190&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13045-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T010000Z
+DTEND:20260418T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Francisco
+DESCRIPTION:University of Portland Baseball vs San Francisco\nTV: KUNP-TV\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13045&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13191-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T170000Z
+DTEND:20260418T190000Z
+LOCATION:Seattle\, Wash., Alki Beach
+SUMMARY:University of Portland Beach Volleyball vs Florida Atlantic
+DESCRIPTION:University of Portland Beach Volleyball vs Florida Atlantic\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13191&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12948-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T170000Z
+DTEND:20260418T200000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Men's Tennis vs Gonzaga
+DESCRIPTION:University of Portland Men's Tennis vs Gonzaga\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12948&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13192-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T193000Z
+DTEND:20260418T213000Z
+LOCATION:Seattle\, Wash., Alki Beach
+SUMMARY:University of Portland Beach Volleyball vs Oregon
+DESCRIPTION:University of Portland Beach Volleyball vs Oregon\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13192&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13202-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T200000Z
+DTEND:20260418T220000Z
+LOCATION:Portland\, Ore., Merlo Field at the Clive Charles Soccer Complex
+SUMMARY:University of Portland Women's Soccer vs Western Washington
+DESCRIPTION:University of Portland Women's Soccer vs Western Washington\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13202&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12992-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T200000Z
+DTEND:20260418T230000Z
+LOCATION:Portland\, Ore., Louisiana-Pacific Tennis Center
+SUMMARY:University of Portland Women's Tennis vs Seattle U
+DESCRIPTION:University of Portland Women's Tennis vs Seattle U\nStreaming Video: https://web.playsight.com/live/university-of-portland/102\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12992&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13046-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260418T220000Z
+DTEND:20260419T010000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Francisco
+DESCRIPTION:University of Portland Baseball vs San Francisco\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13046&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13047-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260419T200000Z
+DTEND:20260419T230000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Francisco
+DESCRIPTION:University of Portland Baseball vs San Francisco\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13047&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13048-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260422T010000Z
+DTEND:20260422T040000Z
+LOCATION:Ridgefield\, Wash., Ridgefield Outdoor Recreational Complex
+SUMMARY:University of Portland Baseball vs Washington
+DESCRIPTION:University of Portland Baseball vs Washington\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13048&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12993-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260425
+LOCATION:TBA
+SUMMARY:University of Portland Women's Tennis vs WCC Championships
+DESCRIPTION:University of Portland Women's Tennis vs WCC Championships\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12993&amp;sport_id=13
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_12949-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260425
+LOCATION:TBA
+SUMMARY:University of Portland Men's Tennis vs WCC Championships
+DESCRIPTION:University of Portland Men's Tennis vs WCC Championships\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=12949&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13181-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+LOCATION:Santa Monica\, Calif., Ocean Park Beach
+SUMMARY:University of Portland Beach Volleyball at WCC Championships
+DESCRIPTION:University of Portland Beach Volleyball at WCC Championships\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13181&amp;sport_id=19
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13049-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260425T010000Z
+DTEND:20260425T040000Z
+LOCATION:Santa Clara\, Calif., Schott Stadium
+SUMMARY:University of Portland Baseball at Santa Clara
+DESCRIPTION:University of Portland Baseball at Santa Clara\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferenceshttps://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13049&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13070-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+LOCATION:Chula Vista\, Calif., Elite Athlete Training Center
+SUMMARY:University of Portland Rowing at Triton Invitational
+DESCRIPTION:University of Portland Rowing at Triton Invitational\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13070&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13050-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260425T200000Z
+DTEND:20260425T230000Z
+LOCATION:Santa Clara\, Calif., Schott Stadium
+SUMMARY:University of Portland Baseball at Santa Clara
+DESCRIPTION:University of Portland Baseball at Santa Clara\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13050&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13051-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260426T190000Z
+DTEND:20260426T220000Z
+LOCATION:Santa Clara\, Calif., Schott Stadium
+SUMMARY:University of Portland Baseball at Santa Clara
+DESCRIPTION:University of Portland Baseball at Santa Clara\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13051&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13052-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260501T010000Z
+DTEND:20260501T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Diego
+DESCRIPTION:University of Portland Baseball vs San Diego\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13052&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13137-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+LOCATION:Corvallis\, Ore., Whyte Track and Field Center
+SUMMARY:University of Portland Men's Track and Field vs OSU High Performance
+DESCRIPTION:University of Portland Men's Track and Field vs OSU High Performance\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13137&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13161-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+LOCATION:Corvallis\, Ore., Whyte Track and Field Center
+SUMMARY:University of Portland Women's Track and Field vs OSU High Performance
+DESCRIPTION:University of Portland Women's Track and Field vs OSU High Performance\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13161&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13053-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260502T010000Z
+DTEND:20260502T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Diego
+DESCRIPTION:University of Portland Baseball vs San Diego\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13053&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13054-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260502T190000Z
+DTEND:20260502T220000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs San Diego
+DESCRIPTION:University of Portland Baseball vs San Diego\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13054&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13055-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260506T010000Z
+DTEND:20260506T040000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:University of Portland Baseball vs Oregon State
+DESCRIPTION:University of Portland Baseball vs Oregon State\nTV: KUNP-TV\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13055&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13162-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+LOCATION:Eugene\, Ore., Hayward Field
+SUMMARY:University of Portland Women's Track and Field vs Oregon Preview
+DESCRIPTION:University of Portland Women's Track and Field vs Oregon Preview\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13162&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13138-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+LOCATION:Eugene\, Ore., Hayward Field
+SUMMARY:University of Portland Men's Track and Field vs Oregon Preview
+DESCRIPTION:University of Portland Men's Track and Field vs Oregon Preview\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13138&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13056-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260508T220000Z
+DTEND:20260509T010000Z
+LOCATION:Malibu\, Calif., Eddy D. Field Stadium
+SUMMARY:University of Portland Baseball at Pepperdine
+DESCRIPTION:University of Portland Baseball at Pepperdine\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13056&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13139-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+LOCATION:Portland\, Ore., Eldon Fix Track
+SUMMARY:University of Portland Men's Track and Field vs Portland Twilight 
+DESCRIPTION:University of Portland Men's Track and Field vs Portland Twilight \n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13139&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13163-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+LOCATION:Portland\, Ore., Eldon Fix Track
+SUMMARY:University of Portland Women's Track and Field vs Portland Twilight 
+DESCRIPTION:University of Portland Women's Track and Field vs Portland Twilight \n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13163&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13057-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260509T210000Z
+DTEND:20260510T000000Z
+LOCATION:Malibu\, Calif., Eddy D. Field Stadium
+SUMMARY:University of Portland Baseball at Pepperdine
+DESCRIPTION:University of Portland Baseball at Pepperdine\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13057&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13058-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260510T200000Z
+DTEND:20260510T230000Z
+LOCATION:Malibu\, Calif., Eddy D. Field Stadium
+SUMMARY:University of Portland Baseball at Pepperdine
+DESCRIPTION:University of Portland Baseball at Pepperdine\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13058&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13059-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260513T003000Z
+DTEND:20260513T033000Z
+LOCATION:Corvallis\, Ore., Goss Stadium
+SUMMARY:University of Portland Baseball at Oregon State
+DESCRIPTION:University of Portland Baseball at Oregon State\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference#bucketId=29784&sourceCollection=Browse_By_Top_Conferences\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13059&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13164-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+LOCATION:Newberg\, Ore., Stoffer Family Stadium
+SUMMARY:University of Portland Women's Track and Field vs George Fox Final Qualifier
+DESCRIPTION:University of Portland Women's Track and Field vs George Fox Final Qualifier\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13164&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13140-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+LOCATION:Newberg\, Ore., Stoffer Family Stadium
+SUMMARY:University of Portland Men's Track and Field vs George Fox Final Qualifier
+DESCRIPTION:University of Portland Men's Track and Field vs George Fox Final Qualifier\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13140&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13060-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260515T010000Z
+DTEND:20260515T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Pacific
+DESCRIPTION:University of Portland Baseball vs Pacific\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13060&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13071-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+LOCATION:Gold River\, Calif., Lake Natoma
+SUMMARY:University of Portland Rowing at WCC Championships Day 1
+DESCRIPTION:University of Portland Rowing at WCC Championships Day 1\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13071&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13061-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260516T010000Z
+DTEND:20260516T040000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Pacific
+DESCRIPTION:University of Portland Baseball vs Pacific\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13061&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13072-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+LOCATION:Gold River\, Calif., Lake Natoma
+SUMMARY:University of Portland Rowing at WCC Championships Day 2
+DESCRIPTION:University of Portland Rowing at WCC Championships Day 2\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13072&amp;sport_id=16
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13062-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART:20260516T200000Z
+DTEND:20260516T230000Z
+LOCATION:Portland\, Ore., Joe Etzel Field
+SUMMARY:University of Portland Baseball vs Pacific
+DESCRIPTION:University of Portland Baseball vs Pacific\nStreaming Video: https://www.espn.com/watch/catalog/c1cfeaa3-abb2-43bf-be63-66993e29e967/west-coast-conference\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13062&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13141-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+LOCATION:Fayetteville\, Ark., John McDonnell Field
+SUMMARY:University of Portland Men's Track and Field vs NCAA West First Round
+DESCRIPTION:University of Portland Men's Track and Field vs NCAA West First Round\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13141&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13165-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+LOCATION:Fayetteville\, Ark., John McDonnell Field
+SUMMARY:University of Portland Women's Track and Field vs NCAA West First Round
+DESCRIPTION:University of Portland Women's Track and Field vs NCAA West First Round\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13165&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13166-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260613
+LOCATION:Eugene\, Ore., Hayward Field
+SUMMARY:University of Portland Women's Track and Field vs NCAA Track & Field Championships
+DESCRIPTION:University of Portland Women's Track and Field vs NCAA Track & Field Championships\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13166&amp;sport_id=14
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_13142-portlandpilots.com
+DTSTAMP:20260312T153021Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260613
+LOCATION:Eugene\, Ore., Hayward Field
+SUMMARY:University of Portland Men's Track and Field vs NCAA Track & Field Championships
+DESCRIPTION:University of Portland Men's Track and Field vs NCAA Track & Field Championships\n
+URL:https://portlandpilots.com/calendar.aspx?game_id=13142&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

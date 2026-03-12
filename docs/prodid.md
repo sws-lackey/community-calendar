@@ -7,16 +7,16 @@ used across all city feeds, identified by their PRODID header.
 
 | Platform | Description | Cities | Feeds |
 |----------|-------------|--------|------:|
-| **Meetup** | ICS export from meetup.com groups. | bloomington, davis, evanston, jweekly, montclair, petaluma, raleighdurham, roanoke, santarosa, toronto | 140 |
-| **The Events Calendar (WordPress)** | WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version. | bloomington, davis, evanston, jweekly, matsu, montclair, petaluma, raleighdurham, roanoke, santarosa, toronto | 79 |
+| **Meetup** | ICS export from meetup.com groups. | bloomington, davis, evanston, jweekly, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 163 |
+| **The Events Calendar (WordPress)** | WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version. | bloomington, davis, evanston, jweekly, matsu, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 81 |
 | **CivicPlus (ical.net)** | Government CMS using ical.net library. Common for city/county websites. | bloomington, evanston, matsu, montclair, raleighdurham, roanoke, santarosa | 53 |
-| **Google Calendar** | Public Google Calendar ICS export. | bloomington, davis, jweekly, montclair, petaluma, raleighdurham, roanoke, santarosa, toronto | 48 |
-| **Localist** | Campus/community event platform by Concept3D (Indiana University instance). | bloomington, evanston, raleighdurham | 22 |
+| **Google Calendar** | Public Google Calendar ICS export. | bloomington, davis, jweekly, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 50 |
+| **Localist** | Campus/community event platform by Concept3D (Indiana University instance). | bloomington, evanston, portland, raleighdurham | 24 |
+| **Tockify** | Embeddable calendar widget with public ICS feeds. | bloomington, petaluma, portland, santarosa, toronto | 10 |
 | **MaxPreps** | High school sports schedules. | montclair, petaluma, santarosa | 10 |
-| **Tockify** | Embeddable calendar widget with public ICS feeds. | bloomington, petaluma, santarosa, toronto | 8 |
 | **GrowthZone** | Chamber of commerce / association management platform. | montclair, petaluma, raleighdurham, roanoke | 6 |
-| **LibCal (Springshare)** | Library event management platform. | bloomington, montclair, raleighdurham | 4 |
-| **Modern Events Calendar (WordPress)** | WordPress plugin by Webnus. PRODID references wp-events-plugin.com. | petaluma, raleighdurham | 3 |
+| **LibCal (Springshare)** | Library event management platform. | bloomington, montclair, portland, raleighdurham | 5 |
+| **Modern Events Calendar (WordPress)** | WordPress plugin by Webnus. PRODID references wp-events-plugin.com. | petaluma, portland, raleighdurham | 4 |
 | **Bedework** | Open-source enterprise calendar (Java). Used by Duke and some universities. | raleighdurham | 2 |
 | **BiblioCommons** | Library discovery platform with event listings. | toronto | 2 |
 | **MembershipWorks** | Membership management platform with event calendar. | petaluma | 1 |
@@ -24,7 +24,7 @@ used across all city feeds, identified by their PRODID header.
 
 ## Detail
 
-### Meetup (140 feeds)
+### Meetup (163 feeds)
 
 ICS export from meetup.com groups.
 
@@ -40,6 +40,8 @@ ICS export from meetup.com groups.
 
 **petaluma** (14): meetup_active_20_30, meetup_book_brew, meetup_brat_pack, meetup_candlelight_yoga, meetup_contra_dance, meetup_figure_drawing, meetup_go_wild_hikers, meetup_meditate_monk, meetup_mindful_petaluma, meetup_mindfull_hikes, meetup_north_bay_adventure, meetup_petaluma_salon, meetup_rebel_craft, meetup_sonoma_outdoors
 
+**portland** (23): meetup_art_guild, meetup_arts_craft, meetup_code_for_pdx, meetup_coffee_sketch, meetup_more_than_reading, meetup_nw_trail_runners, meetup_padnug, meetup_paint_and_sip, meetup_pdxcpp, meetup_pdxgames, meetup_portland_2030, meetup_portland_city_walking, meetup_portland_code_coffee, meetup_portland_fun_run, meetup_portland_hiking, meetup_portland_outdoors, meetup_portland_running_co, meetup_portland_trail_runners, meetup_silent_book_club_portland, meetup_silent_books_club, meetup_slowpo_runners, meetup_techacademy, meetup_womens_wanderers
+
 **raleighdurham** (31): meetup_adventures, meetup_all_things_ai, meetup_all_things_open_rtp_meetup, meetup_blacks_in_tech_bit_rdu_durham_raleigh_meetup, meetup_chad2015, meetup_chicktech_rdu, meetup_code_for_america, meetup_csa_triangle, meetup_data_science_raleigh, meetup_discover_durham_together, meetup_downtown_techies_durham, meetup_durham_geeks, meetup_durham_writers, meetup_futureofdata_triangle, meetup_modern_web_triangle, meetup_outdoor_flow_yogis, meetup_plum_village_meditation, meetup_pydata_triangle, meetup_raleigh_ai_ml_cv, meetup_raleigh_triangle_activities, meetup_raleigh_wordpress_meetup_group, meetup_research_triangle_analysts, meetup_splatspace, meetup_triangle_board_games, meetup_triangle_devops, meetup_triangle_devs, meetup_triangle_techbreakfast, meetup_triangle_transitional, meetup_triangleai, meetup_tripython, meetup_yoga_in_nature
 
 **roanoke** (6): meetup_make_roanoke, meetup_pathfinders_greenways, meetup_roanoke_spiritual, meetup_roanoke_valley_net, meetup_shut_up_write, meetup_sw_va_toastmasters
@@ -48,7 +50,7 @@ ICS export from meetup.com groups.
 
 **toronto** (50): meetup_20s30s_social, meetup_ai_ml, meetup_arts_crafts, meetup_arts_culture, meetup_bike_toronto, meetup_board_games_to, meetup_book_club_abcd, meetup_bruce_trail, meetup_canoe_trippers, meetup_devops, meetup_experience_to, meetup_founders_running, meetup_gta_hiking, meetup_heavy_boardgames, meetup_high_park_yoga, meetup_hiking_boots, meetup_hiking_network, meetup_improv_friends, meetup_improv_to, meetup_jpn_eng_exchange, meetup_lang_exchange_to, meetup_little_sunbeams, meetup_medieval_sca, meetup_mindful_movement, meetup_mini_me, meetup_movies_social, meetup_ms_reactor, meetup_photography_to, meetup_postapoc_books, meetup_postgres_to, meetup_python_to, meetup_sai_dham_volunteer, meetup_salsa_gta, meetup_scifi_books, meetup_silent_books, meetup_singles_social, meetup_soul_city, meetup_sup_kayak, meetup_tech_stack, meetup_techto, meetup_tile_language, meetup_toronto_dads, meetup_toronto_history_walks, meetup_toronto_paddlers, meetup_toronto_wellness, meetup_torontobabel, meetup_torontojs, meetup_try_new_things, meetup_wilderness_union, meetup_women_biz
 
-### The Events Calendar (WordPress) (79 feeds)
+### The Events Calendar (WordPress) (81 feeds)
 
 WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
 
@@ -65,6 +67,8 @@ WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
 **montclair** (8): mhainspire, montclairfoundation_calendar_of_events, montclairlocal, neearth, njaudubon, peakperfs, unioncong, whartonarts
 
 **petaluma** (2): bigeasy, polly_klaas
+
+**portland** (2): literary_arts, portland_art_museum
 
 **raleighdurham** (15): ackland_art, downtown_durham, duke_gardens, gardens, hope_animal_rescue, morehead_planetarium, nasher_museum, nc_botanical_garden, nc_humanities, nc_natural_sciences, nc_wildlife_federation, resilient_durham, transitions_lifecare, triangle_land, united_arts_wake
 
@@ -92,7 +96,7 @@ Government CMS using ical.net library. Common for city/county websites.
 
 **santarosa** (32): SRCity_Art_in_Public_Places_Committee, SRCity_Board_of_Building_Regulation_Appeals, SRCity_COVID-19_Business_Webinars, SRCity_Charter_Review_Committee, SRCity_CityBus, SRCity_City_Council, SRCity_City_Offices_Closed, SRCity_Climate_Action_Subcommittee, SRCity_Community_Advisory_Board, SRCity_Community_Calendar, SRCity_Creek_Stewardship, SRCity_Cultural_Heritage_Board, SRCity_Design_Review_Board, SRCity_Downtown_Subcommittee, SRCity_Economic_Development_Subcommittee, SRCity_Events, SRCity_HCS_and_Code, SRCity_Main_Calendar, SRCity_Neighborhood_Meetings, SRCity_Parking, SRCity_Planning_Commission, SRCity_Planning_and_Economic_Development, SRCity_Police, SRCity_Public_Works, SRCity_Recreation_and_Parks, SRCity_Santa_Rosa_Water, SRCity_Subdivision_Committee, SRCity_Tourism_Business_Improvement_Area_Advisory_Board, SRCity_Transportation_and_Public_Works, SRCity_Waterways_Advisory_Committee, SRCity_Wildfire_Ready, SRCity_Zoning_Administrator
 
-### Google Calendar (48 feeds)
+### Google Calendar (50 feeds)
 
 Public Google Calendar ICS export.
 
@@ -106,6 +110,8 @@ Public Google Calendar ICS export.
 
 **petaluma** (3): brooksnote, elks_lodge, garden_club
 
+**portland** (2): portland_thorns, portland_timbers
+
 **raleighdurham** (16): bike_durham, calendar_c_dl4511hfnoong3b3171k6smt74_40group_cale, calendar_c_j40ldpocctr71k99n0n2lr9c14_40group_cale, calendar_cb2ajgfjpk6bf9gifg6kg2hn1s_40group_calend, calendar_lgbtqcenterofdurham_org_qb71v8n48d0a304sq, durham_resistance_1, durham_resistance_2, durham_resistance_3, durham_resistance_4, eno_river, gizmo_brew_works, lgbtq_center_durham, new_hope_bird_alliance, sw_durham_rotary, triangle_cycling, wake_audubon
 
 **roanoke** (1): berglund_center
@@ -114,7 +120,7 @@ Public Google Calendar ICS export.
 
 **toronto** (3): cita_local_events, cita_seminars, cita_special_events
 
-### Localist (22 feeds)
+### Localist (24 feeds)
 
 Campus/community event platform by Concept3D (Indiana University instance).
 
@@ -122,7 +128,23 @@ Campus/community event platform by Concept3D (Indiana University instance).
 
 **evanston** (1): oakton_college
 
+**portland** (2): reed_college, university_of_portland
+
 **raleighdurham** (5): nc_cultural_resources, ncsu, ncsu_aacc, ncsu_gregg_museum, unc_chapel_hill
+
+### Tockify (10 feeds)
+
+Embeddable calendar widget with public ICS feeds.
+
+**bloomington** (1): bloomington_arts
+
+**petaluma** (2): griffo, petaluma_downtown
+
+**portland** (2): tockify_kptv_calendar, tockify_theoldchurch
+
+**santarosa** (1): rileystreet_art
+
+**toronto** (4): distillery_events, jamaalmyers, st_lawrence_na, torevent
 
 ### MaxPreps (10 feeds)
 
@@ -133,18 +155,6 @@ High school sports schedules.
 **petaluma** (2): maxpreps_casa_grande, maxpreps_petaluma_high
 
 **santarosa** (6): maxpreps_cardinal_newman, maxpreps_elsie_allen, maxpreps_maria_carrillo, maxpreps_montgomery_high, maxpreps_piner_high, maxpreps_santa_rosa_high
-
-### Tockify (8 feeds)
-
-Embeddable calendar widget with public ICS feeds.
-
-**bloomington** (1): bloomington_arts
-
-**petaluma** (2): griffo, petaluma_downtown
-
-**santarosa** (1): rileystreet_art
-
-**toronto** (4): distillery_events, jamaalmyers, st_lawrence_na, torevent
 
 ### GrowthZone (6 feeds)
 
@@ -158,7 +168,7 @@ Chamber of commerce / association management platform.
 
 **roanoke** (1): roanoke_chamber
 
-### LibCal (Springshare) (4 feeds)
+### LibCal (Springshare) (5 feeds)
 
 Library event management platform.
 
@@ -166,13 +176,17 @@ Library event management platform.
 
 **montclair** (1): bccls_ical_subscribe_php
 
+**portland** (1): ohsu_library
+
 **raleighdurham** (1): durham_library
 
-### Modern Events Calendar (WordPress) (3 feeds)
+### Modern Events Calendar (WordPress) (4 feeds)
 
 WordPress plugin by Webnus. PRODID references wp-events-plugin.com.
 
 **petaluma** (1): petaluma_bounty
+
+**portland** (1): japanese_garden
 
 **raleighdurham** (2): american_tobacco_campus, gathering_place_games
 
@@ -210,8 +224,11 @@ own scrapers, add a pattern to `OUR_SCRAPERS`.
 |--------|------|-------|
 | `-//173.236.243.198//NONSGML kigkonsult.se iCalcreator 2.26.9//` | bloomington | writersguildbloomington |
 | `-//DaylightPirates//EB-to-iCAL//EN` | raleighdurham | quail_ridge_books |
+| `-//Lewis & Clark//NONSGML v1.0//EN` | portland | lewis_clark |
+| `-//Portland Community College//NONSGML v1.0//EN` | portland | portland_community_college |
 | `-//SIDEARM Sports//NONSGML SIDEARM//EN` | evanston | nw_baseball, nw_field_hockey, nw_football, nw_mens_basketball, nw_mens_soccer, nw_softball, nw_volleyball, nw_womens_basketball, nw_womens_lacrosse, nw_womens_soccer, nw_womens_swimming, nw_wrestling |
 | `-//SIDEARM Sports//NONSGML SIDEARM//EN` | montclair | msu_athletics |
+| `-//SIDEARM Sports//NONSGML SIDEARM//EN` | portland | psu_athletics, up_athletics |
 | `-//SIDEARM Sports//NONSGML SIDEARM//EN` | raleighdurham | duke_athletics, ncsu_athletics, unc_athletics |
 | `-//Sabre//Sabre VObject 4.5.8//EN` | evanston | lincolnwood_library, morton_grove_library, skokie_library, winnetka_northfield_library |
 | `-//Santa Rosa Junior College//NONSGML v1.0//EN` | santarosa | srjc |
@@ -219,5 +236,6 @@ own scrapers, add a pattern to `OUR_SCRAPERS`.
 | `-//Ticketmaster/Evanston Venues//ticketmaster.com//` | evanston | ticketmaster_evanston_venues |
 | `-//Ticketmaster/Evanston//ticketmaster.com//` | evanston | ticketmaster_evanston |
 | `-//YWCA Evanston/North Shore//eventbrite.com//` | evanston | eb_ywca |
+| `X-RICAL-TZSOURCE=TZINFO:-//Calagator//EN` | portland | calagator |
 | `icalendar-ruby` | matsu | matsuk12 |
 | `www.maak-agenda.nl` | raleighdurham | nc_courage |

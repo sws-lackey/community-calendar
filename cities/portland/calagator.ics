@@ -1,0 +1,1025 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//Calagator//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Calagator
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20260308T020000
+RDATE:20260308T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261101T020000
+RDATE:20261101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260303T001541Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T110000
+DTSTAMP;VALUE=DATE-TIME:20260303T001541Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260303T001541Z
+UID:http://calagator.org/events/1250482489
+DESCRIPTION:Let’s get together for an informal BEAM PDX hangout: coffee\,
+  conversation\, and light co-working.&#13\;\n&#13\;\nThis is a low-key m
+ onthly meetup for folks working with Elixir\, Erlang\, Gleam\, and other
+  BEAM languages\, aimed at reconnecting the local community and rebuildi
+ ng momentum after a long quiet stretch. We'll holding this on the second
+  Thursday of each month.&#13\;\n&#13\;\nThere will be opportunities to:&
+ #13\;\n&#13\;\nAsk questions about Elixir and other BEAM languages&#13\;
+ \nShare what you’ve been working on (or stuck on)&#13\;\nGet help with p
+ rogramming or design problems&#13\;\nCo-work: get things done with like-
+ minded folks nearby&#13\;\nBrainstorm ideas for future talk-based meetup
+ s and identify potential speakers&#13\;\nBring your laptop if you’d like
+ . It's totally optional.&#13\;\n&#13\;\nNew to BEAM languages\, or just 
+ curious? You’re very welcome.&#13\;\n&#13\;\nPlease RSVP so we know roug
+ hly how many people to expect. If your plans change\, un-RSVP when you c
+ an.&#13\;\n&#13\;\nThis meetup is also part of our transition away from 
+ Meetup to a new home for the group\, where we’ll be organizing future ev
+ ents.\n\nTags: elixir\, erlang\, functional programming\n\nImported from
+ : http://calagator.org/events/1250482489
+URL:https://beam-pdx.groupflow.app/events/12259
+SUMMARY:Portland Monthly BEAM Meet & Chat
+LOCATION:Inner SE Portland: \, Portland Oregon  United States
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260201T100647Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T120000
+DTSTAMP;VALUE=DATE-TIME:20260201T100647Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260201T122206Z
+UID:http://calagator.org/events/1250482445
+DESCRIPTION:We are living in a time of rapid\, exponential change. Techno
+ logy is advancing at an unprecedented pace. Industries have shifted. Com
+ munities are navigating uncertainty\, disruption\, and opportunity all a
+ t once—impacting individuals\, organizations\, and entire ecosystems acr
+ oss the Pacific Northwest.&#13\;\n&#13\;\nThe **Silicon Forest Tech Summ
+ it** is a space where **innovation\, community\, and leadership** inters
+ ect to shape the future of our region with **intention and agility**.&#1
+ 3\;\n&#13\;\n### Why Attend&#13\;\n&#13\;\nLast year\, our impact exceed
+ ed expectations:&#13\;\n&#13\;\n- Engaged **1\,000+ attendees**&#13\;\n-
+  Brought together **40+ companies**&#13\;\n- Reached over **400\,000** m
+ otivated participants&#13\;\n&#13\;\nWe:&#13\;\n- Break down silos  &#13
+ \;\n- Serve as a launchpad for innovation  &#13\;\n- Create space for co
+ nnection and conversation  &#13\;\n&#13\;\n### Join Us&#13\;\n&#13\;\nJo
+ in the tech community for a full day of **learning\, networking\, and co
+ nnection** with leaders\, builders\, and innovators across industries an
+ d generations.&#13\;\n&#13\;\n&#13\;\n## Silicon Forest Tech Summit: Agi
+ lity in a Time of Change&#13\;\n&#13\;\n**Register:** https://www.steamc
+ ircuit.com&#13\;\n\n\nTags: #techcommunity #networking #siliconforest #t
+ echinsights #community\n\nImported from: http://calagator.org/events/125
+ 0482445
+URL:https://www.steamcircuit.com/events/61b8c1ba-e9bf-4dfc-b86e-17c125cd6
+ 85b
+SUMMARY:Silicon Forest Tech Summit: Agility in a Time of Change
+LOCATION:Oregon Convention Center: 777 NE Martin Luther King Jr Blvd\, Po
+ rtland OR 97232 United States
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260311T110321Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260315T170000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260315T130000
+DTSTAMP;VALUE=DATE-TIME:20260311T110321Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260311T110321Z
+UID:http://calagator.org/events/1250482501
+DESCRIPTION:That PLUG Clinic you like is coming back into style!&#13\;\n&
+ #13\;\nThe PLUG Clinic returns again this month on January 18th\, from 1
+ pm-5pm\, at Willamette University's space on the 2nd floor of the Ecotru
+ st Building. If you need help with your Linux computer\, or want to offe
+ r help\, you are welcome!&#13\;\n&#13\;\nVolunteer helpers are as desira
+ ble as helpees. Helping is fun and rewarding. If you've ever helped out 
+ at a PLUG Clinic before\, come checkout the space!&#13\;\n&#13\;\nThank 
+ you Willamette University\, for hosting us!\n\nTags: Linux Help\, plug\,
+  clinic\n\nImported from: http://calagator.org/events/1250482501
+URL:https://pdxlinux.org/
+SUMMARY:Portland Linux/Unix Group's Monthly Linux Clinic
+LOCATION:Ecotrust (Jean Vollum Natural Capital Center): 721 NW Ninth Ave\
+ , Portland Oregon 97209 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260306T164414Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260318T193000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260318T170000
+DTSTAMP;VALUE=DATE-TIME:20260306T164414Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260306T164414Z
+UID:http://calagator.org/events/1250482493
+DESCRIPTION:This will be a demo night\, come show what you've been buildi
+ ng with and help of AI and/or you product that leveraged AI.&#13\;\n&#13
+ \;\n​Reach out to sam@alteredcraft.com if you would like to demo&#13\;\n
+ &#13\;\n​Schedule:&#13\;\n&#13\;\n​5:00 - 5:30: Snacks and networking&#1
+ 3\;\n​5:30 - 6:30: Presentations&#13\;\n​6:30 - 7:00: Wrap up and networ
+ king&#13\;\n&#13\;\n​Get involved:&#13\;\n​Present your work at a future
+  event: Email us at info@portlandai.engineer to discuss sharing your pro
+ ject or insights&#13\;\n​Provide feedback: Help shape our community by s
+ haring your ideas and suggestions&#13\;\n​Sponsor an event: Contact us t
+ o discuss partnership opportunities&#13\;\n​For more information and to 
+ join our community\, visit portlandai.engineer&#13\;\n&#13\;\n​Thank you
+  to our amazing sponsors&#13\;\n​Portland Incubator Experiment (PIE)&#13
+ \;\n​Silicon Florist&#13\;\n​AlteredCraft&#13\;\n​O'Reilly\n\nImported f
+ rom: http://calagator.org/events/1250482493
+URL:https://luma.com/event/manage/evt-D7GebTD0uJXxuEG
+SUMMARY:Portland AI Engineers March Meeting : Demo Night!
+LOCATION:Albina Library\, Community Room 1A: 205 NE Russell St\, Portland
+  OR 97212 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260304T033951Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T150000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T110000
+DTSTAMP;VALUE=DATE-TIME:20260304T033951Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260304T033951Z
+UID:http://calagator.org/events/1250482490
+DESCRIPTION:Oregon's Flagship Startup Hiring Event&#13\;\n&#13\;\n​The Or
+ egon Hiring Festival brought to you by MeeBoss\, Oregon Entrepreneur Net
+ work [OEN]\, and WeWork\, is HERE! We'll be bringing together 10+ hiring
+  companies and ~100+ job seekers for an afternoon of matchmaking\, conve
+ rsation\, and in-person connections.&#13\;\n&#13\;\n​Here’s how it works
+ : once you register\, MeeBoss will get your open roles live within 48 ho
+ urs. Our match-first\, chat-first platform connects you directly with qu
+ alified candidates ahead of time so you can begin conversations online b
+ efore the event. Then\, at the festival\, you’ll meet those candidates f
+ ace-to-face at your booth\, alongside new walk-ups who discover your tea
+ m on the spot.&#13\;\n&#13\;\n​​To keep things flowing smoothly\, the hi
+ ring block runs for three hours straight. While some job seekers step ou
+ t for lunch or attend the panel discussion\, others stay engaged at the 
+ booths. Creating a natural rotation and steady candidate flow without ov
+ erwhelming lines. Please bring more then one person to support your boot
+ h.&#13\;\n&#13\;\n​​This streamlined format guarantees high-quality inte
+ ractions while giving you the buzz\, PR spotlight\, and networking energ
+ y of a full-day festival\, but without requiring your team to commit an 
+ entire day.\n\nTags: hiring\, meeboss\, oen\, hr\n\nImported from: http:
+ //calagator.org/events/1250482490
+URL:https://luma.com/sdvngfhr
+SUMMARY:MeeBoss Hiring Festival – Startup Registration
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260216T235536Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T193000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T173000
+DTSTAMP;VALUE=DATE-TIME:20260216T235536Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260216T235536Z
+UID:http://calagator.org/events/1250482477
+DESCRIPTION:March is all about infrastructure!  We'll learn to manage edg
+ e container deployments\, and then how to account for our AWS infrastruc
+ ture drift.&#13\;\n&#13\;\nDate: Thursday\, March 19&#13\;\nTime: 5:30–7
+ :30 PM&#13\;\nLocation: Reperio Health\, 4784 SE 17th Ave Suite 120\, Po
+ rtland\, OR&#13\;\nRecording: Talks are typically recorded (opt-in by sp
+ eakers)&#13\;\n&#13\;\nA big thank you to Reperio Health\, our venue hos
+ t\, and Red Hat\, our food and beverage sponsor this month.  If your com
+ pany can sponsor our meetup\, please contact the organizers.&#13\;\n&#13
+ \;\nRunning MicroShift on Fedora Bootc for Scalable\, Secure\, and Resil
+ ient Edge Deployments - Ram Gopinathan\, Red Hat&#13\;\n&#13\;\nAs edge 
+ computing accelerates across industries—from utilities and manufacturing
+  to retail and smart cities—organizations are looking for lightweight\, 
+ reliable\, and secure platforms to deploy containerized applications at 
+ scale at the edge. Enter MicroShift\, a small-footprint Kubernetes distr
+ ibution\, paired with Fedora Bootc\, an image-based\, immutable operatin
+ g system built for consistency and resilience.&#13\;\n&#13\;\nIn this se
+ ssion\, we’ll demonstrate how running MicroShift on Fedora Bootc creates
+  a powerful foundation for edge workloads\, combining the familiarity of
+  Kubernetes with the reliability of image-based OS updates and atomic ro
+ llbacks. Learn how this approach reduces operational complexity\, improv
+ es boot-time performance\, and enhances system integrity—especially for 
+ unattended or resource-constrained edge environments.&#13\;\n&#13\;\nMin
+ d the Gap: Tracking AWS Infrastructure Drift Over Time - Christopher Buc
+ kley\, Buckshot Technologies&#13\;\n&#13\;\nModern DevOps pipelines focu
+ s heavily on deploying infrastructure-as-code\, but what happens after t
+ he deploy? In many organizations\, the infrastructure evolves outside of
+  Git — through the console\, ad hoc scripts\, or third-party tools — lea
+ ving behind blind spots and compliance risk.&#13\;\n&#13\;\nIn this talk
+ \, we’ll explore practical ways to track infrastructure drift and deltas
+  across AWS environments. You’ll learn how to snapshot configurations\, 
+ compare changes between points in time\, and surface deltas across accou
+ nts in a format that’s accessible to engineers\, auditors\, and security
+  teams alike.&#13\;\n&#13\;\nWe'll demo an open-source tool built to sho
+ w Git-style diffs for AWS infrastructure — not as a pitch\, but as a cas
+ e study in how visibility empowers better decisions\, faster troubleshoo
+ ting\, and cleaner audit trails. Whether you're running one VPC or a hun
+ dred\, knowing what changed is the first step to staying in control.\n\n
+ Tags: kubernetes\, containers\, cloud\, intrastructure\, aws\, devops\n\
+ nImported from: http://calagator.org/events/1250482477
+URL:https://www.meetup.com/cloud-native-pdx/events/313348836
+SUMMARY:Cloud Native March Meetup: Microshift\, Bootc\, and AWS Infrastru
+ cture
+LOCATION:Reperio Health: 4784 SE 17th Ave Suite 120\, Portland OR 97202 U
+ SA
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260311T041527Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T180000
+DTSTAMP;VALUE=DATE-TIME:20260311T041527Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260311T041527Z
+UID:http://calagator.org/events/1250482500
+DESCRIPTION:The Portland Linux Kernel Meetup for March 2026 will be at...
+ &#13\;\n&#13\;\n  * Date: Thursday\, March 19\, 2026&#13\;\n  * Time: 06
+ :00 PM to 09:00 PM US/Pacific&#13\;\n  * Location: Lucky Labrador Beer H
+ all\, 1945 NW Quimby St\, Portland\, Oregon 97209 US&#13\;\n&#13\;\nCome
+  enjoy a beverage and chat with other people who are interested in the&#
+ 13\;\nLinux kernel. All experience levels are welcome. This is a friendl
+ y and casual&#13\;\nmeetup.&#13\;\n&#13\;\nLook for a table with the plu
+ sh Tux penguin.&#13\;\n&#13\;\nTo get timely reminders of Portland Linux
+  Kernel Meetups\, see&#13\;\nhttps://ikluft.github.io/pdx-lkmu/subscribi
+ ng-to-pdx-lkmu-events.html.\n\nTags: PDXLKMU\, kernel\, linux\n\nImporte
+ d from: http://calagator.org/events/1250482500
+URL:https://ikluft.github.io/pdx-lkmu/
+SUMMARY:March 2026 Portland Linux Kernel Meetup
+LOCATION:Lucky Labrador Beer Hall\, 1945 NW Quimby St\, Portland\, Oregon
+  97209 US: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260306T183120Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260319T190000
+DTSTAMP;VALUE=DATE-TIME:20260306T183120Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260306T183120Z
+UID:http://calagator.org/events/1250482494
+DESCRIPTION:A meeting of folks interested in BSD operating systems and re
+ lated technologies to get together\, eat pizza\, drink beer\, and talk a
+ bout what interesting things have been going on.\n\nTags: DragonFlyBSD\,
+  FreeBSD\, NetBSD\, OpenBSD\, bsd\n\nImported from: http://calagator.org
+ /events/1250482494
+URL:https://bsd.pizza
+SUMMARY:BSD Pizza Night
+LOCATION:RukDiew Cafe: 2534 Southeast Belmont Street\, Portland Oregon 97
+ 214 USA
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171836Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260321T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260321T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171836Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171836Z
+UID:http://calagator.org/events/1250482296
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482296
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260310T230407Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260324T220000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260324T190000
+DTSTAMP;VALUE=DATE-TIME:20260310T230407Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260310T230407Z
+UID:http://calagator.org/events/1250482499
+DESCRIPTION:Hardware Happy Hour is an informal way to socialize\, show of
+ f your projects\, and talk about the world of hardware.&#13\;\n&#13\;\nW
+ e welcome anyone interested in any kind of hardware from beginner to exp
+ ert: Arduino DIYers\, engineers\, hardware start up founders\, e-textile
+  experimenters\, LED-curious folks\, 3D printing enthusiasts or robotics
+  geeks.&#13\;\n&#13\;\nIf you're working on something even vaguely relat
+ ed please do bring it along. No presentations\, no pitch decks\, just pr
+ ojects and conversation.&#13\;\n&#13\;\nJoin us and nerd out about elect
+ ronics!\n\nTags: hardware\, open source\n\nImported from: http://calagat
+ or.org/events/1250482499
+URL:https://luma.com/HHHpdx
+SUMMARY:Hardware Happy Hour 
+LOCATION:Bye and Bye: 1011 NE Alberta St\, Portland OR 97211 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20250918T041829Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260325T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260325T183000
+DTSTAMP;VALUE=DATE-TIME:20250918T041829Z
+LAST-MODIFIED;VALUE=DATE-TIME:20250918T041829Z
+UID:http://calagator.org/events/1250482213
+DESCRIPTION:PDXOSGeo connects again this week\, Wednesday March 25\, 6:30
+ p Hot Lips Pizza @ the Natural Capital Center 721 NW 9th Ave\, Portland 
+ OR. Join us for some show and tell and good open geo discussion!&#13\;\n
+ &#13\;\nWe're striving to post our speaker a couple weeks in advance of 
+ the meeting\, so watch this space!\n\nTags: opensource gis geospatial\n\
+ nImported from: http://calagator.org/events/1250482213
+URL:https://pdxosgeo.org/
+SUMMARY:PDXOSGeo March Meetup
+LOCATION:Ecotrust Building: 721 Northwest 9th Avenue\, Portland OR 97209 
+ US
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260309T173723Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260402T190000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260402T173000
+DTSTAMP;VALUE=DATE-TIME:20260309T173723Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260309T173723Z
+UID:http://calagator.org/events/1250482495
+DESCRIPTION:Join us for OBI’s Accelerate Biotech Happy Hour on Thursday\,
+  April 2\, from 5:30 to 7:00 PM.&#13\;\n&#13\;\nKick off spring at OBI’s
+  April Accelerate Happy Hour! Whether you’re reconnecting with colleague
+ s\, meeting new people\, or just curious to learn\, everyone is invited 
+ to join the conversation. The evening is proudly sponsored by Davis Wrig
+ ht Tremaine with beverages provided by Ramsey Cox Media Relations and Pu
+ blic Affairs.&#13\;\n&#13\;\nThis relaxed event is a great opportunity t
+ o build meaningful connections\, strengthen relationships across the com
+ munity\, and discover new ideas to accelerate your work.&#13\;\n&#13\;\n
+ Whether you’re new to OBI or a familiar face\, we’d love to have you joi
+ n us.&#13\;\n&#13\;\nWhen: Thursday\, April 2 | 5:30 to 7:00 PM&#13\;\nW
+ here: OBI Event Space | Suite 230&#13\;\n&#13\;\nRSVP and join us for an
+  easy\, welcoming evening built around connection and good company.\n\nT
+ ags: networking\, happy hour\, biotech\, bioscience\, portland\n\nImport
+ ed from: http://calagator.org/events/1250482495
+URL:https://app.tickettailor.com/events/oregonbioscienceincubator/2097888
+SUMMARY:Accelerate Biotech Happy Hour
+LOCATION:4640 S Macadam Ave. Ste 230 Portland\,Oregon 97239: false
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260309T173851Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260402T190000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260402T173000
+DTSTAMP;VALUE=DATE-TIME:20260309T173851Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260309T173851Z
+UID:http://calagator.org/events/1250482496
+DESCRIPTION:Join us for OBI’s Accelerate Biotech Happy Hour on Thursday\,
+  April 2\, from 5:30 to 7:00 PM.&#13\;\n&#13\;\nKick off spring at OBI’s
+  April Accelerate Happy Hour! Whether you’re reconnecting with colleague
+ s\, meeting new people\, or just curious to learn\, everyone is invited 
+ to join the conversation. The evening is proudly sponsored by Davis Wrig
+ ht Tremaine with beverages provided by Ramsey Cox Media Relations and Pu
+ blic Affairs.&#13\;\n&#13\;\nThis relaxed event is a great opportunity t
+ o build meaningful connections\, strengthen relationships across the com
+ munity\, and discover new ideas to accelerate your work.&#13\;\n&#13\;\n
+ Whether you’re new to OBI or a familiar face\, we’d love to have you joi
+ n us.&#13\;\n&#13\;\nWhen: Thursday\, April 2 | 5:30 to 7:00 PM&#13\;\nW
+ here: OBI Event Space | Suite 230&#13\;\n&#13\;\nRSVP and join us for an
+  easy\, welcoming evening built around connection and good company.\n\nT
+ ags: networking\, happy hour\, biotech\, bioscience\, portland\n\nImport
+ ed from: http://calagator.org/events/1250482496
+URL:https://app.tickettailor.com/events/oregonbioscienceincubator/2097888
+SUMMARY:Accelerate Biotech Happy Hour
+LOCATION:Oregon Bioscience Incubator (OBI): 4640 SW Macadam Avenue\, Suit
+ e 270\, Portland or 97239 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171250Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260404T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260404T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171250Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171250Z
+UID:http://calagator.org/events/1250482284
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U\n\nTags: meetup:event=Mentorship-Saturdays\n\nImported from: http:
+ //calagator.org/events/1250482284
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260309T175909Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260408T170000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260408T080000
+DTSTAMP;VALUE=DATE-TIME:20260309T175909Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260309T175909Z
+UID:http://calagator.org/events/1250482497
+DESCRIPTION:🎉 We're throwing open the doors\, and it's time to celebrate!
+  UpStart Collective is officially moving into our new home at **Big Pink
+ ** — one of Portland's most iconic buildings — and we want you there to 
+ kick things off with us on the 5th floor.&#13\;\n&#13\;\n​Come raise a g
+ lass (or a coffee cup) with Josh and the rest of the crew as we toast to
+  new beginnings\, fresh space\, and everything that's ahead. Whether you
+ 've been with us from the start or you're just now hearing about UpStart
+  Collective\, this is the perfect moment to walk through the door\, look
+  around\, and feel what we're building together.&#13\;\n&#13\;\n​We'll s
+ tart the morning off right with a ribbon-cutting with Portland Mayor\, K
+ eith Wilson. After that\, we'll have programming from our partners at Pl
+ ug and Play and the Komputational Kulture team.&#13\;\n&#13\;\n​Swing by
+  on the morning of **April 8th**\, take in the views from the 5th floor\
+ , and help us make some noise in our new space. See you at Big Pink! 🩷\n
+ \nTags: free\, founders\, Big Pink\, networking\, startups\n\nImported f
+ rom: http://calagator.org/events/1250482497
+URL:https://luma.com/ul04ns8a
+SUMMARY:UpStart Collective: Grand Opening Day @ Big Pink!
+LOCATION:U.S. Bancorp Tower (Big Pink): 111 Southwest 5th Avenue\, Portla
+ nd OR 97204 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260304T193247Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260410T153000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260410T090000
+DTSTAMP;VALUE=DATE-TIME:20260304T193247Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260304T193247Z
+UID:http://calagator.org/events/1250482492
+DESCRIPTION:Co-creAIt is an unconference about Humans and Generative AI c
+ ollaborating at work. The event is for brand-side digital leaders\, agen
+ cies\, consultants\, developers\, and other creative professionals. The 
+ event is presented by the Digital Strategy Exchange.&#13\;\n&#13\;\nAs a
+ n unconference\, there are no speakers or panelists (you've probably hea
+ rd a lot from several AI experts already). INSTEAD\, each attendee is an
+  equal participant in the various topic discussions\, which the attendee
+ s decide on together at the start of the event.  It's the most interacti
+ ve and collaborative event type.&#13\;\n&#13\;\nNOTE: Each attendee will
+  get a box lunch at the event.&#13\;\n&#13\;\n&#13\;\nTESTIMONIAL from C
+ o-creAIt 2025 attendee:&#13\;\n&#13\;\n&quot\;Having never attended an “
+ unconference” before\, Co-CreAIt was a breath of fresh air. It brought t
+ ogether a mix of AI-curious folks—technologists\, filmmakers\, and busin
+ ess leaders across a wide range of industries and skill levels. Everyone
+  felt genuinely welcome. The format felt laid-back and fluid\, unlike a 
+ typically rigid event. I met some really interesting people and left ins
+ pired. It’s exciting to see a community like this starting to take shape
+  in Portland. Looking forward to the next one!&quot\;&#13\;\n&#13\;\nGar
+ ett Stenson\, Founder &amp\; Head of Strategy\, db clay\, Founder\, MIXE
+ D* AI film festival&#13\;\n&#13\;\n&#13\;\nYou've put in the time to lea
+ rn and use some GenAI tools. Now's the time to gather with your peers in
+  these essential discussions about the pros &amp\; cons of humans and Ge
+ nAI working together\, best practices\, etc.&#13\;\n&#13\;\n&#13\;\nEVEN
+ T PRODUCER&#13\;\n&#13\;\nThis is the 2nd Co-creAIt event produced by St
+ eve Gehlen &amp\; co-produced by Al Partridge. Steve is the past produce
+ r of Cre8con\, the Portland Creative Conference (2008-2019)\, the Cre8Ca
+ mp unconference services\, Inverge: the interactive convergence conferen
+ ce\, the Internet Strategy Forum Summit\, and founder of the Digital Str
+ ategy Exchange\, a new professional development network for brand-side/i
+ n-house digital leaders.&#13\;\n&#13\;\n&#13\;\nPRESENTED BY: Digital St
+ rategy Exchange\, a new professional development network for brand-side/
+ in-house digital leaders or individual consultants with 10+ years of bra
+ nd-side experience.&#13\;\n&#13\;\nFor information about how to join the
+  Digital Strategy Exchange\, visit https://digitalstrategyexchange.com&#
+ 13\;\n\n\nTags: AI\, networking\, unconference\, collaboration\n\nImport
+ ed from: http://calagator.org/events/1250482492
+URL:https://luma.com/y84mpaa7
+SUMMARY:Co-creAIt\, an unconference about human/AI collaboration
+LOCATION:OSU Portland Center 555 SW Morrison Street\, Portland\, OR 97204
+   Portland OR: false
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171845Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260418T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260418T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171845Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171845Z
+UID:http://calagator.org/events/1250482297
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482297
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260201T012554Z
+DTEND;VALUE=DATE:20260423
+DTSTART;VALUE=DATE:20260420
+DTSTAMP;VALUE=DATE-TIME:20260201T012554Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260201T012554Z
+UID:http://calagator.org/events/1250482444
+DESCRIPTION:This event runs from Monday\, April 20\, 2026 at midnight thr
+ ough Wednesday\, April 22\, 2026 at midnight.\n\nDescription:\nTokioConf
+  2026&#13\;\n&#13\;\nhosted by the Tokio Project ( https://tokio.rs )&#1
+ 3\;\n\n\nTags: opensource\, rustlang\, rust\, pdx\, tokio\n\nImported fr
+ om: http://calagator.org/events/1250482444
+URL:https://www.tokioconf.com
+SUMMARY:TokioConf 2026
+LOCATION:Hyatt Regency\, Portland: 375 NE Holladay St\, Portland OR 97232
+  USA
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20250918T042545Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260422T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260422T183000
+DTSTAMP;VALUE=DATE-TIME:20250918T042545Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260204T023605Z
+UID:http://calagator.org/events/1250482214
+DESCRIPTION:Tax day is in the rear view mirror!&#13\;\n&#13\;\nPDXOSGeo c
+ onnects again this week\, Wednesday April 22\, 6:30p Hot Lips Pizza @ th
+ e Natural Capital Center 721 NW 9th Ave\, Portland OR. Join us for some 
+ show and tell and good open geo discussion!&#13\;\n&#13\;\nWe're strivin
+ g to post our speaker a couple weeks in advance of the meeting\, so watc
+ h this space!\n\nTags: opensource gis geospatial\n\nImported from: http:
+ //calagator.org/events/1250482214
+URL:https://pdxosgeo.org/
+SUMMARY:PDXOSGeo April Meetup
+LOCATION:Ecotrust Building: 721 Northwest 9th Avenue\, Portland OR 97209 
+ US
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171318Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260502T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260502T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171318Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171318Z
+UID:http://calagator.org/events/1250482285
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U\n\nTags: meetup:event=Mentorship-Saturdays\n\nImported from: http:
+ //calagator.org/events/1250482285
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171903Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260516T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260516T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171903Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171903Z
+UID:http://calagator.org/events/1250482298
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482298
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20250918T042835Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260527T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260527T183000
+DTSTAMP;VALUE=DATE-TIME:20250918T042835Z
+LAST-MODIFIED;VALUE=DATE-TIME:20250918T042835Z
+UID:http://calagator.org/events/1250482215
+DESCRIPTION:PDXOSGeo connects again this week\, Wednesday May 20\, 6:30p 
+ Hot Lips Pizza @ the Natural Capital Center 721 NW 9th Ave\, Portland OR
+ . Join us for some show and tell and good open geo discussion!&#13\;\n&#
+ 13\;\nWe're striving to post our speaker a couple weeks in advance of th
+ e meeting\, so watch this space!\n\nTags: opensource gis geospatial\n\nI
+ mported from: http://calagator.org/events/1250482215
+URL:https://pdxosgeo.org/
+SUMMARY:PDXOSGeo May Meetup
+LOCATION:Ecotrust Building: 721 Northwest 9th Avenue\, Portland OR 97209 
+ US
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171416Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260606T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260606T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171416Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171416Z
+UID:http://calagator.org/events/1250482286
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U\n\nTags: meetup:event=Mentorship-Saturdays\n\nImported from: http:
+ //calagator.org/events/1250482286
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T172028Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260620T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260620T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T172028Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T172028Z
+UID:http://calagator.org/events/1250482300
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482300
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171433Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260704T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260704T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171433Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171433Z
+UID:http://calagator.org/events/1250482287
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482287
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171925Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260718T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260718T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171925Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171925Z
+UID:http://calagator.org/events/1250482299
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482299
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171449Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260801T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260801T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171449Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171449Z
+UID:http://calagator.org/events/1250482288
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482288
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T172121Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260815T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260815T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T172121Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T172121Z
+UID:http://calagator.org/events/1250482301
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482301
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171501Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260905T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260905T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171501Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171501Z
+UID:http://calagator.org/events/1250482289
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482289
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T172235Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260919T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260919T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T172235Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T172235Z
+UID:http://calagator.org/events/1250482302
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482302
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171516Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261003T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261003T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171516Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171516Z
+UID:http://calagator.org/events/1250482290
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482290
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T172307Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261017T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261017T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T172307Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T172307Z
+UID:http://calagator.org/events/1250482303
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482303
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171527Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261107T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261107T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171527Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171527Z
+UID:http://calagator.org/events/1250482291
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482291
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T172325Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261121T123000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261121T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T172325Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T172325Z
+UID:http://calagator.org/events/1250482304
+DESCRIPTION:Details&#13\;\n## What to Expect:&#13\;\nCode and Coffee is a
+ n inclusive\, informal co-working session. Drink some coffee\, bring you
+ r laptop\, and have engaging conversations. This is a great opportunity 
+ to learn from others\, share your knowledge\, and possibly collaborate o
+ n side projects\, online courses\, or even your day-to-day work tasks.&#
+ 13\;\nStill uncertain? Let's chat on Discord!&#13\;\n## Venue:&#13\;\nTh
+ e Venue is at Capital One Café\, who is graciously allowing us to host a
+  space. WIFI\, power outlets&#13\;\nRecommended Parking: Smart Park\, $7
+  all day https://www.portland.gov/transportation/parking/smartpark&#13\;
+ \n&#13\;\n## Coffee:&#13\;\nCapital One Café has drip coffee and fixings
+  available for it&#13\;\n## Agenda:&#13\;\n&#13\;\n10 AM - Arrival: Head
+  to the top by the glass rooms&#13\;\n10:15 AM - Introductions:&#13\;\nS
+ hare your name&#13\;\nDiscuss your current projects or interests. If you
+  don’t have a specific project\, share what intrigues you!&#13\;\nMentio
+ n your expertise and how you can assist others.&#13\;\nAre you job hunti
+ ng or hiring? Let us know!&#13\;\nCommunity events you wanna plug. If no
+ ne\, that's cool too.&#13\;\n12:30 AM - Wrapping Up: You can stay longer
+ \, but we'll officially be done! We usually grab lunch as a group at nea
+ r by food carts\n\nImported from: http://calagator.org/events/1250482304
+URL:https://www.meetup.com/portland-code-coffee/
+SUMMARY:Code & Coffee @ Capital One Café (Upstairs)
+LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20251109T171545Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261205T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20261205T100000
+DTSTAMP;VALUE=DATE-TIME:20251109T171545Z
+LAST-MODIFIED;VALUE=DATE-TIME:20251109T171545Z
+UID:http://calagator.org/events/1250482292
+DESCRIPTION:Thanks to Roseline Coffee for providing a physical location! 
+ Find inside the hotel and to the right\, likely on the couches&#13\;\n&#
+ 13\;\nCoffee\, bagels and people working on their careers and code! We h
+ ave 2-5 mentors every month ready to help people get started in the indu
+ stry\, get help with a particular problem\, or get career advice. We off
+ er resume reviews\, portfolio reviews\, and sometimes mock interviews (t
+ ime permitting).&#13\;\n&#13\;\nOnline Teams Link: https://teams.microso
+ ft.com/l/meetup-join/19%3ameeting_YTljOWRlMDAtNThmZS00NzljLWE1YTEtZDhlOD
+ MyYzI0OTRi%40thread.v2/0?context=%7b%22Tid%22%3a%2282ea9e81-6f10-49e0-a1
+ f1-d75b0b4c2e7c%22%2c%22Oid%22%3a%22143ee9d3-21a4-4da7-a1e8-2472c358110e
+ %22%7d&#13\;\n&#13\;\nOr call in (audio only)&#13\;\n&#13\;\n+1 872-240-
+ 8681\,\,882162595# United States\, Chicago&#13\;\n&#13\;\nPhone Conferen
+ ce ID: 882 162 595#&#13\;\n&#13\;\nThanks to Capital One Café for provid
+ ing a physical location!&#13\;\n&#13\;\nDiscord https://discord.gg/nSCxg
+ bcG7U&#13\;\n&#13\;\nShare\n\nTags: meetup:event=Mentorship-Saturdays\n\
+ nImported from: http://calagator.org/events/1250482292
+URL:https://www.meetup.com/mentorship-saturdays
+SUMMARY:Mentorship Saturdays @ Roseline Cafe & Online
+LOCATION:Roseline Cafe: false
+SEQUENCE:2
+END:VEVENT
+END:VCALENDAR

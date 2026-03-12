@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:PDX Silent Book Club
+X-WR-CALNAME:PDX Silent Book Club
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313737378@meetup.com
+SEQUENCE:1
+DTSTAMP:20260312T153029Z
+DTSTART;TZID=America/Los_Angeles:20260316T180000
+DTEND;TZID=America/Los_Angeles:20260316T210000
+SUMMARY:Momo’s
+DESCRIPTION:PDX Silent Book Club\nCome anytime\, bring any book book you're reading :).\nNo pressure to socialize\, you can just dive into your book if you want.\nThe first half hour we'll get comfortable\, get to know each other\, order some food/ drinks.\nThen get down to reading :).\nNo pressure to read\, come and hang out!\nCan't wait to meet you!
+URL;VALUE=URI:https://www.meetup.com/silent-books-club/events/313737378/
+STATUS:CONFIRMED
+CREATED:20260311T015041Z
+LAST-MODIFIED:20260311T015041Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/d/9/e/600_520916734.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/silent-books-club/events/ical/
+X-WR-CALNAME:PDX Silent Book Club
+END:VCALENDAR

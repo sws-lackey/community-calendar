@@ -1,0 +1,471 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Portland Art Museum - ECPv6.15.13.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portland Art Museum
+X-ORIGINAL-URL:https://portlandartmuseum.org
+X-WR-CALDESC:Events for Portland Art Museum
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260306T110000
+DTEND;TZID=America/Vancouver:20260404T170000
+DTSTAMP:20260312T083017
+CREATED:20260302T165827Z
+LAST-MODIFIED:20260302T165855Z
+UID:10001393-1772794800-1775322000@portlandartmuseum.org
+SUMMARY:Artist Spotlight - Finding Figurative: The Human Form at the Rental Sales Gallery
+DESCRIPTION:Join us for the first in our new series of Artist Spotlight shows. In Finding Figurative\, we will be celebrating 12 of our artists who create works inspired by the human form. Showcased works are all part of the Gallery’s inventory\, and will be available for rental or purchase.Featuring pieces by Paula Bullwinkel\, Brian Cameron\, Jennifer Gillia Cutshall\, Richard Cutshall\, Helday de la Cruz\, Scott Erwert\, William Hernandez\, Stacy Lovejoy\, Karen Wippich\, Mitch Wolfsehr\, Haelyn Y\, and Michelle Yamamoto. Learn more at rentalssalesgallery.com. \n\n\n\nThe opening reception is on Friday\, March 6\, from 4-7pm
+URL:https://portlandartmuseum.org/event/artist-spotlight-finding-figurative-the-human-form-at-the-rental-sales-gallery/
+LOCATION:Rental Sales Gallery\, 1237 SW 10th Ave\, Portland\, 97205\, United States
+CATEGORIES:Free & discounted
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/03/RSG-FF-The-Lurking-Loss-of-Innocence-Michelle-Yamamoto.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260312T190000
+DTEND;TZID=America/Vancouver:20260312T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T173546Z
+LAST-MODIFIED:20260212T173548Z
+UID:10001366-1773342000-1773349200@portlandartmuseum.org
+SUMMARY:The Last Waltz x Johnny Franco and his Real Brother Dom
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/the-last-waltz-x-johnny-franco-and-his-real-brother-dom/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/The-Last-Waltz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260313T173000
+DTEND;TZID=America/Vancouver:20260313T190000
+DTSTAMP:20260312T083017
+CREATED:20260209T170125Z
+LAST-MODIFIED:20260227T162232Z
+UID:10001363-1773423000-1773428400@portlandartmuseum.org
+SUMMARY:MORE COLORS THAN THE EYE CAN SEE: A Conversation with Jeffrey Gibson
+DESCRIPTION:Event overview\n\n\n\nJoin us for an evening with acclaimed artist Jeffrey Gibson. Gibson’s selection to represent the United States at the 2024 Venice Biennale marked the first solo presentation of an Indigenous artist for the U.S. Pavilion. His resulting exhibition\, the space in which to place me\, was jointly presented by the Portland Art Museum and SITE Santa Fe\, and extended beyond Venice through an ambitious Education Initiative with the goal of transforming how Native American art and cultures are taught in classrooms nationwide.  \n\n\n\nThis March\, in partnership with the Smithsonian’s National Museum of the American Indian (NMAI)\, the Education Initiative launches a new suite of free\, classroom-ready resources for K-12 educators. In this conversation\, Gibson will reflect on his larger artistic practice and also share how education\, collaboration\, and responsibility to future learners shapes his thinking. \n\n\n\nTicket price includes admission to the Museum during regular hours on March 13. Free admission for Museum Members and youth 17 and under.  \n\n\n\nFree admission available to educators (current K-12 and college faculty\, teaching artists\, and teachers-in-training). Quantity is limited. First come\, first served. Please contact learning@pam.org. \n\n\n\nFind information on the Saturday Educator Symposium with Jeffrey Gibson here. \n\n\n\nJeffrey Gibson\n\n\n\nJeffrey Gibson (American\, b. 1972) is an interdisciplinary artist\, curator\, and convener celebrated for his work in painting\, installation\, video\, and performance. For over two decades\, he has examined how language\, pattern\, and music construct meaning\, synthesizing Indigenous and Western traditions through vibrant color\, complex patterning\, and layered sound. A member of the Mississippi Band of Choctaw Indians and of Cherokee descent\, Gibson represented the U.S. at the 2024 Venice Biennale with his acclaimed exhibition the space in which to place me\, which made its U.S. debut at The Broad in Los Angeles in May 2025. In June 2025 he unveiled a site-specific installation at Kunsthaus Zurich. Gibson was selected for the Metropolitan Museum’s 2025 Genesis Facade Commission. His work is held in major collections including MoMA\, the Whitney\, and the National Gallery of Art. He lives in New York’s Hudson Valley and is artist-in-residence at Bard College.  \n\n\n\nMORE COLORS THAN THE EYE CAN SEE: An Education Initiative Inspired by the Art of Jeffrey Gibson\n\n\n\nMORE COLORS THAN THE EYE CAN SEE transforms how Native American art and cultures are taught nationwide with new\, free resources for K-12 educators. Established in 2024\, the project is a key component of artist Jeffrey Gibson’s vision for the space in which to place me\, his solo exhibition for the U.S. Pavilion at the 60th Venice Biennale\, commissioned by Portland Art Museum (PAM) and SITE Santa Fe (SITE). Led by PAM and SITE\, in collaboration with Gibson and the Smithsonian’s National Museum of the American Indian (NMAI)\, a cohort of 10 educators participated in a multiyear program that generated 14 cross-disciplinary lessons\, freely available in March 2026 to educators on the Smithsonian’s National Museum of American Indian Native Knowledge 360° (NK360°) digital platform and the space in which to place me: K-12 Education Resources.
+URL:https://portlandartmuseum.org/event/more-colors-than-the-eye-can-see-a-conversation-with-jeffrey-gibson/
+LOCATION:Portland Art Museum\, Mark Building\, 1119 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Lectures & talks
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/WebRes4354.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260313T190000
+DTEND;TZID=America/Vancouver:20260313T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T174255Z
+LAST-MODIFIED:20260212T174258Z
+UID:10001367-1773428400-1773435600@portlandartmuseum.org
+SUMMARY:Six Short Films by Barbara Hammer x Lesbian Cinema Club
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/six-short-films-by-barbara-hammer-x-lesbian-cinema-club/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Barbara-Hammer.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260314T093000
+DTEND;TZID=America/Vancouver:20260314T150000
+DTSTAMP:20260312T083017
+CREATED:20260209T171229Z
+LAST-MODIFIED:20260302T162713Z
+UID:10001364-1773480600-1773500400@portlandartmuseum.org
+SUMMARY:MORE COLORS THAN THE EYE CAN SEE: Educator Symposium
+DESCRIPTION:Event overview\n\n\n\nThe Portland Art Museum is thrilled to introduce educators to new\, free resources\, inspired by the art of Jeffrey Gibson\, and designed to help you integrate contemporary Native American art into your teaching across subject areas. Join us for a day of presentations and workshops led by the artist Jeffrey Gibson\, the Smithsonian’s National Museum of the American Indian\, the Venice K-12 Educator Cohort\, and PAM Learning and Curatorial teams. Beginning March 5\, access the resources across two platforms: the Smithsonian’s Native Knowledge 360° Artist Spotlight and the space in which to place me: K-12 Education Resources.  \n\n\n\nTimeline\n\n\n\n\n9:30 – 10 a.m. Check in (Rothko Commons)\n\n\n\n10 – 10:15 a.m. Welcome and project overview of MORE COLORS THAN THE EYE CAN SEE: An Education Initiative Inspired by the Art of Jeffrey Gibson \n\n\n\n10:15 – 11 a.m. Native Knowledge 360° Artist Spotlight with Irene Kearns and Julie Macander\, the Smithsonian’s National Museum of the American Indian\n\n\n\n11 a.m. – 12:30 p.m. The Power of Color: Beadwork and Paint Workshops with Jeffrey Gibson and the Venice K-12 Educator Cohort\n\n\n\n12:30 – 1:30 p.m. Box lunch provided at PAM CUT (934 SW Salmon St. and 10th)\n\n\n\n1:30 – 2:20 & 2:30 – 3:20 p.m. Workshops and tours (Choose 2 of 4)\n\nPOWER DRESSING: Garment Design\, K–2 (Finley Studio)\n\n\n\nPOWER UP: Creating Identity Buttons\, 6–12 & Flying High: Exploring Flags & Representation\, 3–5 (Stevens Room)\n\n\n\nROOTED IN PLACE: Finding Belonging through Concrete Poetry\, 6–12 (4th floor Rothko Pavilion)\n\n\n\nNative American Art tours with PAM Curators (2nd floor Rothko Pavilion)\n\n\n\n\n\n\nAdmission is free. Registration required. PDU credits available. \n\n\n\nOnce tickets sell out\, we will maintain a waitlist. Please contact learning@pam.org to add your name. \n\n\n\nFind information on Friday evening’s conversation with Jeffrey Gibson here. \n\n\n\nJeffrey Gibson\n\n\n\nJeffrey Gibson (American\, b. 1972) is an interdisciplinary artist\, curator\, and convener celebrated for his work in painting\, installation\, video\, and performance. For over two decades\, he has examined how language\, pattern\, and music construct meaning\, synthesizing Indigenous and Western traditions through vibrant color\, complex patterning\, and layered sound. A member of the Mississippi Band of Choctaw Indians and of Cherokee descent\, Gibson represented the U.S. at the 2024 Venice Biennale with his acclaimed exhibition the space in which to place me\, which made its U.S. debut at The Broad in Los Angeles in May 2025. In June 2025 he unveiled a site-specific installation at Kunsthaus Zurich. Gibson was selected for the Metropolitan Museum’s 2025 Genesis Facade Commission. His work is held in major collections including MoMA\, the Whitney\, and the National Gallery of Art. He lives in New York’s Hudson Valley and is artist-in-residence at Bard College.  \n\n\n\nMORE COLORS THAN THE EYE CAN SEE: An Education Initiative Inspired by the Art of Jeffrey Gibson\n\n\n\nMORE COLORS THAN THE EYE CAN SEE transforms how Native American art and cultures are taught nationwide with new\, free resources for K-12 educators. Established in 2024\, the project is a key component of artist Jeffrey Gibson’s vision for the space in which to place me\, his solo exhibition for the U.S. Pavilion at the 60th Venice Biennale\, commissioned by Portland Art Museum (PAM) and SITE Santa Fe (SITE). Led by PAM and SITE\, in collaboration with Gibson and the Smithsonian’s National Museum of the American Indian (NMAI)\, a cohort of 10 educators participated in a multiyear program that generated 14 cross-disciplinary lessons\, freely available in March 2026 to educators on the Smithsonian’s National Museum of American Indian Native Knowledge 360° (NK360°) digital platform and the space in which to place me: K-12 Education Resources.
+URL:https://portlandartmuseum.org/event/more-colors-than-the-eye-can-see-educator-symposium/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Educator events
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Venice_Biennale_20241023_Cohort_US_Pavilion_092-Unprocessed-JPEG.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260314T100000
+DTEND;TZID=America/Vancouver:20260314T143000
+DTSTAMP:20260312T083017
+CREATED:20260126T160110Z
+LAST-MODIFIED:20260126T230315Z
+UID:10001345-1773482400-1773498600@portlandartmuseum.org
+SUMMARY:Level Up Your Magic the Gathering Game Play
+DESCRIPTION:Cost $65Ages 11-14\, limited to 20 participants \n\n\n\nIn this hands-on workshop for youth ages 11–14\, participants will learn to play Magic: The Gathering (MTG) while investigating the strategy\, systems\, and creative thinking of the game. Game Designer and Master of Magic Sasha Jelten will mentor hands-on matches and play-based learning\, helping participants learn core mechanics like casting spells\, summoning creatures\, managing resources\, and navigating turns while building confidence as emerging players. \n\n\n\nParticipants will also dive into deck building by analyzing cards\, testing ideas\, and refining strategies to create effective\, personalized decks. Along the way\, MTG becomes a tool for design thinking as players plan\, prototype\, playtest\, and iterate\, learning how intentional choices shape big outcomes. \n\n\n\nParticipants are welcome to bring their own MTG cards\, but no supplies are needed. With the support of our partners at The Portland Game Store and the non-profit MagiKids\, we’ll have cards and game resources for participants to use and take home.  \n\n\n\n This fun\, imaginative workshop invites young players to think like designers\, play like strategists\, and take home the cards and skills to keep their Magic: The Gathering adventures going strong.  \n\n\n\nWhy Join? Along the way\, players strengthen real-world skills woven into gameplay: strategic thinking\, collaboration\, resilience\, and sportsmanship. Friendly matches encourage communication\, empathy\, and emotional awareness as players celebrate wins\, learn from losses\, and support one another. \n\n\n\n\nregister for level up your magic the gathering\n\n\n\n\nAbout the teaching artist\n\n\n\n\n\nSasha Jelten is a Portland based board game designer and founder of Playtest PDX\, a local game design group. Sasha spends most of his time playtesting games\, hosting events\, making food\, and playing Magic the Gathering.
+URL:https://portlandartmuseum.org/event/level-up-your-magic-the-gathering-game-play/
+LOCATION:PAM CUT\, 934 SW Salmon St.\, Portland\, OR\, 97205
+CATEGORIES:Classes & camps
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/2_MAR-2026-YAU-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260314T160000
+DTEND;TZID=America/Vancouver:20260314T180000
+DTSTAMP:20260312T083017
+CREATED:20260212T175631Z
+LAST-MODIFIED:20260212T175633Z
+UID:10001368-1773504000-1773511200@portlandartmuseum.org
+SUMMARY:Once Within a Time
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/once-within-a-time/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/oncewithinatimeimage_2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260314T190000
+DTEND;TZID=America/Vancouver:20260314T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T175912Z
+LAST-MODIFIED:20260212T175914Z
+UID:10001369-1773514800-1773522000@portlandartmuseum.org
+SUMMARY:Peaches Goes Bananas
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/peaches-goes-bananas/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Peaches-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260315T120000
+DTEND;TZID=America/Vancouver:20260315T170000
+DTSTAMP:20260312T083017
+CREATED:20251208T182627Z
+LAST-MODIFIED:20260113T194241Z
+UID:10001275-1773576000-1773594000@portlandartmuseum.org
+SUMMARY:Art in ASL + Look With Me
+DESCRIPTION:Portland Art Museum celebrates the Deaf Community with Art in ASL on the 3rd Sunday of every month. Deaf Community members and their companions enjoy complimentary admission all day and are invited to participate in guided Look with Me sessions in the galleries between 12-3pm. Visitors of all ages are welcome. \n\n\n\nSome Look with Me sessions will be led in ASL and some will be led in English. All sessions will have interpretation. Look for signs in the galleries to find locations of each session. \n\n\n\nJoin us for slow looking sessions from 12-3 pm then come to the Finley Studio for artmaking and social time from 3-5 pm. \n\n\n\nLook With Me does not require special tickets. Museum tickets can be purchased online or at the box office. \n\n\n\nAccessibility:The museum galleries are wheelchair\, mobility device\, and stroller accessible. Complimentary stools\, folding chairs\, manual wheelchairs\, and assistive technology are available upon request. All museum accessibility info is available here. Please contact us with any additional access needs at access@pam.org or leave a videophone message at 503-420-3169. \n\n\n\nArt in ASL is presented in partnership with the Deaf Look Club\, a program of Bridge City Montessori.
+URL:https://portlandartmuseum.org/event/art-in-asl-look-with-me-3-15-2026/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Free & discounted,Lectures & talks,Partner events
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2025/12/feature-Look-with-Me-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260315T140000
+DTEND;TZID=America/Vancouver:20260315T160000
+DTSTAMP:20260312T083017
+CREATED:20260128T193052Z
+LAST-MODIFIED:20260303T173028Z
+UID:10001349-1773583200-1773590400@portlandartmuseum.org
+SUMMARY:Lost in Translation
+DESCRIPTION:About the film\n\n\n\nLost in Translation (2003) Directed by Sofia Coppola. 1hr 42min. \n\n\n\nVisit Tokyo through the eyes of Sofia Coppola in Lost In Translation\, no luggage required. Join PAM CUT @ The Whitsell Auditorium for The Getaway mini-series\, and take a trip without ever leaving the museum. \n\n\n\nCoquelico food & drink special\n\n\n\nMake your movie afternoon a full itinerary! Coquelico cafe\, on the ground floor of the Portland Art Museum\, is serving up exclusive\, one-day-only specials paired with every film in THE GETAWAY series. Whether you’re craving a pre-show lunch or a post-film snack\, these curated flavors are the ultimate way to travel the world through film. For Lost in Translation\, they’re offering a Tokyo Style Egg Sandwich and a Suntory Highball (alcoholic or N/A). \n\n\n\nWe do not generally provide advisories about subject matter or potentially triggering content in films\, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses\, trailers\, and other links on our website\, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media\, IMDb\, and DoesTheDogDie.com.
+URL:https://portlandartmuseum.org/event/lost-in-translation/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:PAM CUT @ The Whitsell,Screenings & experiences
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Lost-In-Translation-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260315T160000
+DTEND;TZID=America/Vancouver:20260315T180000
+DTSTAMP:20260312T083017
+CREATED:20260212T180113Z
+LAST-MODIFIED:20260212T180114Z
+UID:10001370-1773590400-1773597600@portlandartmuseum.org
+SUMMARY:Oscars Watch Party w/ Ry Bred
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/oscars-watch-party-w-ry-bred/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Academy-Awards_Tomorrow-exterior.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260319T190000
+DTEND;TZID=America/Vancouver:20260319T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T180303Z
+LAST-MODIFIED:20260212T180305Z
+UID:10001371-1773946800-1773954000@portlandartmuseum.org
+SUMMARY:Rose Colored Moon: An Evening Tribute to Elliott Smith in Film and Music
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/rose-colored-moon-an-evening-tribute-to-elliott-smith-in-film-and-music/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Elliott-Smith.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260321T100000
+DTEND;TZID=America/Vancouver:20260321T143000
+DTSTAMP:20260312T083017
+CREATED:20260126T161255Z
+LAST-MODIFIED:20260126T161351Z
+UID:10001347-1774087200-1774103400@portlandartmuseum.org
+SUMMARY:WonderLab: Pages of Us // A DIY Family Coloring Zine Workshop
+DESCRIPTION:Cost: $40 for 1 adult & 1 child\, add additional adult\, $10\, add additional child\, $5 each. Each family group must include at least one adult and one child.Ages 6+Families will meet at PAM CUT. Additional information about the program will be emailed one week prior to the program.  \n\n\n\nSaturday\, March 21\, 2026 \n\n\n\n\nMorning session: 10a.m. – 12 p.m.\, 10 spots available\n\n\n\nAfternoon session: 12:30 – 2:30 p.m.\, 10 spots available\n\n\n\n\nJoin teaching artist and zine maker extraordinaire Erika Rier for a hands-on family workshop where your fam turns everyday adventures\, from rainy days and pancake mishaps to all those little inside jokes\, into a one-of-a-kind coloring book and activity-page zine. We’ll start with playful art-making warm-ups\, then brainstorm together to choose your zine’s theme\, subject\, and delightfully quirky title. Next\, you’ll experiment with layouts\, folds\, doodles\, and interactive surprises to create pages only your family could invent. Leave with a handmade zine ready to treasure\, photocopy\, and share your family’s weird and wonderful stories. \n\n\n\nWhy Join? Families will collaborate\, experiment\, and play while exploring the creative possibilities of zine making. It’s a joyful\, hands-on way to bond\, share ideas\, and create something that’s uniquely yours\, all while learning zine-making techniques from a seasoned multimedia artist. \n\n\n\n\nregister for morning session\n\n\n\nregister for afternoon session\n\n\n\n\nAbout the teaching artist\n\n\n\n\n\nErika Rier is a self-taught interdisciplinary artist creating mostly ceramics and art zines in a style she calls folk surrealism. Writing was her first love and she still secretly writes stories. Having lived in Maine\, Vermont\, Connecticut\, NYC\, Arizona\, and Washington state; Erika now resides in Portland\, OR. She also has one of each of the following: a husband\, a daughter\, and a cat she found in a hallway.
+URL:https://portlandartmuseum.org/event/wonderlab-pages-of-us-a-diy-family-coloring-zine-workshop/
+LOCATION:PAM CUT\, 934 SW Salmon St.\, Portland\, OR\, 97205
+CATEGORIES:Classes & camps
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/1_WonderLab_MAR-2026-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260321T140000
+DTEND;TZID=America/Vancouver:20260321T163000
+DTSTAMP:20260312T083017
+CREATED:20260128T202711Z
+LAST-MODIFIED:20260303T173423Z
+UID:10001350-1774101600-1774110600@portlandartmuseum.org
+SUMMARY:Paris\, Texas
+DESCRIPTION:About the film\n\n\n\nParis\, Texas (1984) Directed by Wim Wenders. 2hr 28min. \n\n\n\nDrift through the desert with Wim Wender’s Paris\, Texas\, no luggage required. Join PAM CUT @ The Whitsell Auditorium for The Getaway mini-series\, and take a trip without ever leaving the museum. \n\n\n\nCoquelico food & drink special\n\n\n\nMake your movie afternoon a full itinerary! Coquelico cafe\, on the ground floor of the Portland Art Museum\, is serving up exclusive\, one-day-only specials paired with every film in THE GETAWAY series. Whether you’re craving a pre-show lunch or a post-film snack\, these curated flavors are the ultimate way to travel the world through film. For Paris\, Texas\, they’re offering a Fennel + Grapefruit salad w/ Piquant Dressing + Laughing Cow Fondue and a Low Brow Paloma (alcoholic or N/A). \n\n\n\nWe do not generally provide advisories about subject matter or potentially triggering content in films\, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses\, trailers\, and other links on our website\, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media\, IMDb\, and DoesTheDogDie.com.
+URL:https://portlandartmuseum.org/event/paris-texas/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:PAM CUT @ The Whitsell,Screenings & experiences
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Paris-Texas-3-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260321T150000
+DTEND;TZID=America/Vancouver:20260321T170000
+DTSTAMP:20260312T083017
+CREATED:20260212T180450Z
+LAST-MODIFIED:20260212T180452Z
+UID:10001372-1774105200-1774112400@portlandartmuseum.org
+SUMMARY:Josie and the Pussycats
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/josie-and-the-pussycats-march2026/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2025/04/A-Look-Back-At-Josie-And-The-Pussycats.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260321T190000
+DTEND;TZID=America/Vancouver:20260321T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T180717Z
+LAST-MODIFIED:20260212T180719Z
+UID:10001373-1774119600-1774126800@portlandartmuseum.org
+SUMMARY:Undertow
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/undertow/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Undertow-Still-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260322T120000
+DTEND;TZID=America/Vancouver:20260322T150000
+DTSTAMP:20260312T083017
+CREATED:20251206T052120Z
+LAST-MODIFIED:20251206T052121Z
+UID:10001270-1774180800-1774191600@portlandartmuseum.org
+SUMMARY:Look With Me
+DESCRIPTION:Your eyes\, your ideas\, one artwork at a time. Slow your pace in the galleries and join a Look With Me conversation. These 20-minute\, drop-in sessions focus on one artwork\, just enough time to notice things you might normally breeze past. Our volunteer guides invite your perspective\, spark questions\, and help the whole group see something new. \n\n\n\nSessions take place every 30 minutes from Noon to 3 p.m. Look for signs in the galleries to join.  \n\n\n\nCome for one session or stay for a few. You’ll be surprised by what you start to notice. \n\n\n\nThird Sundays: Look With Me + Art in ASLOnce a month\, some sessions are led in American Sign Language (ASL) and others in English. Every session includes ASL/English interpretation.
+URL:https://portlandartmuseum.org/event/look-with-me-3-22-2026/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Lectures & talks
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2025/12/feature-Look-with-Me-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260322T140000
+DTEND;TZID=America/Vancouver:20260322T153000
+DTSTAMP:20260312T083017
+CREATED:20260128T203225Z
+LAST-MODIFIED:20260303T173638Z
+UID:10001351-1774188000-1774193400@portlandartmuseum.org
+SUMMARY:Taste of Cherry
+DESCRIPTION:About the film\n\n\n\nTaste of Cherry (1997) Directed by Abbas Kiarostami. 1hr 35min. \n\n\n\nTake a serene yet grim road trip through the hills of Tehran in Abbas Kiarostami’s Taste of Cherry\, no luggage required. Join PAM CUT @ The Whitsell Auditorium for The Getaway mini-series\, and take a trip without ever leaving the museum. \n\n\n\nCoquelico food & drink special\n\n\n\nMake your movie afternoon a full itinerary! Coquelico cafe\, on the ground floor of the Portland Art Museum\, is serving up exclusive\, one-day-only specials paired with every film in THE GETAWAY series. Whether you’re craving a pre-show lunch or a post-film snack\, these curated flavors are the ultimate way to travel the world through film. For Taste of Cherry\, they’re offering a Kuku Sabzi and a Tart Cherry Spritz (alcoholic or N/A). \n\n\n\nWe do not generally provide advisories about subject matter or potentially triggering content in films\, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses\, trailers\, and other links on our website\, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media\, IMDb\, and DoesTheDogDie.com.
+URL:https://portlandartmuseum.org/event/taste-of-cherry/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:PAM CUT @ The Whitsell,Screenings & experiences
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Taste-of-Cherry.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260322T160000
+DTEND;TZID=America/Vancouver:20260322T180000
+DTSTAMP:20260312T083017
+CREATED:20260212T180850Z
+LAST-MODIFIED:20260212T180852Z
+UID:10001374-1774195200-1774202400@portlandartmuseum.org
+SUMMARY:Almost Famous Crafternoon w/ Ritual Dyes
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/almost-famous-crafternoon-w-ritual-dyes/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2024/08/Almost-Famous_still.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260322T190000
+DTEND;TZID=America/Vancouver:20260322T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T181022Z
+LAST-MODIFIED:20260212T181023Z
+UID:10001375-1774206000-1774213200@portlandartmuseum.org
+SUMMARY:Stop Making Sense
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/stop-making-sense-march2026/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/png:https://portlandartmuseum.org/wp-content/uploads/2023/10/Stop-Making-Sense_Tomorrow.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260323T130000
+DTEND;TZID=America/Vancouver:20260324T170000
+DTSTAMP:20260312T083017
+CREATED:20260126T160529Z
+LAST-MODIFIED:20260126T191729Z
+UID:10001346-1774270800-1774371600@portlandartmuseum.org
+SUMMARY:Hockney + High-tech // Procreate Drawing\, Animation\, & AR Storytelling
+DESCRIPTION:Cost $225.00 before February 21\, after that\, $250 Ages 11-14\, limited to 16 participants \n\n\n\nStep outside the frame in this two-day digital art and augmented reality (AR) workshop inspired by the exhibition David Hockney: Works from the Collections of Jordan D. Schnitzer and His Family Foundation. Guided by Teaching Artist and Digital Illustrator Fry and Creative Technologist Sonya Neunzert\, participants will explore Hockney’s work\, using the digital drawing app Procreate\, custom  AR code\, and iPads to create drawings and animations that bring both the artworks and their creativity to life. \n\n\n\nDay One: We’ll start with a behind-the-scenes look at David Hockney: Works from the Collections of Jordan D. Schnitzer and His Family Foundation\, investigating the range of Hockney’s analog and digital work. Participants will choose an artwork that sparks their curiosity and begin sketching\, animating\, and layering their creations onto it. \n\n\n\nDay Two: Youth will activate their work using AR\, discovering how technology can expand storytelling\, remix more traditional art\, and shape the future of creative expression. \n\n\n\nWhy join? By the end of the workshop\, participants will learn to use the drawing app Procreate and create a unique AR artwork. The team at PAM CUT will share QR codes linking each creation to artworks in the exhibition\, giving family and friends a chance to explore this playful intersection of art\, technology\, and imagination. \n\n\n\n\nregister for hockney + High-tech\n\n\n\n\nAbout the teaching artists\n\n\n\n\n\nFry (she/they) is a graphic recorder\, illustrator\, and educator who believes images are a powerful tool for creating positive change. Her interest in visual work is founded in an appreciation for deeper levels of listening\, cultivating new mindsets\, and allowing space for people to be creative. She is currently based in Portland\, Oregon. Fry’s work as an artist extends into the culture of zine making and she has received two grants from the Regional Arts and Culture Council to produce publications focused on mental health awareness. She is also passionate about public art and can frequently be found at parks sitting inside her creation Selfie Bot\, a public art installation offered to inspire joy and bring together strangers. \n\n\n\nSonya Neunzert is a freelance 3D animator\, AR/VR artist\, and creative technologist. She’s a visualization builder\, storyteller\, filetype wrangler\, prototyper\, and all-around problem-solver. Sonya is an artist with the mindset of an engineer\, and excels at making educational and communicative materials. She loves collaborating with teams across fields and disciplines.
+URL:https://portlandartmuseum.org/event/hockney-high-tech-procreate-drawing-animation-ar-storytelling/
+LOCATION:PAM CUT\, 934 SW Salmon St.\, Portland\, OR\, 97205
+CATEGORIES:Classes & camps
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Hotel-Acatlan.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260325T190000
+DTEND;TZID=America/Vancouver:20260325T210000
+DTSTAMP:20260312T083017
+CREATED:20260303T181423Z
+LAST-MODIFIED:20260303T181424Z
+UID:10001400-1774465200-1774472400@portlandartmuseum.org
+SUMMARY:Idiotka
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/idiotka/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/03/Idiotka.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260326T190000
+DTEND;TZID=America/Vancouver:20260326T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T181149Z
+LAST-MODIFIED:20260212T181150Z
+UID:10001376-1774551600-1774558800@portlandartmuseum.org
+SUMMARY:Party Girl x Colibri + Frances May
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/party-girl-x-colibri-frances-may/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2024/04/Party-Girl_still.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260327T190000
+DTEND;TZID=America/Vancouver:20260327T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T181437Z
+LAST-MODIFIED:20260212T181439Z
+UID:10001377-1774638000-1774645200@portlandartmuseum.org
+SUMMARY:Wigstock: The Movie – Movie Bingo w/ Violet Hex
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/wigstock-the-movie-movie-bingo-w-violet-hex/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Wigstock.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260328T033000
+DTEND;TZID=America/Vancouver:20260328T173000
+DTSTAMP:20260312T083017
+CREATED:20260212T181619Z
+LAST-MODIFIED:20260212T181621Z
+UID:10001378-1774668600-1774719000@portlandartmuseum.org
+SUMMARY:Selena
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/selena/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Selena.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260328T140000
+DTEND;TZID=America/Vancouver:20260328T153000
+DTSTAMP:20260312T083017
+CREATED:20260128T203614Z
+LAST-MODIFIED:20260303T173732Z
+UID:10001352-1774706400-1774711800@portlandartmuseum.org
+SUMMARY:Faces Places
+DESCRIPTION:About the film\n\n\n\nFaces Places (2017) Directed by Agnès Varda. 1hr 34min \n\n\n\nTag along with street artist JR and French New Wave filmmaker Agnès Varda as they meet locals\, connect through art\, and travel through rural France\, no luggage required. Join PAM CUT @ The Whitsell Auditorium for The Getaway mini-series\, and take a trip without ever leaving the museum. \n\n\n\nCoquelico food & drink special\n\n\n\nMake your movie afternoon a full itinerary! Coquelico cafe\, on the ground floor of the Portland Art Museum\, is serving up exclusive\, one-day-only specials paired with every film in THE GETAWAY series. Whether you’re craving a pre-show lunch or a post-film snack\, these curated flavors are the ultimate way to travel the world through film. For Faces Places\, they’re offering a Pique-nique Plate—Saucisson Sec\, Baguette\, Goat Cheese\, Radish + Salted Butter and Chocolate Eclairs—and a Chamomile French 75 (alcoholic or N/A). \n\n\n\nWe do not generally provide advisories about subject matter or potentially triggering content in films\, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses\, trailers\, and other links on our website\, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media\, IMDb\, and DoesTheDogDie.com.
+URL:https://portlandartmuseum.org/event/faces-places/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:PAM CUT @ The Whitsell,Screenings & experiences
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Faces-Places-3-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260328T190000
+DTEND;TZID=America/Vancouver:20260328T210000
+DTSTAMP:20260312T083017
+CREATED:20260212T181914Z
+LAST-MODIFIED:20260212T181916Z
+UID:10001379-1774724400-1774731600@portlandartmuseum.org
+SUMMARY:Altered Evening: The Pander Brothers’ indie thriller ALTERED EGO & Cross-Media Works
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/altered-evening/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Altered-Ego.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260329T120000
+DTEND;TZID=America/Vancouver:20260329T150000
+DTSTAMP:20260312T083017
+CREATED:20251206T052148Z
+LAST-MODIFIED:20251206T052148Z
+UID:10001271-1774785600-1774796400@portlandartmuseum.org
+SUMMARY:Look With Me
+DESCRIPTION:Your eyes\, your ideas\, one artwork at a time. Slow your pace in the galleries and join a Look With Me conversation. These 20-minute\, drop-in sessions focus on one artwork\, just enough time to notice things you might normally breeze past. Our volunteer guides invite your perspective\, spark questions\, and help the whole group see something new. \n\n\n\nSessions take place every 30 minutes from Noon to 3 p.m. Look for signs in the galleries to join.  \n\n\n\nCome for one session or stay for a few. You’ll be surprised by what you start to notice. \n\n\n\nThird Sundays: Look With Me + Art in ASLOnce a month\, some sessions are led in American Sign Language (ASL) and others in English. Every session includes ASL/English interpretation.
+URL:https://portlandartmuseum.org/event/look-with-me-3-29-2026/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Lectures & talks
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2025/12/feature-Look-with-Me-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260329T140000
+DTEND;TZID=America/Vancouver:20260329T160000
+DTSTAMP:20260312T083017
+CREATED:20260128T205822Z
+LAST-MODIFIED:20260303T173818Z
+UID:10001353-1774792800-1774800000@portlandartmuseum.org
+SUMMARY:Happy Together
+DESCRIPTION:About the film\n\n\n\nHappy Together (1997) Directed by Wong Kar-wai. \n\n\n\nVisit Buenos Aires by way of Hong Kong in Wong Kar-wai’s queer travel story Happy Together\, no luggage required. Join PAM CUT @ The Whitsell Auditorium for The Getaway mini-series\, and take a trip without ever leaving the museum. \n\n\n\nCoquelico food & drink special\n\n\n\nMake your movie afternoon a full itinerary! Coquelico cafe\, on the ground floor of the Portland Art Museum\, is serving up exclusive\, one-day-only specials paired with every film in THE GETAWAY series. Whether you’re craving a pre-show lunch or a post-film snack\, these curated flavors are the ultimate way to travel the world through film. For Happy Together\, they’re offering a Choripan and a Buenos Aires Old Fashioned (alcoholic or N/A). \n\n\n\nWe do not generally provide advisories about subject matter or potentially triggering content in films\, and films exhibited don’t necessarily reflect the views of PAM CUT or the Portland Art Museum. In addition to the synopses\, trailers\, and other links on our website\, further information about content and age-appropriateness for specific films can be found on sites like Common Sense Media\, IMDb\, and DoesTheDogDie.com.
+URL:https://portlandartmuseum.org/event/happy-together/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:PAM CUT @ The Whitsell,Screenings & experiences
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/01/Happy-Together2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260329T160000
+DTEND;TZID=America/Vancouver:20260329T180000
+DTSTAMP:20260312T083017
+CREATED:20260212T182223Z
+LAST-MODIFIED:20260212T182224Z
+UID:10001380-1774800000-1774807200@portlandartmuseum.org
+SUMMARY:The Fly x Brain Dead
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/the-fly-x-brain-dead/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/The-Fly-Jeff-Goldblum-feature.jpg
+END:VEVENT
+END:VCALENDAR
