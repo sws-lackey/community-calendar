@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T02:37:45.778548",
+  "generated": "2026-03-13T15:51:50.672992",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -43095,6 +43095,153 @@
           }
         ]
       }
+    },
+    "publisher-resources": {
+      "feeds": {
+        "inn": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 6
+            }
+          ]
+        },
+        "nahj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "nicar_2026": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "nlgja": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 3
+            }
+          ]
+        },
+        "poynter": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 3
+            }
+          ]
+        },
+        "sej": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 10
+            }
+          ]
+        },
+        "spj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 19
+            }
+          ]
+        }
+      },
+      "categories": [
+        {
+          "category": "Education / Workshops",
+          "count": 19
+        },
+        {
+          "category": "Community / Social",
+          "count": 17
+        },
+        {
+          "category": "Books / Literature / Poetry",
+          "count": 1
+        },
+        {
+          "category": "Film / Cinema",
+          "count": 1
+        },
+        {
+          "category": "History / Heritage",
+          "count": 1
+        },
+        {
+          "category": "Government / Civic",
+          "count": 1
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 1
+        }
+      ],
+      "images": {
+        "total": 41,
+        "with_image": 9,
+        "by_source": [
+          {
+            "source": "Institute for Nonprofit News",
+            "total": 6,
+            "with_image": 6
+          },
+          {
+            "source": "Poynter Institute",
+            "total": 3,
+            "with_image": 3
+          }
+        ]
+      },
+      "url_quality": {
+        "total_with_url": 41,
+        "total_events": 41,
+        "unique_urls": 41,
+        "generic_count": 0,
+        "generic_domains": [],
+        "http_count": 19,
+        "http_domains": 8,
+        "source_specificity": [
+          {
+            "source": "Society of Professional Journalists",
+            "events": 19,
+            "unique_urls": 19,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Society of Environmental Journalists",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Institute for Nonprofit News",
+            "events": 6,
+            "unique_urls": 6,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Poynter Institute",
+            "events": 3,
+            "unique_urls": 3,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Assoc. of LGBTQ+ Journalists",
+            "events": 3,
+            "unique_urls": 3,
+            "specificity_pct": 100
+          }
+        ]
+      }
     }
   },
   "anomalies": [
@@ -44126,148 +44273,8 @@
   "errors": [
     {
       "date": "2026-03-13",
-      "line": "requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://lagunitas.com/taproom/petaluma/",
+      "line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json",
       "source": "models"
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:53,817 - WARNING - Failed to fetch https://buskirkchumley.org/events/eagles-tribute-take-it-to-the-limit-march-20-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/eagles-tribute-take-it-to-the-limit-march-20-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:54,656 - WARNING - Failed to fetch https://buskirkchumley.org/events/2026-women-s-history-month-luncheon-march-25-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/2026-women-s-history-month-luncheon-march-25-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:55,501 - WARNING - Failed to fetch https://buskirkchumley.org/events/banff-film-festival-world-tour-2-day-pass-march-27-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/banff-film-festival-world-tour-2-day-pass-march-27-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:56,345 - WARNING - Failed to fetch https://buskirkchumley.org/events/banff-centre-mountain-film-festival-world-tour-march-27-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/banff-centre-mountain-film-festival-world-tour-march-27-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:57,181 - WARNING - Failed to fetch https://buskirkchumley.org/events/banff-centre-mountain-film-festival-world-tour-march-28-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/banff-centre-mountain-film-festival-world-tour-march-28-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:58,017 - WARNING - Failed to fetch https://buskirkchumley.org/events/2026-state-of-the-city-march-31-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/2026-state-of-the-city-march-31-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:59,032 - WARNING - Failed to fetch https://buskirkchumley.org/events/conclave-2024-april-2-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/conclave-2024-april-2-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:50:59,977 - WARNING - Failed to fetch https://buskirkchumley.org/events/ladies-first-spring-show-april-3-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/ladies-first-spring-show-april-3-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:00,822 - WARNING - Failed to fetch https://buskirkchumley.org/events/one-tight-ten-after-another-scholars-on-comedy-politics-and-free-speech-april-8-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/one-tight-ten-after-another-scholars-on-comedy-politics-and-free-speech-april-8-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:01,664 - WARNING - Failed to fetch https://buskirkchumley.org/events/stavros-halkias-the-dreamboat-tour-april-9-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/stavros-halkias-the-dreamboat-tour-april-9-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:02,506 - WARNING - Failed to fetch https://buskirkchumley.org/events/another-round-30th-anniversary-spring-concert-april-10-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/another-round-30th-anniversary-spring-concert-april-10-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:03,450 - WARNING - Failed to fetch https://buskirkchumley.org/events/asianfest-2026-april-11-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/asianfest-2026-april-11-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:04,286 - WARNING - Failed to fetch https://buskirkchumley.org/events/plato-s-closet-presents-the-trashion-refashion-runway-show-april-12-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/plato-s-closet-presents-the-trashion-refashion-runway-show-april-12-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:05,137 - WARNING - Failed to fetch https://buskirkchumley.org/events/natalie-boeyink-jazz-ensemble-april-13-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/natalie-boeyink-jazz-ensemble-april-13-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:05,980 - WARNING - Failed to fetch https://buskirkchumley.org/events/african-american-dance-company-spring-concert-april-18-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/african-american-dance-company-spring-concert-april-18-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:06,818 - WARNING - Failed to fetch https://buskirkchumley.org/events/abra-cadabra-celebrating-the-music-magic-of-abba-april-19-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/abra-cadabra-celebrating-the-music-magic-of-abba-april-19-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:07,662 - WARNING - Failed to fetch https://buskirkchumley.org/events/iu-soul-revue-spring-concert-april-25-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/iu-soul-revue-spring-concert-april-25-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:08,509 - WARNING - Failed to fetch https://buskirkchumley.org/events/beat-spring-show-april-27-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/beat-spring-show-april-27-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:09,351 - WARNING - Failed to fetch https://buskirkchumley.org/events/2026-be-more-awards-april-28-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/2026-be-more-awards-april-28-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:10,194 - WARNING - Failed to fetch https://buskirkchumley.org/events/saving-ava-april-29-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/saving-ava-april-29-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:11,031 - WARNING - Failed to fetch https://buskirkchumley.org/events/updating-april-30-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/updating-april-30-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:11,868 - WARNING - Failed to fetch https://buskirkchumley.org/events/sam-grisman-project-may-3-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/sam-grisman-project-may-3-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:12,706 - WARNING - Failed to fetch https://buskirkchumley.org/events/motionarts-spring-gala-2026-may-9-2026: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/motionarts-spring-gala-2026-may-9-2026",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:51:13,542 - WARNING - Failed to fetch https://buskirkchumley.org/events/motionarts-spring-gala-2026-may-9-2026-2: 403 Client Error: Forbidden for url: https://buskirkchumley.org/events/motionarts-spring-gala-2026-may-9-2026-2",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:54:33,023 - UUDavisScraper - ERROR - Error fetching https://calendar.google.com/calendar/ical/0p5ed7hbg4p7b4atf3lgjmgic%40group.calendar.google.com/public/basic.ics: 404 Client Error: Not Found for url: https://calendar.google.com/calendar/ical/0p5ed7hbg4p7b4atf3lgjmgic%40group.calendar.google.com/public/basic.ics",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 01:57:39,297 - UofTEventsScraper - WARNING - Trinity College: fetch error: HTTPSConnectionPool(host='www.trinity.utoronto.ca', port=443): Max retries exceeded with url: /discover/calendar/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 02:16:33,704 - ERROR - Failed to fetch https://www.taubmanmuseum.org/event/68th-annual-sidewalk-art-show-saturday-2/ after 3 attempts: 404 Client Error: Not Found for url: https://www.taubmanmuseum.org/event/68th-annual-sidewalk-art-show-saturday-2/",
-      "source": null
-    },
-    {
-      "date": "2026-03-13",
-      "line": "2026-03-13 02:16:33,704 - WARNING - Could not fetch event page https://www.taubmanmuseum.org/event/68th-annual-sidewalk-art-show-saturday-2/: 404 Client Error: Not Found for url: https://www.taubmanmuseum.org/event/68th-annual-sidewalk-art-show-saturday-2/",
-      "source": null
     }
   ]
 }

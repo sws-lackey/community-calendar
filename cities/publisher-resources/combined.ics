@@ -1,0 +1,663 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Community Calendar//Combined Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Publisher Resources Calendar
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-waterman-fund-essay-contest-emerging-writers"}
+X-SOURCE-ID:sej
+SUMMARY:Waterman Fund Essay Contest for Emerging Writers
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260315T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260315T000000
+UID:c1c9fb106b3ea880d065c648fa0fd238@sej.org
+DESCRIPTION:This annual contest is for writers who have not published a ma
+ jor work of fiction or narrative nonfiction on topics of wilderness\, wild
+ ness or the ethics and ecology of environmental issues. $3\,000 for the f
+ irst-place essay selection and $1\,000 for a runner-up. Deadline: Mar 15\,
+  2026.\n\nCategories: Awards and Grants\, Journalism & Media
+URL:https://www.sej.org/calendar/deadline-waterman-fund-essay-contest-emer
+ ging-writers
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Poynter Institute": "https://www.poynter.org/event/ai-x-journalism-day-2026/"}
+X-SOURCE-ID:poynter
+X-SOURCE:Poynter Institute
+DTSTART;TZID=America/Chicago:20260316T093000
+DTEND;TZID=America/Chicago:20260316T173000
+DTSTAMP:20260313T091441
+CREATED:20260225T165916Z
+LAST-MODIFIED:20260310T150550Z
+UID:1190562-1773653400-1773682200@www.poynter.org
+SUMMARY:AI x Journalism Day 2026
+DESCRIPTION:Hosted by Hacks/Hackers in partnership with Poynter DATES:   March 16\, 2026  EVENT TYPE:  In-person   About the event Hacks/Hackers\, in partnership with Poynter\, will come together for AI x Journalism Day 2026 during South by Southwest in Austin\, Texas.  The gathering will examine how artificial intelligence is reshaping the creation and distribution of news and information. Programming will explore how public media is using AI\, ways to leverage AI for community moderation and accountability for the platforms themselves.  Alex Mahadevan\, MediaWise director and Poynter faculty\, will join Claire Dannenbaum of Pew Research Center for a panel on building generative AI strategies audiences trust.  The event will feature in-depth discussions and networking opportunities\, concluding with a happy hour. Additional programming details will be announced soon.  Please note that space is limited and attendance is subject to host approval. Participants will be admitted on a first-come\, first-served basis based on registration.  Request to join   About Hacks/Hackers  Hacks/Hackers is an independent 501(c)(3) non-profit originally founded in 2009 as a meetup for journalists and technologists to improve the quality of the information ecosystem. We are committed to advancing media innovation and safeguarding information integrity by convening events that bring together people from diverse backgrounds\, sparking and incubating innovative media projects and scaling media solutions.  The Poynter Foundation is a non-profit 501(c)3. The EIN for the organization is 99-0731998.
+URL:https://www.poynter.org/event/ai-x-journalism-day-2026/
+LOCATION:South by Southwest\, Austin\, United States
+ATTACH;FMTTYPE=image/png:https://www.poynter.org/wp-content/uploads/2026/02/ai_skyline_crop_more.png
+ORGANIZER;CN="The Poynter Institute":MAILTO:marketing@poynter.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-travel-grants-first-international-conference-just-transition-away-fossil-fuels"}
+X-SOURCE-ID:sej
+SUMMARY:Travel grants to the first International Conference for the Just T
+ ransition Away from Fossil Fuels
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260317T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260317T000000
+UID:c4ac4f303e6ef7b46d2bf0b062d9313e@sej.org
+DESCRIPTION:Apply now for a grant to travel to Colombia and become part of
+  Clean Energy Wire’s cross-border newsroom reporting on the first Intern
+ ational Conference for the Just Transition Away from Fossil Fuels. The sum
+ mit in Colombia in April 2026 will bring together governments and key stak
+ eholders from business and civil society to map pathways to accelerate a j
+ ust transition away from oil\, coal and gas. Applications from journalists
+  will be accepted until 17 March 2026\, 23:59 CET.\n\nCategories: National
+  (U.S.)\, International\, Professional Meetings\, Energy & Fuel
+URL:https://www.sej.org/calendar/deadline-travel-grants-first-internationa
+ l-conference-just-transition-away-fossil-fuels
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/news-startup-sessions-inn-tiny-news-collective-2/2026-03-17/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;TZID=America/New_York:20260317T150000
+DTEND;TZID=America/New_York:20260317T160000
+DTSTAMP:20260313T115143
+CREATED:20251014T194807Z
+LAST-MODIFIED:20251211T214028Z
+UID:10004834-1773759600-1773763200@inn.org
+SUMMARY:News Startup Sessions with INN and Tiny News Collective
+DESCRIPTION:Join the Institute for Nonprofit News (INN) and Tiny News Collective for News Startup Sessions. The small group sessions will take place with INN’s Courtney Lewis\, TNC’s membership director Elaine Díaz Rodríguez\, and a few other leaders looking to launch a news operation. \nIn these sessions\, you’ll: \n\nGain insight into key elements for success\nGet answers to your pressing questions\nDiscover resources to support your journey\n\nGet a head start with INN’s Startup Guide — packed with early tips and resources for planning\, launching\, and running a nonprofit news organization. See you soon.
+URL:https://inn.org/event/news-startup-sessions-inn-tiny-news-collective-2/2026-03-17/
+CATEGORIES:Services
+ATTACH;FMTTYPE=image/png:https://inn.org/wp-content/uploads/2025/06/300-x-250-_-CTA-with-TNC-6.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://calendar.spjnetwork.org/displayevent.php?e=9EkwgN4zTa-8228911091"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23230Z
+UID:9EkwgN4zTa-8228911091@spjnetwork.org
+DTSTART;TZID=America/New_York:20260317T180000
+DTEND;TZID=America/New_York:20260317T191500
+SUMMARY:SPJ Freelance Community Board Meeting
+URL:http://calendar.spjnetwork.org/displayevent.php?e=9EkwgN4zTa-8228911091
+DESCRIPTION:SPJ members are welcome to attend. Email spjfreelancecommunity@gmail.com to request a login.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/dc-environmental-film-festival"}
+X-SOURCE-ID:sej
+SUMMARY:DC Environmental Film Festival
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260319T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260328T000000
+UID:a90d39a002392c2104aa0cadda72df8a@sej.org
+DESCRIPTION:The Environmental Film Festival in the Nation’s Capital (DCE
+ FF) annually showcases environmentally themed films. DCEFF is happy to ha
+ ve locally-based reporters attend screenings\, but remote journalists can 
+ reach out with interview requests for attending guests and filmmakers. Sub
+ mit a film by Dec 1\; cash prizes.\n\nCategories: Mid-Atlantic (DC DE MD P
+ A VA WV)\, Other Events\, Journalism & Media
+URL:https://www.sej.org/calendar/dc-environmental-film-festival
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.eventbrite.com/e/2026-career-day-at-the-national-press-club-tickets-1982993687500?aff=oddtdtcreator"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23231Z
+UID:57642qjlAH-8228743264@spjnetwork.org
+DTSTART;TZID=America/New_York:20260320
+DTEND;TZID=America/New_York:20260320
+SUMMARY:2026 Career Day at the National Press Club
+URL:http://www.eventbrite.com/e/2026-career-day-at-the-national-press-club-tickets-1982993687500?aff=oddtdtcreator
+DESCRIPTION:Tickets are on sale for Career Day at the National Press Club\, a high-impact event designed for journalists and communicators navigating one of the most challenging job markets our industry has seen in years. 
+
+This year’s programming includes specialized training on staying strategic and motivated after job loss -- plus practical\, hands-on workshops to help you compete in today’s market. Along with visiting news recruiters who are hiring\, you’ll refresh your résumé\, design or elevate your portfolio website\, sharpen your professional pitch\, and connect directly with peers and mentors who can help you get to your next step.
+
+Whether you attend for the full program or drop in for a focused session\, you’ll leave with tangible skills\, actionable next steps\, and something just as important: renewed momentum and community during a time of uncertainty.
+LOCATION:National Press Building\, Washington\, DC\, USA
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://us02web.zoom.us/meeting/register/PQXGVbvqRiynOlzvPQcq1Q"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23232Z
+UID:JFh5Y46e7D-8237188295@spjnetwork.org
+DTSTART;TZID=America/New_York:20260320T160000
+DTEND;TZID=America/New_York:20260320T170000
+SUMMARY:SPJ Board of Directors Meeting
+URL:http://us02web.zoom.us/meeting/register/PQXGVbvqRiynOlzvPQcq1Q
+DESCRIPTION:You are invited to the SPJ Board of Directors Zoom meeting.
+When: Mar 20\, 2026 04:00 PM Indiana (East)
+
+Register in advance for this meeting:
+https://us02web.zoom.us/meeting/register/PQXGVbvqRiynOlzvPQcq1Q
+
+After registering\, you will receive a confirmation email containing information about joining the meeting.
+
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-2026-islamic-scholarship-fund"}
+X-SOURCE-ID:sej
+SUMMARY:2026 Islamic Scholarship Fund
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260321T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260321T000000
+UID:edf628ac7f4d058e101932b6e05f7c52@sej.org
+DESCRIPTION:This opportunity supports students in an\nIslamic Scholarship 
+ Fund-supported field\nwho will be pursuing their studies as full-time stud
+ ents during the 2026–2027 academic year. The scholarship mobilizes finan
+ cial resources for students who demonstrate strong leadership potential\, 
+ excellent communication skills\, alignment with ISF’s mission and vision
+  and a commitment to impacting public opinion.\nDeadline: Mar 21\, 2026.\n
+ \nCategories: National (U.S.)\, Awards and Grants\, Other or All
+URL:https://www.sej.org/calendar/deadline-2026-islamic-scholarship-fund
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/ethics-in-journalism-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23233Z
+UID:YLkKDWBOfX-8232017021@spjnetwork.org
+DTSTART;TZID=America/New_York:20260323
+DTEND;TZID=America/New_York:20260323
+SUMMARY:Nomination deadline: Ethics in Journalism Award
+URL:http://www.spj.org/ethics-in-journalism-award/
+DESCRIPTION:The Ethics in Journalism Award honors journalists or news organizations that perform in an outstanding ethical manner demonstrating the ideals of the SPJ Code of Ethics. It also honors especially notable efforts to educate the public on principles embodied in the code or hold journalists ethically accountable for their behavior. The Society may present one Ethics in Journalism Award in any given year unless there are no worthy candidates. Nominations are open. Self-nomination is permitted.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Poynter Institute": "https://www.poynter.org/event/truth-on-the-line-journalisms-role-in-protecting-democracy/"}
+X-SOURCE-ID:poynter
+X-SOURCE:Poynter Institute
+DTSTART;TZID=America/New_York:20260324T180000
+DTEND;TZID=America/New_York:20260324T200000
+DTSTAMP:20260313T091441
+CREATED:20260213T192122Z
+LAST-MODIFIED:20260302T211830Z
+UID:1189352-1774375200-1774382400@www.poynter.org
+SUMMARY:Truth on the Line: Journalism’s Role in Protecting Democracy
+DESCRIPTION:The pressure on journalism has never been greater. Sustained attacks\, intimidation\, lawsuits\, business pressures and defunding efforts threaten the ability of news organizations to do their essential work\, from our local communities to the national scene. Yet access to accurate\, verified information is fundamental to a healthy democracy\, no matter your beliefs.  Join Poynter in Sarasota for an evening of insight\, discussion and accountability. The event will begin with a 30-minute reception to connect with peers\, followed by a 60-minute panel featuring leading voices in news\, fact-checking\, AI and media innovation.  This is a must-see event for anyone committed to the future of a free press\, ethical reporting and the public’s access to truth.  6:00 – 6:30 p.m. | Reception  6:30 – 7:30 p.m. | Panel Discussion (Scroll down for panelist bios)  7:30 – 8:00 p.m. | Closing & Networking  GET TICKETS   Questions? Please email marketing@poynter.org.  The Poynter Foundation is a nonpartisan 501(c)(3) nonprofit organization working to improve journalism in service to democracy. Proceeds from this fundraising event will power Poynter’s efforts to stoke civil connection and thoughtful expression between journalists and the communities they serve.  The EIN for the organization is 99-0731998.
+URL:https://www.poynter.org/event/truth-on-the-line-journalisms-role-in-protecting-democracy/
+LOCATION:Selby Public Library\, 1331 First Street\, Sarasota\, FL\, 34236\, United States
+CATEGORIES:In-person Event
+ATTACH;FMTTYPE=image/png:https://www.poynter.org/wp-content/uploads/2026/02/3.Collage.png
+ORGANIZER;CN="The Poynter Institute":MAILTO:marketing@poynter.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-al-neuharth-free-spirit-and-journalism-conference-high-school-juniors"}
+X-SOURCE-ID:sej
+SUMMARY:Al Neuharth Free Spirit and Journalism Conference for High School 
+ Juniors
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260325T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260325T000000
+UID:b6f5004c862820aaad80545314dbe119@sej.org
+DESCRIPTION:High school juniors with an interest in journalism can apply t
+ o attend Freedom Forum's annual event\, all expenses paid plus a $1\,000 s
+ cholarship to the college of their choice. The 2026 conference takes place
+  Jun 21-26 in Washington\, DC. Apply by Mar 25.\n\nCategories: National (U
+ .S.)\, Mid-Atlantic (DC DE MD PA VA WV)\, Workshops and Fellowships\, Jour
+ nalism & Media
+URL:https://www.sej.org/calendar/deadline-al-neuharth-free-spirit-and-jour
+ nalism-conference-high-school-juniors
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/science-talk"}
+X-SOURCE-ID:sej
+SUMMARY:Science Talk ’26
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260326T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260327T000000
+UID:dc0fab47ab951f67b3fcf91731027768@sej.org
+DESCRIPTION:The Association of Science Communicators' SCIENCE TALK ’26 w
+ ill be a hybrid conference\, with in-person events in Portland\, Oregon\,
+  and real-time\, online participation for speakers and attendees also avai
+ lable.\n\nCategories: Northwest (OR WA)\, Professional Meetings\, Journali
+ sm & Media\, Science
+URL:https://www.sej.org/calendar/science-talk
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/skillsfest"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23234Z
+UID:zQtJ2ca8vV-8227427964@spjnetwork.org
+DTSTART;TZID=America/New_York:20260326
+DTEND;TZID=America/New_York:20260327
+SUMMARY:SkillsFest26
+URL:http://www.spj.org/skillsfest
+DESCRIPTION:SkillsFest26 is a free two-day virtual program featuring hours of hands-on journalism training each day in collaboration with leading journalism organizations. Registration is free and open to all! 
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-kovler-prize-trust-life-science-journalism"}
+X-SOURCE-ID:sej
+SUMMARY:Kovler Prize for Trust in Life Science Journalism
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260327T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260327T000000
+UID:a77d7931823171797d33a1c320179826@sej.org
+DESCRIPTION:This award recognizes reporters who make complex science-relat
+ ed topics digestible for the public. This work is crucial in building trus
+ t to support informed healthcare decision-making. Journalists who work in
+  print\, video\, digital\, or broadcast media are eligible. Entries will 
+ be accepted through March 27 at 5 p.m. ET.\n\nCategories: National (U.S.)
+ \, Awards and Grants\, Environmental Health\, Health\, Journalism & Media\
+ , Science
+URL:https://www.sej.org/calendar/deadline-kovler-prize-trust-life-science-
+ journalism
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-evome-institute-science-journalism-fellowship"}
+X-SOURCE-ID:sej
+SUMMARY:EVOME Institute Science Journalism Fellowship
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260327T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260327T000000
+UID:3560a3dadc7dba505f62c5349d4ec2e3@sej.org
+DESCRIPTION:The Woodwell Climate Research Center's EVOME Institute is now 
+ accepting applications for science journalism fellows. The National Scien
+ ce Foundation-supported Evolving Meta-Ecosystems Institute (EVOME) will pr
+ ovide fellowships for six science journalists to participate in a two-week
+  immersion in interdisciplinary evolutionary and global change biology bei
+ ng conducted at the University of Alaska’s Toolik Field Station in north
+ ern Alaska. Fellowships will cover transportation costs to and from the To
+ olik Field Station through Fairbanks\, AK\, plus room and board. Deadline:
+  Mar. 27\, 2026.\n\nCategories: National (U.S.)\, Workshops and Fellowship
+ s\, Biodiversity\, Climate Change\, Environmental Studies\, Other or All\,
+  Science
+URL:https://www.sej.org/calendar/deadline-evome-institute-science-journali
+ sm-fellowship
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Assoc. of LGBTQ+ Journalists": "https://www.nlgja.org/event/dc-journalism-job-fair/"}
+X-SOURCE-ID:nlgja
+X-SOURCE:Assoc. of LGBTQ+ Journalists
+DTSTART;TZID=America/New_York:20260328T100000
+DTEND;TZID=America/New_York:20260328T140000
+DTSTAMP:20260313T115145
+CREATED:20260223T202227Z
+LAST-MODIFIED:20260223T202227Z
+UID:16847-1774692000-1774706400@www.nlgja.org
+SUMMARY:DC Journalism Job Fair
+DESCRIPTION:Registration is open for our annual job fair\, co-hosted with Georgetown and other journalism affinity groups. Confirmed recruiters include Axios\, Politico\, DC News Now\, Bloomberg\, NPR\, States Newsroom\, Sinclair Broadcast Group\, Fox Television Stations\, The Falls Church News Press\, Report for America\, and NBC Universal with more to come. Discounted registration for dues-paying members and free registration for people who have been laid off in the last 12 months. Reach out to DC@nlgja.org if you’ve recently been laid off for help with registration. Secure your spot today.
+URL:https://www.nlgja.org/event/dc-journalism-job-fair/
+LOCATION:Georgetown University Capitol Campus
+CATEGORIES:Chapters
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/online-news-association-conference"}
+X-SOURCE-ID:sej
+SUMMARY:Online News Association Conference
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260330T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260401T000000
+UID:02ce544a47f2fbde1fa954b28516174b@sej.org
+DESCRIPTION:The Online News Association’s annual conference brings toget
+ her creative minds to advance leadership and innovation in news. ONA26 tak
+ es place in Chicago\, Illinois\, with the theme TBA.\n\nCategories: SE (AL
+  AR FL GA KY LA MS NC PR SC TN)\, Professional Meetings\, Climate Change\,
+  Journalism & Media\, Technology
+URL:https://www.sej.org/calendar/online-news-association-conference
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/news-startup-sessions-inn-tiny-news-collective-2/2026-03-31/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;TZID=America/New_York:20260331T150000
+DTEND;TZID=America/New_York:20260331T160000
+DTSTAMP:20260313T115143
+CREATED:20251014T194807Z
+LAST-MODIFIED:20251211T214028Z
+UID:10004835-1774969200-1774972800@inn.org
+SUMMARY:News Startup Sessions with INN and Tiny News Collective
+DESCRIPTION:Join the Institute for Nonprofit News (INN) and Tiny News Collective for News Startup Sessions. The small group sessions will take place with INN’s Courtney Lewis\, TNC’s membership director Elaine Díaz Rodríguez\, and a few other leaders looking to launch a news operation. \nIn these sessions\, you’ll: \n\nGain insight into key elements for success\nGet answers to your pressing questions\nDiscover resources to support your journey\n\nGet a head start with INN’s Startup Guide — packed with early tips and resources for planning\, launching\, and running a nonprofit news organization. See you soon.
+URL:https://inn.org/event/news-startup-sessions-inn-tiny-news-collective-2/2026-03-31/
+CATEGORIES:Services
+ATTACH;FMTTYPE=image/png:https://inn.org/wp-content/uploads/2025/06/300-x-250-_-CTA-with-TNC-6.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/projourn-legal-checkup-clinic/2026-04-02/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;TZID=America/New_York:20260402T153000
+DTEND;TZID=America/New_York:20260402T163000
+DTSTAMP:20260313T115143
+CREATED:20260302T153409Z
+LAST-MODIFIED:20260302T153409Z
+UID:10004846-1775143800-1775147400@inn.org
+SUMMARY:ProJourn Legal Checkup Clinic
+DESCRIPTION:When it comes to a news organization’s legal needs\, understanding how to operate safely and sustainably from a business standpoint is just as important as knowing what challenges might arise in the reporting process. This session\, led by ProJourn\, a program of the Reporters Committee for Freedom of the Press\, will help newsroom leaders assess and prioritize their organization’s legal needs. Attorneys will guide attendees through a checklist\, developed in collaboration with ProJourn partner Davis Wright Tremaine LLP\, of key areas to consider legal risk and needs\, including: \n\nBusiness models and Governance (e.g.\, 501(c)(3)\, compliance with IRS requirements\, tax-exempt status\, incorporation\, fiscal sponsorship\, and/or hybrid entity formation\, news collaboratives and joint ventures);\nIntellectual property\, data protection\, privacy (e.g.\, copyright infringement\, website terms and conditions\, and privacy policies);\nEmployment  (e.g.\, employee handbook; independent journalist contract template);\nMedia Liability (e.g.\, media liability insurance\, defamation risks\, pre-publication review\, and access to records); and\nSafety and Security (e.g.\, protest safety and reporting\, police interaction\, digital security).\n\nParticipation in this clinic does not constitute acceptance of your matter for representation nor a promise to do so and does not create an attorney-client relationship between you and in-house counsel\, the law firm\, the Reporters Committee for Freedom of the Press or any other participating law firm and company\, their employees\, directors or officers. \nPlease note\, slots are limited and will be assigned on a first come first serve basis. If you cancel less than 48 hours before your scheduled Checkup\, your organization will be moved to the bottom of the waiting list. \n\nIf you are not yet a ProJourn client\,  please fill out our eligibility form here: https://forms.office.com/r/S3qpVvg1Mt
+URL:https://inn.org/event/projourn-legal-checkup-clinic/2026-04-02/
+ATTACH;FMTTYPE=image/jpeg:https://inn.org/wp-content/uploads/2024/06/INN-Events-Operations.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Environmental Journalists": "https://www.sej.org/calendar/deadline-eric-and-wendy-schmidt-awards-excellence-science-communications"}
+X-SOURCE-ID:sej
+SUMMARY:Eric and Wendy Schmidt Awards for Excellence in Science Communicat
+ ions
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260403T000000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260403T000000
+UID:5615aecde774ef1353a61af937833aa9@sej.org
+DESCRIPTION:This National Academies program will award $640\,000 in prizes
+  to science journalists\, communicators and scientists whose work will hel
+ p society meet the challenges and opportunities posed by climate change\, 
+ future pandemics and more. Plus training and professional development oppo
+ rtunities. April 3\, 2026 deadline.\n\nCategories: National (U.S.)\, Award
+ s and Grants\, Climate Change\, Health\, Journalism & Media\, Science
+URL:https://www.sej.org/calendar/deadline-eric-and-wendy-schmidt-awards-ex
+ cellence-science-communications
+X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/distinguished-teaching-in-journalism-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23235Z
+UID:ALyht3lULU-8232010194@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Distinguished Teaching Award
+URL:http://www.spj.org/distinguished-teaching-in-journalism-award/
+DESCRIPTION:This Distinguished Teaching in Journalism Award\, made annually\, honors a collegiate journalism educator and recognizes outstanding teaching ability\, contributions to journalism\, journalism education and contributions toward maintaining the highest standards of the profession.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/howard-s-dubin-outstanding-pro-member-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23236Z
+UID:hFk9Ha5ot8-8232010137@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Howard S. Dubin Outstanding Pro Member Award
+URL:http://www.spj.org/howard-s-dubin-outstanding-pro-member-award/
+DESCRIPTION:Annually\, the Society salutes individual members who have made significant contributions to their SPJ chapters.
+
+The Award honors Howard Dubin who has shown outstanding membership with his service to the Society. While he contributes great sums of time\, energy and money to the national Society\, Mr. Dubin continues grassroots service at the chapter level.
+
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/sunshine-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23237Z
+UID:p24pVdKE5T-8232010082@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Sunshine Award
+URL:http://www.spj.org/sunshine-award/
+DESCRIPTION:The Sunshine Award recognizes individuals and groups for making important contributions in the area of open government.
+
+The SPJ board of directors selects honorees for the Sunshine Award based on recommendations from the national SPJ Freedom of Information Committee. There is no predetermined number of honorees for selection.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/david-l-eshelman-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23238Z
+UID:R5RP24uitc-8232010210@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: David L. Eshelman Award
+URL:http://www.spj.org/david-l-eshelman-award/
+DESCRIPTION:The Outstanding Campus Chapter Adviser Award\, initiated in 1978\, is presented annually to the person who has made an exceptional contribution to the campus chapter for which he or she serves as SPJ adviser. 
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/fellow-of-the-society-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T23239Z
+UID:SGJQF3ldai-8232010177@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Fellow of the Society Award
+URL:http://www.spj.org/fellow-of-the-society-award/
+DESCRIPTION:This recognition honors journalists who have made an extraordinary contribution to the profession. Honorees must agree to attend the SPJ Conference.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/historic-sites-in-journalism/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232310Z
+UID:20PsGg5f9j-8232010158@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Historic Sites in Journalism Award
+URL:http://www.spj.org/historic-sites-in-journalism/
+DESCRIPTION:The Society’s Historic Sites in Journalism program honors the people and places that have played important roles in American journalistic history. The program dates back to 1942.
+
+The sites were originally marked with a bronze marker\, and some honorees include: World War II correspondent Ernie Pyle; Benjamin Franklin; William Randolph Hearst; The Associated Press offices in Washington and New York City; Freedom’s Journal\, the first Black newspaper published in the United States; and Supreme Court Justice Hugo Black.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/wells-memorial-key/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232311Z
+UID:YpJRGmhSc3-8232009924@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Wells Memorial Key
+URL:http://www.spj.org/wells-memorial-key/
+DESCRIPTION:Each year\, a member who is judged to have served the Society in the most outstanding fashion during the preceding year or over a period of years is presented SPJ’s highest honor for a member\, the Wells Memorial Key.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/julie-galvan-outstanding-graduate-in-journalism-award/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232312Z
+UID:0ody6uvHl2-8232010117@spjnetwork.org
+DTSTART;TZID=America/New_York:20260409
+DTEND;TZID=America/New_York:20260409
+SUMMARY:Nomination Deadline: Julie Galvan Outstanding Graduate in Journalism Award
+URL:http://www.spj.org/julie-galvan-outstanding-graduate-in-journalism-award/
+DESCRIPTION:Each of the Society’s campus chapters are encouraged to select one graduate in journalism who is outstanding in his or her class on the basis of character\, service to the community\, scholarship\, proficiency in practical journalism and significant contributions to their SPJ chapter. From this group\, the Society’s leaders will select one graduate who is considered the most outstanding for national recognition.
+
+The Award is named in memory of Julie Galvan\, a former president of the SPJ San Jose State University Campus Chapter.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://phoenixspj.org"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232313Z
+UID:y2d7X07e4J-8232091219@spjnetwork.org
+DTSTART;TZID=America/New_York:20260410
+DTEND;TZID=America/New_York:20260410
+SUMMARY:‘It's a Dry Beat: Speaking Truth in a Truthiness Age,’ SPJ 2026 Region 11 Conference
+URL:http://phoenixspj.org
+DESCRIPTION:Learn\, network and get your questions answered about challenges facing journalists in 2026 with colleagues from Arizona\, California\, Hawaii\, Nevada and the Pacific Islands at an affordable one-day conference packed with relevance! It's Friday\, April 10\, at the fabulous Flinn Foundation building in central Phoenix. We'll also present the Region 11 Mark of Excellence Awards to student journalists. Details and registration will be available starting in January at phoenixspj.org.
+LOCATION:1802 North Central Avenue\, Phoenix\, AZ\, USA
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http:// publichealth.pagesconferences.org/"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232314Z
+UID:DoVfyk1x60-8229088469@spjnetwork.org
+DTSTART;TZID=America/New_York:20260413
+DTEND;TZID=America/New_York:20260415
+SUMMARY:International Conference on Public Health and Health Care System
+URL:http:// publichealth.pagesconferences.org/
+DESCRIPTION:PAGES conferences are excited to invite you to the upcoming International Conference on Public Health and Health Care System\, scheduled to take place from April 13-15\, 2026 in the city of finance Paris\, France. 
+
+This event will bring together leading experts for keynote addresses\, dynamic panel discussions\, and engaging workshops that aim to poster collaboration and inspire innovative ideas. Topics will span a range of critical areas\, including disease prevention\, health promotion\, epidemiology\, environmental health\, and global health policy.
+
+Overall\, the  International Conference on Public Health and Health Care Research and Development promises to be an important forum for advancing our understanding of Public Health and Health Care and exploring innovative solutions to global health challenges. 
+
+We eagerly anticipate your participation in this exciting and inspiring event in Paris\, France.
+LOCATION:Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Assoc. of LGBTQ+ Journalists": "https://www.nlgja.org/event/headlines-headliners/"}
+X-SOURCE-ID:nlgja
+X-SOURCE:Assoc. of LGBTQ+ Journalists
+DTSTART;TZID=America/New_York:20260416T183000
+DTEND;TZID=America/New_York:20260416T213000
+DTSTAMP:20260313T115145
+CREATED:20260218T180601Z
+LAST-MODIFIED:20260218T182113Z
+UID:16824-1776364200-1776375000@www.nlgja.org
+SUMMARY:Headlines & Headliners
+DESCRIPTION:Each year\, this star-studded event raises tens of thousands of dollars for the organization’s programs\, including those that provide scholarships to aspiring LGBTQ+ journalists. Headlines & Headliners draws hundreds of influential journalists\, news executives\, dignitaries and allies to what has become one of New York City’s must-attend media events. \nOnline registration is now open here. \nOnsite registration will be available at the ABC News building\, 7 Hudson Square\, beginning at 6:30 p.m. \n\n\nTICKETS\n$175 for non-members\n$125 for members (Ally\, Associate\, Basic\, International\, LGBTQ\, Retired)\n$50 for Student and Early Career Members\n\n\n\n\n\n\nADDRESS\n7 Hudson Square\n145 Varick Street\nNew York\, NY 10013
+URL:https://www.nlgja.org/event/headlines-headliners/
+LOCATION:ABC News Building\, 145 Varick Street\, New York\, NY\, United States
+CATEGORIES:National
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.eventbrite.com/e/izzy-fest-2026-tickets-1982762620372?aff=oddtdtcreator&keep_tld=true"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232315Z
+UID:H2dYsh0b19-8227426454@spjnetwork.org
+DTSTART;TZID=America/New_York:20260421
+DTEND;TZID=America/New_York:20260422
+SUMMARY:Izzy Fest 2026: Press Freedom Forum
+URL:http://www.eventbrite.com/e/izzy-fest-2026-tickets-1982762620372?aff=oddtdtcreator&#38;keep_tld=true
+DESCRIPTION:Sponsored by the Park Center for Independent Media at Ithaca College with SPJ Region 1 and Project Censored. Explore the ways press freedom and independent media support democracy. 
+LOCATION:Park Center for Independent Media  at Ithaca College
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/projourn-legal-checkup-clinic/2026-04-23/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;TZID=America/New_York:20260423T130000
+DTEND;TZID=America/New_York:20260423T150000
+DTSTAMP:20260313T115143
+CREATED:20260302T153409Z
+LAST-MODIFIED:20260302T153409Z
+UID:10004847-1776949200-1776956400@inn.org
+SUMMARY:ProJourn Legal Checkup Clinic
+DESCRIPTION:When it comes to a news organization’s legal needs\, understanding how to operate safely and sustainably from a business standpoint is just as important as knowing what challenges might arise in the reporting process. This session\, led by ProJourn\, a program of the Reporters Committee for Freedom of the Press\, will help newsroom leaders assess and prioritize their organization’s legal needs. Attorneys will guide attendees through a checklist\, developed in collaboration with ProJourn partner Davis Wright Tremaine LLP\, of key areas to consider legal risk and needs\, including: \n\nBusiness models and Governance (e.g.\, 501(c)(3)\, compliance with IRS requirements\, tax-exempt status\, incorporation\, fiscal sponsorship\, and/or hybrid entity formation\, news collaboratives and joint ventures);\nIntellectual property\, data protection\, privacy (e.g.\, copyright infringement\, website terms and conditions\, and privacy policies);\nEmployment  (e.g.\, employee handbook; independent journalist contract template);\nMedia Liability (e.g.\, media liability insurance\, defamation risks\, pre-publication review\, and access to records); and\nSafety and Security (e.g.\, protest safety and reporting\, police interaction\, digital security).\n\nParticipation in this clinic does not constitute acceptance of your matter for representation nor a promise to do so and does not create an attorney-client relationship between you and in-house counsel\, the law firm\, the Reporters Committee for Freedom of the Press or any other participating law firm and company\, their employees\, directors or officers. \nPlease note\, slots are limited and will be assigned on a first come first serve basis. If you cancel less than 48 hours before your scheduled Checkup\, your organization will be moved to the bottom of the waiting list. \n\nIf you are not yet a ProJourn client\,  please fill out our eligibility form here: https://forms.office.com/r/S3qpVvg1Mt
+URL:https://inn.org/event/projourn-legal-checkup-clinic/2026-04-23/
+ATTACH;FMTTYPE=image/jpeg:https://inn.org/wp-content/uploads/2024/06/INN-Events-Operations.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://ewa.org/events/upcoming-events/2026-education-writers-association-national-seminar"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232316Z
+UID:6sHhiqfRN1-8229088514@spjnetwork.org
+DTSTART;TZID=America/New_York:20260602
+DTEND;TZID=America/New_York:20260605
+SUMMARY:79th Annual EWA National Seminar
+URL:http://ewa.org/events/upcoming-events/2026-education-writers-association-national-seminar
+DESCRIPTION:The Education Writers Association (EWA) will hold its 2026 National Seminar in Baltimore\, Maryland\, June 2-5\, 2026. Scholarships are available to journalists covering education\, whether full-time on the beat or for a particular investigation\, series or story. (We are currently offering journalists impacted by layoffs and newsroom cuts priority consideration for scholarships covering registration.)
+
+The 79th annual National Seminar will follow seismic changes to education at the federal level\, including huge staffing cuts in the U.S. Department of Education\, the loss of federal funding for research at universities and an overhaul of the student loan system. Meanwhile\, schools\, educators and students face ongoing challenges ??' from inequitable resources to declining enrollment ??' while navigating emerging trends\, such as significant growth among workforce development programs and the use of artificial intelligence. 
+
+EWA will use this unprecedented moment to help members understand how stakeholders are affected amid major shifts in federal oversight and funding while also providing training and offering solutions on how to best cover persistent education issues. Sessions focusing on journalism skills ??' from best FOIA request practices to effectively using archival material in coverage ??' will also be a key part of the conference. 
+LOCATION:401 West Pratt Street\, Baltimore\, Maryland 21201\, USA
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://us02web.zoom.us/meeting/register/Mv1mwwaDQ5O6OCsEMnRQzg"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232317Z
+UID:v5wH6IjvXx-8237188168@spjnetwork.org
+DTSTART;TZID=America/New_York:20260612T160000
+DTEND;TZID=America/New_York:20260612T170000
+SUMMARY:SPJ Board of Directors Meeting
+URL:http://us02web.zoom.us/meeting/register/Mv1mwwaDQ5O6OCsEMnRQzg
+DESCRIPTION:You are invited to the SPJ Board of Directors Zoom meeting.
+When: Jun 12\, 2026 04:00 PM Indiana (East)
+
+Register in advance for this meeting:
+https://us02web.zoom.us/meeting/register/Mv1mwwaDQ5O6OCsEMnRQzg
+
+After registering\, you will receive a confirmation email containing information about joining the meeting.
+
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/inn-days-2026/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260619
+DTSTAMP:20260313T115143
+CREATED:20260123T165431Z
+LAST-MODIFIED:20260206T171526Z
+UID:10004840-1781568000-1781827199@inn.org
+SUMMARY:INN Days 2026
+DESCRIPTION:Join the Institute for Nonprofit News in Pittsburgh from June 16-18 for INN Days 2026. \nINN Days brings together news leaders\, technologists and business strategists to identify and solve the nonprofit news field’s toughest challenges. This is an opportunity for decision-makers to dive deep and learn practical strategies for strengthening news as a public good.
+URL:https://inn.org/event/inn-days-2026/
+LOCATION:Wyndham Grand Pittsburgh Downtown\, 600 Commonwealth Pl\, Pittsburgh\, 15222\, United States
+ATTACH;FMTTYPE=image/png:https://inn.org/wp-content/uploads/2026/01/Final_INN-Days_2026_INN-Days-2026_Tagline_HORI_2-color-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/2026-nonprofit-news-awards/"}
+X-SOURCE-ID:inn
+X-SOURCE:Institute for Nonprofit News
+DTSTART;TZID=America/New_York:20260616T170000
+DTEND;TZID=America/New_York:20260616T203000
+DTSTAMP:20260313T115143
+CREATED:20260209T143527Z
+LAST-MODIFIED:20260209T143527Z
+UID:10004844-1781629200-1781641800@inn.org
+SUMMARY:2026 Nonprofit News Awards
+DESCRIPTION:Celebrate the best in nonprofit news at the 2026 Nonprofit News Awards! \nThe evening will begin Tuesday\, June 16\, at 5 p.m. with a reception featuring light hors d’oeuvres and drinks\, followed by the awards ceremony from 6 to 8:30 p.m.\, when the winners will be announced.
+URL:https://inn.org/event/2026-nonprofit-news-awards/
+ATTACH;FMTTYPE=image/png:https://inn.org/wp-content/uploads/2026/01/Untitled-600-x-400-px.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Poynter Institute": "https://www.poynter.org/event/global-fact-2026/"}
+X-SOURCE-ID:poynter
+X-SOURCE:Poynter Institute
+DTSTART;TZID=Europe/Vilnius:20260617T080000
+DTEND;TZID=Europe/Vilnius:20260619T170000
+DTSTAMP:20260313T091441
+CREATED:20260219T160726Z
+LAST-MODIFIED:20260224T182258Z
+UID:1189666-1781683200-1781888400@www.poynter.org
+SUMMARY:GlobalFact 2026
+DESCRIPTION:You’re invited to join the world’s largest fact-checking summit\, to be held June 17-19\, 2026\, in Vilnius\, Lithuania.  Presented by the International Fact-Checking Network (IFCN) at the Poynter Institute in partnership with Delfi\, Lithuanian National Radio and Television (LRT) and the European Fact-Checking Standards Network (EFCSN)\, GlobalFact 2026 will empower fact-checkers to uphold the industry’s highest standards of excellence through discussions\, training and networking events with globally renowned fact-checking experts.  Laura Zommer\, center\, sitting on a panel with Patrícia Campos Mello and Jaime Abello\, addresses the crowd at GlobalFact 12 in Rio de Janeiro.  About GlobalFact Since 2014\, more than 4\,000 people have attended GlobalFact in cities around the world including London\, Buenos Aires\, Madrid\, Rome\, Cape Town\, Oslo\, Seoul\, Sarajevo and\, most recently\, Rio de Janeiro. Numerous industry-leading projects and fact-checking advancements have originated through past GlobalFacts\, including International Fact-Checking Day\, the IFCN Code of Principles and partnerships with major tech companies.  GET TICKETS     What to Expect Networking Events Besides summit-wide social activities and events\, GlobalFact allows space to facilitate meaningful connections for attendees looking for professional development\, idea generation\, mentorship and more. This year’s summit will include dedicated time for both regional networking and topical networking.  Interest-driven Tracks Attendees interested in examining a specific area from various industry perspectives can choose to attend sessions categorized by “topics.” Topics this year include artificial intelligence\, information warfare\, sustainability\, methods innovation and public resilience.  Signatory-only Sessions Verified signatories to the IFCN Code of Principles will have exclusive access to members-only sessions to discuss topics such as working with platforms\, protecting independence and database control.  Region-specific Sessions Leaders from Central and Eastern Europe and the surrounding area will discuss the past\, present and future of fact-checking in the region and touch on themes such as war propaganda and state-sponsored disinformation.  Expert-led Discussions Attendees will discuss universal challenges facing fact-checkers today with leaders in journalism\, academia\, misinformation\, technology and more.  The agenda for GlobalFact 2026 will be published on register.globalfactconference.org in May.   Sponsor GlobalFact 2026 If you are interested in sponsoring GlobalFact 2026\, please contact Angie Drobnic Holan\, IFCN director\, for more information.   If you’d like to make an immediate impact\, please click here. Any donation amount supports Poynter’s mission to strengthen journalism in service to democracy.  Questions? We want to hear from you. Please send your inquiries to globalfact@ifcn.org.  Learn More
+URL:https://www.poynter.org/event/global-fact-2026/
+LOCATION:Taškius\, Vilnius\, Lithuania
+CATEGORIES:In-person Event
+ATTACH;FMTTYPE=image/png:https://www.poynter.org/wp-content/uploads/2026/02/Vilnius.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.freedomforum.org/al-neuharth-free-spirit-and-journalism-conference/?utm_source=spjnetwork&utm_medium=Posting&utm_campaign=FSC2026&utm_content=Calendar"}
+X-SOURCE-ID:spj
+X-SOURCE:Society of Professional Journalists
+DTSTAMP:20170606T232318Z
+UID:WYHZlvv6YW-8229088496@spjnetwork.org
+DTSTART;TZID=America/New_York:20260621
+DTEND;TZID=America/New_York:20260626
+SUMMARY:Al Neuharth Free Spirit and Journalism Conference
+URL:http://www.freedomforum.org/al-neuharth-free-spirit-and-journalism-conference/?utm_source=spjnetwork&#38;utm_medium=Posting&#38;utm_campaign=FSC2026&#38;utm_content=Calendar
+DESCRIPTION:The Al Neuharth Free Spirit and Journalism Conference on June 21-26\, 2026\, provides 51 students (one high school junior from each state plus the District of Columbia) with an all-expenses-paid program that includes panel conversations with journalists and multimedia storytellers\, newsroom visits\, networking events\, a chance to meet students and industry leaders who share a passion for news\, and a unique Washington\, D.C.\, experience. 
+  
+Participants also receive a $1\,000 college scholarship and ongoing support from a community of more than 1\,700 alumni. Students build their skills\, grow their network and get a head start on their future. Whether you’re interested in print and broadcast journalism\, multimedia storytelling or podcasts\, this program is for you! The deadline to apply is March 15. 
+LOCATION:610 Water St SW\, Ste 300. Washington\, DC 20024
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Assoc. of LGBTQ+ Journalists": "https://www.nlgja.org/event/2026-national-convention/"}
+X-SOURCE-ID:nlgja
+X-SOURCE:Assoc. of LGBTQ+ Journalists
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260313T115145
+CREATED:20251017T201309Z
+LAST-MODIFIED:20260218T182432Z
+UID:16643-1788998400-1789343999@www.nlgja.org
+SUMMARY:2026 National Convention
+DESCRIPTION:Join us from Sept. 10 through 13 for our 35th annual National Convention! \nThe Convention will be held at the Hyatt Regency San Francisco\, located at 5 Embarcadero Ctr\, San Francisco\, CA 94111. \nRegistration is available here. Find more information on this page. \n 
+URL:https://www.nlgja.org/event/2026-national-convention/
+LOCATION:Hyatt Regency Embaradero\, San Francisco\, CA\, United States
+CATEGORIES:Convention,National
+END:VEVENT
+END:VCALENDAR

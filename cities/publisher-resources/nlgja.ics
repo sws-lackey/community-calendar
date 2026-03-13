@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NLGJA - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NLGJA
+X-ORIGINAL-URL:https://www.nlgja.org
+X-WR-CALDESC:Events for NLGJA
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260328T100000
+DTEND;TZID=America/New_York:20260328T140000
+DTSTAMP:20260313T115145
+CREATED:20260223T202227Z
+LAST-MODIFIED:20260223T202227Z
+UID:16847-1774692000-1774706400@www.nlgja.org
+SUMMARY:DC Journalism Job Fair
+DESCRIPTION:Registration is open for our annual job fair\, co-hosted with Georgetown and other journalism affinity groups. Confirmed recruiters include Axios\, Politico\, DC News Now\, Bloomberg\, NPR\, States Newsroom\, Sinclair Broadcast Group\, Fox Television Stations\, The Falls Church News Press\, Report for America\, and NBC Universal with more to come. Discounted registration for dues-paying members and free registration for people who have been laid off in the last 12 months. Reach out to DC@nlgja.org if you’ve recently been laid off for help with registration. Secure your spot today.
+URL:https://www.nlgja.org/event/dc-journalism-job-fair/
+LOCATION:Georgetown University Capitol Campus
+CATEGORIES:Chapters
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260416T183000
+DTEND;TZID=America/New_York:20260416T213000
+DTSTAMP:20260313T115145
+CREATED:20260218T180601Z
+LAST-MODIFIED:20260218T182113Z
+UID:16824-1776364200-1776375000@www.nlgja.org
+SUMMARY:Headlines & Headliners
+DESCRIPTION:Each year\, this star-studded event raises tens of thousands of dollars for the organization’s programs\, including those that provide scholarships to aspiring LGBTQ+ journalists. Headlines & Headliners draws hundreds of influential journalists\, news executives\, dignitaries and allies to what has become one of New York City’s must-attend media events. \nOnline registration is now open here. \nOnsite registration will be available at the ABC News building\, 7 Hudson Square\, beginning at 6:30 p.m. \n\n\nTICKETS\n$175 for non-members\n$125 for members (Ally\, Associate\, Basic\, International\, LGBTQ\, Retired)\n$50 for Student and Early Career Members\n\n\n\n\n\n\nADDRESS\n7 Hudson Square\n145 Varick Street\nNew York\, NY 10013
+URL:https://www.nlgja.org/event/headlines-headliners/
+LOCATION:ABC News Building\, 145 Varick Street\, New York\, NY\, United States
+CATEGORIES:National
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260313T115145
+CREATED:20251017T201309Z
+LAST-MODIFIED:20260218T182432Z
+UID:16643-1788998400-1789343999@www.nlgja.org
+SUMMARY:2026 National Convention
+DESCRIPTION:Join us from Sept. 10 through 13 for our 35th annual National Convention! \nThe Convention will be held at the Hyatt Regency San Francisco\, located at 5 Embarcadero Ctr\, San Francisco\, CA 94111. \nRegistration is available here. Find more information on this page. \n 
+URL:https://www.nlgja.org/event/2026-national-convention/
+LOCATION:Hyatt Regency Embaradero\, San Francisco\, CA\, United States
+CATEGORIES:Convention,National
+END:VEVENT
+END:VCALENDAR
