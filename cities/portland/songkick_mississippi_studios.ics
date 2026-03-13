@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mississippi Studios//songkick.com//
+X-WR-CALNAME:Mississippi Studios
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:The Third Mind\, Mindparade
+DTSTART;VALUE=DATE-TIME:20260313T210000
+DTEND;VALUE=DATE-TIME:20260313T210000
+UID:3d9ab5e03577c2ad08b7dd3e63019ef4@songkick.com
+DESCRIPTION:The Third Mind and Mindparade at Mississippi Studios at 2026-0
+ 3-13T21:00:00-0700
+LOCATION:Mississippi Studios\, 3939 N. Mississippi Ave.\, Portland\, OR\, 
+ 97227
+URL:http://www.songkick.com/concerts/43063833-third-mind-at-mississippi-st
+ udios?utm_medium=organic&utm_source=microformat
+X-SOURCE:Mississippi Studios
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cory Branan
+DTSTART;VALUE=DATE-TIME:20260314T210000
+DTEND;VALUE=DATE-TIME:20260314T210000
+UID:5dc60a47dde30ec65845b2c1abf184ad@songkick.com
+DESCRIPTION:Cory Branan at Mississippi Studios at 2026-03-14T21:00:00-0700
+LOCATION:Mississippi Studios\, 3939 N. Mississippi Ave.\, Portland\, OR\, 
+ 97227
+URL:http://www.songkick.com/concerts/42928471-cory-branan-at-mississippi-s
+ tudios?utm_medium=organic&utm_source=microformat
+X-SOURCE:Mississippi Studios
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kasey Anderson
+DTSTART;VALUE=DATE-TIME:20260314T000000
+DTEND;VALUE=DATE-TIME:20260314T000000
+UID:32b417fb618d200c82a375db6e8bcbdc@songkick.com
+DESCRIPTION:Kasey Anderson at Mississippi Studios at 2026-03-14
+LOCATION:Mississippi Studios\, 3939 N. Mississippi Ave.\, Portland\, OR\, 
+ 97227
+URL:http://www.songkick.com/concerts/42897465-kasey-anderson-at-mississipp
+ i-studios?utm_medium=organic&utm_source=microformat
+X-SOURCE:Mississippi Studios
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colby Acuff
+DTSTART;VALUE=DATE-TIME:20260318T200000
+DTEND;VALUE=DATE-TIME:20260318T200000
+UID:ce0028495e793464836795d89e81fc44@songkick.com
+DESCRIPTION:Colby Acuff at Mississippi Studios at 2026-03-18T20:00:00-0700
+LOCATION:Mississippi Studios\, 3939 N. Mississippi Ave.\, Portland\, OR\, 
+ 97227
+URL:http://www.songkick.com/concerts/43057951-colby-acuff-at-mississippi-s
+ tudios?utm_medium=organic&utm_source=microformat
+X-SOURCE:Mississippi Studios
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AJ Lee and Blue Summit\, Aj Lee
+DTSTART;VALUE=DATE-TIME:20260320T200000
+DTEND;VALUE=DATE-TIME:20260320T200000
+UID:956f15f466d350c3db348d2b15aef27e@songkick.com
+DESCRIPTION:AJ Lee and Blue Summit and Aj Lee at Mississippi Studios at 20
+ 26-03-20T20:00:00-0700
+LOCATION:Mississippi Studios\, 3939 N. Mississippi Ave.\, Portland\, OR\, 
+ 97227
+URL:http://www.songkick.com/concerts/43005120-aj-lee-and-blue-summit-at-mi
+ ssissippi-studios?utm_medium=organic&utm_source=microformat
+X-SOURCE:Mississippi Studios
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:The Portland Hiking Meetup Group
+X-WR-CALNAME:The Portland Hiking Meetup Group
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_312735326@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260316T070000
+DTEND;TZID=America/Los_Angeles:20260316T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/312735326/
+STATUS:CONFIRMED
+CREATED:20260105T175302Z
+LAST-MODIFIED:20260105T175302Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313526556@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260316T160000
+DTEND;TZID=America/Los_Angeles:20260316T180000
+SUMMARY:Eastside Social Event-Sad Valley
+DESCRIPTION:The Portland Hiking Meetup Group\nThis bar is an event in itself. It takes a while to take it all in. The ceiling coffin\, the statuary\, the lighted squares over the bar area\, the photo booth\, the silver moon on stage\, and so on.\n\nCheck out the menu: https://www.sadvalley.com Participants are responsible for their own expenses.\n\nDisclaimer: Hike leaders are volunteers to do their best to make it an enjoyable experience for everyone\, but assume no liability for any loss\, damage\, or injury\, during the event or getting to or back from an event. Each member is required to read and approve the waiver when agreeing to become a member\, and is completely responsible for their own safety and well-being.\nLink to liability waiver below:\n[https://docs.google.com/document/d/1e9K3R6KkepF8BFHmLdcTnPzou42_x2DEu38XqzlGfJ8/edit?usp=sharing](https://docs.google.com/document/d/1e9K3R6KkepF8BFHmLdcTnPzou42_x2DEu38XqzlGfJ8/edit?usp=sharing)
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313526556/
+STATUS:CONFIRMED
+CREATED:20260225T183745Z
+LAST-MODIFIED:20260225T183745Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/b/c/8/600_532916264.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313764357@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260318T100000
+DTEND;TZID=America/Los_Angeles:20260318T120000
+SUMMARY:Tryon Creek Trail Hike—10:00 AM\nSee parking information below.
+DESCRIPTION:The Portland Hiking Meetup Group\nHilly walk through Tryon Creek State Park. Approximately 5 miles on dirt and gravel trails.\n\nMeet at the rock circle to the right of the Visitors Center.\n\nThe fee for parking is $10/day ($12 for out of state). An annual pass costs $60/year ($75 for out of state). Annual passes are good at any Oregon State Park. Passes can be purchased at the Visitors Center.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313764357/
+STATUS:CONFIRMED
+CREATED:20260313T021840Z
+LAST-MODIFIED:20260313T021840Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/2/a/8/600_518181160.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313495323@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260318T170000
+DTEND;TZID=America/Los_Angeles:20260318T200000
+SUMMARY:Backpacking Talk-Gear\, Destinations & Permits-Beginner to Advanced
+DESCRIPTION:The Portland Hiking Meetup Group\nHey folks\, let's meet to discuss backpacking. Specifically\, we will talk about gear\, destinations and permits. Beginners to experts are welcome\, this includes people that are interested in backpacking\, but have never been on a trip yet. Bring your questions and experience to the table.\n\nWe can discuss anything related to gear\, what brands\, where to shop\, what to look for. We will talk about trip ideas and acquiring the proper permits to make the trip happen. I'm specifically looking for folks who are willing to apply for permits when they come available. We can also talk about other overnight trips like renting fire lookouts etc.\n\nWe will meet at The Goodfoot on SE Stark. Show up any time after 5. They open at 5\, so if you get there early\, just wait a bit and someone will unlock the door. The grub here is pretty good and there's always a lot of art on the walls to gawk at.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313495323/
+STATUS:CONFIRMED
+CREATED:20260223T190759Z
+LAST-MODIFIED:20260223T190759Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/b/7/b/600_532887515.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313044868@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260323T070000
+DTEND;TZID=America/Los_Angeles:20260323T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313044868/
+STATUS:CONFIRMED
+CREATED:20260125T044308Z
+LAST-MODIFIED:20260125T044308Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313044914@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260330T070000
+DTEND;TZID=America/Los_Angeles:20260330T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313044914/
+STATUS:CONFIRMED
+CREATED:20260125T044409Z
+LAST-MODIFIED:20260125T044409Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313141507@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260406T070000
+DTEND;TZID=America/Los_Angeles:20260406T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313141507/
+STATUS:CONFIRMED
+CREATED:20260131T104045Z
+LAST-MODIFIED:20260131T104045Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313141509@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260413T070000
+DTEND;TZID=America/Los_Angeles:20260413T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313141509/
+STATUS:CONFIRMED
+CREATED:20260131T104046Z
+LAST-MODIFIED:20260131T104046Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313141510@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260420T070000
+DTEND;TZID=America/Los_Angeles:20260420T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313141510/
+STATUS:CONFIRMED
+CREATED:20260131T104049Z
+LAST-MODIFIED:20260131T104049Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313141511@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023246Z
+DTSTART;TZID=America/Los_Angeles:20260427T070000
+DTEND;TZID=America/Los_Angeles:20260427T083000
+SUMMARY:Washington Park/Thru Hoyt 
+DESCRIPTION:The Portland Hiking Meetup Group\nOur group meets near the base of steps leading up into the park\, by the parking lot on the uphill side of the tennis courts. Expect a fairly fast pace on trails with plenty of elevation gain.
+URL;VALUE=URI:https://www.meetup.com/the-portland-hiking-meetup-group/events/313141511/
+STATUS:CONFIRMED
+CREATED:20260131T104049Z
+LAST-MODIFIED:20260131T104049Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/a/0/600_506902432.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/the-portland-hiking-meetup-group/events/ical/
+X-WR-CALNAME:The Portland Hiking Meetup Group
+END:VCALENDAR

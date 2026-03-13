@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260312T000000
 DTEND;TZID=America/New_York:20260313T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260204T135353Z
 LAST-MODIFIED:20260302T154134Z
 UID:73494-1773273600-1773446399@www.hollins.edu
@@ -63,23 +63,22 @@ ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/12/SSW
 ORGANIZER;CN="Dina Hackley-Hunt":MAILTO:hackleyhuntdm@hollins.edu
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260312T190000
-DTEND;TZID=America/New_York:20260312T200000
-DTSTAMP:20260311T220215
-CREATED:20250905T180410Z
-LAST-MODIFIED:20260216T182038Z
-UID:71484-1773342000-1773345600@www.hollins.edu
-SUMMARY:Vanessa Priya Daniel - Unrig the Game: What Women of Color Can Teach Everyone About Winning & How We Can Show Up for Them
-DESCRIPTION:Date: March 12th\n 	Time: TBD\n 	Location: Keynote presentation – Talmadge Hall\, Hollins University; Book Signing following presentation – Lewis Reading Room\, Wyndham Robertson Library\, Hollins University\n 	Joint event: Leading EDJ and BLI Leading Together series\n 	Description: In this keynote presentation\, Vanessa Priya Daniel\, author of Unrig the Game: What Women of Color Can Teach Everyone About Winning (Random House\, 2025) will share the superpowers women of color leaders use to create winning strategies that drive meaningful change for all. She will also address how we remove the roadblocks that make leadership treacherous for women of color. Daniel’s presentation draws upon 25+ years of experience as an organizer\, founder\, and funder of over 100 women of color-led organizations. Additionally\, her presentation is informed by over 45 interviews she conducted with many of the best and brightest women of color leaders in U.S. social justice movements and philanthropy\, while completing her new book.\n 	Speaker Bio: Vanessa Priya Daniel is an author\, organizer\, and award-winning leader for racial and gender justice. She has worked in social justice movements for twenty-five years as a labor and community organizer and funder. Her first book is Unrig the Game: What Women of Color Can Teach Everyone About Winning (Random House\, 2025). She founded and served for 17 years as executive director of Groundswell Fund\, a leading funder of women of color-led grassroots community and electoral organizing. She is a recipient of the Smith College Medal\, was featured by The Chronicle of Philanthropy as one of fifteen “Influencers” who are changing the nonprofit world\, and was recognized by Inside Philanthropy as one of the “Top 100 Most Powerful Players in Philanthropy.” Daniel has written for The New York Times and other publications.\n 	FREE to the public. Registration is required. Register for any Leading Together Series Dates\n 	We are grateful to our co-sponsors for this event: Roanoke Women’s Foundation\, Junior League of Roanoke Valley\, Alpha Kappa Alpha\, and Delta Sigma Theta.\n\n \nRegister Today
-URL:https://www.hollins.edu/event/vanessa-priya-daniel-unrig-the-game/
-LOCATION:Talmadge Recital Hall\, Bradley
-CATEGORIES:Leading Together Series,Open to the Public
-ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/09/VanessaPriyaDaniel_4x5_credit-Anita-Nowacka.jpg
+DTSTART;TZID=America/New_York:20260313T000000
+DTEND;TZID=America/New_York:20260313T235959
+DTSTAMP:20260312T221650
+CREATED:20260312T181121Z
+LAST-MODIFIED:20260312T181121Z
+UID:74135-1773360000-1773446399@www.hollins.edu
+SUMMARY:Leading Equity\, Diversity\, and Justice Conference 2026
+DESCRIPTION:Hollins’ annual Leading Equity\, Diversity\, and Justice (EDJ) Conference aims to create an intentional and meaningful space to reflect\, learn\, and facilitate action toward creating a more equitable and just community. We envision a conference that uplifts participants\, while supporting deep learning and engagement related to the central theme of this conference: Breaking Ceilings\, Opening Doors: Reimagining Work and Leadership.
+URL:https://www.hollins.edu/about-hollins/commitment-to-access-and-excellence-for-all/leading-equity-diversity-and-justice-conference/#new_tab
+LOCATION:Hollins University Campus\, 7916 Williamson Road\, Roanoke\, VA\, 24020\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/12/SSWBB-2026-LeadingEDJ-C3-banner_v2.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260315T180000
 DTEND;TZID=America/New_York:20260315T190000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260209T160658Z
 LAST-MODIFIED:20260227T205713Z
 UID:73529-1773597600-1773601200@www.hollins.edu
@@ -92,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260317T183000
 DTEND;TZID=America/New_York:20260317T193000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T164846Z
 LAST-MODIFIED:20251008T164846Z
 UID:71853-1773772200-1773775800@www.hollins.edu
@@ -105,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260402T193000
 DTEND;TZID=America/New_York:20260402T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260218T180115Z
 LAST-MODIFIED:20260218T180115Z
 UID:73667-1775158200-1775161800@www.hollins.edu
@@ -118,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260407T183000
 DTEND;TZID=America/New_York:20260407T193000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T164915Z
 LAST-MODIFIED:20251008T164915Z
 UID:71854-1775586600-1775590200@www.hollins.edu
@@ -131,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260409T000000
 DTEND;TZID=America/New_York:20260411T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250911T172907Z
 LAST-MODIFIED:20250911T172953Z
 UID:71566-1775692800-1775951999@www.hollins.edu
@@ -145,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260411T090000
 DTEND;TZID=America/New_York:20260411T160000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T165430Z
 LAST-MODIFIED:20260225T191823Z
 UID:71856-1775898000-1775923200@www.hollins.edu
@@ -159,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260412T000000
 DTEND;TZID=America/New_York:20260413T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260204T135707Z
 LAST-MODIFIED:20260204T135707Z
 UID:73496-1775952000-1776124799@www.hollins.edu
@@ -173,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260420T170000
 DTEND;TZID=America/New_York:20260420T183000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250905T180619Z
 LAST-MODIFIED:20250905T201818Z
 UID:71485-1776704400-1776709800@www.hollins.edu
@@ -187,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260423T193000
 DTEND;TZID=America/New_York:20260423T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250922T152313Z
 LAST-MODIFIED:20251008T163956Z
 UID:71688-1776972600-1776976200@www.hollins.edu
@@ -202,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260507T193000
 DTEND;TZID=America/New_York:20260507T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T171105Z
 LAST-MODIFIED:20251008T171105Z
 UID:71858-1778182200-1778185800@www.hollins.edu
@@ -215,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260509T130000
 DTEND;TZID=America/New_York:20260509T153000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251215T155627Z
 LAST-MODIFIED:20251215T155627Z
 UID:72971-1778331600-1778340600@www.hollins.edu
@@ -230,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260511T170000
 DTEND;TZID=America/New_York:20260511T183000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250905T180803Z
 LAST-MODIFIED:20250910T165734Z
 UID:71486-1778518800-1778524200@www.hollins.edu
@@ -244,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260517T100000
 DTEND;TZID=America/New_York:20260517T120000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250910T144650Z
 LAST-MODIFIED:20260302T144545Z
 UID:71515-1779012000-1779019200@www.hollins.edu
@@ -259,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260529T000000
 DTEND;TZID=America/New_York:20260531T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251204T174803Z
 LAST-MODIFIED:20251204T174803Z
 UID:72820-1780012800-1780271999@www.hollins.edu
@@ -273,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260614T000000
 DTEND;TZID=America/New_York:20260619T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251114T170519Z
 LAST-MODIFIED:20251114T170519Z
 UID:72456-1781395200-1781913599@www.hollins.edu
@@ -288,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260710T000000
 DTEND;TZID=America/New_York:20260712T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260219T213020Z
 LAST-MODIFIED:20260310T184029Z
 UID:73706-1783641600-1783900799@www.hollins.edu
@@ -303,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260712T000000
 DTEND;TZID=America/New_York:20260718T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250930T140902Z
 LAST-MODIFIED:20251029T175051Z
 UID:71745-1783814400-1784419199@www.hollins.edu
@@ -318,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260712T000000
 DTEND;TZID=America/New_York:20260725T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251216T212637Z
 LAST-MODIFIED:20251216T212637Z
 UID:73040-1783814400-1785023999@www.hollins.edu

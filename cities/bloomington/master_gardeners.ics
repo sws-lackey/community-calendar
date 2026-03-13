@@ -529,17 +529,6 @@ ATTACH;FMTTYPE=image/jpeg:http://static1.squarespace.com/static/5fd5057a67ebfc29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Volunteering at Wonderlab
-DTSTART;VALUE=DATE-TIME:20251011T130000Z
-DTEND;VALUE=DATE-TIME:20251011T150000Z
-UID:68e45c3942cad57b8013896d@squarespace.com
-DESCRIPTION:
-LOCATION:Wonderlab  Museum of Health\, Science & Technology\, 308 W. Fourth St Bloomington\,  IN 47404\, USA
-URL:https://www.mcmga.net/events/volunteering-at-wonderlab
-X-SOURCE:Monroe County Master Gardeners
-ATTACH;FMTTYPE=image/jpeg:http://static1.squarespace.com/static/5fd5057a67ebfc29b09298b4/t/68e45d97e650b237f2d0e606/1759796631865/IMG_7497.jpg?format=1500w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Volunteering at Wonderlab
 DTSTART;VALUE=DATE-TIME:20251024T130000Z
 DTEND;VALUE=DATE-TIME:20251024T140000Z
 UID:68e45d9f74560c386ebdcb50@squarespace.com

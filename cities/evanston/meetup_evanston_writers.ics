@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313119719@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T020608Z
-DTSTART;TZID=America/Chicago:20260312T190000
-DTEND;TZID=America/Chicago:20260312T210000
-SUMMARY:Poetry Group of Evanston Writers Workshop
-DESCRIPTION:Evanston Writers Workshop\nThe Evanston Writers Workshop Poetry Group will be meeting on the second Thursday of the month\, from 7-9 P.M\, at Sketchbook Brewery in Evanston.\n\nPeople may submit 1-2 poems per person for critique via our submission form at the following url:\nhttps://form.jotform.com/251125391424147\n\nTo find the poems we'll be reviewing for this month's meeting\, visit our group website\, https://evanstonwritersworkshop.org/ and look for the link to our submissions file drive under "Calendar and Submissions". The submitted poems will be accessible the week of the event.
-URL;VALUE=URI:https://www.meetup.com/evanstonwriters/events/313119719/
-STATUS:CONFIRMED
-CREATED:20260129T230125Z
-LAST-MODIFIED:20260129T230125Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/7/0/c/600_466670956.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313173658@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260315T140000
 DTEND;TZID=America/Chicago:20260315T153000
 SUMMARY:Storytelling Workshop with our own Rose Chord
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_308721320@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260318T190000
 DTEND;TZID=America/Chicago:20260318T210000
 SUMMARY:The Critique Group
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312039916@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260323T180000
 DTEND;TZID=America/Chicago:20260323T210000
 SUMMARY:Sketchbook Evanston Open Mic Night
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_311601176@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260324T190000
 DTEND;TZID=America/Chicago:20260324T210000
 SUMMARY:Online Fiction Critique Group
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313405151@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260326T190000
 DTEND;TZID=America/Chicago:20260326T210000
 SUMMARY:Evanston Writers’ Workshop Long Development Group--meeting
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_308721321@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260401T190000
 DTEND;TZID=America/Chicago:20260401T210000
 SUMMARY:The Critique Group
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312760683@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260409T190000
 DTEND;TZID=America/Chicago:20260409T210000
 SUMMARY:Poetry Group of Evanston Writers Workshop
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313462483@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260414T190000
 DTEND;TZID=America/Chicago:20260414T210000
 SUMMARY:Screenplay Critique Group
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_308721322@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020608Z
+DTSTAMP:20260313T022015Z
 DTSTART;TZID=America/Chicago:20260415T190000
 DTEND;TZID=America/Chicago:20260415T210000
 SUMMARY:The Critique Group
@@ -171,6 +156,21 @@ URL;VALUE=URI:https://www.meetup.com/evanstonwriters/events/308721322/
 STATUS:CONFIRMED
 CREATED:20250629T030813Z
 LAST-MODIFIED:20250629T030813Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/7/b/4/600_530418356.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_311601177@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T022015Z
+DTSTART;TZID=America/Chicago:20260427T180000
+DTEND;TZID=America/Chicago:20260427T210000
+SUMMARY:Sketchbook Evanston Open Mic Night
+DESCRIPTION:Evanston Writers Workshop\nSketchbook Brewing Co. in Evanston is hosting an open mic night the last Monday of every month\, open to all. Come grab a drink and enjoy the talents of other local musicians\, writers\, and creatives\, and maybe even sign up to read some of your own work.\n\nSign-up starts at 6pm\, and the open-mic starts at 6:30pm.\n\nPlease note this open mic is run and hosted by Sketchbook\, and open to the general public. This invite is for Evanston Writers Workshop members interested in attending the event together.
+URL;VALUE=URI:https://www.meetup.com/evanstonwriters/events/311601177/
+STATUS:CONFIRMED
+CREATED:20251018T204440Z
+LAST-MODIFIED:20251018T204440Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/7/b/4/600_530418356.jpeg
 END:VEVENT

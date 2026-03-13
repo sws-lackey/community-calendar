@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Portland Area Board Games and RPGs
+X-WR-CALNAME:Portland Area Board Games and RPGs
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313457140@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T173000
+DTEND;TZID=America/Los_Angeles:20260312T220000
+SUMMARY:Board Games @ Mox
+DESCRIPTION:Portland Area Board Games and RPGs\nCome learn new games and meet new people\, every Thursday evening.\n\nBoard games a plenty\, feel free to bring some -- usually a couple of us do\, and the Venue has a large library.\n\nWe play mostly lighter and middle weight games\, but sometimes heavier ones -- from Sushi Go to Dune Imperium. But I have seen everything from Mantis to Viticulture.\n\nPlease ask questions in the comments\, and let people know what board games you will bring and/or want to play.
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313457140/
+STATUS:CONFIRMED
+CREATED:20260221T024029Z
+LAST-MODIFIED:20260221T024029Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/f/5/5/600_519903925.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313457247@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T173000
+DTEND;TZID=America/Los_Angeles:20260312T223000
+SUMMARY:SE PDX Game Night at Lucky Lab
+DESCRIPTION:Portland Area Board Games and RPGs\nhttp://photos3.meetupstatic.com/photos/event/6/b/0/a/event_747402.jpeg\n\nIt's time for Thursday night games at the Lucky Labrador Brew Pub. We tend to start coagulating about 5:30 but often don't get started till six when a critical mass starts to form. Although people trickle in throughout the evening looking for open space at any new games starting up. Many people stay until the pub closes.\n\nThis has been an on-going event for many\, many years and is only loosely affiliated with this site and thus \\*\\*most people do not sign up on this site\, but lots of people come every Thursday night. \\*\\*\n\nAnyone new who comes please feel free to approach people already playing or looking to begin a game. They'll be happy to tell you a little about what they're doing and how much longer their game will last.\n\nWe play many board games and card games at these events. We tend to play games on the difficult/complex side of things at this meetup though at any time you might find a light Euro has found space at a table. You just never know.\n\nThe Lucky Lab serves a wide variety of beers\, sandwiches and snacks with many vegetarian options.\n\nHope to see you there! And you can bring as many guests as you want! :)
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313457247/
+STATUS:CONFIRMED
+CREATED:20260221T024130Z
+LAST-MODIFIED:20260221T024130Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/b/0/1/600_532063777.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313456699@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T174500
+DTEND;TZID=America/Los_Angeles:20260312T213000
+SUMMARY:Rules-Light RPGs
+DESCRIPTION:Portland Area Board Games and RPGs\nChange your PRIVACY SETTINGS so I can actually reply to your messages! :)\n\nor contact me directly at\nemail = God.Emperor@Gmail.com\ncall/text = 971 325-2100\n\nJoin us on Thursdays for Spacy weird Fantasy\, or Mörk Borg/Pirates\, or Call of Cthulhu\, and other One-Shots -- things change over time.\n\nSo send me an email at God.Emperor@Gmail.com or call/text me at 971 325-2100 for more setting and system info. And the story plots are episodic enough that you can miss sessions and it's no big deal.
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313456699/
+STATUS:CONFIRMED
+CREATED:20260221T023703Z
+LAST-MODIFIED:20260221T023703Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/d/f/2/600_519528626.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313198924@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T180000
+DTEND;TZID=America/Los_Angeles:20260312T220000
+SUMMARY:Board Games for 50-Somethings!
+DESCRIPTION:Portland Area Board Games and RPGs\n***INTRODUCING*** modern board games to those 50 and older! Today's modern board games are typically designed to keep all players in the game until it ends\, and offer many different paths to victory. Interested in learning and playing modern board games? Come on down! This is a safe place to stretch your mind and mingle.\n\nThere will be some games available\, but if you have a favorite\, bring it with you! Be sure to RSVP and let us know if you're bringing a game in the comments\, or if you have any questions or game preferences. These are light- to medium-weight games. The objective here is to give older folks a safe environment for learning new games\, and playing their favorites!\n\nTo be clear\, these should be light- to mid-weight gateway games. Weight is determined by BoardGameGeek website complexity ratings. (*Gateway games are games that introduce one to the hobby and get them hooked on playing!*)\n\nGame night is scheduled every other week and entrance is free! Please RSVP! It's been my experience if no one signs up\, no one shows up. If there is at least ONE individual signed up I will be there!!\n\n**A brief message about ground rules:**\n\n* ***Try your best to be on time. Otherwise\, you may have to wait until a new - or another - game is starting.***\n* ***Please respect game components with clean hands and gentle touch.***\n* ***Discrimination of any kind and trash-talking will not be tolerated. (Please also refrain from engaging in politics while at the game table.)***\n* ***Start what you finish\, even if it looks like you're going to lose. "It's not the destination\, it's the journey" - Ralph Waldo Emerson. Also\, errors will be made\, above all else\, remember\, it's only a game!***\n\nAdult children under 50 are welcome to bring parent(s) with them!\n\nIn the meantime\, feel free to come and go as needed. Look for the sign\, "50 Somethings Game Night". Introduce yourself and say Hi!\n\nWelcome "a-board"!
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313198924/
+STATUS:CONFIRMED
+CREATED:20260204T023318Z
+LAST-MODIFIED:20260204T023318Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/5/b/d/600_518593757.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313457101@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T180000
+DTEND;TZID=America/Los_Angeles:20260312T210000
+SUMMARY:Board Game Night at Langers
+DESCRIPTION:Portland Area Board Games and RPGs\nCome play games and meet other local gamers at Langers Entertainment Center in Sherwood! Bring your own games or pick from a wide selection provided by the Museum of Gaming. Admission is free and family-friendly. Food can be purchased through Langers. Attendance averages 20 people.
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313457101/
+STATUS:CONFIRMED
+CREATED:20260221T024004Z
+LAST-MODIFIED:20260221T024004Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/a/2/0/600_513263072.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313457745@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T183000
+DTEND;TZID=America/Los_Angeles:20260312T203000
+SUMMARY:Speed puzzle night
+DESCRIPTION:Portland Area Board Games and RPGs\nThink you’re the fastest puzzler in town? Join us for Speed Puzzling\, hosted by @portlandpuzzleco\, on Thursday\, Nov. 6th at 6:30 PM at Hillsboro Downtown Station! Complete a 500-piece puzzle as fast as possible (you keep the puzzle). $35 per team to play. 1st-place winner takes home $100!\nSIGN-UP ahead of time to secure your spot — walk-ins are welcome\, but extra puzzles are very limited. This competition is open to all ages. You can compete as a solo\, duo\, or team up! So bring your friends\, family\, your puzzle-loving crew\, or join a team and meet new friends.\nPre register at:\n[Speed Puzzling Hillsboro Downtown Station | Portland Puzzle Company](https://portlandpuzzle.com/speed-puzzling-hillsboro-downtown-station/)
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313457745/
+STATUS:CONFIRMED
+CREATED:20260221T034014Z
+LAST-MODIFIED:20260221T034014Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/1/4/e/0/600_532145344.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313457990@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260312T183000
+DTEND;TZID=America/Los_Angeles:20260312T213000
+SUMMARY:ACC Cribbage Club
+DESCRIPTION:Portland Area Board Games and RPGs\nThis is an ACC "grass roots" club.\n\nThe American Cribbage Congress (ACC) is a national organization that sponsors tournaments and grass roots clubs\, and standardizes rules.\n\nYou will play 6 games against 6 different opponents.\n\nThe money collected from entry fees is paid out to the top finishers.\n\nRecommended for experienced intermediate/advanced players.\n\nYou should be able to finish a game in less than 20 minutes.\n\nThere will be players there who are not from Meetup\, so even when there are few RSVP's\, you can be sure we will play.
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313457990/
+STATUS:CONFIRMED
+CREATED:20260221T034348Z
+LAST-MODIFIED:20260221T034348Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/2/d/1/600_532217105.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313470491@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260313T180000
+DTEND;TZID=America/Los_Angeles:20260313T230000
+SUMMARY:Open Game Night
+DESCRIPTION:Portland Area Board Games and RPGs\nVisit Off the Charts Games\, a family run game store in Downtown Gresham\, every Friday for a night of board games and good company. Bring your favorite board game and some friends. No Sign up\, No cost\, Plenty of table space.
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313470491/
+STATUS:CONFIRMED
+CREATED:20260222T025729Z
+LAST-MODIFIED:20260222T025729Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/c/e/8/600_531348360.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313481725@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260314T120000
+DTEND;TZID=America/Los_Angeles:20260314T160000
+SUMMARY:Southeast Portland Board Games and Cards
+DESCRIPTION:Portland Area Board Games and RPGs\nA place to relive an old favorite or try a brand new game. We meet every Saturday and usually split into 2-3 groups for variety of game play. You are welcome to bring your favorite game (or games) or jump in and learn something new with us. We have a wide selection of games that are sure to satisfy and excite.\n\nCome solo\, come with a friend\, come for half an hour or 3 hours - just come ready to meet someone new\, share some laughs\, and get lost in a game. We value community\, new connections\, and laughing together.\n\nSee you there! Look for the group with games on the table.\n\n*Previously under SE Portland Board Games and Cards meetup group\, we are moving to this meetup group for this coming year. To stay updated please join our facebook group: https://www.facebook.com/share/g/1Ys4dEAvqo/.*
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313481725/
+STATUS:CONFIRMED
+CREATED:20260222T213811Z
+LAST-MODIFIED:20260222T213811Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/5/f/d/600_526426589.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313481847@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023249Z
+DTSTART;TZID=America/Los_Angeles:20260314T120000
+DTEND;TZID=America/Los_Angeles:20260314T170000
+SUMMARY:Super Mox Board Games
+DESCRIPTION:Portland Area Board Games and RPGs\nIf you have board games that you love to play -- please bring them.\nIf you are new to board games -- just bring your self\, and maybe a friend.\n\nDon't be shy\, just ask any table if they have room for another player.\nNote that sometimes other groups have meetups here too -- so ask for the "Super Board Game Meetup". \;)\n\nPlease be responsible and respectful in these interesting times\, we encourage all flavors of people to come by.\n\nIf you have any questions\, just ask for Joey at the Event or message me or the Organizers of this Group at any time.\n\nSee more events through the Calendar view = https://www.meetup.com/pdxgames/events/calendar/
+URL;VALUE=URI:https://www.meetup.com/pdxgames/events/313481847/
+STATUS:CONFIRMED
+CREATED:20260222T214006Z
+LAST-MODIFIED:20260222T214006Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/d/e/4/600_491655844.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/pdxgames/events/ical/
+X-WR-CALNAME:Portland Area Board Games and RPGs
+END:VCALENDAR

@@ -13,6 +13,8 @@ const CITIES = [
   { id: 'matsu', name: 'MatSu' },
   { id: 'jweekly', name: 'JWeekly' },
   { id: 'evanston', name: 'Evanston' },
+  { id: 'portland', name: 'Portland' },
+  { id: 'boston', name: 'Boston' },
 ];
 
 export default function CityPicker() {

@@ -1,0 +1,1579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SIDEARM Sports//NONSGML SIDEARM//EN
+X-WR-CALNAME:Portland State University Athletics
+X-PUBLISHED-TTL:PT120M
+BEGIN:VEVENT
+UID:vcal_5715-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260212T194500Z
+DTEND:20260212T214500Z
+LOCATION:Tempe\, AZ / Alberta B. Farrington Stadium
+SUMMARY:[L] Portland State University Softball vs Indiana 
+DESCRIPTION:[L] Portland State University Softball vs Indiana \nL 0-23 (5 Inn.)\n
+URL:https://goviks.com/calendar.aspx?game_id=5715&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5716-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260212T223000Z
+DTEND:20260213T003000Z
+LOCATION:Tempe\, AZ / Alberta B. Farrington Stadium
+SUMMARY:[L] Portland State University Softball at Arizona State 
+DESCRIPTION:[L] Portland State University Softball at Arizona State \nL 5-11\nStreaming Video: https://www.espn.com/watch/player/_/id/2f758396-ce09-4002-a31a-346498806463\n
+URL:https://goviks.com/calendar.aspx?game_id=5716&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5579-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260213T020000Z
+DTEND:20260213T040000Z
+LOCATION:Flagstaff\, AZ
+SUMMARY:[W] Portland State University Men's Basketball at Northern Arizona
+DESCRIPTION:[W] Portland State University Men's Basketball at Northern Arizona\nW 77-68 \nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5579&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5611-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260213T030000Z
+DTEND:20260213T050000Z
+LOCATION:Portland\, Ore., Viking Pavilion
+SUMMARY:[L] Portland State University Women's Basketball vs Northern Arizona
+DESCRIPTION:[L] Portland State University Women's Basketball vs Northern Arizona\nL 80-88 (OT)\nStreaming Video: https://www.espn.com/watch/player/_/id/227578b2-078a-44a7-9fa7-847a1e465f1d\nTickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3294\n
+URL:https://goviks.com/calendar.aspx?game_id=5611&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5670-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+LOCATION:Seattle\, Wash.
+SUMMARY:[N] Portland State University Track & Field at Husky Classic
+DESCRIPTION:[N] Portland State University Track & Field at Husky Classic\n\nStreaming Video: https://huskyclassic.runnerspace.com/eprofile.php?event_id=11&do=videos&video_id=446477\n
+URL:https://goviks.com/calendar.aspx?game_id=5670&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5717-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260213T194500Z
+DTEND:20260213T214500Z
+LOCATION:Tempe\, AZ / Alberta B. Farrington Stadium
+SUMMARY:[L] Portland State University Softball vs Nevada
+DESCRIPTION:[L] Portland State University Softball vs Nevada\nL 1-6 \n
+URL:https://goviks.com/calendar.aspx?game_id=5717&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5718-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260213T223000Z
+DTEND:20260214T003000Z
+LOCATION:Tempe\, AZ / Alberta B. Farrington Stadium
+SUMMARY:[W] Portland State University Softball vs Pacific
+DESCRIPTION:[W] Portland State University Softball vs Pacific\nW 7-2 \n
+URL:https://goviks.com/calendar.aspx?game_id=5718&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5671-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+LOCATION:Seattle\, Wash.
+SUMMARY:[N] Portland State University Track & Field at Husky Classic
+DESCRIPTION:[N] Portland State University Track & Field at Husky Classic\n\nStreaming Video: https://huskyclassic.runnerspace.com/eprofile.php?event_id=11&do=videos&video_id=446477\n
+URL:https://goviks.com/calendar.aspx?game_id=5671&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5719-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260214T194500Z
+DTEND:20260214T214500Z
+LOCATION:Tempe\, AZ / Alberta B. Farrington Stadium
+SUMMARY:[L] Portland State University Softball at Arizona State 
+DESCRIPTION:[L] Portland State University Softball at Arizona State \nL 2-20 (5 inn.)\nStreaming Video: https://www.espn.com/watch/player/_/id/aa20df35-bd8a-4120-a9e8-6b632a62a5c9\n
+URL:https://goviks.com/calendar.aspx?game_id=5719&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5580-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260214T220000Z
+DTEND:20260215T000000Z
+LOCATION:Greeley\, CO
+SUMMARY:[L] Portland State University Men's Basketball at Northern Colorado
+DESCRIPTION:[L] Portland State University Men's Basketball at Northern Colorado\nL 65-77\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5580&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5612-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260214T220000Z
+DTEND:20260215T000000Z
+LOCATION:Portland\, Ore., Viking Pavilion
+SUMMARY:[L] Portland State University Women's Basketball vs Northern Colorado - Pink Out
+DESCRIPTION:[L] Portland State University Women's Basketball vs Northern Colorado - Pink Out\nL 57-71 \nStreaming Video: https://www.espn.com/watch/player/_/id/98f3451e-57ff-4e10-ba34-4e9cd405b7c1\nTickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3295\n
+URL:https://goviks.com/calendar.aspx?game_id=5612&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5767-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260214T230000Z
+DTEND:20260215T020000Z
+LOCATION:Seattle\, WA / Nordstrom Tennis Center
+SUMMARY:[L] Portland State University Men's Tennis at Washington
+DESCRIPTION:[L] Portland State University Men's Tennis at Washington\nL 0-4\n
+URL:https://goviks.com/calendar.aspx?game_id=5767&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5613-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260220T020000Z
+DTEND:20260220T040000Z
+LOCATION:Moscow\, Idaho
+SUMMARY:[L] Portland State University Women's Basketball at Idaho
+DESCRIPTION:[L] Portland State University Women's Basketball at Idaho\nL 66-86 \nStreaming Video: https://www.espn.com/watch/player/_/id/391ca170-aac0-4985-ae5b-4a3e98ef2111\n
+URL:https://goviks.com/calendar.aspx?game_id=5613&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5581-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260220T020000Z
+DTEND:20260220T040000Z
+LOCATION:, Viking Pavilion
+SUMMARY:[W] Portland State University Men's Basketball vs Idaho
+DESCRIPTION:[W] Portland State University Men's Basketball vs Idaho\nW 77-67\nTV: ESPNU\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5581&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5798-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260220T190000Z
+DTEND:20260220T220000Z
+LOCATION:Pullman\, WA / Hollingbery Fieldhouse
+SUMMARY:[L] Portland State University Women's Tennis at Washington State 
+DESCRIPTION:[L] Portland State University Women's Tennis at Washington State \nL 2-5\n
+URL:https://goviks.com/calendar.aspx?game_id=5798&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5757-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+LOCATION:Newberg\, Ore.
+SUMMARY:[N] Portland State University Track & Field at GFU Indoor #2
+DESCRIPTION:[N] Portland State University Track & Field at GFU Indoor #2\n \n
+URL:https://goviks.com/calendar.aspx?game_id=5757&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5768-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260221T180000Z
+DTEND:20260221T210000Z
+LOCATION:Beaverton\, OR, Tualatin Hills Tennis Center
+SUMMARY:[W] Portland State University Men's Tennis vs Lewis-Clark State College 
+DESCRIPTION:[W] Portland State University Men's Tennis vs Lewis-Clark State College \nW 7-0\n
+URL:https://goviks.com/calendar.aspx?game_id=5768&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5614-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260221T220000Z
+DTEND:20260222T000000Z
+LOCATION:Cheney\, Wash.
+SUMMARY:[L] Portland State University Women's Basketball at Eastern Washington
+DESCRIPTION:[L] Portland State University Women's Basketball at Eastern Washington\nL 78-87 \nStreaming Video: https://www.espn.com/watch/player/_/id/8ea5afb5-4a2b-45d7-a190-c908e64c345f\n
+URL:https://goviks.com/calendar.aspx?game_id=5614&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5582-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260221T220000Z
+DTEND:20260222T000000Z
+LOCATION:, Viking Pavilion
+SUMMARY:[L] Portland State University Men's Basketball vs Eastern Washington
+DESCRIPTION:[L] Portland State University Men's Basketball vs Eastern Washington\nL 55-67\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5582&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5720-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260226T230000Z
+DTEND:20260227T010000Z
+LOCATION:Honolulu\, HI / Rainbow Wahine Softball Stadium
+SUMMARY:[W] Portland State University Softball vs Mercyhurst 
+DESCRIPTION:[W] Portland State University Softball vs Mercyhurst \nW 9-0 (5 Inn.)\n
+URL:https://goviks.com/calendar.aspx?game_id=5720&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5583-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260227T030000Z
+DTEND:20260227T050000Z
+LOCATION:Bozeman\, Mont.
+SUMMARY:[L] Portland State University Men's Basketball at Montana State
+DESCRIPTION:[L] Portland State University Men's Basketball at Montana State\nL 69-84\nTV: SWX (Montana)\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5583&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5615-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260227T030000Z
+DTEND:20260227T050000Z
+LOCATION:Portland\, Ore., Viking Pavilion
+SUMMARY:[L] Portland State University Women's Basketball vs Montana State
+DESCRIPTION:[L] Portland State University Women's Basketball vs Montana State\nL 63-66 \nStreaming Video: https://www.espn.com/watch/player/_/id/d3c58fb2-aa01-4a15-8920-3e8a10a0466b\nTickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3296\n
+URL:https://goviks.com/calendar.aspx?game_id=5615&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5673-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+LOCATION:Pocatello\, Idaho
+SUMMARY:[N] Portland State University Track & Field at Big Sky Indoor Championships
+DESCRIPTION:[N] Portland State University Track & Field at Big Sky Indoor Championships\n\nStreaming Video: https://www.espn.com/watch/player/_/id/f15c9b74-1a13-4026-891b-686434d94e91\n
+URL:https://goviks.com/calendar.aspx?game_id=5673&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5800-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260227T180000Z
+DTEND:20260227T210000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:[W] Portland State University Women's Tennis vs Lewis-Clark State College
+DESCRIPTION:[W] Portland State University Women's Tennis vs Lewis-Clark State College\nW 6-1 \n
+URL:https://goviks.com/calendar.aspx?game_id=5800&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5721-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260227T230000Z
+DTEND:20260228T010000Z
+LOCATION:Honolulu\, HI / Rainbow Wahine Softball Stadium
+SUMMARY:[L] Portland State University Softball vs Mercyhurst
+DESCRIPTION:[L] Portland State University Softball vs Mercyhurst\nL 2-4 \n
+URL:https://goviks.com/calendar.aspx?game_id=5721&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5722-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T040000Z
+DTEND:20260228T060000Z
+LOCATION:Honolulu\, HI / Rainbow Wahine Softball Stadium
+SUMMARY:[L] Portland State University Softball at Hawaii
+DESCRIPTION:[L] Portland State University Softball at Hawaii\nL 5-6 (8 inn.)\n
+URL:https://goviks.com/calendar.aspx?game_id=5722&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5674-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+LOCATION:Pocatello\, Idaho
+SUMMARY:[N] Portland State University Track & Field at Big Sky Indoor Championships
+DESCRIPTION:[N] Portland State University Track & Field at Big Sky Indoor Championships\n\nStreaming Video: https://www.espn.com/watch/player/_/id/b285e3c0-3d70-42a8-9213-2a1bdd18a84a\n
+URL:https://goviks.com/calendar.aspx?game_id=5674&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5769-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T180000Z
+DTEND:20260228T210000Z
+LOCATION:Beaverton\, OR, Tualatin Hills Tennis Center
+SUMMARY:[W] Portland State University Men's Tennis vs Montana State 
+DESCRIPTION:[W] Portland State University Men's Tennis vs Montana State \nW 4-3 \n
+URL:https://goviks.com/calendar.aspx?game_id=5769&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5723-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T200000Z
+DTEND:20260228T220000Z
+LOCATION:Honolulu\, HI / Rainbow Wahine Softball Stadium
+SUMMARY:[W] Portland State University Softball vs Mercyhurst
+DESCRIPTION:[W] Portland State University Softball vs Mercyhurst\nW 10-3\n
+URL:https://goviks.com/calendar.aspx?game_id=5723&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5584-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T220000Z
+DTEND:20260301T000000Z
+LOCATION:Missoula\, Mont.
+SUMMARY:[L] Portland State University Men's Basketball at Montana
+DESCRIPTION:[L] Portland State University Men's Basketball at Montana\nL 68-74\nTV: SWX (Montana)\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5584&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5616-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T220000Z
+DTEND:20260301T000000Z
+LOCATION:Portland\, Ore., Viking Pavilion
+SUMMARY:[L] Portland State University Women's Basketball vs Montana - Senior Day
+DESCRIPTION:[L] Portland State University Women's Basketball vs Montana - Senior Day\nL 53-55 \nStreaming Video: https://www.espn.com/watch/player/_/id/470a5556-1690-432d-98bd-6aeec0b80269\nTickets: https://portlandstate.universitytickets.com/w/event.aspx?id=3297\n
+URL:https://goviks.com/calendar.aspx?game_id=5616&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5724-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260228T223000Z
+DTEND:20260301T003000Z
+LOCATION:Honolulu\, HI / Rainbow Wahine Softball Stadium
+SUMMARY:[W] Portland State University Softball at Hawaii
+DESCRIPTION:[W] Portland State University Softball at Hawaii\nW 5-4\n
+URL:https://goviks.com/calendar.aspx?game_id=5724&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5787-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260301T180000Z
+DTEND:20260301T210000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:[L] Portland State University Women's Tennis vs Portland
+DESCRIPTION:[L] Portland State University Women's Tennis vs Portland\nL 3-4\n
+URL:https://goviks.com/calendar.aspx?game_id=5787&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5637-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+LOCATION:Fresno\, CA, Fort Washington Golf and Country Club
+SUMMARY:[N] Portland State University Women's Golf vs Hosted by Fresno State
+DESCRIPTION:[N] Portland State University Women's Golf vs Hosted by Fresno State\n 10th of 11 teams, 315--310-310=935\n
+URL:https://goviks.com/calendar.aspx?game_id=5637&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5617-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260303T010000Z
+DTEND:20260303T030000Z
+LOCATION:Ogden\, Utah
+SUMMARY:[L] Portland State University Women's Basketball at Weber State
+DESCRIPTION:[L] Portland State University Women's Basketball at Weber State\nL 52-81 \nStreaming Video: https://www.espn.com/watch/player/_/id/9f9e309d-eaad-4e6a-8c34-f9b30c9c43c8\n
+URL:https://goviks.com/calendar.aspx?game_id=5617&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5585-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260303T030000Z
+DTEND:20260303T050000Z
+LOCATION:, Viking Pavilion
+SUMMARY:[W] Portland State University Men's Basketball vs Weber State
+DESCRIPTION:[W] Portland State University Men's Basketball vs Weber State\nW 84-60\nStreaming Video: https://www.espn.com/espnplus/\n
+URL:https://goviks.com/calendar.aspx?game_id=5585&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5725-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260305T190000Z
+DTEND:20260305T210000Z
+LOCATION:Boise\, ID / Huber Field at Dona Larsen Park
+SUMMARY:[W] Portland State University Softball vs Cal Baptist
+DESCRIPTION:[W] Portland State University Softball vs Cal Baptist\nW 7-3\n
+URL:https://goviks.com/calendar.aspx?game_id=5725&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5726-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260306T000000Z
+DTEND:20260306T020000Z
+LOCATION:Boise\, ID / Huber Field at Dona Larsen Park
+SUMMARY:[L] Portland State University Softball at Boise State 
+DESCRIPTION:[L] Portland State University Softball at Boise State \nL 1-8\nStreaming Video: https://broncosports.com/sports/2018/7/31/mountain-west-digital-network\n
+URL:https://goviks.com/calendar.aspx?game_id=5726&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5727-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260306T230000Z
+DTEND:20260307T010000Z
+LOCATION:Boise\, ID / Huber Field at Dona Larsen Park
+SUMMARY:[L] Portland State University Softball vs St. Thomas
+DESCRIPTION:[L] Portland State University Softball vs St. Thomas\nL 3-5\n
+URL:https://goviks.com/calendar.aspx?game_id=5727&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5728-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260307T013000Z
+DTEND:20260307T033000Z
+LOCATION:Boise\, ID / Huber Field at Dona Larsen Park
+SUMMARY:[W] Portland State University Softball at Boise State 
+DESCRIPTION:[W] Portland State University Softball at Boise State \nW 4-1\nStreaming Video: https://broncosports.com/sports/2018/7/31/mountain-west-digital-network\n
+URL:https://goviks.com/calendar.aspx?game_id=5728&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5770-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260307T180000Z
+DTEND:20260307T210000Z
+LOCATION:Phoenix\, AZ / GCU Tennis Facility
+SUMMARY:[L] Portland State University Men's Tennis at Grand Canyon  - DOUBLEHEADER
+DESCRIPTION:[L] Portland State University Men's Tennis at Grand Canyon  - DOUBLEHEADER\nL 0-4\n
+URL:https://goviks.com/calendar.aspx?game_id=5770&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5618-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260307T190000Z
+DTEND:20260307T210000Z
+LOCATION:Boise\, Idaho, Idaho Central Arena
+SUMMARY:[L] Portland State University Women's Basketball vs No. 9 Weber State - First Round
+DESCRIPTION:[L] Portland State University Women's Basketball vs No. 9 Weber State - First Round\nL 53-76 \nStreaming Video: https://www.espn.com/watch/player/_/id/2251b91a-752a-40b6-887b-4f0a46628ce4\n
+URL:https://goviks.com/calendar.aspx?game_id=5618&amp;sport_id=8
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5729-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260307T193000Z
+DTEND:20260307T213000Z
+LOCATION:Boise\, ID / Huber Field at Dona Larsen Park
+SUMMARY:[L] Portland State University Softball vs St. Thomas
+DESCRIPTION:[L] Portland State University Softball vs St. Thomas\nL 3-10\n
+URL:https://goviks.com/calendar.aspx?game_id=5729&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5771-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260307T220000Z
+DTEND:20260308T010000Z
+LOCATION:Phoenix\, AZ / GCU Tennis Facility
+SUMMARY:[L] Portland State University Men's Tennis at Grand Canyon  - DOUBLEHEADER
+DESCRIPTION:[L] Portland State University Men's Tennis at Grand Canyon  - DOUBLEHEADER\nL 0-4\n
+URL:https://goviks.com/calendar.aspx?game_id=5771&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5772-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260308T170000Z
+DTEND:20260308T200000Z
+LOCATION:Flagstaff\, AZ / NAU Tennis Center
+SUMMARY:[L] Portland State University Men's Tennis at Northern Arizona 
+DESCRIPTION:[L] Portland State University Men's Tennis at Northern Arizona \nL 1-6\n
+URL:https://goviks.com/calendar.aspx?game_id=5772&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5586-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260308T233000Z
+DTEND:20260309T013000Z
+LOCATION:Boise\, ID, Idaho Central Arena
+SUMMARY:[W] Portland State University Men's Basketball vs Quarterfinal vs. Idaho State
+DESCRIPTION:[W] Portland State University Men's Basketball vs Quarterfinal vs. Idaho State\nW 85-78\nStreaming Video: https://www.espn.com/espnplus/\nTickets: https://www.ticketmaster.com/event/1E00643CA5B57B2A\n
+URL:https://goviks.com/calendar.aspx?game_id=5586&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5801-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260311T020000Z
+DTEND:20260311T040000Z
+LOCATION:Boise\, ID, Idaho Central Arena
+SUMMARY:[L] Portland State University Men's Basketball vs Semifinal vs. Montana
+DESCRIPTION:[L] Portland State University Men's Basketball vs Semifinal vs. Montana\nL 72-75\nTV: ESPNU\nTickets: https://www.ticketmaster.com/event/1E00643CA6577BA1\n
+URL:https://goviks.com/calendar.aspx?game_id=5801&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5773-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260313T170000Z
+DTEND:20260313T200000Z
+LOCATION:Beaverton\, OR, Tualatin Hills Tennis Center
+SUMMARY:Portland State University Men's Tennis vs Lewis & Clark 
+DESCRIPTION:Portland State University Men's Tennis vs Lewis & Clark \n
+URL:https://goviks.com/calendar.aspx?game_id=5773&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5730-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260313T200000Z
+DTEND:20260313T220000Z
+LOCATION:Los Angeles\, CA / Smith Field
+SUMMARY:Portland State University Softball at LMU
+DESCRIPTION:Portland State University Softball at LMU\nStreaming Video: https://www.espn.com/watch/\n
+URL:https://goviks.com/calendar.aspx?game_id=5730&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5731-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260313T223000Z
+DTEND:20260314T003000Z
+LOCATION:Los Angeles\, CA / Smith Field
+SUMMARY:Portland State University Softball vs Southern Utah 
+DESCRIPTION:Portland State University Softball vs Southern Utah \n
+URL:https://goviks.com/calendar.aspx?game_id=5731&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5803-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at LCC Open
+DESCRIPTION:Portland State University Track & Field at LCC Open\n
+URL:https://goviks.com/calendar.aspx?game_id=5803&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5758-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+LOCATION:Newberg\, Ore.
+SUMMARY:Portland State University Track & Field at Rich Allen Classic
+DESCRIPTION:Portland State University Track & Field at Rich Allen Classic\n
+URL:https://goviks.com/calendar.aspx?game_id=5758&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5732-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260314T170000Z
+DTEND:20260314T190000Z
+LOCATION:Los Angeles\, CA / Smith Field
+SUMMARY:Portland State University Softball at LMU
+DESCRIPTION:Portland State University Softball at LMU\nStreaming Video: https://www.espn.com/watch/\n
+URL:https://goviks.com/calendar.aspx?game_id=5732&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5733-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260314T193000Z
+DTEND:20260314T213000Z
+LOCATION:Los Angeles\, CA / Smith Field
+SUMMARY:Portland State University Softball vs Southern Utah 
+DESCRIPTION:Portland State University Softball vs Southern Utah \n
+URL:https://goviks.com/calendar.aspx?game_id=5733&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5774-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260315T170000Z
+DTEND:20260315T200000Z
+LOCATION:Beaverton\, OR, Tualatin Hills Tennis Center
+SUMMARY:Portland State University Men's Tennis vs Montana
+DESCRIPTION:Portland State University Men's Tennis vs Montana\n
+URL:https://goviks.com/calendar.aspx?game_id=5774&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5788-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260315T220000Z
+DTEND:20260316T010000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:Portland State University Women's Tennis vs Montana State 
+DESCRIPTION:Portland State University Women's Tennis vs Montana State \n
+URL:https://goviks.com/calendar.aspx?game_id=5788&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5638-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+LOCATION:Boulder Creek\, NV, Boulder Creek Golf Club 
+SUMMARY:Portland State University Women's Golf vs Hosted by South Dakota State
+DESCRIPTION:Portland State University Women's Golf vs Hosted by South Dakota State\n
+URL:https://goviks.com/calendar.aspx?game_id=5638&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5789-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260316T170000Z
+DTEND:20260316T200000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:Portland State University Women's Tennis vs Montana
+DESCRIPTION:Portland State University Women's Tennis vs Montana\n
+URL:https://goviks.com/calendar.aspx?game_id=5789&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5734-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260320T210000Z
+DTEND:20260320T230000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs North Dakota - OPENING DAY 
+DESCRIPTION:Portland State University Softball vs North Dakota - OPENING DAY \nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5734&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5735-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260320T233000Z
+DTEND:20260321T013000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs North Dakota - OPENING DAY 
+DESCRIPTION:Portland State University Softball vs North Dakota - OPENING DAY \nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5735&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5677-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+LOCATION:Corvallis\, Ore.
+SUMMARY:Portland State University Track & Field at PNW Invitational
+DESCRIPTION:Portland State University Track & Field at PNW Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5677&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5790-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260322T170000Z
+DTEND:20260322T200000Z
+LOCATION:Flagstaff\, Ariz. / NAU Tennis Center 
+SUMMARY:Portland State University Women's Tennis at Northern Arizona
+DESCRIPTION:Portland State University Women's Tennis at Northern Arizona\n
+URL:https://goviks.com/calendar.aspx?game_id=5790&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5775-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260322T170000Z
+DTEND:20260322T200000Z
+LOCATION:Ogden\, UT / Ogden Athletic Club
+SUMMARY:Portland State University Men's Tennis at Weber State 
+DESCRIPTION:Portland State University Men's Tennis at Weber State \n
+URL:https://goviks.com/calendar.aspx?game_id=5775&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5736-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260322T190000Z
+DTEND:20260322T210000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Santa Clara  - TERI MARIANI DAY
+DESCRIPTION:Portland State University Softball vs Santa Clara  - TERI MARIANI DAY\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5736&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5737-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260322T213000Z
+DTEND:20260322T233000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Santa Clara  - TERI MARIANI DAY
+DESCRIPTION:Portland State University Softball vs Santa Clara  - TERI MARIANI DAY\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5737&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5738-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260323T190000Z
+DTEND:20260323T210000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Santa Clara  - KIDS AT THE BALLPARK – FREE POSTGAME CLINIC (SIGN UP)
+DESCRIPTION:Portland State University Softball vs Santa Clara  - KIDS AT THE BALLPARK – FREE POSTGAME CLINIC (SIGN UP)\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5738&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5776-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260324T170000Z
+DTEND:20260324T200000Z
+LOCATION:Logan\, UT / Sports Academy & Racquet Club
+SUMMARY:Portland State University Men's Tennis at Utah State 
+DESCRIPTION:Portland State University Men's Tennis at Utah State \n
+URL:https://goviks.com/calendar.aspx?game_id=5776&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5777-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260326T170000Z
+DTEND:20260326T200000Z
+LOCATION:Pocatello\, ID / Reed Gym
+SUMMARY:Portland State University Men's Tennis at Idaho State 
+DESCRIPTION:Portland State University Men's Tennis at Idaho State \n
+URL:https://goviks.com/calendar.aspx?game_id=5777&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5678-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+LOCATION:Salem\, Ore.
+SUMMARY:Portland State University Track & Field at Willamette Invitational
+DESCRIPTION:Portland State University Track & Field at Willamette Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5678&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5739-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260328T190000Z
+DTEND:20260328T210000Z
+LOCATION:Missoula\, MT / Grizzly Softball Field
+SUMMARY:Portland State University Softball at Montana
+DESCRIPTION:Portland State University Softball at Montana\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5739&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5740-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260328T213000Z
+DTEND:20260328T233000Z
+LOCATION:Missoula\, MT / Grizzly Softball Field
+SUMMARY:Portland State University Softball at Montana
+DESCRIPTION:Portland State University Softball at Montana\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5740&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5791-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260329T170000Z
+DTEND:20260329T200000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:Portland State University Women's Tennis vs Idaho
+DESCRIPTION:Portland State University Women's Tennis vs Idaho\n
+URL:https://goviks.com/calendar.aspx?game_id=5791&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5741-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260329T180000Z
+DTEND:20260329T200000Z
+LOCATION:Missoula\, MT / Grizzly Softball Field
+SUMMARY:Portland State University Softball at Montana
+DESCRIPTION:Portland State University Softball at Montana\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5741&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5679-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+LOCATION:San Francisco\, Calif.
+SUMMARY:Portland State University Track & Field at Mike Fanelli Track Classic
+DESCRIPTION:Portland State University Track & Field at Mike Fanelli Track Classic\n
+URL:https://goviks.com/calendar.aspx?game_id=5679&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5681-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+LOCATION:Stanford\, Calif.
+SUMMARY:Portland State University Track & Field at Stanford Invitational
+DESCRIPTION:Portland State University Track & Field at Stanford Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5681&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5742-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260403T190000Z
+DTEND:20260403T210000Z
+LOCATION:Pocatello\, ID / Direct Communications Field
+SUMMARY:Portland State University Softball at Idaho State
+DESCRIPTION:Portland State University Softball at Idaho State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5742&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5743-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260403T213000Z
+DTEND:20260403T233000Z
+LOCATION:Pocatello\, ID / Direct Communications Field 
+SUMMARY:Portland State University Softball at Idaho State
+DESCRIPTION:Portland State University Softball at Idaho State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5743&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5682-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+LOCATION:Stanford\, Calif.
+SUMMARY:Portland State University Track & Field at Stanford Invitational
+DESCRIPTION:Portland State University Track & Field at Stanford Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5682&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5683-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+LOCATION:Berkeley\, Calif.
+SUMMARY:Portland State University Track & Field at Brutus Hamilton Invitational
+DESCRIPTION:Portland State University Track & Field at Brutus Hamilton Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5683&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5680-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+LOCATION:San Francisco\, Calif.
+SUMMARY:Portland State University Track & Field at Mike Fanelli Track Classic
+DESCRIPTION:Portland State University Track & Field at Mike Fanelli Track Classic\n
+URL:https://goviks.com/calendar.aspx?game_id=5680&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5792-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260404T170000Z
+DTEND:20260404T200000Z
+LOCATION:Beaverton\, Ore., Tualatin Hills Tennis Center
+SUMMARY:Portland State University Women's Tennis vs Eastern Washington 
+DESCRIPTION:Portland State University Women's Tennis vs Eastern Washington \n
+URL:https://goviks.com/calendar.aspx?game_id=5792&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5744-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260404T180000Z
+DTEND:20260404T200000Z
+LOCATION:Pocatello\, ID / Direct Communications Field 
+SUMMARY:Portland State University Softball at Idaho State
+DESCRIPTION:Portland State University Softball at Idaho State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5744&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5779-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260405T170000Z
+DTEND:20260405T200000Z
+LOCATION:Beaverton\, OR, Tualatin Hills Tennis Center
+SUMMARY:Portland State University Men's Tennis vs Idaho
+DESCRIPTION:Portland State University Men's Tennis vs Idaho\n
+URL:https://goviks.com/calendar.aspx?game_id=5779&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5684-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+LOCATION:Monmouth\, Ore.
+SUMMARY:Portland State University Track & Field at John Knight Twilight
+DESCRIPTION:Portland State University Track & Field at John Knight Twilight\n
+URL:https://goviks.com/calendar.aspx?game_id=5684&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5793-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260410T173000Z
+DTEND:20260410T203000Z
+LOCATION:Ogden\, UT / Ogden Athletic Club
+SUMMARY:Portland State University Women's Tennis at Weber State 
+DESCRIPTION:Portland State University Women's Tennis at Weber State \n
+URL:https://goviks.com/calendar.aspx?game_id=5793&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5745-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260410T200000Z
+DTEND:20260410T220000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND
+DESCRIPTION:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5745&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5746-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260410T223000Z
+DTEND:20260411T003000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND
+DESCRIPTION:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5746&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5685-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+LOCATION:Monmouth\, Ore.
+SUMMARY:Portland State University Track & Field at John Knight Twilight
+DESCRIPTION:Portland State University Track & Field at John Knight Twilight\n
+URL:https://goviks.com/calendar.aspx?game_id=5685&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5747-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND
+DESCRIPTION:Portland State University Softball vs Weber State  - STRIKE OUT CANCER WEEKEND\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5747&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5794-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260412T170000Z
+DTEND:20260412T200000Z
+LOCATION:Pocatello\, ID / Reed Gym
+SUMMARY:Portland State University Women's Tennis at Idaho State 
+DESCRIPTION:Portland State University Women's Tennis at Idaho State \n
+URL:https://goviks.com/calendar.aspx?game_id=5794&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5639-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260415
+LOCATION:Goodyear\, AZ, Golf Club of Estrella
+SUMMARY:Portland State University Women's Golf vs Hosted by Montana State
+DESCRIPTION:Portland State University Women's Golf vs Hosted by Montana State\n
+URL:https://goviks.com/calendar.aspx?game_id=5639&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5748-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260414T223000Z
+DTEND:20260415T003000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Oregon State - STAFF & FACULTY APPRECIATION NIGHT
+DESCRIPTION:Portland State University Softball vs Oregon State - STAFF & FACULTY APPRECIATION NIGHT\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5748&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5749-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260415T013000Z
+DTEND:20260415T033000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Oregon State - STAFF & FACULTY APPRECIATION NIGHT
+DESCRIPTION:Portland State University Softball vs Oregon State - STAFF & FACULTY APPRECIATION NIGHT\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5749&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5686-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+LOCATION:Azusa\, Calif.
+SUMMARY:Portland State University Track & Field at Bryan Clay Invitational
+DESCRIPTION:Portland State University Track & Field at Bryan Clay Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5686&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5689-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+LOCATION:Long Beach\, Calif.
+SUMMARY:Portland State University Track & Field at Pacific Coast Invitational
+DESCRIPTION:Portland State University Track & Field at Pacific Coast Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5689&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5804-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+LOCATION:Walnut\, Calif.
+SUMMARY:Portland State University Track & Field at Mt. SAC Relays
+DESCRIPTION:Portland State University Track & Field at Mt. SAC Relays\n
+URL:https://goviks.com/calendar.aspx?game_id=5804&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5780-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260416T193000Z
+DTEND:20260416T223000Z
+LOCATION:Sacramento\, CA / Sac State Tennis Complex
+SUMMARY:Portland State University Men's Tennis at Sacramento State
+DESCRIPTION:Portland State University Men's Tennis at Sacramento State\n
+URL:https://goviks.com/calendar.aspx?game_id=5780&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5805-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+LOCATION:Walnut\, Calif.
+SUMMARY:Portland State University Track & Field at Mt. SAC Relays
+DESCRIPTION:Portland State University Track & Field at Mt. SAC Relays\n
+URL:https://goviks.com/calendar.aspx?game_id=5805&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5687-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+LOCATION:Azusa\, Calif.
+SUMMARY:Portland State University Track & Field at Bryan Clay Invitational
+DESCRIPTION:Portland State University Track & Field at Bryan Clay Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5687&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5750-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260417T210000Z
+DTEND:20260417T230000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Northern Colorado - WOMEN IN LEADERSHIP – GIVEAWAY: SUNGLASSES
+DESCRIPTION:Portland State University Softball vs Northern Colorado - WOMEN IN LEADERSHIP – GIVEAWAY: SUNGLASSES\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5750&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5782-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260417T210000Z
+DTEND:20260418T000000Z
+LOCATION:Davis\, CA / Marya Welch Tennis Center
+SUMMARY:Portland State University Men's Tennis at UC Davis
+DESCRIPTION:Portland State University Men's Tennis at UC Davis\n
+URL:https://goviks.com/calendar.aspx?game_id=5782&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5751-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260417T233000Z
+DTEND:20260418T013000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Northern Colorado - WOMEN IN LEADERSHIP – GIVEAWAY: SUNGLASSES
+DESCRIPTION:Portland State University Softball vs Northern Colorado - WOMEN IN LEADERSHIP – GIVEAWAY: SUNGLASSES\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5751&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5688-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+LOCATION:Azusa\, Calif.
+SUMMARY:Portland State University Track & Field at Bryan Clay Invitational
+DESCRIPTION:Portland State University Track & Field at Bryan Clay Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5688&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5806-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+LOCATION:Walnut\, Calif.
+SUMMARY:Portland State University Track & Field at Mt. SAC Relays
+DESCRIPTION:Portland State University Track & Field at Mt. SAC Relays\n
+URL:https://goviks.com/calendar.aspx?game_id=5806&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5690-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+LOCATION:Long Beach\, Calif.
+SUMMARY:Portland State University Track & Field at Beach Invitational
+DESCRIPTION:Portland State University Track & Field at Beach Invitational\n
+URL:https://goviks.com/calendar.aspx?game_id=5690&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5795-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260418T180000Z
+DTEND:20260418T210000Z
+LOCATION:Sacramento\, CA / Sac State Tennis Complex
+SUMMARY:Portland State University Women's Tennis at Sacramento State
+DESCRIPTION:Portland State University Women's Tennis at Sacramento State\n
+URL:https://goviks.com/calendar.aspx?game_id=5795&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5752-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260418T200000Z
+DTEND:20260418T220000Z
+LOCATION:Hillsboro\, Ore., Hillsboro Ballpark
+SUMMARY:Portland State University Softball vs Northern Colorado - SENIOR DAY
+DESCRIPTION:Portland State University Softball vs Northern Colorado - SENIOR DAY\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5752&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5635-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260422
+LOCATION:Litchfield\, AZ, Wigwam Resort Blue
+SUMMARY:Portland State University Women's Golf vs Hosted by the Big Sky Conference
+DESCRIPTION:Portland State University Women's Golf vs Hosted by the Big Sky Conference\n
+URL:https://goviks.com/calendar.aspx?game_id=5635&amp;sport_id=10
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5796-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260425
+LOCATION:Phoenix\, AZ / Phoenix Tennis Center
+SUMMARY:Portland State University Women's Tennis vs Big Sky Championship Tournament
+DESCRIPTION:Portland State University Women's Tennis vs Big Sky Championship Tournament\n
+URL:https://goviks.com/calendar.aspx?game_id=5796&amp;sport_id=12
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5783-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260425
+LOCATION:Phoenix\, AZ / Phoenix Tennis Center
+SUMMARY:Portland State University Men's Tennis vs Big Sky Championship Tournament
+DESCRIPTION:Portland State University Men's Tennis vs Big Sky Championship Tournament\n
+URL:https://goviks.com/calendar.aspx?game_id=5783&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5753-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260424T190000Z
+DTEND:20260424T210000Z
+LOCATION:Sacramento\, CA / Shea Stadium
+SUMMARY:Portland State University Softball at Sacramento State
+DESCRIPTION:Portland State University Softball at Sacramento State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5753&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5754-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+LOCATION:Sacramento\, CA / Shea Stadium
+SUMMARY:Portland State University Softball at Sacramento State
+DESCRIPTION:Portland State University Softball at Sacramento State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5754&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5809-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+LOCATION:Salem\, Ore.
+SUMMARY:Portland State University Track & Field at Nancy & Norm Berney Classic
+DESCRIPTION:Portland State University Track & Field at Nancy & Norm Berney Classic\n
+URL:https://goviks.com/calendar.aspx?game_id=5809&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5755-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART:20260425T190000Z
+DTEND:20260425T210000Z
+LOCATION:Sacramento\, CA / Shea Stadium
+SUMMARY:Portland State University Softball at Sacramento State
+DESCRIPTION:Portland State University Softball at Sacramento State\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5755&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5691-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+LOCATION:Corvallis\, Ore.
+SUMMARY:Portland State University Track & Field at OSU High Performance Meet
+DESCRIPTION:Portland State University Track & Field at OSU High Performance Meet\n
+URL:https://goviks.com/calendar.aspx?game_id=5691&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5692-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+LOCATION:Corvallis\, Ore.
+SUMMARY:Portland State University Track & Field at OSU High Performance Meet
+DESCRIPTION:Portland State University Track & Field at OSU High Performance Meet\n
+URL:https://goviks.com/calendar.aspx?game_id=5692&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5756-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260508
+LOCATION:Pocatello\, ID / Direct Communications Field
+SUMMARY:Portland State University Softball vs Big Sky Tournament
+DESCRIPTION:Portland State University Softball vs Big Sky Tournament\nTV: ESPN+\n
+URL:https://goviks.com/calendar.aspx?game_id=5756&amp;sport_id=7
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5693-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+LOCATION:Portland\, Ore., Mt. Hood CC
+SUMMARY:Portland State University Track & Field vs Big Sky Outdoor Championships
+DESCRIPTION:Portland State University Track & Field vs Big Sky Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5693&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5694-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+LOCATION:Portland\, Ore., Mt. Hood CC
+SUMMARY:Portland State University Track & Field vs Big Sky Outdoor Championships
+DESCRIPTION:Portland State University Track & Field vs Big Sky Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5694&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5695-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+LOCATION:Portland\, Ore., Mt. Hood CC
+SUMMARY:Portland State University Track & Field vs Big Sky Outdoor Championships
+DESCRIPTION:Portland State University Track & Field vs Big Sky Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5695&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5696-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+LOCATION:Portland\, Ore., Mt. Hood CC
+SUMMARY:Portland State University Track & Field vs Big Sky Outdoor Championships
+DESCRIPTION:Portland State University Track & Field vs Big Sky Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5696&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5697-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+LOCATION:Fayetteville\, Ark.
+SUMMARY:Portland State University Track & Field at NCAA West First Round
+DESCRIPTION:Portland State University Track & Field at NCAA West First Round\n
+URL:https://goviks.com/calendar.aspx?game_id=5697&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5698-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+LOCATION:Fayetteville\, Ark.
+SUMMARY:Portland State University Track & Field at NCAA West First Round
+DESCRIPTION:Portland State University Track & Field at NCAA West First Round\n
+URL:https://goviks.com/calendar.aspx?game_id=5698&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5699-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+LOCATION:Fayetteville\, Ark.
+SUMMARY:Portland State University Track & Field at NCAA West First Round
+DESCRIPTION:Portland State University Track & Field at NCAA West First Round\n
+URL:https://goviks.com/calendar.aspx?game_id=5699&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5700-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+LOCATION:Fayetteville\, Ark.
+SUMMARY:Portland State University Track & Field at NCAA West First Round
+DESCRIPTION:Portland State University Track & Field at NCAA West First Round\n
+URL:https://goviks.com/calendar.aspx?game_id=5700&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5701-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at NCAA Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at NCAA Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5701&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5702-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at NCAA Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at NCAA Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5702&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5703-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at NCAA Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at NCAA Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5703&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5704-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at NCAA Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at NCAA Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5704&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5807-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at USATF U20 Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at USATF U20 Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5807&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5808-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+LOCATION:Eugene\, Ore.
+SUMMARY:Portland State University Track & Field at USATF U20 Outdoor Championships
+DESCRIPTION:Portland State University Track & Field at USATF U20 Outdoor Championships\n
+URL:https://goviks.com/calendar.aspx?game_id=5808&amp;sport_id=40
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5651-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+LOCATION:Hillsboro\, OR, Hillsboro Stadium
+SUMMARY:Portland State University Football vs UC Davis
+DESCRIPTION:Portland State University Football vs UC Davis\n
+URL:https://goviks.com/calendar.aspx?game_id=5651&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5652-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+LOCATION:San Diego\, CA, Snapdragon Stadium
+SUMMARY:Portland State University Football at San Diego State
+DESCRIPTION:Portland State University Football at San Diego State\n
+URL:https://goviks.com/calendar.aspx?game_id=5652&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5653-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+LOCATION:Hillsboro\, OR, Hillsboro Stadium
+SUMMARY:Portland State University Football vs North Dakota
+DESCRIPTION:Portland State University Football vs North Dakota\n
+URL:https://goviks.com/calendar.aspx?game_id=5653&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5654-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+LOCATION:Eugene\, OR, Autzen Stadium
+SUMMARY:Portland State University Football at Oregon
+DESCRIPTION:Portland State University Football at Oregon\n
+URL:https://goviks.com/calendar.aspx?game_id=5654&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5655-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+LOCATION:Ogden\, UT, Dee Shaw Stewart Stadium
+SUMMARY:Portland State University Football at Weber State
+DESCRIPTION:Portland State University Football at Weber State\n
+URL:https://goviks.com/calendar.aspx?game_id=5655&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5656-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+LOCATION:Hillsboro\, OR, Hillsboro Stadium
+SUMMARY:Portland State University Football vs Utah Tech
+DESCRIPTION:Portland State University Football vs Utah Tech\n
+URL:https://goviks.com/calendar.aspx?game_id=5656&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5657-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Flagstaff\, AZ, JL Walkup Skydome
+SUMMARY:Portland State University Football at Northern Arizona
+DESCRIPTION:Portland State University Football at Northern Arizona\n
+URL:https://goviks.com/calendar.aspx?game_id=5657&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5658-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+LOCATION:Pocatello\, ID, Holt Arena
+SUMMARY:Portland State University Football at Idaho State
+DESCRIPTION:Portland State University Football at Idaho State\n
+URL:https://goviks.com/calendar.aspx?game_id=5658&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5659-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Hillsboro\, OR, Hillsboro Stadium
+SUMMARY:Portland State University Football vs Idaho
+DESCRIPTION:Portland State University Football vs Idaho\n
+URL:https://goviks.com/calendar.aspx?game_id=5659&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5660-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Missoula\, Mont., Washington-Grizzly Stadium
+SUMMARY:Portland State University Football at Montana
+DESCRIPTION:Portland State University Football at Montana\n
+URL:https://goviks.com/calendar.aspx?game_id=5660&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5661-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+LOCATION:Hillsboro\, OR, Hillsboro Stadium
+SUMMARY:Portland State University Football vs Southern Utah
+DESCRIPTION:Portland State University Football vs Southern Utah\n
+URL:https://goviks.com/calendar.aspx?game_id=5661&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_5662-goviks.com
+DTSTAMP:20260313T023241Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Cheney\, WA, Roos Field
+SUMMARY:Portland State University Football at Eastern Washington
+DESCRIPTION:Portland State University Football at Eastern Washington\n
+URL:https://goviks.com/calendar.aspx?game_id=5662&amp;sport_id=1
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

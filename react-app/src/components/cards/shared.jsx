@@ -7,6 +7,7 @@ import {
   TreePine, Church, Dumbbell, Calendar,
 } from 'lucide-react';
 import { useAuth } from '../../hooks/useAuth.jsx';
+import { useCurator } from '../../hooks/useCurator.jsx';
 import { usePicks, useIsEventPicked } from '../../hooks/usePicks.jsx';
 import { useFeatured, useIsEventFeatured } from '../../hooks/useFeatured.jsx';
 import { useTargetCollection } from '../../hooks/useTargetCollection.jsx';
@@ -26,6 +27,8 @@ import CATEGORIES from '../../lib/categories.js';
 import { SUPABASE_URL, SUPABASE_KEY } from '../../lib/supabase.js';
 import EnrichmentEditor from '../EnrichmentEditor.jsx';
 import EmbedModal from '../EmbedModal.jsx';
+
+export const hideOnImgError = (e) => { e.target.style.display = 'none'; };
 
 export const CATEGORY_ICONS = {
   'Arts / Culture': Palette,
@@ -74,10 +77,12 @@ export function useEventCardData(event, filterTerm) {
 
 export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
   const { user } = useAuth();
+  const { isCuratorForCity } = useCurator();
   const feedCtx = useFeedContext();
   const [showCatModal, setShowCatModal] = React.useState(false);
   const [showEnrich, setShowEnrich] = React.useState(false);
 
+  const canCurate = isCuratorForCity(event.city);
   const isAutoFeed = feedCtx?.collection?.type === 'auto';
   const removeTitle = isAutoFeed ? 'Exclude from collection' : 'Remove from collection';
 
@@ -116,9 +121,10 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
         >
           <Download size={16} />
         </button>
+        {user && <BookmarkButton event={event} />}
       </div>
       {/* Curator tools row */}
-      {user && (
+      {canCurate && (
         <div className="border-t border-gray-100 dark:border-gray-700 mt-2 pt-2 flex items-center gap-2">
           <span className="text-[10px] font-medium text-gray-400 uppercase tracking-wide">Curator</span>
           <div className="flex-1" />
@@ -155,7 +161,6 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
             </button>
           )}
           <StarButton event={event} />
-          <BookmarkButton event={event} />
         </div>
       )}
       {showCatModal && (
@@ -179,51 +184,57 @@ export function ActionBar({ event, onCategoryFilter, onShowDetail, colors }) {
 /** Curator tools for compact/hover cards — shown inline. */
 export function CuratorTools({ event }) {
   const { user } = useAuth();
+  const { isCuratorForCity } = useCurator();
   const feedCtx = useFeedContext();
   const [showCatModal, setShowCatModal] = React.useState(false);
   const [showEnrich, setShowEnrich] = React.useState(false);
 
   if (!user) return null;
 
+  const canCurate = isCuratorForCity(event.city);
   const isAutoFeed = feedCtx?.collection?.type === 'auto';
   const removeTitle = isAutoFeed ? 'Exclude from collection' : 'Remove from collection';
 
   return (
     <>
       <div className="flex items-center gap-1.5">
-        {event.category ? (
-          <button
-            onClick={e => { e.stopPropagation(); setShowCatModal(true); }}
-            className="text-gray-400 hover:text-gray-600 transition-colors"
-            title="Override category"
-          >
-            <Pencil size={12} />
-          </button>
-        ) : (
-          <button
-            onClick={e => { e.stopPropagation(); setShowCatModal(true); }}
-            className="text-xs text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300 transition-colors"
-          >
-            +cat
-          </button>
+        {canCurate && (
+          <>
+            {event.category ? (
+              <button
+                onClick={e => { e.stopPropagation(); setShowCatModal(true); }}
+                className="text-gray-400 hover:text-gray-600 transition-colors"
+                title="Override category"
+              >
+                <Pencil size={12} />
+              </button>
+            ) : (
+              <button
+                onClick={e => { e.stopPropagation(); setShowCatModal(true); }}
+                className="text-xs text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:text-gray-300 transition-colors"
+              >
+                +cat
+              </button>
+            )}
+            <button
+              onClick={e => { e.stopPropagation(); setShowEnrich(true); }}
+              className="text-gray-400 hover:text-gray-600 transition-colors"
+              title="Edit enrichment"
+            >
+              <Settings2 size={12} />
+            </button>
+            {feedCtx?.onRemoveEvent && (
+              <button
+                onClick={e => { e.stopPropagation(); feedCtx.onRemoveEvent(event); }}
+                className="text-gray-400 hover:text-red-400 transition-colors"
+                title={removeTitle}
+              >
+                <X size={14} />
+              </button>
+            )}
+            <StarButton event={event} size={14} />
+          </>
         )}
-        <button
-          onClick={e => { e.stopPropagation(); setShowEnrich(true); }}
-          className="text-gray-400 hover:text-gray-600 transition-colors"
-          title="Edit enrichment"
-        >
-          <Settings2 size={12} />
-        </button>
-        {feedCtx?.onRemoveEvent && (
-          <button
-            onClick={e => { e.stopPropagation(); feedCtx.onRemoveEvent(event); }}
-            className="text-gray-400 hover:text-red-400 transition-colors"
-            title={removeTitle}
-          >
-            <X size={14} />
-          </button>
-        )}
-        <StarButton event={event} size={14} />
         <BookmarkButton event={event} size={14} />
       </div>
       {showCatModal && (
@@ -354,7 +365,7 @@ export function DetailModal({ event, dateStr, timeStr, onClose }) {
         {event.location && <p className="text-sm text-gray-700 dark:text-gray-300 mb-1">{event.location}</p>}
         {event.source && <p className="text-sm text-gray-400 italic mb-3">{event.source}</p>}
         {event.image_url && (
-          <img src={event.image_url} alt="" className="w-full object-contain mb-4 rounded-lg" />
+          <img src={event.image_url} alt="" className="w-full object-contain mb-4 rounded-lg" onError={hideOnImgError} />
         )}
         {event.description && (
           <div

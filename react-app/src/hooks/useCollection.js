@@ -7,9 +7,11 @@ export function useCollection(feedId) {
   const [collection, setCollection] = useState(null);
   const [events, setEvents] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [featuredEvents, setFeaturedEvents] = useState([]);
+  const [featuredLoading, setFeaturedLoading] = useState(true);
 
   useEffect(() => {
-    if (!feedId) { setLoading(false); return; }
+    if (!feedId) { setLoading(false); setFeaturedLoading(false); return; }
 
     const headers = { apikey: SUPABASE_KEY };
 
@@ -23,7 +25,30 @@ export function useCollection(feedId) {
         const colData = await colRes.json();
         const col = Array.isArray(colData) ? colData[0] : null;
         setCollection(col || null);
-        if (!col) { setEvents([]); setLoading(false); return; }
+        if (!col) { setEvents([]); setLoading(false); setFeaturedLoading(false); return; }
+
+        // Start enrichments fetch in parallel with events
+        const enrichmentsPromise = fetch(
+          `${SUPABASE_URL}/rest/v1/event_enrichments?curator_id=eq.${col.user_id}&select=*`,
+          { headers }
+        ).then(r => r.json()).catch(() => []);
+
+        // Fast-path: once enrichments arrive, fetch just the featured events
+        enrichmentsPromise.then(enrData => {
+          const enr = Array.isArray(enrData) ? enrData : [];
+          const featuredIds = enr.filter(e => e.featured && e.event_id).map(e => e.event_id);
+          if (featuredIds.length === 0) { setFeaturedLoading(false); return; }
+
+          const idsParam = featuredIds.map(id => encodeURIComponent(id)).join(',');
+          return fetch(
+            `${SUPABASE_URL}/rest/v1/events?id=in.(${idsParam})&select=*`,
+            { headers }
+          ).then(r => r.json()).then(data => {
+            const featured = applyEnrichments(Array.isArray(data) ? data : [], enr);
+            setFeaturedEvents(featured.map(e => ({ ...e, _featured: true })));
+            setFeaturedLoading(false);
+          });
+        }).catch(() => setFeaturedLoading(false));
 
         let rawEvents;
 
@@ -68,24 +93,23 @@ export function useCollection(feedId) {
             .map(ce => ({ ...ce.events, _sort_order: ce.sort_order }));
         }
 
-        // Fetch curator's enrichments and apply them
-        const enrRes = await fetch(
-          `${SUPABASE_URL}/rest/v1/event_enrichments?curator_id=eq.${col.user_id}&select=*`,
-          { headers }
-        );
-        const enrichments = await enrRes.json();
+        // Await enrichments (already in-flight) and apply to full event list
+        const enrichments = await enrichmentsPromise;
         const enriched = applyEnrichments(rawEvents, Array.isArray(enrichments) ? enrichments : []);
         setEvents(enriched);
+        setFeaturedEvents([]);  // full data now available, clear early featured
       } catch {
         setCollection(null);
         setEvents([]);
+        setFeaturedEvents([]);
       } finally {
         setLoading(false);
+        setFeaturedLoading(false);
       }
     }
 
     load();
   }, [feedId]);
 
-  return { collection, events, loading };
+  return { collection, events, loading, featuredEvents, featuredLoading };
 }

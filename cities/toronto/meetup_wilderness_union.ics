@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_313397318@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014525Z
+DTSTAMP:20260313T020000Z
 DTSTART;TZID=America/Toronto:20260315T100000
 DTEND;TZID=America/Toronto:20260315T173000
 SUMMARY:Hike Mount Nemo
@@ -42,22 +42,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313728801@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014525Z
+DTSTAMP:20260313T020000Z
 DTSTART;TZID=America/Toronto:20260319T193000
 DTEND;TZID=America/Toronto:20260319T210000
 SUMMARY:Wilderness Union's Epics Release Party
-DESCRIPTION:Wilderness Union Toronto - Outdoor Adventure and Hiking Club\n**This adventure is open to both Wilderness Union members and the public! Please note the only way to register for this adventure is on [our website.](https://www.wildernessunion.com/adventures/epic-release)**\n\n**Join us for an exclusive evening at MEC as we reveal the most ambitious expeditions in our history.**\n\nWe are gathering at the Queen Street flagship to pull back the curtain on our upcoming Epics. These journeys represent the very best of the backcountry\, featuring some of the most extraordinary scenery that the province has to offer but is only reached through extraordinary effort. From three-day treks to six-day canoe circuits through *ancient waterways*\, these are the trips we have been dreaming about all winter.\n\nThe itineraries we are launching include routes we have never run before\, many of which would be nearly impossible to organize alone. This is your chance to get the first look at the dates and details before they go live about a week later.\n\nIf you are curious about pushing your limits in the wild or just want to meet the people you will be sharing a campfire with\, then this social is the perfect place to start. Whether you're a seasoned tripper or looking to transition from day hikes to multi-day adventures\, you will find plenty of inspiration here.\n\n**Trip Registration Dates**\nTrips will open a few days after the event once you've had a chance to book time off work. We'll be sharing the open date shortly after.\n\n**Highlights**\n**Maps by Jeff**\nBrowse the maps\, nerd out over routes and meet the man who makes them happen\n**Discounted Shopping**\nThis is your chance to buy gear with a WU discount at this exclusive after hours shopping event\n**Food Sampling**\nCheck out our newest partner\, Wanderlust Kitchen\n\n**Event cost: Free. Register [here.](https://www.wildernessunion.com/adventures/epic-release)**\n\n**About Wilderness Union**\nWilderness Union is deliberate about building an outdoors community that connects you to the life-changing magic of the outdoors and helps you find your people.\n\nMembers range from 20-40 years old. The group is a mix of GTA locals and newcomers to Toronto from within Canada and abroad.\n\nAttendance numbers on Meetup don't reflect our actual event attendance - we typically have 15-20 community members at each event. Large enough that there's someone new to meet but small enough that it's not overwhelming!\n\n***Learn more at our website [www.wildernessunion.com](https://www.wildernessunion.com/)***
+DESCRIPTION:Wilderness Union Toronto - Outdoor Adventure and Hiking Club\n**This adventure is open to both Wilderness Union members and the public!**\n\n**Join us for an exclusive evening at MEC as we reveal the most ambitious expeditions in our history.**\n\nWe are gathering at the Queen Street flagship to pull back the curtain on our upcoming Epics. These journeys represent the very best of the backcountry\, featuring some of the most extraordinary scenery that the province has to offer but is only reached through extraordinary effort. From three-day treks to six-day canoe circuits through *ancient waterways*\, these are the trips we have been dreaming about all winter.\n\nThe itineraries we are launching include routes we have never run before\, many of which would be nearly impossible to organize alone. This is your chance to get the first look at the dates and details before they go live about a week later.\n\nIf you are curious about pushing your limits in the wild or just want to meet the people you will be sharing a campfire with\, then this social is the perfect place to start. Whether you're a seasoned tripper or looking to transition from day hikes to multi-day adventures\, you will find plenty of inspiration here.\n\n**Trip Registration Dates**\nTrips will open a few days after the event once you've had a chance to book time off work. We'll be sharing the open date shortly after.\n\n**Highlights**\n**Maps by Jeff**\nBrowse the maps\, nerd out over routes and meet the man who makes them happen\n**Discounted Shopping**\nThis is your chance to buy gear with a WU discount at this exclusive after hours shopping event\n**Food Sampling**\nCheck out our newest partner\, Wanderlust Kitchen\n**Itinerary**\n**19:30**\nArrival & Mingling - Destination Stations are open for exploration.\n\n**19:45**\nThe Epics Revealed - A presentation of the 2026 season and a new partner announcement.\n\n**20:15**\nFood & After-Hours Shop - Sample partner snacks and browse the flagship with expert staff. Giveaways drawn live.\n\n**21:00**\nThe Pub Social - We head to a nearby pub to keep the stories going and start building your summer crews.\n\n**Event cost: Free. Register on Meetup!**\n\n**About Wilderness Union**\nWilderness Union is deliberate about building an outdoors community that connects you to the life-changing magic of the outdoors and helps you find your people.\n\nMembers range from 20-40 years old. The group is a mix of GTA locals and newcomers to Toronto from within Canada and abroad.\n\nAttendance numbers on Meetup don't reflect our actual event attendance - we typically have 15-20 community members at each event. Large enough that there's someone new to meet but small enough that it's not overwhelming!\n\n***Learn more at our website [www.wildernessunion.com](https://www.wildernessunion.com/)***
 URL;VALUE=URI:https://www.meetup.com/wildernessunion/events/313728801/
 STATUS:CONFIRMED
 CREATED:20260310T164221Z
 LAST-MODIFIED:20260310T164221Z
 CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/b/6/9/600_533135689.jpeg
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/3/5/600_533163125.jpeg
 END:VEVENT
 BEGIN:VEVENT
 UID:event_313655947@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014525Z
+DTSTAMP:20260313T020000Z
 DTSTART;TZID=America/Toronto:20260328T100000
 DTEND;TZID=America/Toronto:20260328T180000
 SUMMARY:Survivalist Series: Introduction to Shelter Building

@@ -7,94 +7,6 @@ X-WR-CALNAME:Roanoke Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hollins University": "https://www.hollins.edu/about-hollins/commitment-to-access-and-excellence-for-all/leading-equity-diversity-and-justice-conference/#new_tab"}
-X-SOURCE-ID:hollins_university
-X-SOURCE:Hollins University
-DTSTART;TZID=America/New_York:20260312T000000
-DTEND;TZID=America/New_York:20260313T235959
-DTSTAMP:20260311T220215
-CREATED:20260204T135353Z
-LAST-MODIFIED:20260302T154134Z
-UID:73494-1773273600-1773446399@www.hollins.edu
-SUMMARY:Leading Equity\, Diversity\, and Justice Conference 2026
-DESCRIPTION:Hollins’ annual Leading Equity\, Diversity\, and Justice (EDJ) Conference aims to create an intentional and meaningful space to reflect\, learn\, and facilitate action toward creating a more equitable and just community. We envision a conference that uplifts participants\, while supporting deep learning and engagement related to the central theme of this conference: Breaking Ceilings\, Opening Doors: Reimagining Work and Leadership.\n\nThis year features a collaboration between the Leading EDJ Committee and Career and Life Design. Our spring C3 conference sessions will run concurrently with Leading EDJ. No classes will be held on Friday\, March 13\, so please engage and participate!
-URL:https://www.hollins.edu/about-hollins/commitment-to-access-and-excellence-for-all/leading-equity-diversity-and-justice-conference/#new_tab
-LOCATION:Hollins University Campus\, 7916 Williamson Road\, Roanoke\, VA\, 24020\, United States
-ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/12/SSWBB-2026-LeadingEDJ-C3-banner_v2.jpg
-ORGANIZER;CN="Dina Hackley-Hunt":MAILTO:hackleyhuntdm@hollins.edu
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8666"}
-X-SOURCE-ID:roanoke_boards_commissions
-X-SOURCE:Roanoke Boards Commissions
-URL:https://www.roanokeva.gov/calendar.aspx?EID=8666
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8666
-DTEND;TZID=America/New_York;VALUE=DATE:20260313
-DTSTAMP;TZID=America/New_York:20260108T101746
-DTSTART;TZID=America/New_York;VALUE=DATE:20260312
-LAST-MODIFIED;TZID=America/New_York:20260108T101746
-LOCATION:Noel C. Taylor Municipal Building > City Council Chambers - 215 C
- hurch Ave. SW  Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Architectural Review Board
-UID:8666
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Sw Va Toastmasters": "https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/313449224/"}
-X-SOURCE-ID:meetup_sw_va_toastmasters
-X-SOURCE:Meetup Sw Va Toastmasters
-UID:event_313449224@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T020216Z
-DTSTART;TZID=America/New_York:20260312T114500
-DTEND;TZID=America/New_York:20260312T124500
-SUMMARY:Experience Public Speaking with the NRV Lunch Bunch - Hybrid Meeting
-DESCRIPTION:Southwest VA Toastmasters of Roanoke/Blacksburg/Rocky Mount\nJoin us for an interactive meeting hosted by the Southwest VA Toastmasters of the NRV Lunch Bunch. This event is perfect for anyone looking to conquer their fear of public speaking\, enhance their communication skills\, and boost their confidence. You'll learn valuable techniques for impromptu speaking\, effective presentations\, and self-empowerment through engaging activities and supportive feedback from experienced Toastmasters. Whether you're a novice or seasoned speaker\, this club will provide a safe space to practice and develop your public speaking skills in a friendly and encouraging environment. Don't miss this opportunity to unleash your full potential and become a more confident communicator! You can also join us virtually on Zoom. Contact us for the link at http://bit.ly/4gq5xfe.
-URL;VALUE=URI:https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/313449224/
-STATUS:CONFIRMED
-CREATED:20260220T184149Z
-LAST-MODIFIED:20260220T184149Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/f/5/6/600_529956694.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Sw Va Toastmasters": "https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/313449225/"}
-X-SOURCE-ID:meetup_sw_va_toastmasters
-X-SOURCE:Meetup Sw Va Toastmasters
-UID:event_313449225@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T020216Z
-DTSTART;TZID=America/New_York:20260312T120000
-DTEND;TZID=America/New_York:20260312T130000
-SUMMARY:Mastering Public Speaking with the Franklin County Toastmasters(Rocky Mount\, VA)
-DESCRIPTION:Southwest VA Toastmasters of Roanoke/Blacksburg/Rocky Mount\nJoin us in Southwest VA at the Franklin County Toastmasters for a meeting focused on mastering public speaking and communication in general. Whether you're a seasoned Toastmaster or looking to improve your communication skills\, this workshop is designed to help you think on your feet and deliver compelling speeches on the spot. Led by experienced Toastmasters\, you'll learn techniques to boost your confidence\, improve your impromptu speaking abilities\, and captivate any audience. Don't miss this opportunity to enhance your communication skills in a supportive and interactive environment. Let's conquer the fear of public speaking together and become confident communicators!\n\nFor more information\, contact the club at http://bit.ly/3VNwkbz.
-URL;VALUE=URI:https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/313449225/
-STATUS:CONFIRMED
-CREATED:20260220T184149Z
-LAST-MODIFIED:20260220T184149Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/f/5/6/600_529956694.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8882"}
-X-SOURCE-ID:roanoke_boards_commissions
-X-SOURCE:Roanoke Boards Commissions
-URL:https://www.roanokeva.gov/calendar.aspx?EID=8882
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8882
-DTEND;TZID=America/New_York:20260312T170000
-DTSTAMP;TZID=America/New_York:20260306T155914
-DTSTART;TZID=America/New_York:20260312T160000
-LAST-MODIFIED;TZID=America/New_York:20260306T155914
-LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;">Roan
- oke City Department of Human/Social Services<br>1510 Williamson Rd NE<br>
- Roanoke\, VA 24012</span></p> -   Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Human Services Advisory Board Meeting
-UID:8882
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Chamber": "https://business.roanokechamber.org/events/details/ronald-mcdonald-house-2026-handbag-hullabaloo-event"}
 X-SOURCE-ID:roanoke_chamber
 SUMMARY:Ronald McDonald House 2026 Handbag Hullabaloo Event
@@ -113,91 +25,20 @@ URL:https://business.roanokechamber.org/events/details/ronald-mcdonald-hou
 X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Roanoke Chamber": "https://business.roanokechamber.org/events/details/best-in-show-art-fundraiser"}
-X-SOURCE-ID:roanoke_chamber
-SUMMARY:Best In Show | Art Fundraiser
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T170000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T200000
-UID:c7678ee9a9e97a17102f44768e989231@growthzone.com
-DESCRIPTION:Best in Show is an art show to benefit the Roanoke Valley SPCA
- . Because artists have always been at the forefront of our culture in expr
- essing society's concerns and giving a voice to the most helpless among us
- \, we can think of no better partners in our community to help raise funds
-  for the needy pets in our community. Held for one night only - Thursday\,
-  March 12\, 2026. We'll kick off the show with our VIP preview from 5:00 p
- m to 6:00 pm. The show and sale will begin at 6:00 pm and last until 8:00 
- pm at Charter Hall\, located on the 3rd floor of the Market Building. This
-  art show\, sale\, and fundraiser for the Roanoke Valley SPCA will feature
-  almost 300 local artists original artwork - paintings\, sculpture\, paste
- ls\, and photography - depicting animals\, to make Best in Show one of the
-  most anticipated events in Roanoke. VIP Preview tickets can be purchased 
- in advance for $25. VIP Preview tickets provide early viewing entry to the
-  show as well as expanded reception and drinks\, including on
-URL:https://business.roanokechamber.org/events/details/best-in-show-art-fu
- ndraiser
-X-SOURCE:Roanoke Regional Chamber
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Roanoke Chamber": "https://business.roanokechamber.org/events/details/leadership-roanoke-valley-open-house-17852"}
-X-SOURCE-ID:roanoke_chamber
-SUMMARY:Leadership Roanoke Valley OPEN HOUSE
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T170000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T190000
-UID:4da7363dd6d14cbd8aee6df6ff6dc14d@growthzone.com
-DESCRIPTION:*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+mi
- n(200px\,max(70px\,20svh)))]" data-scroll-anchor="true" data-testid="conve
- rsation-turn-2" data-turn="assistant" data-turn-id="d616d5d6-2119-4a64-be4
- e-f918b270de88" dir="auto" tabindex="-1"> We’re opening the doors… and
-  you’re invited. Leadership Roanoke Valley is hosting our first Open Hou
- se on the 12th from 5:00–7:00 PM\, and we’d love to see you there! Whe
- ther you’ve been curious about the program\, thinking about applying\, o
- r simply want to learn more about how LRV is developing leaders across our
-  region — this is your chance. Join us at Starr Hill Roanoke Pilot Brewe
- ry & Side Stage for a relaxed\, come-as-you-are evening. You’ll meet alu
- mni\, hear about the impact of the program\, and get a feel for what makes
-  Leadership Roanoke Valley such a transformational experience. No speeches
- . No pressure. Just good conversation\, great people\, and a welcoming spa
- ce to connect. Mark your calendar for the 12th\, 5–7 PM and bring a frie
- nd wh
-URL:https://business.roanokechamber.org/events/details/leadership-roanoke-
- valley-open-house-17852
-X-SOURCE:Roanoke Regional Chamber
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8843"}
-X-SOURCE-ID:roanoke_boards_commissions
-X-SOURCE:Roanoke Boards Commissions
-URL:https://www.roanokeva.gov/calendar.aspx?EID=8843
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8843
-DTEND;TZID=America/New_York:20260312T190000
-DTSTAMP;TZID=America/New_York:20260213T141424
-DTSTART;TZID=America/New_York:20260312T173000
-LAST-MODIFIED;TZID=America/New_York:20260213T141424
-LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;" data
- -pasted="true">Noel C. Taylor Municipal Building - HR Learning Center<br>
- 215 Church Avenue SW<br>3rd Floor North<br>Roanoke\, VA 24011</span></p> 
- -   Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Youth Athletic Review Board Meeting
-UID:8843
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hollins University": "https://www.hollins.edu/event/vanessa-priya-daniel-unrig-the-game/"}
+X-SOURCE-URLS:{"Hollins University": "https://www.hollins.edu/about-hollins/commitment-to-access-and-excellence-for-all/leading-equity-diversity-and-justice-conference/#new_tab"}
 X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
-DTSTART;TZID=America/New_York:20260312T190000
-DTEND;TZID=America/New_York:20260312T200000
-DTSTAMP:20260311T220215
-CREATED:20250905T180410Z
-LAST-MODIFIED:20260216T182038Z
-UID:71484-1773342000-1773345600@www.hollins.edu
-SUMMARY:Vanessa Priya Daniel - Unrig the Game: What Women of Color Can Teach Everyone About Winning & How We Can Show Up for Them
-DESCRIPTION:Date: March 12th\n 	Time: TBD\n 	Location: Keynote presentation – Talmadge Hall\, Hollins University; Book Signing following presentation – Lewis Reading Room\, Wyndham Robertson Library\, Hollins University\n 	Joint event: Leading EDJ and BLI Leading Together series\n 	Description: In this keynote presentation\, Vanessa Priya Daniel\, author of Unrig the Game: What Women of Color Can Teach Everyone About Winning (Random House\, 2025) will share the superpowers women of color leaders use to create winning strategies that drive meaningful change for all. She will also address how we remove the roadblocks that make leadership treacherous for women of color. Daniel’s presentation draws upon 25+ years of experience as an organizer\, founder\, and funder of over 100 women of color-led organizations. Additionally\, her presentation is informed by over 45 interviews she conducted with many of the best and brightest women of color leaders in U.S. social justice movements and philanthropy\, while completing her new book.\n 	Speaker Bio: Vanessa Priya Daniel is an author\, organizer\, and award-winning leader for racial and gender justice. She has worked in social justice movements for twenty-five years as a labor and community organizer and funder. Her first book is Unrig the Game: What Women of Color Can Teach Everyone About Winning (Random House\, 2025). She founded and served for 17 years as executive director of Groundswell Fund\, a leading funder of women of color-led grassroots community and electoral organizing. She is a recipient of the Smith College Medal\, was featured by The Chronicle of Philanthropy as one of fifteen “Influencers” who are changing the nonprofit world\, and was recognized by Inside Philanthropy as one of the “Top 100 Most Powerful Players in Philanthropy.” Daniel has written for The New York Times and other publications.\n 	FREE to the public. Registration is required. Register for any Leading Together Series Dates\n 	We are grateful to our co-sponsors for this event: Roanoke Women’s Foundation\, Junior League of Roanoke Valley\, Alpha Kappa Alpha\, and Delta Sigma Theta.\n\n \nRegister Today
-URL:https://www.hollins.edu/event/vanessa-priya-daniel-unrig-the-game/
-LOCATION:Talmadge Recital Hall\, Bradley
-CATEGORIES:Leading Together Series,Open to the Public
-ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/09/VanessaPriyaDaniel_4x5_credit-Anita-Nowacka.jpg
+DTSTART;TZID=America/New_York:20260313T000000
+DTEND;TZID=America/New_York:20260313T235959
+DTSTAMP:20260312T221650
+CREATED:20260312T181121Z
+LAST-MODIFIED:20260312T181121Z
+UID:74135-1773360000-1773446399@www.hollins.edu
+SUMMARY:Leading Equity\, Diversity\, and Justice Conference 2026
+DESCRIPTION:Hollins’ annual Leading Equity\, Diversity\, and Justice (EDJ) Conference aims to create an intentional and meaningful space to reflect\, learn\, and facilitate action toward creating a more equitable and just community. We envision a conference that uplifts participants\, while supporting deep learning and engagement related to the central theme of this conference: Breaking Ceilings\, Opening Doors: Reimagining Work and Leadership.
+URL:https://www.hollins.edu/about-hollins/commitment-to-access-and-excellence-for-all/leading-equity-diversity-and-justice-conference/#new_tab
+LOCATION:Hollins University Campus\, 7916 Williamson Road\, Roanoke\, VA\, 24020\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.hollins.edu/wp-content/uploads/2025/12/SSWBB-2026-LeadingEDJ-C3-banner_v2.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Taubman Museum": "https://www.taubmanmuseum.org/march-member-hour-75th-anniversary"}
@@ -412,7 +253,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313528859@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260314T130000
 DTEND;TZID=America/New_York:20260314T160000
 SUMMARY:MEMBERS ONLY: Intro to TIG Welding
@@ -430,7 +271,7 @@ X-SOURCE-ID:meetup_shut_up_write
 X-SOURCE:Meetup Shut Up Write
 UID:event_313396356@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021653Z
 DTSTART;TZID=America/New_York:20260314T130000
 DTEND;TZID=America/New_York:20260314T143000
 SUMMARY:Shut Up & Write!® in Tanglewood
@@ -448,7 +289,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_312806295@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260314T160000
 DTEND;TZID=America/New_York:20260314T200000
 SUMMARY:MEMBERS (& Guests) ONLY: Community Craft Day
@@ -487,7 +328,7 @@ X-SOURCE-ID:meetup_shut_up_write
 X-SOURCE:Meetup Shut Up Write
 UID:event_313396346@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021653Z
 DTSTART;TZID=America/New_York:20260315T130000
 DTEND;TZID=America/New_York:20260315T143000
 SUMMARY:Shut Up & Write!® at Bibliopub
@@ -500,40 +341,12 @@ CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/d/c/b/600_529892203.jpeg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Taubman Museum": "https://www.taubmanmuseum.org/garden-sculpture-workshop-2026"}
-X-SOURCE-ID:taubman_museum
-SUMMARY:Garden Sculpture Workshop with Artist Larry Bechtel - Part I
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260315T130000
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260315T153000
-UID:10001952-1773579600-1773588600@www.taubmanmuseum.org
-ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
- /2026/02/Larry-Bechtel-Garden-Face-Spring-2026.png
-DESCRIPTION:Does your garden\, yard\, or window box need a little surprise
- \, something to peek out from under your flowers and bring a smile to anyb
- ody who comes by?\n\nIf so\, we invite you to sign up for Larry Bechtel
- ’s newest sculpture class and make a concrete garden face (about 6″ hi
- gh and 4-5″ inches wide)!\n\nThis will be a fun project\, but you will a
- lso learn three sculpting skills: modeling a face in clay\, molding this i
- n plaster\, and casting a concrete copy from the plaster mold.\n\nNo exper
- ience is necessary. All materials will be provided.\n\nPlease note that sa
- mples pictured are only for inspiration – individual class projects will
-  vary depending on students’ creative visions.\n\nTwo sessions are inclu
- ded for the price of one!\n\nPART I – Sunday\, March 15\, 1-3:30 PM\n\nP
- ART II – Sunday\, March 22\, 1-3:30 PM\n\nPrice for both sessions: Membe
- rs: $150 | General Public: $175\n\nSource: https://www.taubmanmuseum.org/g
- arden-sculpture-workshop-2026
-LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
-  United States
-URL:https://www.taubmanmuseum.org/garden-sculpture-workshop-2026
-X-SOURCE:Taubman Museum of Art
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Hollins University": "https://www.hollins.edu/event/spring-choir-concert-wildfire/"}
 X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260315T180000
 DTEND;TZID=America/New_York:20260315T190000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260209T160658Z
 LAST-MODIFIED:20260227T205713Z
 UID:73529-1773597600-1773601200@www.hollins.edu
@@ -601,7 +414,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313432150@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260316T200000
 DTEND;TZID=America/New_York:20260316T210000
 SUMMARY:General Orientations & Space Tours for New & Prospective Members
@@ -664,9 +477,9 @@ X-SOURCE:Roanoke Boards Commissions
 URL:https://www.roanokeva.gov/calendar.aspx?EID=8867
 DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8867
 DTEND;TZID=America/New_York:20260317T190000
-DTSTAMP;TZID=America/New_York:20260304T095712
+DTSTAMP;TZID=America/New_York:20260312T101400
 DTSTART;TZID=America/New_York:20260317T173000
-LAST-MODIFIED;TZID=America/New_York:20260304T095712
+LAST-MODIFIED;TZID=America/New_York:20260312T101400
 LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;">Melr
  ose Branch Library</span></p> -   Roanoke VA 24011
 SEQUENCE:0
@@ -680,7 +493,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260317T183000
 DTEND;TZID=America/New_York:20260317T193000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T164846Z
 LAST-MODIFIED:20251008T164846Z
 UID:71853-1773772200-1773775800@www.hollins.edu
@@ -745,7 +558,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313559833@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260319T114500
 DTEND;TZID=America/New_York:20260319T124500
 SUMMARY:Experience Public Speaking with the NRV Lunch Bunch - Hybrid Meeting
@@ -763,7 +576,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313559834@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260319T120000
 DTEND;TZID=America/New_York:20260319T130000
 SUMMARY:Mastering Public Speaking with the Franklin County Toastmasters(Rocky Mount\, VA)
@@ -799,7 +612,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313729286@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260319T180000
 DTEND;TZID=America/New_York:20260319T190000
 SUMMARY:Stained Glass Planning Meeting
@@ -833,7 +646,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313566939@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260319T190000
 DTEND;TZID=America/New_York:20260319T210000
 SUMMARY:Mastering Impromptu Speaking at the Blacksburg Toastmasters Club
@@ -851,7 +664,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313432308@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260320T180000
 DTEND;TZID=America/New_York:20260320T190000
 SUMMARY:Maker Mini: Multi-Material 3D Printing with Orcaslicer
@@ -899,7 +712,7 @@ X-SOURCE-ID:meetup_roanoke_spiritual
 X-SOURCE:Meetup Roanoke Spiritual
 UID:event_313553467@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260321T100000
 DTEND;TZID=America/New_York:20260321T170000
 SUMMARY:Explore Spiritual Freedom with Eckankar at the 2026 Festival of Light!
@@ -944,7 +757,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313432537@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260321T130000
 DTEND;TZID=America/New_York:20260321T160000
 SUMMARY:Intro to Home Assistant and ESPHome
@@ -978,7 +791,7 @@ X-SOURCE-ID:meetup_roanoke_spiritual
 X-SOURCE:Meetup Roanoke Spiritual
 UID:event_313553471@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260322T100000
 DTEND;TZID=America/New_York:20260322T170000
 SUMMARY:Explore Spiritual Freedom with Eckankar at the 2026 Festival of Light!
@@ -996,7 +809,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313744165@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260322T110000
 DTEND;TZID=America/New_York:20260322T170000
 SUMMARY:MAKE Roanoke @ Lynchburg Maker Faire
@@ -1007,35 +820,6 @@ CREATED:20260311T154643Z
 LAST-MODIFIED:20260311T154643Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/3/4/4/600_533149988.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Taubman Museum": "https://www.taubmanmuseum.org/event/garden-sculpture-workshop-with-artist-larry-bechtel-part-2/"}
-X-SOURCE-ID:taubman_museum
-SUMMARY:Garden Sculpture Workshop with Artist Larry Bechtel - Part II
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260322T130000
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260322T153000
-UID:10001953-1774184400-1774193400@www.taubmanmuseum.org
-ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
- /2026/02/Larry-Bechtel-Garden-Face-Spring-2026.png
-DESCRIPTION:Does your garden\, yard\, or window box need a little surprise
- \, something to peek out from under your flowers and bring a smile to anyb
- ody who comes by?\n\nIf so\, we invite you to sign up for Larry Bechtel
- ’s newest sculpture class and make a concrete garden face (about 6″ hi
- gh and 4-5″ inches wide)!\n\nThis will be a fun project\, but you will a
- lso learn three sculpting skills: modeling a face in clay\, molding this i
- n plaster\, and casting a concrete copy from the plaster mold.\n\nNo exper
- ience is necessary. All materials will be provided.\n\nPlease note that sa
- mples pictured are only for inspiration – individual class projects will
-  vary depending on students’ creative visions.\n\nTwo sessions are inclu
- ded for the price of one!\n\nPART I – Sunday\, March 15\, 1-3:30 PM\n\nP
- ART II – Sunday\, March 22\, 1-3:30 PM\n\nPrice for both sessions: Membe
- rs: $150 | General Public: $175\n\nSource: https://www.taubmanmuseum.org/e
- vent/garden-sculpture-workshop-with-artist-larry-bechtel-part-2/
-LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
-  United States
-URL:https://www.taubmanmuseum.org/event/garden-sculpture-workshop-with-art
- ist-larry-bechtel-part-2/
-X-SOURCE:Taubman Museum of Art
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke City Council": "https://www.roanokeva.gov/calendar.aspx?EID=8557"}
@@ -1118,7 +902,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313668798@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260326T114500
 DTEND;TZID=America/New_York:20260326T124500
 SUMMARY:Experience Public Speaking with the NRV Lunch Bunch - Hybrid Meeting
@@ -1136,7 +920,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313668799@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260326T120000
 DTEND;TZID=America/New_York:20260326T130000
 SUMMARY:Mastering Public Speaking with the Franklin County Toastmasters(Rocky Mount\, VA)
@@ -1154,7 +938,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_312502181@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260326T180000
 DTEND;TZID=America/New_York:20260326T200000
 SUMMARY:MAKE Roanoke Community Meeting
@@ -1205,7 +989,7 @@ X-SOURCE:Berglund Center
 DTSTART;TZID=America/New_York:20260326T193000
 DTEND;TZID=America/New_York:20260326T210000
 RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20260308T045959Z;BYDAY=TH
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:57gb4bmvjhfn0gp9ngupohs0eb@google.com
 CREATED:20250623T185456Z
 LAST-MODIFIED:20250623T185456Z
@@ -1237,7 +1021,7 @@ X-SOURCE-ID:berglund_center
 X-SOURCE:Berglund Center
 DTSTART:20260327T130000Z
 DTEND:20260327T150000Z
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:0p6sa4pvd7p7ttiulghef5f8l7@google.com
 CREATED:20250623T172452Z
 LAST-MODIFIED:20250623T172452Z
@@ -1251,7 +1035,7 @@ X-SOURCE-ID:berglund_center
 X-SOURCE:Berglund Center
 DTSTART:20260327T151500Z
 DTEND:20260327T171500Z
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:7cd0kkonekgmp367hpatt0tgda@google.com
 ATTENDEE;X-NUM-GUESTS=0:mailto:ice.berglundcenter@gmail.com
 SUMMARY:Busy
@@ -1366,7 +1150,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_313607123@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260328T110000
 DTEND;TZID=America/New_York:20260328T120000
 SUMMARY:General Orientations & Space Tours for New & Prospective Members
@@ -1384,7 +1168,7 @@ X-SOURCE-ID:meetup_make_roanoke
 X-SOURCE:Meetup Make Roanoke
 UID:event_312807964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020215Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260328T120000
 DTEND;TZID=America/New_York:20260328T160000
 SUMMARY:Space Improvement Day
@@ -1401,7 +1185,7 @@ X-SOURCE-ID:berglund_center
 X-SOURCE:Berglund Center
 DTSTART:20260328T130000Z
 DTEND:20260328T150000Z
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:68io17mdi06i0mo2g38kkr6iod@google.com
 CREATED:20250623T172458Z
 LAST-MODIFIED:20250623T172459Z
@@ -1416,7 +1200,7 @@ X-SOURCE-ID:meetup_shut_up_write
 X-SOURCE:Meetup Shut Up Write
 UID:event_313396362@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021653Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T143000
 SUMMARY:Shut Up & Write!® in Tanglewood
@@ -1487,7 +1271,7 @@ X-SOURCE-ID:berglund_center
 X-SOURCE:Berglund Center
 DTSTART:20260328T151500Z
 DTEND:20260328T171500Z
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:4i61gpo0psml09bu511ica8vj9@google.com
 ATTENDEE;X-NUM-GUESTS=0:mailto:ice.berglundcenter@gmail.com
 SUMMARY:Busy
@@ -1580,7 +1364,7 @@ X-SOURCE:Berglund Center
 DTSTART;TZID=America/New_York:20260331T193000
 DTEND;TZID=America/New_York:20260331T210000
 RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20260309T035959Z;BYDAY=TU
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:5nrtt7b91cc3gpo519hgh26cft@google.com
 CREATED:20250623T185514Z
 LAST-MODIFIED:20250623T185514Z
@@ -1639,7 +1423,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280246@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260402T090000
 DTEND;TZID=America/New_York:20260402T103000
 SUMMARY:Greenway Litter Pickup
@@ -1700,7 +1484,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_sxzzstyjcgbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260402T114500
 DTEND;TZID=America/New_York:20260402T124500
 SUMMARY:Experience Public Speaking with the NRV Lunch Bunch - Hybrid Meeting
@@ -1718,7 +1502,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_zxzzstyjcgbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260402T120000
 DTEND;TZID=America/New_York:20260402T130000
 SUMMARY:Mastering Public Speaking with the Franklin County Toastmasters(Rocky Mount\, VA)
@@ -1736,7 +1520,7 @@ X-SOURCE-ID:meetup_roanoke_valley_net
 X-SOURCE:Meetup Roanoke Valley Net
 UID:event_313580095@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260402T180000
 DTEND;TZID=America/New_York:20260402T200000
 SUMMARY:In Person-Salem: presentation by Cameron Presley
@@ -1754,7 +1538,7 @@ X-SOURCE-ID:meetup_sw_va_toastmasters
 X-SOURCE:Meetup Sw Va Toastmasters
 UID:event_313581994@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260402T190000
 DTEND;TZID=America/New_York:20260402T210000
 SUMMARY:Mastering Impromptu Speaking at the Blacksburg Toastmasters Club
@@ -1772,7 +1556,7 @@ X-SOURCE:Berglund Center
 DTSTART;TZID=America/New_York:20260402T193000
 DTEND;TZID=America/New_York:20260402T210000
 RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20260309T035959Z;BYDAY=TH
-DTSTAMP:20260312T020214Z
+DTSTAMP:20260313T021650Z
 UID:0ev0uk8jovf35t2iardafu81a4@google.com
 CREATED:20250623T185525Z
 LAST-MODIFIED:20250623T185525Z
@@ -1787,7 +1571,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260402T193000
 DTEND;TZID=America/New_York:20260402T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260218T180115Z
 LAST-MODIFIED:20260218T180115Z
 UID:73667-1775158200-1775161800@www.hollins.edu
@@ -1890,7 +1674,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260407T183000
 DTEND;TZID=America/New_York:20260407T193000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T164915Z
 LAST-MODIFIED:20251008T164915Z
 UID:71854-1775586600-1775590200@www.hollins.edu
@@ -1992,7 +1776,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260409T000000
 DTEND;TZID=America/New_York:20260411T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250911T172907Z
 LAST-MODIFIED:20250911T172953Z
 UID:71566-1775692800-1775951999@www.hollins.edu
@@ -2028,6 +1812,42 @@ DESCRIPTION:National Civics Bee – Local Competition Hosted by the Roanok
 URL:https://business.roanokechamber.org/events/details/2026-national-civic
  s-bee-local-competition
 X-SOURCE:Roanoke Regional Chamber
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Sw Va Toastmasters": "https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/sxzzstyjcgbmb/"}
+X-SOURCE-ID:meetup_sw_va_toastmasters
+X-SOURCE:Meetup Sw Va Toastmasters
+UID:event_sxzzstyjcgbmb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T021652Z
+DTSTART;TZID=America/New_York:20260409T114500
+DTEND;TZID=America/New_York:20260409T124500
+SUMMARY:Experience Public Speaking with the NRV Lunch Bunch - Hybrid Meeting
+DESCRIPTION:Southwest VA Toastmasters of Roanoke/Blacksburg/Rocky Mount\nJoin us for an interactive meeting hosted by the Southwest VA Toastmasters of the NRV Lunch Bunch. This event is perfect for anyone looking to conquer their fear of public speaking\, enhance their communication skills\, and boost their confidence. You'll learn valuable techniques for impromptu speaking\, effective presentations\, and self-empowerment through engaging activities and supportive feedback from experienced Toastmasters. Whether you're a novice or seasoned speaker\, this club will provide a safe space to practice and develop your public speaking skills in a friendly and encouraging environment. Don't miss this opportunity to unleash your full potential and become a more confident communicator! You can also join us virtually on Zoom. Contact us for the link at http://bit.ly/4gq5xfe.
+URL;VALUE=URI:https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/sxzzstyjcgbmb/
+STATUS:CONFIRMED
+CREATED:20250910T022751Z
+LAST-MODIFIED:20250910T022751Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/f/5/6/600_529956694.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Sw Va Toastmasters": "https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/zxzzstyjcgbmb/"}
+X-SOURCE-ID:meetup_sw_va_toastmasters
+X-SOURCE:Meetup Sw Va Toastmasters
+UID:event_zxzzstyjcgbmb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T021652Z
+DTSTART;TZID=America/New_York:20260409T120000
+DTEND;TZID=America/New_York:20260409T130000
+SUMMARY:Mastering Public Speaking with the Franklin County Toastmasters(Rocky Mount\, VA)
+DESCRIPTION:Southwest VA Toastmasters of Roanoke/Blacksburg/Rocky Mount\nJoin us in Southwest VA at the Franklin County Toastmasters for a meeting focused on mastering public speaking and communication in general. Whether you're a seasoned Toastmaster or looking to improve your communication skills\, this workshop is designed to help you think on your feet and deliver compelling speeches on the spot. Led by experienced Toastmasters\, you'll learn techniques to boost your confidence\, improve your impromptu speaking abilities\, and captivate any audience. Don't miss this opportunity to enhance your communication skills in a supportive and interactive environment. Let's conquer the fear of public speaking together and become confident communicators!\n\nFor more information\, contact the club at http://bit.ly/3VNwkbz.
+URL;VALUE=URI:https://www.meetup.com/southwest-va-toastmasters-meetup-group/events/zxzzstyjcgbmb/
+STATUS:CONFIRMED
+CREATED:20250910T023135Z
+LAST-MODIFIED:20250910T023135Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/f/5/6/600_529956694.jpeg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8616"}
@@ -2158,7 +1978,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260411T090000
 DTEND;TZID=America/New_York:20260411T160000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T165430Z
 LAST-MODIFIED:20260225T191823Z
 UID:71856-1775898000-1775923200@www.hollins.edu
@@ -2201,7 +2021,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260412T000000
 DTEND;TZID=America/New_York:20260413T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260204T135707Z
 LAST-MODIFIED:20260204T135707Z
 UID:73496-1775952000-1776124799@www.hollins.edu
@@ -2651,7 +2471,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260420T170000
 DTEND;TZID=America/New_York:20260420T183000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250905T180619Z
 LAST-MODIFIED:20250905T201818Z
 UID:71485-1776704400-1776709800@www.hollins.edu
@@ -2738,7 +2558,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260423T193000
 DTEND;TZID=America/New_York:20260423T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250922T152313Z
 LAST-MODIFIED:20251008T163956Z
 UID:71688-1776972600-1776976200@www.hollins.edu
@@ -2953,6 +2773,25 @@ URL:https://business.roanokechamber.org/events/details/2026-state-of-caree
 X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Roanoke Special Events": "https://www.roanokeva.gov/calendar.aspx?EID=8888"}
+X-SOURCE-ID:roanoke_special_events
+X-SOURCE:Roanoke Special Events
+URL:https://www.roanokeva.gov/calendar.aspx?EID=8888
+DESCRIPTION:Annual Strawberry Festival serving shortcakes and chocolate co
+ vered berries.  There will also be two food trucks serving lunch  type it
+ ems.  Local music entertainment on Saturday.  15-20 artisan vendors each 
+ day. https://www.roanokeva.gov/calendar.aspx?EID=8888
+DTEND;TZID=America/New_York;VALUE=DATE:20260502
+DTSTAMP;TZID=America/New_York:20260312T150837
+DTSTART;TZID=America/New_York;VALUE=DATE:20260501
+LAST-MODIFIED;TZID=America/New_York:20260312T150837
+LOCATION:Elmwood Park - 706 S Jefferson St.  Roanoke VA 24011
+SEQUENCE:0
+SUMMARY:2026 Community School Strawberry Festival
+UID:8888
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Special Events": "https://www.roanokeva.gov/calendar.aspx?EID=8862"}
 X-SOURCE-ID:roanoke_special_events
 X-SOURCE:Roanoke Special Events
@@ -3075,7 +2914,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280265@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260507T090000
 DTEND;TZID=America/New_York:20260507T103000
 SUMMARY:Greenway Litter Pickup
@@ -3130,7 +2969,7 @@ X-SOURCE-ID:meetup_roanoke_valley_net
 X-SOURCE:Meetup Roanoke Valley Net
 UID:event_313580154@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020217Z
+DTSTAMP:20260313T021652Z
 DTSTART;TZID=America/New_York:20260507T180000
 DTEND;TZID=America/New_York:20260507T200000
 SUMMARY:Online: The 1-Person DevOps Stack presentation by Lionel Sapp
@@ -3148,7 +2987,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260507T193000
 DTEND;TZID=America/New_York:20260507T203000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251008T171105Z
 LAST-MODIFIED:20251008T171105Z
 UID:71858-1778182200-1778185800@www.hollins.edu
@@ -3224,7 +3063,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260509T130000
 DTEND;TZID=America/New_York:20260509T153000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251215T155627Z
 LAST-MODIFIED:20251215T155627Z
 UID:72971-1778331600-1778340600@www.hollins.edu
@@ -3364,7 +3203,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260511T170000
 DTEND;TZID=America/New_York:20260511T183000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250905T180803Z
 LAST-MODIFIED:20250910T165734Z
 UID:71486-1778518800-1778524200@www.hollins.edu
@@ -3439,6 +3278,23 @@ SEQUENCE:0
 SUMMARY:Board of Zoning Appeals: Work Session
 UID:8642
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Roanoke Chamber": "https://business.roanokechamber.org/events/details/kiwanis-speaker-dr-amy-white-wvcc"}
+X-SOURCE-ID:roanoke_chamber
+SUMMARY:Kiwanis Speaker - Dr. Amy White - WVCC
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260513T120000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260513T133000
+UID:1120a9a2973b66d4156a3ff1b3738540@growthzone.com
+DESCRIPTION:Join the Kiwanis Club of Roanoke Wednesday April 8 for our wee
+ kly meeting in Charter Hall on the third floor of the City Market Building
+ \; networking and lunch begin at 12:00PM. We will listen to Dr. Amy White\
+ , Director of STEM Studies at Western Virginia Community College\, discuss
+  the growth of the STEM program and its local importance. Guest attendance
+  is free and includes lunch.
+URL:https://business.roanokechamber.org/events/details/kiwanis-speaker-dr-
+ amy-white-wvcc
+X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8655"}
@@ -3725,7 +3581,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260517T100000
 DTEND;TZID=America/New_York:20260517T120000
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250910T144650Z
 LAST-MODIFIED:20260302T144545Z
 UID:71515-1779012000-1779019200@www.hollins.edu
@@ -4019,7 +3875,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260529T000000
 DTEND;TZID=America/New_York:20260531T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251204T174803Z
 LAST-MODIFIED:20251204T174803Z
 UID:72820-1780012800-1780271999@www.hollins.edu
@@ -4287,7 +4143,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280281@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260604T073000
 DTEND;TZID=America/New_York:20260604T090000
 SUMMARY:Greenway Litter Pickup
@@ -4386,6 +4242,44 @@ SEQUENCE:0
 SUMMARY:R&B is For Lovers Festival
 UID:8856
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Taubman Museum": "https://www.taubmanmuseum.org/architectural-highlights-behind-the-scenes-tour-june-6"}
+X-SOURCE-ID:taubman_museum
+SUMMARY:Architectural Highlights Behind-the-Scenes Tour: June 6
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260606T130000
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260606T143000
+UID:10001944-1780750800-1780756200@www.taubmanmuseum.org
+ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
+ /2026/01/Taubman-Exterior-at-Dusk-Richard-Boyd.jpg
+DESCRIPTION:Discover the Taubman Museum of Art from a whole new perspectiv
+ e during this Architectural Highlights Tour\, an engaging\, behind-the-sce
+ nes experience that reveals the vision\, innovation\, and craftsmanship be
+ hind one of Roanoke’s most iconic landmarks that Architectural Digest na
+ med one of the best designed museums in the nation.\n\nLed in collaboratio
+ n with local architects and individuals directly involved in the creation 
+ of the building\, this approximately 90-minute guided tour traces the Muse
+ um’s architectural story from the ground up.\n\nDesigned by Randall Stou
+ t and inspired by the natural forms of Virginia’s landscape\, the buildi
+ ng’s soaring glass\, steel\, patinated zinc\, and locally sourced Hokie 
+ Stone come alive through expert insight and little-known details.\n\nAlong
+  the way\, guests will explore dramatic interior spaces\, flexible perform
+ ance and gallery areas\, the “Vault” where artworks not on view are st
+ ored\, and the sophisticated systems that protect the Museum’s art while
+  welcoming the community.\n\nThe tour culminates at the Top of the Taubman
+  Balcony\, where sweeping views of downtown Roanoke\, the railroad corrido
+ r\, and surrounding landmarks provide a fitting finale. Guests are invited
+  to raise a glass during a celebratory champagne toast to cap off this spe
+ cial experience.\n\nWhether you’re a design enthusiast\, architecture pr
+ ofessional\, or curious local\, this special tour offers rare access\, com
+ pelling stories\, and a memorable way to experience the Taubman Museum of 
+ Art.\n\nSource: https://www.taubmanmuseum.org/architectural-highlights-beh
+ ind-the-scenes-tour-june-6
+LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
+  United States
+URL:https://www.taubmanmuseum.org/architectural-highlights-behind-the-scen
+ es-tour-june-6
+X-SOURCE:Taubman Museum of Art
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8630"}
@@ -4575,12 +4469,38 @@ UID:1282
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Taubman Museum": "https://www.taubmanmuseum.org/happy-hearts-community-session-ages-10-and-under-june-13"}
+X-SOURCE-ID:taubman_museum
+SUMMARY:Happy HeARTs Community Session: Ages 10 and Under - June 13
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260613T100000
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260613T110000
+UID:10001935-1781344800-1781348400@www.taubmanmuseum.org
+ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
+ /2022/09/happy-hearts.jpg
+DESCRIPTION:Join us as we explore the Taubman Museum of Art!\n\nThis sessi
+ on is designed for participants up to age 10 and their families or caretak
+ ers with specific adaptations for those who identify as:\n\nIn each Happy 
+ HeARTs session\, participants focus on a particular work of art in the gal
+ leries and take part in an art activity that is accessible and sensory-fri
+ endly. Participants also have the opportunity to explore the Museum’s in
+ teractive gallery\, Art Venture.\n\nFree\, but registration highly encoura
+ ged.\n\nContact Katrina King-Singh at kking@taubmanmuseum.org or 540-204-4
+ 131 with any questions and to learn more about this free program.\n\nSourc
+ e: https://www.taubmanmuseum.org/happy-hearts-community-session-ages-10-an
+ d-under-june-13
+LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
+  United States
+URL:https://www.taubmanmuseum.org/happy-hearts-community-session-ages-10-a
+ nd-under-june-13
+X-SOURCE:Taubman Museum of Art
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hollins University": "https://www.hollins.edu/academics/continuing-education-camps/tinker-mountain-writing-workshops/tmww-summer-residential-workshops/"}
 X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260614T000000
 DTEND;TZID=America/New_York:20260619T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251114T170519Z
 LAST-MODIFIED:20251114T170519Z
 UID:72456-1781395200-1781913599@www.hollins.edu
@@ -4937,7 +4857,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280290@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260709T073000
 DTEND;TZID=America/New_York:20260709T090000
 SUMMARY:Greenway Litter Pickup
@@ -4991,7 +4911,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260710T000000
 DTEND;TZID=America/New_York:20260712T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20260219T213020Z
 LAST-MODIFIED:20260310T184029Z
 UID:73706-1783641600-1783900799@www.hollins.edu
@@ -5026,7 +4946,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260712T000000
 DTEND;TZID=America/New_York:20260718T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20250930T140902Z
 LAST-MODIFIED:20251029T175051Z
 UID:71745-1783814400-1784419199@www.hollins.edu
@@ -5044,7 +4964,7 @@ X-SOURCE-ID:hollins_university
 X-SOURCE:Hollins University
 DTSTART;TZID=America/New_York:20260712T000000
 DTEND;TZID=America/New_York:20260725T235959
-DTSTAMP:20260311T220215
+DTSTAMP:20260312T221650
 CREATED:20251216T212637Z
 LAST-MODIFIED:20251216T212637Z
 UID:73040-1783814400-1785023999@www.hollins.edu
@@ -5142,6 +5062,35 @@ SEQUENCE:0
 SUMMARY:Roanoke Civic Center Commission
 UID:8717
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Roanoke Special Events": "https://www.roanokeva.gov/calendar.aspx?EID=8887"}
+X-SOURCE-ID:roanoke_special_events
+X-SOURCE:Roanoke Special Events
+URL:https://www.roanokeva.gov/calendar.aspx?EID=8887
+DESCRIPTION:Elmwood Park will be the host to the Short Track (XCC) Nationa
+ l Championship. This race will attract upwards of 600 athletes covering a
+  variety of experience levels from junior to Elite riders from around the
+  country. This race is a short format race attracting families and specta
+ tors to watch riders work their way through a very technical course that 
+ includes paved surfaces\, grass\, dirt\, steep elevation\, and technical 
+ features both natural and temporary.  \n \nThe race will include an expo 
+ area that features good and beverage vendors\, local community partner te
+ nts\, local vendors\, and music throughout. There will be programming on 
+ the main stage that includes a daily awards podium. This event is part of
+  the larger\; longer National Championship throughout the week at multipl
+ e venues including Carvins Cove XCM Championship. https://www.roanokeva.g
+ ov/calendar.aspx?EID=8887
+DTEND;TZID=America/New_York;VALUE=DATE:20260716
+DTSTAMP;TZID=America/New_York:20260312T125803
+DTSTART;TZID=America/New_York;VALUE=DATE:20260715
+LAST-MODIFIED;TZID=America/New_York:20260312T125803
+LOCATION:Elmwood Park - 706 S Jefferson St.  Roanoke VA 24011
+SEQUENCE:0
+SUMMARY:USA Cycling Endurance Mountain Bike Short Track (XCC) National Cha
+ mpionship
+UID:8887
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8644"}
@@ -5406,7 +5355,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280295@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260806T073000
 DTEND;TZID=America/New_York:20260806T090000
 SUMMARY:Greenway Litter Pickup
@@ -5469,6 +5418,22 @@ SEQUENCE:0
 SUMMARY:First Fridays at Five
 UID:8701
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Salem Main Calendar": "https://www.salemva.gov/calendar.aspx?EID=1447"}
+X-SOURCE-ID:salem_main_calendar
+X-SOURCE:Salem Main Calendar
+URL:https://www.salemva.gov/calendar.aspx?EID=1447
+DESCRIPTION: https://www.salemva.gov/calendar.aspx?EID=1447
+DTEND;TZID=America/New_York:20260808T235900
+DTSTAMP;TZID=America/New_York:20260312T113400
+DTSTART;TZID=America/New_York:20260808T080000
+LAST-MODIFIED;TZID=America/New_York:20260312T113400
+LOCATION:Longwood Park - 611 E. Main Street  Salem VA 24153
+SEQUENCE:0
+SUMMARY:Salem Distance Run
+UID:1447
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Roanoke Boards Commissions": "https://www.roanokeva.gov/calendar.aspx?EID=8632"}
@@ -5810,7 +5775,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280300@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20260903T073000
 DTEND;TZID=America/New_York:20260903T090000
 SUMMARY:Greenway Litter Pickup
@@ -6318,7 +6283,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280305@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T103000
 SUMMARY:Greenway Litter Pickup
@@ -6801,7 +6766,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280307@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20261105T090000
 DTEND;TZID=America/New_York:20261105T103000
 SUMMARY:Greenway Litter Pickup
@@ -7204,7 +7169,7 @@ X-SOURCE-ID:meetup_pathfinders_greenways
 X-SOURCE:Meetup Pathfinders Greenways
 UID:event_312280318@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020216Z
+DTSTAMP:20260313T021651Z
 DTSTART;TZID=America/New_York:20261203T090000
 DTEND;TZID=America/New_York:20261203T103000
 SUMMARY:Greenway Litter Pickup

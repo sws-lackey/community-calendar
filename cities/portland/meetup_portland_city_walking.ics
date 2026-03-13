@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Portland City Trail Walking Group
+X-WR-CALNAME:Portland City Trail Walking Group
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313706684@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260313T100000
+DTEND;TZID=America/Los_Angeles:20260313T120000
+SUMMARY:**10 AM** Friday Walk to and from Council Crest from Hillsdale Library 
+DESCRIPTION:Portland City Trail Walking Group\nAdapted from “Portland Stair Walks” by Laura O. Foster: Hilly loop walk up to Council Crest Park and back from the Hillsdale Library in SW Portland. About 550' elevation over 5 miles. Neighborhood streets\, trails in a mini-forest\, and stairs.
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313706684/
+STATUS:CONFIRMED
+CREATED:20260309T035619Z
+LAST-MODIFIED:20260309T035619Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/7/2/f/600_531914127.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313069312@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260315T100000
+DTEND;TZID=America/Los_Angeles:20260315T120000
+SUMMARY:**10 AM** Walk to Coffee in SW Portland **10 AM**
+DESCRIPTION:Portland City Trail Walking Group\nHilly 5 miles roundtrip down about 450' from the Hillsdale Library to Elephant's Deli on SW Corbett Ave.\nAbout 25 minutes for coffee break\, then return to start\, passing thru the Hillsdale Farmer's Market (if it’s open). NOTE: Sections of the hike are steep & hilly\, and are not recommended for people who are new to hiking.
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313069312/
+STATUS:CONFIRMED
+CREATED:20260126T201844Z
+LAST-MODIFIED:20260126T201844Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/2/a/7/600_507713927.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313746621@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260317T100000
+DTEND;TZID=America/Los_Angeles:20260317T120000
+SUMMARY:**10 AM** Portland SW Hills Stairway to Heaven(ly) Goose Hollow Walk
+DESCRIPTION:Portland City Trail Walking Group\n*Adapted from the 2010 edition of "Portland Stair Walks" by Laura O.Foster*\n\nIncredible 3.4 miles\, 328 ascending and 300+ descending stairs. Optional lunch at Goose Hollow Inn after the walk.\nExcellent views and architecture of the neighborhood above and around the PSU campus.\nYou might want to bring water…you’ll sweat or glow.\nLimited parking near the start on SW 20th Ave and SW Howards Way south of Jefferson Street.\n\\*\\*Additonal on-street parking near 1952 SW Market Street in the neighborhood above the starting point.\\*\\*\n\n**Meetup start point is uphill on SW 20th Ave south of SW Howards Way**
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313746621/
+STATUS:CONFIRMED
+CREATED:20260311T182339Z
+LAST-MODIFIED:20260311T182339Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/b/f/c/600_515723548.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313734783@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260318T100000
+DTEND;TZID=America/Los_Angeles:20260318T123000
+SUMMARY:Southwest Portland Rectangular Adventure
+DESCRIPTION:Portland City Trail Walking Group\n**Think you know Southwest Portland? Think again. Beneath all those windy streets and confusing intersections\, there’s actually a sneaky network of trails zig-zagging through ravines\, parks\, and neighborhoods — and we’re going to connect the dots.**\n\n**We’ll form a rough rectangle (because circles are overrated)\, starting north on Southwest Trail #7\, cutting east on #4\, then south on #6\, and finally west on #5 until we reconnect with #7 to close the loop - er\, rectangle.**\n\n**Expect a mix of quiet city streets\, where you’ll doubt they ever lead anywhere\, plus a few “shortcuts” that prove otherwise.**\n\n**Along the way\, we’ll meander through Multnomah Village\, Marshall Park\, Maricara Nature Park\, and Woods Memorial Nature Park — basically Portland’s greatest hits of “wait\, I didn’t know this was here.” We’ll even cross I‑5 twice (safely\, via overpasses\, not parkour).**\n\n**The stats: 6.5 miles\, about 700 feet of elevation gain\, 2½ hours of adventure give or take\, depending on how easily we’re distracted by plants and viewpoints.**\n\n**Meet at SW Carson & SW 42nd — plenty of street parking and no excuses. Bring water\, sun protection (wishful thinking?) or raingear\, and your best “look\, a hidden trail!” enthusiasm. This is a rain or shine event\, so think positive thoughts for glorious weather.**\n\n**Questions? Send me a message before I wander off.**
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313734783/
+STATUS:CONFIRMED
+CREATED:20260310T231157Z
+LAST-MODIFIED:20260310T231157Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/a/b/2/600_532767314.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313527283@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260319T100000
+DTEND;TZID=America/Los_Angeles:20260319T120000
+SUMMARY:THURSDAY **10 AM** Holman Lane to Pittock Mansion 
+DESCRIPTION:Portland City Trail Walking Group\nAbout 5 miles out-and-back from the Holman Lane trailhead next to 3509 NW Raleigh St up to the Pittock Mansion on a lovely forested path.\n\nThere is a good amount of elevation gain (833 feet)\, but we take a moderate pace\, and we usually stop for 15 to 20 minutes at the top to take in the views and chit chat.\nOptional lunch/snacks at Elephants Deli afterwards.\nCome hang out with us!
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313527283/
+STATUS:CONFIRMED
+CREATED:20260225T192401Z
+LAST-MODIFIED:20260225T192401Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/d/7/e/600_529352126.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313727467@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260320T100000
+DTEND;TZID=America/Los_Angeles:20260320T120000
+SUMMARY:Oswego - Off We Go 
+DESCRIPTION:Portland City Trail Walking Group\n**DESCRIPTION**: Let’s meet for a simple up and back and log some miles from downtown Oswego to Lewis & Clark\, along the mostly quiet paved bicycle path amoung the lovely trees and meadow. Beginning of the walk is hilly. Mid-way pit stop at the Nature Center (Tryon Creek).\n\n***RSVP ETIQUETTE: Thank you in advance for changing your RSVP from "Going" to "Not Going" or drop a note in the chat if your plans change.***\n\n**DISTANCE**: Six miles.\n\n**MEET AT:** Dang's Thai Kitchen parking lot. 670 North State Street\, Lake Oswego.\n\n**PARKING:** In the lot near the restaurant\; there's also nearby street parking on B Avenue or 7th.\n\n**LAUNCH TIME**: 10:00 A.M.\n\n**FITNESS LEVEL**: Expect a moderate pace for this paved walk.\n\n**ATTIRE**: Bring your layers and adventurous spirit.\n\n**GUESTS**: Guests welcome!\n\n**REPAST OPTION (or not):** Group preference.
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313727467/
+STATUS:CONFIRMED
+CREATED:20260310T151857Z
+LAST-MODIFIED:20260310T151857Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/5/0/f/600_533134063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313403966@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260322T100000
+DTEND;TZID=America/Los_Angeles:20260322T120000
+SUMMARY:**10 AM** Walk to Coffee in SW Portland **10 AM**
+DESCRIPTION:Portland City Trail Walking Group\nHilly 5 miles roundtrip down about 450' from the Hillsdale Library to Elephant's Deli on SW Corbett Ave.\nAbout 25 minutes for coffee break\, then return to start\, passing thru the Hillsdale Farmer's Market (if it’s open). NOTE: Sections of the hike are steep & hilly\, and are not recommended for people who are new to hiking.
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313403966/
+STATUS:CONFIRMED
+CREATED:20260217T224338Z
+LAST-MODIFIED:20260217T224338Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/2/a/7/600_507713927.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313721157@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260324T100000
+DTEND;TZID=America/Los_Angeles:20260324T120000
+SUMMARY:**10 AM** Portland Heights Stair Walk
+DESCRIPTION:Portland City Trail Walking Group\nHidden stairways\, paths between fabulous homes\, and a pedestrian bridge\, all thru one of the most expensive neighborhoods in Portland. 4+ miles\, lots of climbing!\nFrom the book\, Portland Stair Walks\,” by Laura O.Foster.\nMeet by the vacant grocery store (former Strohecher's) at 2855 SW Patton St.\n**Parking: Across the street on Old Orchard Road or at the lot several hundred feet up Patton from the start.**
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313721157/
+STATUS:CONFIRMED
+CREATED:20260310T011757Z
+LAST-MODIFIED:20260310T011757Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/7/2/f/600_531914127.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313734803@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260325T093000
+DTEND;TZID=America/Los_Angeles:20260325T123000
+SUMMARY:Bull Mountain Urban‑Wild Hills Challenge
+DESCRIPTION:Portland City Trail Walking Group\n**7.5 miles**\n\\*\\*\\~900–1000 ft gain \\*\\*\n\n\\*\\*Stretch your legs and lungs on this surprisingly hilly loop right in Tigard’s backyard. We’ll start from an easy on‑street parking area near Sunrise Park and quickly leave the cars behind for a mix of quiet neighborhood streets and hidden green spaces. \\*\\*\n\n\\*\\*Our route links together the forested Ascension Trail\, the meadows and singletrack of Cach Natural Area\, and a steady climb to the Bull Mountain high point on High Tor Drive\, with views toward the valley on a clear day. Expect multiple shorter climbs rather than one big grind\, plus a nice blend of pavement and real trail underfoot. \\*\\*\n\n\\*\\*This is an ideal “training hike” for longer spring and summer adventures: about 7.5 miles with roughly 900–1000 feet of elevation gain\, at a social but steady pace. Most of the hike is within neighborhoods\, but there are several stretches of true wooded trail where it feels surprisingly wild for being so close to home. \\*\\*\n\n\\*\\*Recommended: sturdy walking shoes or light hikers\, water\, and layers for changing weather. Poles are optional but can be handy on the steeper ups and downs. \\*\\*\n\n3/4/26 Update - I checked the trail after last night's hard rain. There are several spots on the trail that are very muddy. I highly recommend boots and encourage the use of treking poles if you have them for the steep sections.\n\nRoute map: https://www.alltrails.com/explore/recording/afternoon-hike-e2ad92e
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313734803/
+STATUS:CONFIRMED
+CREATED:20260310T231448Z
+LAST-MODIFIED:20260310T231448Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/7/2/f/600_531914127.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313670351@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260326T100000
+DTEND;TZID=America/Los_Angeles:20260326T120000
+SUMMARY:THURSDAY **10 AM** Holman Lane to Pittock Mansion 
+DESCRIPTION:Portland City Trail Walking Group\nAbout 5 miles out-and-back from the Holman Lane trailhead next to 3509 NW Raleigh St up to the Pittock Mansion on a lovely forested path.\n\nThere is a good amount of elevation gain (833 feet)\, but we take a moderate pace\, and we usually stop for 15 to 20 minutes at the top to take in the views and chit chat.\nOptional lunch/snacks at Elephants Deli afterwards.\nCome hang out with us!
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313670351/
+STATUS:CONFIRMED
+CREATED:20260306T193929Z
+LAST-MODIFIED:20260306T193929Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/d/7/e/600_529352126.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/ical/
+X-WR-CALNAME:Portland City Trail Walking Group
+END:VCALENDAR

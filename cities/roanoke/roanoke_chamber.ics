@@ -255,29 +255,6 @@ URL:https://business.roanokechamber.org/events/details/lucky-to-live-local
 X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Best In Show | Art Fundraiser
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T170000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T200000
-UID:c7678ee9a9e97a17102f44768e989231@growthzone.com
-DESCRIPTION:Best in Show is an art show to benefit the Roanoke Valley SPCA
- . Because artists have always been at the forefront of our culture in expr
- essing society's concerns and giving a voice to the most helpless among us
- \, we can think of no better partners in our community to help raise funds
-  for the needy pets in our community. Held for one night only - Thursday\,
-  March 12\, 2026. We'll kick off the show with our VIP preview from 5:00 p
- m to 6:00 pm. The show and sale will begin at 6:00 pm and last until 8:00 
- pm at Charter Hall\, located on the 3rd floor of the Market Building. This
-  art show\, sale\, and fundraiser for the Roanoke Valley SPCA will feature
-  almost 300 local artists original artwork - paintings\, sculpture\, paste
- ls\, and photography - depicting animals\, to make Best in Show one of the
-  most anticipated events in Roanoke. VIP Preview tickets can be purchased 
- in advance for $25. VIP Preview tickets provide early viewing entry to the
-  show as well as expanded reception and drinks\, including on
-URL:https://business.roanokechamber.org/events/details/best-in-show-art-fu
- ndraiser
-X-SOURCE:Roanoke Regional Chamber
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Spring Home Show
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260418T000000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260419T235900
@@ -307,30 +284,6 @@ DESCRIPTION:Do you or your employees have the tools you need to work safel
   Included) and March 19th 8:00 am – 11:30 am Register Here
 URL:https://business.roanokechamber.org/events/details/osha-10-hr-construc
  tion-industry-safety-course
-X-SOURCE:Roanoke Regional Chamber
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leadership Roanoke Valley OPEN HOUSE
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T170000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T190000
-UID:4da7363dd6d14cbd8aee6df6ff6dc14d@growthzone.com
-DESCRIPTION:*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+mi
- n(200px\,max(70px\,20svh)))]" data-scroll-anchor="true" data-testid="conve
- rsation-turn-2" data-turn="assistant" data-turn-id="d616d5d6-2119-4a64-be4
- e-f918b270de88" dir="auto" tabindex="-1"> We’re opening the doors… and
-  you’re invited. Leadership Roanoke Valley is hosting our first Open Hou
- se on the 12th from 5:00–7:00 PM\, and we’d love to see you there! Whe
- ther you’ve been curious about the program\, thinking about applying\, o
- r simply want to learn more about how LRV is developing leaders across our
-  region — this is your chance. Join us at Starr Hill Roanoke Pilot Brewe
- ry & Side Stage for a relaxed\, come-as-you-are evening. You’ll meet alu
- mni\, hear about the impact of the program\, and get a feel for what makes
-  Leadership Roanoke Valley such a transformational experience. No speeches
- . No pressure. Just good conversation\, great people\, and a welcoming spa
- ce to connect. Mark your calendar for the 12th\, 5–7 PM and bring a frie
- nd wh
-URL:https://business.roanokechamber.org/events/details/leadership-roanoke-
- valley-open-house-17852
 X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 BEGIN:VEVENT
@@ -386,6 +339,21 @@ DESCRIPTION:Join the Kiwanis Club of Roanoke Wednesday April 8 for our wee
  ch.
 URL:https://business.roanokechamber.org/events/details/kiwanis-speaker-vic
  toria-gardner
+X-SOURCE:Roanoke Regional Chamber
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiwanis Speaker - Dr. Amy White - WVCC
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260513T120000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260513T133000
+UID:1120a9a2973b66d4156a3ff1b3738540@growthzone.com
+DESCRIPTION:Join the Kiwanis Club of Roanoke Wednesday April 8 for our wee
+ kly meeting in Charter Hall on the third floor of the City Market Building
+ \; networking and lunch begin at 12:00PM. We will listen to Dr. Amy White\
+ , Director of STEM Studies at Western Virginia Community College\, discuss
+  the growth of the STEM program and its local importance. Guest attendance
+  is free and includes lunch.
+URL:https://business.roanokechamber.org/events/details/kiwanis-speaker-dr-
+ amy-white-wvcc
 X-SOURCE:Roanoke Regional Chamber
 END:VEVENT
 END:VCALENDAR

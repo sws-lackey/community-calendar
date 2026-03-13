@@ -27,9 +27,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260311T210000
 DTEND;TZID=America/Los_Angeles:20260312T210000
-DTSTAMP:20260311T190420
+DTSTAMP:20260312T121601
 CREATED:20260205T000927Z
-LAST-MODIFIED:20260312T012158Z
+LAST-MODIFIED:20260312T161637Z
 UID:10001078-1773262800-1773349200@magnes.berkeley.edu
 SUMMARY:Big Give 2026
 DESCRIPTION:Strengthen Jewish culture\, scholarship\, and research at Cal!\nDonate to the Magnes Annual Fund\nDonate to the Magnes Signature Event Fund\n  \nDuring BIG GIVE\, the Cal community is coming together to support the programs that define Berkeley. The Magnes Collection of Jewish Art and Life is one of them! \nThrough hands-on undergraduate apprenticeships\, object-based class visits\, exhibitions\, and public programming rooted in the collection\, the Magnes serves as a unique center of discovery and connection. As the only museum of its kind at a public university in the U.S.\, we help ensure that Cal remains an exceptional leader in Jewish studies.  \nYour support today ensures that Jewish art\, history\, and culture remain a vibrant part of the Berkeley experience. By giving now\, you help us ignite new knowledge and understanding of Jewish culture across generations. \n  \nTwo ways to double your impact!\nThe Magnes Annual FundHelp us unlock $5\,000 to ensure free admission\, staff-led class visits\, student-integrated scholarship\, and exhibitions that lift up Jewish stories across generations! We need just 30 donors to give to the Magnes Annual Fund in the next 24 hours to trigger a generous match from Advisory Board Chair Helen Bulwik. Whether it’s $5 or $500\, your gift today carries double the impact. \nDonate to the Magnes Annual Fund\n  \nMagnes Signature Event FundYour support brings events like the Jewish Arts & Bookfest to life—creating a space where students\, scholars\, and neighbors discover new perspectives on Jewish culture together. Long-time supporter Vallery Feldman has issued a challenge to keep this momentum going: if 15 people step forward with a gift of any size to the Magnes Signature Event Fund\, we will unlock an additional $2\,500 match! \nDonate to the Magnes Signature Event Fund\n  \n\n\n\n\n\n  \nBig Give starts at 9 p.m. PDT on Wednesday\, March 11\, and continues through 9 p.m. PDT on Thursday\, March 12\, 2026.. After you donate\, help us keep the momentum going: \n\nShare on Social: Use #CalBigGive and #TheMagnes to show your excitement\, put the Magnes on the leaderboard\, and help us earn contest prizes and matching funds.\nBe an Ambassador: Sign up to be a You+2 Ambassador. When you inspire two friends to give\, you’ll earn an exclusive prize!\n\nBig Give is an online fundraising tradition that began in 2014\, giving you and the entire Cal community  —  alumni\, parents\, students\, faculty\, staff\, and friends  —  the chance to come together to support your favorite schools and programs. Now celebrating its 11th year\, this annual day of giving allows you to amplify your generosity through awareness and contest prizes. \n\n\n\n\n\nVisit BigGive.berkeley.edu today and discover all the ways you can be the light. \n \n 
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260315T150000
 DTEND;TZID=America/Los_Angeles:20260315T170000
-DTSTAMP:20260311T190420
+DTSTAMP:20260312T121601
 CREATED:20260203T183726Z
 LAST-MODIFIED:20260306T194942Z
 UID:10001077-1773586800-1773594000@magnes.berkeley.edu
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260322T130000
 DTEND;TZID=America/Los_Angeles:20260322T160000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20260220T195917Z
 LAST-MODIFIED:20260309T173426Z
 UID:10001079-1774184400-1774195200@magnes.berkeley.edu
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260416T173000
 DTEND;TZID=America/Los_Angeles:20260416T190000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20260302T222640Z
 LAST-MODIFIED:20260311T191810Z
 UID:10001080-1776360600-1776366000@magnes.berkeley.edu
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260419T130000
 DTEND;TZID=America/Los_Angeles:20260419T133000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20251008T200422Z
 LAST-MODIFIED:20251008T200710Z
 UID:10001068-1776603600-1776605400@magnes.berkeley.edu
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260419T133000
 DTEND;TZID=America/Los_Angeles:20260419T150000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20251008T200515Z
 LAST-MODIFIED:20260203T190036Z
 UID:10001067-1776605400-1776610800@magnes.berkeley.edu
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260426T110000
 DTEND;TZID=America/Los_Angeles:20260426T120000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20250812T212127Z
 LAST-MODIFIED:20260219T234759Z
 UID:10001051-1777201200-1777204800@magnes.berkeley.edu
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260503T110000
 DTEND;TZID=America/Los_Angeles:20260503T160000
-DTSTAMP:20260311T190421
+DTSTAMP:20260312T121601
 CREATED:20250714T205122Z
 LAST-MODIFIED:20260213T221630Z
 UID:10001035-1777806000-1777824000@magnes.berkeley.edu

@@ -18,20 +18,22 @@ CREATE POLICY "collection_events_select_public"
   ON collection_events FOR SELECT
   USING (true);
 
-CREATE POLICY "collection_events_insert_owner"
+CREATE POLICY "collection_events_insert_curator"
   ON collection_events FOR INSERT
   WITH CHECK (
     EXISTS (
       SELECT 1 FROM collections
       WHERE id = collection_id AND user_id = auth.uid()
     )
+    AND public.is_curator_for_city((SELECT city FROM collections WHERE id = collection_id))
   );
 
-CREATE POLICY "collection_events_delete_owner"
+CREATE POLICY "collection_events_delete_curator"
   ON collection_events FOR DELETE
   USING (
     EXISTS (
       SELECT 1 FROM collections
       WHERE id = collection_id AND user_id = auth.uid()
     )
+    AND public.is_curator_for_city((SELECT city FROM collections WHERE id = collection_id))
   );

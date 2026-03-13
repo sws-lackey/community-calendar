@@ -2,18 +2,28 @@ import React, { useMemo, useEffect, useRef, useCallback } from 'react';
 import { useCollection } from '../hooks/useCollection.js';
 import { useColumnCount } from '../hooks/useColumnCount.js';
 import { getMasonryColumns } from '../lib/helpers.js';
+import { isGridLayout as checkGridLayout, getColumnCount as calcColumnCount } from '../lib/cardStyles.js';
 import MasonryGrid from './MasonryGrid.jsx';
+import UniformGrid from './UniformGrid.jsx';
 
 /**
  * Minimal embeddable feed view.
- * URL params: embed={feedId}, style={cardStyle}, title={custom title}, bg={color}
+ * URL params:
+ *   embed={feedId}          — collection to display
+ *   style={cardStyle}       — card variant (accent, compact, grid, gridtile, etc.)
+ *   featured_style={cardStyle} — card variant for featured events (defaults to style)
+ *   title={custom title}    — single heading above all events (legacy, overrides both)
+ *   featured_title={text}   — heading above featured events section
+ *   normal_title={text}     — heading above regular events section
+ *   bg={color}              — background color
+ *   mode=dark               — dark mode
  *
  * Posts height to parent window via postMessage so the host page
  * can auto-resize the iframe (no scroll-within-scroll).
  */
-export default function EmbedView({ feedId, style, title, bg, mode }) {
+export default function EmbedView({ feedId, style, featuredStyle, title, featuredTitle, normalTitle, bg, mode }) {
   const isDark = mode === 'dark';
-  const { collection, events, loading } = useCollection(feedId);
+  const { collection, events, loading, featuredEvents: earlyFeatured, featuredLoading } = useCollection(feedId);
   const rawColumnCount = useColumnCount();
   const containerRef = useRef(null);
   const observerRef = useRef(null);
@@ -42,7 +52,7 @@ export default function EmbedView({ feedId, style, title, bg, mode }) {
   // Re-post height whenever content changes (events load, window resize)
   useEffect(() => {
     postHeight();
-  }, [events, loading, postHeight]);
+  }, [events, loading, earlyFeatured, postHeight]);
 
   useEffect(() => {
     window.addEventListener('resize', postHeight);
@@ -50,22 +60,26 @@ export default function EmbedView({ feedId, style, title, bg, mode }) {
   }, [postHeight]);
 
   const cardStyle = style || collection?.card_style || 'compact';
+  const featuredCardStyle = featuredStyle || cardStyle;
 
-  const oneColStyles = ['list'];
-  const twoColStyles = ['compact', 'split', 'splitimage'];
-  const columnCount = oneColStyles.includes(cardStyle) ? 1
-    : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
-    : rawColumnCount;
+  const isGridLayout = checkGridLayout(cardStyle);
+  const isFeaturedGridLayout = checkGridLayout(featuredCardStyle);
+  const columnCount = calcColumnCount(cardStyle, rawColumnCount);
+  const featuredColumnCount = calcColumnCount(featuredCardStyle, rawColumnCount);
 
   const { featuredEvents, regularEvents } = useMemo(() => {
+    // While full events are still loading, use early featured if available
+    if (loading && earlyFeatured.length > 0) {
+      return { featuredEvents: earlyFeatured, regularEvents: [] };
+    }
     const featured = events.filter(e => e._featured);
     if (featured.length === 0) return { featuredEvents: [], regularEvents: events };
     return { featuredEvents: featured, regularEvents: events.filter(e => !e._featured) };
-  }, [events]);
+  }, [events, loading, earlyFeatured]);
 
   const featuredColumns = useMemo(
-    () => getMasonryColumns(featuredEvents, columnCount),
-    [featuredEvents, columnCount]
+    () => getMasonryColumns(featuredEvents, featuredColumnCount),
+    [featuredEvents, featuredColumnCount]
   );
 
   const masonryColumns = useMemo(
@@ -73,41 +87,120 @@ export default function EmbedView({ feedId, style, title, bg, mode }) {
     [regularEvents, columnCount]
   );
 
-  const displayTitle = title || collection?.name;
+  // Title resolution: legacy `title` param overrides both; otherwise use individual params
+  const displayFeaturedTitle = title || featuredTitle;
+  const displayNormalTitle = title ? null : normalTitle;
+
+  // Domain allowlist check
+  const domainBlocked = useMemo(() => {
+    if (!collection?.allowed_domains?.length) return false;
+    try {
+      const referrerHost = new URL(document.referrer).hostname;
+      return !collection.allowed_domains.some(d =>
+        referrerHost === d || referrerHost.endsWith('.' + d)
+      );
+    } catch {
+      // No referrer or invalid — block when allowlist is set
+      return true;
+    }
+  }, [collection]);
+
+  const spinner = (
+    <div className="flex justify-center py-8">
+      <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-gray-400"></div>
+    </div>
+  );
 
   let content;
-  if (loading) {
+  if (loading && (featuredLoading || earlyFeatured.length === 0)) {
+    content = spinner;
+  } else if (loading && earlyFeatured.length > 0) {
+    // Progressive: show featured section early while regular events still load
+    const hasFeatured = featuredEvents.length > 0;
     content = (
-      <div className="flex justify-center py-8">
-        <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-gray-400"></div>
-      </div>
+      <>
+        {hasFeatured && (
+          <div className="mb-6">
+            {displayFeaturedTitle && (
+              <h2 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayFeaturedTitle}</h2>
+            )}
+            {isFeaturedGridLayout ? (
+              <UniformGrid
+                events={featuredEvents}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+                columnCount={featuredColumnCount}
+              />
+            ) : (
+              <MasonryGrid
+                masonryColumns={featuredColumns}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+              />
+            )}
+          </div>
+        )}
+        {spinner}
+      </>
     );
   } else if (!collection) {
     content = <p className="text-center text-gray-400 py-8 text-sm">Collection not found.</p>;
+  } else if (domainBlocked) {
+    content = <p className="text-center text-gray-400 py-8 text-sm">This embed is not authorized for this domain.</p>;
   } else if (events.length === 0) {
     content = <p className="text-center text-gray-400 py-8 text-sm">No events yet.</p>;
   } else {
+    const hasFeatured = featuredEvents.length > 0;
     content = (
       <>
-        {displayTitle && (
-          <h1 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayTitle}</h1>
-        )}
-        {featuredColumns.some(col => col.length > 0) && (
+        {hasFeatured && (
           <div className="mb-6">
-            <MasonryGrid
-              masonryColumns={featuredColumns}
-              filterTerm=""
-              onCategoryFilter={() => {}}
-              variant={cardStyle}
-            />
+            {displayFeaturedTitle && (
+              <h2 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayFeaturedTitle}</h2>
+            )}
+            {isFeaturedGridLayout ? (
+              <UniformGrid
+                events={featuredEvents}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+                columnCount={featuredColumnCount}
+              />
+            ) : (
+              <MasonryGrid
+                masonryColumns={featuredColumns}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+              />
+            )}
           </div>
         )}
-        <MasonryGrid
-          masonryColumns={masonryColumns}
-          filterTerm=""
-          onCategoryFilter={() => {}}
-          variant={cardStyle}
-        />
+        {displayNormalTitle && (
+          <h2 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayNormalTitle}</h2>
+        )}
+        {/* If no featured section exists and legacy title is set, show it above regular events */}
+        {!hasFeatured && title && (
+          <h1 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{title}</h1>
+        )}
+        {isGridLayout ? (
+          <UniformGrid
+            events={regularEvents}
+            filterTerm=""
+            onCategoryFilter={() => {}}
+            variant={cardStyle}
+            columnCount={columnCount}
+          />
+        ) : (
+          <MasonryGrid
+            masonryColumns={masonryColumns}
+            filterTerm=""
+            onCategoryFilter={() => {}}
+            variant={cardStyle}
+          />
+        )}
       </>
     );
   }

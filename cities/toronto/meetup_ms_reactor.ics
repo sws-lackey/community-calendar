@@ -25,39 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313103095@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T014531Z
-DTSTART;TZID=America/Toronto:20260311T210000
-DTEND;TZID=America/Toronto:20260311T220000
-SUMMARY:Build Secure\, Observable\, Production-ready Agents with a Control Plane
-DESCRIPTION:Microsoft Reactor Toronto\n**Brought to you by Microsoft and NVIDIA**\n\nOrchestrate\, secure and observe agents enabling advanced AI workflows. Reliable agent orchestration requires clear separation between control and execution. In this joint session\, Microsoft and NVIDIA present a multi-agent architecture where Foundry Agent Service coordinates GPU-backed agents running on Azure Container Apps.\n\nUsing a document processing scenario with multiple open-source models including NVIDIA Nemotron models\, we show how agents route requests\, apply security controls\, and monitor execution across GPU workloads\, producing consistent and explainable results suitable for production environments.\n\n🔔 This session will be presented in two time zones. For our earlier stream\, [click here](https://developer.microsoft.com/reactor/events/26660?wt.mc_id=meetup_26683_webpage_reactor)\n\n[This session is a part of a series\, learn more here](https://developer.microsoft.com/reactor/series/S-1590/?wt.mc_id=meetup_26683_webpage_reactor)
-URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313103095/
-STATUS:CONFIRMED
-CREATED:20260128T231220Z
-LAST-MODIFIED:20260128T231220Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/9/d/600_525182973.jpeg
-END:VEVENT
-BEGIN:VEVENT
-UID:event_312298329@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T014531Z
-DTSTART;TZID=America/Toronto:20260312T080000
-DTEND;TZID=America/Toronto:20260312T090000
-SUMMARY:Safety\, Reliability & Best Practices in LangChain4j
-DESCRIPTION:Microsoft Reactor Toronto\nLearn how to build safe\, reliable\, and enterprise-ready AI applications in Java\, including how to protect API keys and model endpoints\, validate tool output\, enforce content filters\, and keep LLMs from stepping outside their intended boundaries. See how to design prompts defensively\, restrict system capabilities\, and use structured interfaces to avoid injection attacks. We'll also explore patterns for safe RAG\, secure memory\, and audit-ready logging that make your Langchain4j applications trustworthy\, enterprise-grade\, and ready for real users.Learn how to build safe\, reliable\, and enterprise-ready AI applications in Java\, including how to protect API keys and model endpoints\, validate tool output\, enforce content filters\, and keep LLMs from stepping outside their intended boundaries. See how to design prompts defensively\, restrict system capabilities\, and use structured interfaces to avoid injection attacks. We'll also explore patterns for safe RAG\, secure memory\, and audit-ready logging that make your Langchain4j applications trustworthy\, enterprise-grade\, and ready for real users.\n\nPre-requisites:\nCheck out the LangChain4j beginners series: https://aka.ms/langchain4j-for-beginners\nSign up for an Azure free trial: https://aka.ms/AzureFreeTrialDevRelAll
-URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/312298329/
-STATUS:CONFIRMED
-CREATED:20251204T151725Z
-LAST-MODIFIED:20251204T151725Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/e/3/d/600_531620029.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313227144@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260313T110000
 DTEND;TZID=America/Toronto:20260313T113000
 SUMMARY:Global Build-a-thon Hack!
@@ -72,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313315383@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260316T133000
 DTEND;TZID=America/Toronto:20260316T143000
 SUMMARY:Model Mondays - What's New In Foundry IQ?
@@ -87,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313095353@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260316T180000
 DTEND;TZID=America/Toronto:20260316T190000
 SUMMARY:DevOps sin filtros: lo que nadie te cuenta
@@ -102,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313240204@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260317T130000
 DTEND;TZID=America/Toronto:20260317T140000
 SUMMARY:Extend Azure SRE Agent: Custom Runbooks and Ecosystem Tools for Proactive Reliab
@@ -117,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312735393@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260318T130000
 DTEND;TZID=America/Toronto:20260318T140000
 SUMMARY:Conceptos avanzados de redes en Microsoft Azure
@@ -132,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313175332@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260318T150000
 DTEND;TZID=America/Toronto:20260318T160000
 SUMMARY:Implementando GitHub Copilot CLI SDKs
@@ -147,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313404622@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260318T150000
 DTEND;TZID=America/Toronto:20260318T160000
 SUMMARY:Azure Decoded: Kickstart AI Security with Microsoft Defender for Cloud
@@ -162,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312864547@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014531Z
+DTSTAMP:20260313T020006Z
 DTSTART;TZID=America/Toronto:20260319T080000
 DTEND;TZID=America/Toronto:20260319T090000
 SUMMARY:Agentic Patterns with LangChain4j
@@ -173,6 +143,36 @@ CREATED:20260113T164657Z
 LAST-MODIFIED:20260113T164657Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/5/e/3/600_532482467.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_312369332@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T020006Z
+DTSTART;TZID=America/Toronto:20260319T110000
+DTEND;TZID=America/Toronto:20260319T130000
+SUMMARY:VS Code Live: 1.110 Release
+DESCRIPTION:Microsoft Reactor Toronto\nJoin us for VS Code Live! This is your chance to catch up on all the major updates to VS Code and GitHub Copilot\, with live demos from members of the product teams - you won't want to miss this!\n\nThis session is a part of a series\, [**learn more here!**](https://developer.microsoft.com/reactor/series/S-1521/?wt.mc_id=meetup_26589_webpage_reactor)
+URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/312369332/
+STATUS:CONFIRMED
+CREATED:20251209T192609Z
+LAST-MODIFIED:20251209T192609Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/4/2/f/600_532889743.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313333526@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T020006Z
+DTSTART;TZID=America/Toronto:20260323T133000
+DTEND;TZID=America/Toronto:20260323T143000
+SUMMARY:Model Mondays - Foundry Tools & MCP
+DESCRIPTION:Microsoft Reactor Toronto\nThe Foundry Tools provide a central hub for agents to discover and integrate tools (MCP Servers) to extend their capabilities.\n\nJoin **SeokJin Han** as he demonstrates Foundry Tools and the Model Context Protocol integration. Learn how agents can discover and utilize tools through MCP Servers\, extending their capabilities with a standardized interface and growing ecosystem.\n\n***\n\n[Explore the repo](https://github.com/microsoft/model-mondays/blob/main/docs/model-mondays/2026-03-23-s03-e14.md)\n\n📢 [Join the conversation on Discord!](https://aka.ms/model-mondays/discord)\n\n📌 This session is a part of the Model Mondays series. [Learn more here!](https://developer.microsoft.com/reactor/series/S-1485/?wt.mc_id=meetup_S-1485_webpage_reactor)
+URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313333526/
+STATUS:CONFIRMED
+CREATED:20260213T003618Z
+LAST-MODIFIED:20260213T003618Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/e/4/2/b/600_532918411.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/microsoft-reactor-toronto/events/ical/
 X-WR-CALNAME:Microsoft Reactor Toronto

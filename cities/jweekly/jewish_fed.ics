@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260303T180000
 DTEND;TZID=America/Los_Angeles:20260407T203000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251110T180607Z
 LAST-MODIFIED:20251110T180607Z
 UID:10002370-1772560800-1775593800@jewishfed.org
@@ -68,21 +68,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260312T193000
 DTEND;TZID=America/Los_Angeles:20260312T210000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260309T192648Z
 LAST-MODIFIED:20260309T192725Z
 UID:10002557-1773343800-1773349200@jewishfed.org
 SUMMARY:Nas Daily and Aija Mayrock at Congregation Emanu-El
 DESCRIPTION:Using Digital Media to Combat Antisemitism and Foster Muslim-Jewish and Arab-Israeli Dialogue\nCongregation Emanu-El and Stand With Us Northern California are pleased to present a conversation with digital storyteller Nas Daily and author and activist Aija Mayrock on Thursday\, March 12.\nTogether\, they will explore how storytelling and digital media can be powerful tools in confronting antisemitism and building understanding across communities. Drawing from their own experiences creating content that reaches millions worldwide\, Nas and Aija will discuss the responsibility — and possibility — of using modern platforms to humanize complex issues\, challenge hate\, and foster meaningful dialogue between Jews\, Muslims\, Arabs\, and Israelis. \n \nAbout Our Speakers: \nNuseir Yassin\, aka Nas Daily\, rose to fame by doing the crazy task of creating 1\,000 videos in 1\,000 days. After attending Harvard\, he took the risk of leaving his stable engineering job in the U.S. to create content. 8 years\, 68 million followers and thousands of videos later\, Nas Daily brought people together from 197 countries across all platforms by creating his famous 1-minute videos. Reaching over 300 million people monthly\, Nuseir uses his platform to promote peace and understanding\, focusing on stories that highlight shared humanity that transcends political conflict. His efforts in promoting peace have been recognized with the prestigious Anti-Defamation League’s Daniel Pearl Award\, honoring his dedication to fostering coexistence and dialogue through digital media. \nAija Mayrock is a bestselling author and widely followed content creator with more than 1.3 million followers across platforms. She creates stories about remarkable people\, places and cultures around the world\, with a strong focus on Arab and Jewish coexistence\, present day Israel\, global Jewish communities\, and new technology. Her Jewish focused work includes the series Jews Around The World:\, which documents far reaching Jewish communities in Tunisia\, Azerbaijan\, Mauritius\, Japan\, Singapore and Bahrain. The series has been viewed more than 30 million times and highlights the depth and diversity of Jewish history in diaspora. She also creates content that showcases the coexistence and innovation within Israel such as Haifa\, the Magen David Adom Blood Bank\, and the bilingual Arabic Hebrew language of Aravrit\, reaching tens of millions of viewers.
 URL:https://jewishfed.org/event/nas-daily-and-aija-mayrock-at-congregation-emanu-el/
-LOCATION:CA
 CATEGORIES:Federation Event
 ORGANIZER;CN="Congregation Emanu-El":MAILTO:hpozen@jccsf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260112T161458Z
 LAST-MODIFIED:20260211T212928Z
 UID:10002456-1773532800-1773619199@jewishfed.org
@@ -99,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260315T150000
 DTEND;TZID=America/Los_Angeles:20260315T163000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260209T194344Z
 LAST-MODIFIED:20260211T181203Z
 UID:10002481-1773586800-1773592200@jewishfed.org
@@ -112,9 +111,25 @@ GEO:37.7378944;-122.2422027
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Temple Israel of Alameda 3183 Mecartney Road Alameda 94502 United States;X-APPLE-RADIUS=500;X-TITLE=3183 Mecartney Road:geo:-122.2422027,37.7378944
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260312T191911
+CREATED:20260312T214854Z
+LAST-MODIFIED:20260312T214854Z
+UID:10002559-1773792000-1773878399@jewishfed.org
+SUMMARY:Application: SF Sephardic Fellowship
+DESCRIPTION:JIMENA is excited to announce our SF Fellowship\, which brings together communal professionals across sectors working in Jewish Institutions\, communities\, etc.\, who are committed to strengthening Sephardic\, Mizrahi and Israeli engagement within their institutions and communities. \nThrough immersive learning\, including walking tours of Sephardic San Francisco\, sessions with local leaders and professionals\, and applied study of our demographic research\, fellows will build the skills and insight needed to develop more inclusive programs\, and informed policies. \nThe fellowship will launch in person on April 16th at the Jewish Federation of San Francisco\, followed by six additional sessions held every other week\, alternating between in-person and online formats. If you have any questions\, please don’t hesitate to contact me.
+URL:https://jewishfed.org/event/application-sf-sephardic-fellowship/
+LOCATION:Jewish Federation Bay Area\, 121 Steuart St.\, San Francisco\, CA\, 94105\, United States
+CATEGORIES:Community Event
+ATTACH;FMTTYPE=image/png:https://jewishfed.org/wp-content/uploads/images-1.png
+GEO:37.793108;-122.3926127
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Jewish Federation Bay Area 121 Steuart St. San Francisco CA 94105 United States;X-APPLE-RADIUS=500;X-TITLE=121 Steuart St.:geo:-122.3926127,37.793108
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260321T160000
 DTEND;TZID=America/Los_Angeles:20260321T180000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260305T003231Z
 LAST-MODIFIED:20260305T003231Z
 UID:10002553-1774108800-1774116000@jewishfed.org
@@ -131,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260112T161734Z
 LAST-MODIFIED:20260211T212909Z
 UID:10002457-1774137600-1774223999@jewishfed.org
@@ -148,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260322T103000
 DTEND;TZID=America/Los_Angeles:20260322T120000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251208T190944Z
 LAST-MODIFIED:20251225T211321Z
 UID:10002441-1774175400-1774180800@jewishfed.org
@@ -165,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260322T133000
 DTEND;TZID=America/Los_Angeles:20260322T141500
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260309T235511Z
 LAST-MODIFIED:20260309T235511Z
 UID:10002556-1774186200-1774188900@jewishfed.org
@@ -182,14 +197,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260322T170000
 DTEND;TZID=America/Los_Angeles:20260322T220000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251119T171734Z
 LAST-MODIFIED:20251119T171734Z
 UID:10002396-1774198800-1774216800@jewishfed.org
 SUMMARY:Ronald C. Wornick Jewish Day School Annual Gala
 DESCRIPTION:Save the Date for the Ronald C. Wornick Jewish Day School Annual Gala! This year we are celebrating our 40th birthday in style! For more information\, please contact us at development@wornickjds.org.
 URL:https://jewishfed.org/event/ronald-c-wornick-jewish-day-school-annual-gala/
-LOCATION:CA
 CATEGORIES:Community Event
 ATTACH;FMTTYPE=image/jpeg:https://jewishfed.org/wp-content/uploads/Wornick-Hebrew-and-English-Logo-Final-8-29-2017.jpg
 ORGANIZER;CN="Ronald C. Wornick Jewish Day School":MAILTO:development@wornickjds.org
@@ -197,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260324T183000
 DTEND;TZID=America/Los_Angeles:20260324T203000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260221T000036Z
 LAST-MODIFIED:20260221T000036Z
 UID:10002489-1774377000-1774384200@jewishfed.org
@@ -214,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260326T190000
 DTEND;TZID=America/Los_Angeles:20260326T210000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260305T003411Z
 LAST-MODIFIED:20260305T003411Z
 UID:10002554-1774551600-1774558800@jewishfed.org
@@ -231,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260326T190000
 DTEND;TZID=America/Los_Angeles:20260326T220000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260221T000228Z
 LAST-MODIFIED:20260221T000228Z
 UID:10002548-1774551600-1774562400@jewishfed.org
@@ -248,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260328T173000
 DTEND;TZID=America/Los_Angeles:20260328T183000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260309T235214Z
 LAST-MODIFIED:20260309T235214Z
 UID:10002558-1774719000-1774722600@jewishfed.org
@@ -265,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260402T150000
 DTEND;TZID=America/Los_Angeles:20260402T163000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251110T180349Z
 LAST-MODIFIED:20251110T180349Z
 UID:10002367-1775142000-1775147400@jewishfed.org
@@ -282,35 +296,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260402T153000
 DTEND;TZID=America/Los_Angeles:20260402T170000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251230T233703Z
 LAST-MODIFIED:20251230T233703Z
 UID:10002448-1775143800-1775149200@jewishfed.org
 SUMMARY:The Challah Club
 DESCRIPTION:Join other women in our community for a hands-on dough braiding\, friendmaking\, nosh tasting\, Challah baking club! \nThe Challah Club serves as a social interaction for Jewish women of all backgrounds and ages. \nLocation @ Bush Home \nFlavor of January: Cinnamon Swirl • New Year’s Edition\, Kids welcome!
 URL:https://jewishfed.org/event/the-challah-club-2/2026-04-02/
-LOCATION:CA
 CATEGORIES:Community Event
 ATTACH;FMTTYPE=image/png:https://jewishfed.org/wp-content/uploads/Challah-Club-FB-1.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260411T190000
+DTEND;TZID=America/Los_Angeles:20260411T220000
+DTSTAMP:20260312T191911
+CREATED:20260312T215017Z
+LAST-MODIFIED:20260312T220430Z
+UID:10002560-1775934000-1775944800@jewishfed.org
+SUMMARY:Mimouna Celebration at JCCSF
+DESCRIPTION:Join JIMENA and JCCSF to celebrate the end of Passover at our Moroccan Mimouna celebration! \nEnjoy Moroccan sweets\, live music\, and dancing and celebrate our Mizrahi and Sephardi heritage\, tradition\, and community. \nMoroccan sweets \nLive Moroccan dance \nHenna artist \nDrinks Included \nAll are welcome!
+URL:https://jewishfed.org/event/mimouna-celebration-at-jccsf/
+LOCATION:The JCCSF\, 3200 California St\, San Francisco
+CATEGORIES:Community Event
+ATTACH;FMTTYPE=image/png:https://jewishfed.org/wp-content/uploads/Updated-copy-2-10.png
+GEO:37.7873469;-122.447428
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The JCCSF 3200 California St San Francisco;X-APPLE-RADIUS=500;X-TITLE=3200 California St:geo:-122.447428,37.7873469
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260416T183000
 DTEND;TZID=America/Los_Angeles:20260416T210000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251222T175144Z
 LAST-MODIFIED:20251222T175144Z
 UID:10002431-1776364200-1776373200@jewishfed.org
 SUMMARY:AIPAC Silicon Valley Leadership Event
 DESCRIPTION:This event is by invitation only. For information\, please contact: westcoastevents@aipac.org
 URL:https://jewishfed.org/event/aipac-silicon-valley-leadership-event/
-LOCATION:CA
 CATEGORIES:Community Event
 ORGANIZER;CN="AIPAC":MAILTO:westcoastevents@aipac.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260419T173000
 DTEND;TZID=America/Los_Angeles:20260419T203000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251112T193241Z
 LAST-MODIFIED:20251112T193241Z
 UID:10002375-1776619800-1776630600@jewishfed.org
@@ -327,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260503T170000
 DTEND;TZID=America/Los_Angeles:20260503T200000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251111T185443Z
 LAST-MODIFIED:20251111T185542Z
 UID:10002374-1777827600-1777838400@jewishfed.org
@@ -343,7 +371,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260503T173000
 DTEND;TZID=America/Los_Angeles:20260503T213000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20250910T175914Z
 LAST-MODIFIED:20250910T181121Z
 UID:10002040-1777829400-1777843800@jewishfed.org
@@ -360,7 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260507T180000
 DTEND;TZID=America/Los_Angeles:20260507T210000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260203T185409Z
 LAST-MODIFIED:20260203T185409Z
 UID:10002471-1778176800-1778187600@jewishfed.org
@@ -376,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260517T180000
 DTEND;TZID=America/Los_Angeles:20260517T220000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260227T225351Z
 LAST-MODIFIED:20260227T230544Z
 UID:10002551-1779040800-1779055200@jewishfed.org
@@ -393,7 +421,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260531T153000
 DTEND;TZID=America/Los_Angeles:20260531T193000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251202T172540Z
 LAST-MODIFIED:20251203T172130Z
 UID:10002403-1780241400-1780255800@jewishfed.org
@@ -409,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260629T100000
 DTEND;TZID=America/Los_Angeles:20260629T170000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260205T224451Z
 LAST-MODIFIED:20260205T224607Z
 UID:10002480-1782727200-1782752400@jewishfed.org
@@ -426,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261018T120000
 DTEND;TZID=America/Los_Angeles:20261018T170000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20251230T234255Z
 LAST-MODIFIED:20251230T234255Z
 UID:10002435-1792324800-1792342800@jewishfed.org
@@ -442,7 +470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261101T080000
 DTEND;TZID=America/Los_Angeles:20261101T193000
-DTSTAMP:20260311T190419
+DTSTAMP:20260312T191911
 CREATED:20260226T191053Z
 LAST-MODIFIED:20260226T192521Z
 UID:10002550-1793520000-1793561400@jewishfed.org

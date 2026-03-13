@@ -6,6 +6,7 @@ import Header from './components/Header.jsx';
 import SearchBar from './components/SearchBar.jsx';
 import StyleSwitcher from './components/StyleSwitcher.jsx';
 import MasonryGrid from './components/MasonryGrid.jsx';
+import UniformGrid from './components/UniformGrid.jsx';
 import PicksList from './components/PicksList.jsx';
 import CollectionTargetBar from './components/CollectionTargetBar.jsx';
 import { useEvents } from './hooks/useEvents.js';
@@ -14,16 +15,21 @@ import { useProcessedEvents } from './hooks/useProcessedEvents.js';
 import { useInfiniteScroll } from './hooks/useInfiniteScroll.js';
 import { useColumnCount } from './hooks/useColumnCount.js';
 import { useAuth } from './hooks/useAuth.jsx';
+import { useCurator } from './hooks/useCurator.jsx';
 import { useFeatured } from './hooks/useFeatured.jsx';
 import { getActiveCategories } from './lib/helpers.js';
+import { isGridLayout as checkGridLayout, getColumnCount as calcColumnCount } from './lib/cardStyles.js';
 
 function App() {
-  const { embed, embedStyle, embedTitle, embedBg, embedMode, feed, city } = useMemo(() => {
+  const { embed, embedStyle, embedFeaturedStyle, embedTitle, embedFeaturedTitle, embedNormalTitle, embedBg, embedMode, feed, city } = useMemo(() => {
     const params = new URLSearchParams(window.location.search);
     return {
       embed: params.get('embed') || null,
       embedStyle: params.get('style') || null,
+      embedFeaturedStyle: params.get('featured_style') || null,
       embedTitle: params.get('title') || null,
+      embedFeaturedTitle: params.get('featured_title') || null,
+      embedNormalTitle: params.get('normal_title') || null,
       embedBg: params.get('bg') || null,
       embedMode: params.get('mode') || null,
       feed: params.get('feed') || null,
@@ -32,6 +38,8 @@ function App() {
   }, []);
 
   const { user } = useAuth();
+  const { isCurator, isCuratorForCity } = useCurator();
+  const canCurateCity = isCuratorForCity(city);
   const { featuredStore } = useFeatured();
   const featuredIds = useSyncExternalStore(featuredStore.subscribe, featuredStore.getSnapshot);
   const [filterTerm, setFilterTerm] = useState('');
@@ -43,13 +51,10 @@ function App() {
   const { events, loading } = useEvents(city);
   const enrichments = useEnrichments(city);
   const rawColumnCount = useColumnCount();
-  const oneColStyles = ['list'];
-  const twoColStyles = ['compact', 'split', 'splitimage'];
-  const columnCount = oneColStyles.includes(cardStyle) ? 1
-    : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
-    : rawColumnCount;
+  const columnCount = calcColumnCount(cardStyle, rawColumnCount);
+  const isGridLayout = checkGridLayout(cardStyle);
 
-  const { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns } = useProcessedEvents(
+  const { processedEvents, cardEvents, hasMore, featuredColumns, masonryColumns, featuredEvents, regularEvents } = useProcessedEvents(
     events,
     enrichments,
     filterTerm,
@@ -86,14 +91,14 @@ function App() {
         santarosa: 'Santa Rosa', davis: 'Davis', bloomington: 'Bloomington',
         petaluma: 'Petaluma', toronto: 'Toronto', raleighdurham: 'Raleigh-Durham',
         montclair: 'Montclair', roanoke: 'Roanoke', matsu: 'MatSu', jweekly: 'JWeekly',
-        evanston: 'Evanston',
+        evanston: 'Evanston', portland: 'Portland', boston: 'Boston',
       };
       document.title = (CITY_NAMES[city] || city) + ' Community Calendar';
     }
   }, [city]);
 
   if (embed) {
-    return <EmbedView feedId={embed} style={embedStyle} title={embedTitle} bg={embedBg} mode={embedMode} />;
+    return <EmbedView feedId={embed} style={embedStyle} featuredStyle={embedFeaturedStyle} title={embedTitle} featuredTitle={embedFeaturedTitle} normalTitle={embedNormalTitle} bg={embedBg} mode={embedMode} />;
   }
 
   if (feed) {
@@ -109,8 +114,8 @@ function App() {
       <div className="max-w-[1400px] w-full px-4 py-6">
         <Header city={city} events={processedEvents} />
 
-        {/* View mode tabs — only show when signed in */}
-        {user && (
+        {/* View mode tabs — Collections tab only for curators with access to this city */}
+        {canCurateCity && (
           <div className="flex gap-1 mb-4">
             <button
               onClick={() => setViewMode('cards')}
@@ -133,7 +138,7 @@ function App() {
 
         {viewMode === 'cards' && (
           <>
-            {user && <CollectionTargetBar />}
+            {canCurateCity && <CollectionTargetBar />}
             <SearchBar
               filterTerm={filterTerm}
               onFilterTermChange={(val) => { setFilterTerm(val); setDisplayCount(50); }}
@@ -152,22 +157,47 @@ function App() {
 
             {!loading && events && (
               <>
-                {featuredColumns.some(col => col.length > 0) && (
-                  <div className="mb-6">
+                {isGridLayout ? (
+                  <>
+                    {featuredEvents.length > 0 && (
+                      <div className="mb-6">
+                        <UniformGrid
+                          events={featuredEvents}
+                          filterTerm={filterTerm}
+                          onCategoryFilter={handleCategoryFilter}
+                          variant={cardStyle}
+                          columnCount={columnCount}
+                        />
+                      </div>
+                    )}
+                    <UniformGrid
+                      events={regularEvents}
+                      filterTerm={filterTerm}
+                      onCategoryFilter={handleCategoryFilter}
+                      variant={cardStyle}
+                      columnCount={columnCount}
+                    />
+                  </>
+                ) : (
+                  <>
+                    {featuredColumns.some(col => col.length > 0) && (
+                      <div className="mb-6">
+                        <MasonryGrid
+                          masonryColumns={featuredColumns}
+                          filterTerm={filterTerm}
+                          onCategoryFilter={handleCategoryFilter}
+                          variant={cardStyle}
+                        />
+                      </div>
+                    )}
                     <MasonryGrid
-                      masonryColumns={featuredColumns}
+                      masonryColumns={masonryColumns}
                       filterTerm={filterTerm}
                       onCategoryFilter={handleCategoryFilter}
                       variant={cardStyle}
                     />
-                  </div>
+                  </>
                 )}
-                <MasonryGrid
-                  masonryColumns={masonryColumns}
-                  filterTerm={filterTerm}
-                  onCategoryFilter={handleCategoryFilter}
-                  variant={cardStyle}
-                />
 
                 {hasMore && !filterTerm && (
                   <div ref={sentinelRef} className="w-full text-center py-4 text-gray-400 text-sm">

@@ -4,23 +4,14 @@ PRODID:-//The Wine Goddess//eventbrite.com//
 X-WR-CALNAME:The Wine Goddess
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Women in Wine: The Wine Goddess to Know!
-DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260312T190000
-DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260312T203000
-UID:ecf9adc87d93a042296d814dc8c3e0f6@eventbrite.com
-DESCRIPTION:We're celebrating Women's History Month by toasting our fave f
- emale winemakers!
-LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
- on\, IL
-URL:https://www.eventbrite.com/e/women-in-wine-the-wine-goddess-to-know-ti
- ckets-1977091342427
-X-SOURCE:The Wine Goddess
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soup n' Bread Night: Fat Shallot Potato Leek Edition!
 DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260408T183000
 DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260408T200000
 UID:61da708a4c9f51b96e4192c36115dcbf@eventbrite.com
+ATTACH;FMTTYPE=image/jpeg:https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.co
+ m%2Fimages%2F1178643187%2F49681583610%2F1%2Foriginal.20260227-202436?crop=
+ focalpoint&fit=crop&w=480&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.642&
+ fp-y=0.46&s=503c464b3166967c34991860b3221847
 DESCRIPTION:Break bread\, eat soup\, and drink wine with your friends and 
  neighbors for a Spring treat!
 LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
@@ -30,23 +21,13 @@ URL:https://www.eventbrite.com/e/soup-n-bread-night-fat-shallot-potato-lee
 X-SOURCE:The Wine Goddess
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wine Goddess Book Club: Julia Child’s My Life in France!
-DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260423T190000
-DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260423T203000
-UID:b344e16bf93cc34962fd432534e1663a@eventbrite.com
-DESCRIPTION:Did you know our Meaghan has a PhD in Literature? True story! 
- Join her discussion of Julia Child’s My Life in France!
-LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
- on\, IL
-URL:https://www.eventbrite.com/e/wine-goddess-book-club-julia-childs-my-li
- fe-in-france-tickets-1977100797708
-X-SOURCE:The Wine Goddess
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An Evening with Spain's Viña Sastre and Bodegas Ostatu!
 DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260428T183000
 DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260428T200000
 UID:0cf8c25765cebfe88cb8a22995287b86@eventbrite.com
+ATTACH;FMTTYPE=image/jpeg:https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.co
+ m%2Fimages%2F1179230843%2F49681583610%2F1%2Foriginal.20260306-191428?w=480
+ &auto=format%2Ccompress&q=75&sharp=10&s=4da6fd18eb6bb56ce697ecd0421358f3
 DESCRIPTION:Don't miss your chance to taste with two of our fave female wi
  nemakers\, representing the seminal wine regions of Rioja and Ribera del D
  uero!
@@ -57,10 +38,31 @@ URL:https://www.eventbrite.com/e/an-evening-with-spains-vina-sastre-and-bo
 X-SOURCE:The Wine Goddess
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Great Wines of Spain
+DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260326T190000
+DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260326T203000
+UID:427f434031dbbdda530dd5829372e45f@eventbrite.com
+ATTACH;FMTTYPE=image/jpeg:https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.co
+ m%2Fimages%2F1172413640%2F49681583610%2F1%2Foriginal.20251205-210713?crop=
+ focalpoint&fit=crop&w=480&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp
+ -y=0.5&s=83f5d6e0eebb63d90b9f4f7a99695c47
+DESCRIPTION:Diana and Meaghan are taking 24 people through Spain in June o
+ n their first "Wine Goddess Adventure." Taste the fruit of their journey!
+LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
+ on\, IL
+URL:https://www.eventbrite.com/e/the-great-wines-of-spain-tickets-19770957
+ 41585
+X-SOURCE:The Wine Goddess
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wine and Cheese: Uncensored!
 DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260409T190000
 DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260409T203000
 UID:7e3ae017553d4d8fcfd69707c303ca23@eventbrite.com
+ATTACH;FMTTYPE=image/jpeg:https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.co
+ m%2Fimages%2F1172414339%2F49681583610%2F1%2Foriginal.20221218-231746?w=480
+ &auto=format%2Ccompress&q=75&sharp=10&rect=0%2C29%2C258%2C129&s=3964201641
+ 2ed8ea9876f2f7a7710f4a
 DESCRIPTION:Celebrate your lactose tolerance with the most decadent food a
  nd wine pairing of all time!
 LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
@@ -70,16 +72,20 @@ URL:https://www.eventbrite.com/e/wine-and-cheese-uncensored-tickets-197710
 X-SOURCE:The Wine Goddess
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Great Wines of Spain
-DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260326T190000
-DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260326T203000
-UID:427f434031dbbdda530dd5829372e45f@eventbrite.com
-DESCRIPTION:Diana and Meaghan are taking 24 people through Spain in June o
- n their first "Wine Goddess Adventure." Taste the fruit of their journey!
+SUMMARY:Wine Goddess Book Club: Julia Child’s My Life in France!
+DTSTART;TZID="UTC-05:00";VALUE=DATE-TIME:20260423T190000
+DTEND;TZID="UTC-05:00";VALUE=DATE-TIME:20260423T203000
+UID:b344e16bf93cc34962fd432534e1663a@eventbrite.com
+ATTACH;FMTTYPE=image/jpeg:https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.co
+ m%2Fimages%2F1172414814%2F49681583610%2F1%2Foriginal.20251205-212645?crop=
+ focalpoint&fit=crop&w=480&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514&
+ fp-y=0.443&s=e95272c11d76f67be3057d8be0e36b69
+DESCRIPTION:Did you know our Meaghan has a PhD in Literature? True story! 
+ Join her discussion of Julia Child’s My Life in France!
 LOCATION:The Wine Goddess\, 702 Main Street\, Evanston\, IL 60202\, Evanst
  on\, IL
-URL:https://www.eventbrite.com/e/the-great-wines-of-spain-tickets-19770957
- 41585
+URL:https://www.eventbrite.com/e/wine-goddess-book-club-julia-childs-my-li
+ fe-in-france-tickets-1977100797708
 X-SOURCE:The Wine Goddess
 END:VEVENT
 END:VCALENDAR

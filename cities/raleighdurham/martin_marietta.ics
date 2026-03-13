@@ -4,20 +4,6 @@ PRODID:-//Martin Marietta Center//ticketmaster.com//
 X-WR-CALNAME:Martin Marietta Center
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:PlayStation The Concert
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260311T193000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260311T193000
-UID:bd6a8e6e05efee67de807aaa757ef9ea@ticketmaster.com
-ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/a/1ec/19696701-53cd-4
- faa-ae23-c9c9a29f31ec_RETINA_PORTRAIT_16_9.jpg
-DESCRIPTION:
-LOCATION:Martin Marietta Center for the Performing Arts\, 2 E. South St.\,
-  Raleigh\, NC
-URL:https://www.ticketmaster.com/playstation-the-concert-raleigh-north-car
- olina-03-11-2026/event/2D0062CBF5BB7F33
-X-SOURCE:Martin Marietta Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carolina Ballet Presents Snow White
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260312T193000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260312T193000
@@ -1206,6 +1192,34 @@ LOCATION:Martin Marietta Center for the Performing Arts\, 2 E. South St.\,
   Raleigh\, NC
 URL:https://www.ticketmaster.com/north-carolina-symphony-appalachian-sprin
  g-raleigh-north-carolina-05-09-2026/event/2D0062DAA6195ED3
+X-SOURCE:Martin Marietta Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Psychology of Serial Killers
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260513T193000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260513T193000
+UID:1f6dd3727f02bd508c17ed7bf26a38e8@ticketmaster.com
+ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/a/496/6908c727-6032-4
+ d69-a623-2c72c5922496_RETINA_PORTRAIT_16_9.jpg
+DESCRIPTION:
+LOCATION:Martin Marietta Center for the Performing Arts\, 2 E. South St.\,
+  Raleigh\, NC
+URL:https://www.ticketmaster.com/the-psychology-of-serial-killers-raleigh-
+ north-carolina-05-13-2026/event/2D00644A81F55244
+X-SOURCE:Martin Marietta Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lounge at Martin Marietta Center for the Performing Arts
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260513T193000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260513T193000
+UID:5a311c2838d0015d4f8e5ae614717284@ticketmaster.com
+ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/a/ed6/52860fe0-7030-4
+ 7d6-9c7b-f73ce6552ed6_RETINA_PORTRAIT_16_9.jpg
+DESCRIPTION:
+LOCATION:Martin Marietta Center for the Performing Arts\, 2 E. South St.\,
+  Raleigh\, NC
+URL:https://www.ticketmaster.com/the-lounge-at-martin-marietta-center-rale
+ igh-north-carolina-05-13-2026/event/2D00644C814CAD6E
 X-SOURCE:Martin Marietta Center
 END:VEVENT
 END:VCALENDAR

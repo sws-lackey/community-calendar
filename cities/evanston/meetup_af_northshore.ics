@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_308627452@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T020607Z
-DTSTART;TZID=America/Chicago:20260312T133000
-DTEND;TZID=America/Chicago:20260312T153000
-SUMMARY:Ciné Club
-DESCRIPTION:Alliance Française du North Shore\nJoin a group of *cinéphiles* online for a discussion in French of a French film with English subtitles.\nThe choice for this month is *Diva*. You'll watch the film on your own: view it for free on [Kanopy](https://www.kanopy.com/en/). For more details\, write to cine-club@AFnorthshore.org.\n**Diva (1981)**\n**Un film de Jean-Jacques Beine**ix\nJules. Frédéric Andrei\nCynthia Hawkins. Wilhelmina Fernandez\nAlba. They An Lu\nJean Saporta. Jacques Fabbri\nLe curé Dominique Piñon\nL’antillais Gérard Darmon\nQuestions to kick off our discussion:\n1.) La musique que chante Cynthia Hawkins est une aria de ‘La Wally’\, un opéra d'Alfredo Catalani (1892). L’opéra est rarement joué à l’exception de cet aria. Que pensez-vous de cette musique? Dans l’article ci-joint\, l’auteur affirme qu'on ressent la musique différemment chaque fois qu’on l'entend. Êtes-vous d’accord?\n\n2\\. A mon avis\\\, le style du film est plus ‘punk’ que ‘classique’ \\(les personnages\\\, les vêtements\\\, la mise en scène\\)\\. Pourquoi ont\\-ils choisi que la musique préférée de Jules est l’opéra?\n\n3\\. Le film montre de nombreux sites célèbres à Paris\\. Quels sites avez\\-vous reconnus?\n\n4\\. Plusieurs des emplacements utilisés étaient en ruines \\(comme l’appartement de Jules\\\, le Théâtre du Châtelet\\)\\. Pourquoi?\n\n5\\. La poursuite dans le métro est très célèbre\\. Qu’en pensez\\-vous?\n\n6\\. Pourquoi Cynthia ne voulait\\-t\\-elle pas enregistrer sa musique?\n\n7\\. Que pensez\\-vous du personnage d'Alba?\n\n8\\. Diva est classifiée comme faisant partie du "cinéma du look’" un mouvement des années 1980 avec ces caractéristiques:\\-\n\nA. La prédominance du spectacle visuel comparée à la substance narrative\nB. Les personnages sont de jeunes marginaux\nC. Le métro est souvent présent comme symbole d’une société alternative\nD. Les cultures pop d’une part et plus élitistes d’autre part sont mélangées\n\nÊtes vous d'accord avec cette classification pour Diva? Avez-vous trouvé une scène particulèrement mémorable? Laquelle? Pourquoi?\n\n9\\. Recommanderiez\\-vous ce film à vos amis?\n\nhtt*ps://operawire.com/opera-meets-film-how-la-wallys-most-famous-aria-expresses-vast-array-of-emotions-throughout-diva/*\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/) or [contact us](https://afnorthshore.org/contact-us). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00
-URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/308627452/
-STATUS:CONFIRMED
-CREATED:20250624T132229Z
-LAST-MODIFIED:20250624T132229Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/5/6/d/600_513822349.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_312930678@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260316T130000
 DTEND;TZID=America/Chicago:20260316T143000
 SUMMARY:The Dark Side of the Eiffel Tower
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313509334@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260319T130000
 DTEND;TZID=America/Chicago:20260319T140000
 SUMMARY:Café Conversation Après-midi
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313077527@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260323T190000
 DTEND;TZID=America/Chicago:20260323T200000
 SUMMARY:Online Apéro Conversation
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313039549@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260326T190000
 DTEND;TZID=America/Chicago:20260326T203000
 SUMMARY:Apéro Conversation
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313518016@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260406T100000
 DTEND;TZID=America/Chicago:20260406T110000
 SUMMARY:Café Conversation Matin
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_308627471@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260409T133000
 DTEND;TZID=America/Chicago:20260409T153000
 SUMMARY:Ciné Club
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313518017@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260416T130000
 DTEND;TZID=America/Chicago:20260416T140000
 SUMMARY:Café Conversation Après-midi
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312272027@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260420T130000
 DTEND;TZID=America/Chicago:20260420T143000
 SUMMARY:Annual Meeting and Program: Songs for Spring
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313513417@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T020607Z
+DTSTAMP:20260313T022014Z
 DTSTART;TZID=America/Chicago:20260423T190000
 DTEND;TZID=America/Chicago:20260423T203000
 SUMMARY:Apéro Conversation
@@ -173,6 +158,21 @@ CREATED:20260224T224659Z
 LAST-MODIFIED:20260224T224659Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/8/7/c/600_528450844.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313501591@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T022014Z
+DTSTART;TZID=America/Chicago:20260427T190000
+DTEND;TZID=America/Chicago:20260427T200000
+SUMMARY:Online Apéro Conversation
+DESCRIPTION:Alliance Française du North Shore\nMeet fellow Francophones for evening conversation. This gathering is facilitated by one or more of our native or fluent AFduNS leaders.\n\nPour yourself a glass of wine\, gather some snacks and settle in at home for our online conversation group.\n\nThe meeting will be held on Zoom. Although you don't need to download Zoom to attend this meeting\, we encourage you to do so (https://zoom.us/download) for a smoother experience. Depending on the number of attendees\, we may break out into smaller groups.\n\nThe link to the meeting will be visible when you RSVP. The meeting ID is 859 8255 4800.\n\nAll fluency levels are welcome. RSVPs help us plan.\n\n**Membership in the AFduNS**\nWhile no membership is required for newcomers\, we welcome new members whose membership will support the activities of the AFduNS\, a nonprofit 501(c)(3) organization. For further info\, visit our [website](https://afnorthshore.org/events) or [click here to contact us](https://docs.google.com/forms/d/e/1FAIpQLScRxM03DpryO_lZlGWK-aDOCiFHFbivJimTScMOQmWk7KgOJQ/viewform?pli=1). If you wish to join the AFduNS\, you may sign up [online](https://afnorthshore.org/join). Annual dues are $50.00.
+URL;VALUE=URI:https://www.meetup.com/afnorthshore/events/313501591/
+STATUS:CONFIRMED
+CREATED:20260224T030300Z
+LAST-MODIFIED:20260224T030300Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/a/4/4/600_480743108.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/afnorthshore/events/ical/
 X-WR-CALNAME:Alliance Française du North Shore

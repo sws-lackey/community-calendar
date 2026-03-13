@@ -1,0 +1,439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Crystal Ballroom - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Crystal Ballroom
+X-ORIGINAL-URL:https://www.crystalballroompdx.com
+X-WR-CALDESC:Events for Crystal Ballroom
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260313T203000
+DTEND;TZID=America/Los_Angeles:20260313T203000
+DTSTAMP:20260312T193235
+CREATED:20251022T220010Z
+LAST-MODIFIED:20251022T220014Z
+UID:10000954-1773433800-1773433800@www.crystalballroompdx.com
+SUMMARY:dodie
+DESCRIPTION:Friday\, March 13th at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/270388-dodie/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/08/dodie25-2a79wj.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260314T200000
+DTEND;TZID=America/Los_Angeles:20260314T200000
+DTSTAMP:20260312T193235
+CREATED:20260107T233006Z
+LAST-MODIFIED:20260107T233009Z
+UID:10001030-1773518400-1773518400@www.crystalballroompdx.com
+SUMMARY:Decadent 80s Dance Party featuring DJ NoN
+DESCRIPTION:Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! \nD80s is Portland’s longest-running 80s night\, celebrating 21 consecutive years of weekly events. It’s the official 80s night for Goonies Weekend in Astoria and hosts special events at select venues throughout Portland and across Oregon. \nFans of 80s alternative music will feel right at home-D80s takes requests seriously while keeping each set fresh and dynamic week after week. \nStop by and discover why D80s is Portland’s go-to 80s club dance night.
+URL:https://www.crystalballroompdx.com/events/274884-decadent-80s-dance-party-featuring-dj-non/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/Decadent80s-637x432-25-yCaTrr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260315T100000
+DTEND;TZID=America/Los_Angeles:20260315T100000
+DTSTAMP:20260312T193235
+CREATED:20260205T200118Z
+LAST-MODIFIED:20260205T200122Z
+UID:10001051-1773568800-1773568800@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275302-crystal-ballroom-history-art-tour/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260315T200000
+DTEND;TZID=America/Los_Angeles:20260315T200000
+DTSTAMP:20260312T193235
+CREATED:20260212T000025Z
+LAST-MODIFIED:20260212T000035Z
+UID:10000986-1773604800-1773604800@www.crystalballroompdx.com
+SUMMARY:Peaches
+DESCRIPTION:Iconic musician\, producer\, director\, and performance artist\, Peaches first catapulted to stardom with her 2000 debut\, The Teaches of Peaches\, which introduced the world to her sexually transgressive\, fiercely assertive\, and utterly captivating persona. Since then\, Peaches has released four more trailblazing albums\, won the prestigious Polaris Heritage Prize\, collaborated with everyone from Iggy Pop and Daft Punk to Christina Aguilera and Yoko Ono\, landed songs in cultural watermarks like Lost in Translation and The Handmaid’s  Tale\, and seen her work studied at universities around the world. \nIn addition to her musical output\, Peaches has directed over 20 videos\, co-curated a photo book of her life\, created a host of immersive installations and performative works\, and penned the electro-rock opera Peaches Does Herself\, which was adapted into a film shown at over 70 festivals. The subject of two acclaimed documentaries\, Peaches has also played the title role in Monteverdi’s L’Orfeo and Brecht’s The Seven Deadly Sins and continues to perform her widely lauded one-woman show\, Peaches Christ Superstar. \nPeaches’ first album in 10+ years entitled No Lube So Rude is set for release in 2026. Peaches says of the new music “When the world is friction\, lube isn’t a luxury. It’s a necessity. It’s how you turn that friction into pleasure\, into power\, into pride. I want people to understand that they can still have a voice no matter who they are or what the world says about them. Now more than ever\, there are so many forces that just want you to give up and be quiet. If this album can help you resist that\, then that’s what it’s for.” \n\nFacebook:\nhttps://www.facebook.com/officialpeaches/\n \nSpotify:\nhttps://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE?si=pHFhM0MhTKWCnUTulCYTlQ&nd=1&dlsi=9763215a82934813\n \nApple:\nhttps://music.apple.com/us/artist/peaches/3028600\n \nInstagram:\nhttps://www.instagram.com/PeachesNisker/#\n \nYouTube:\nhttps://www.youtube.com/PeachesTV\n \nWebsite:\nhttps://www.teachesofpeaches.com/\n \nTikTok:\nhttps://www.tiktok.com/@peachesnisker
+URL:https://www.crystalballroompdx.com/events/272278-peaches/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/Peaches26-xzlYc3.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T100000
+DTEND;TZID=America/Los_Angeles:20260319T100000
+DTSTAMP:20260312T193235
+CREATED:20260205T200107Z
+LAST-MODIFIED:20260205T200112Z
+UID:10001050-1773914400-1773914400@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275301-crystal-ballroom-history-art-tour/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260320T200000
+DTEND;TZID=America/Los_Angeles:20260320T200000
+DTSTAMP:20260312T193235
+CREATED:20251203T180014Z
+LAST-MODIFIED:20251203T180020Z
+UID:10000950-1774036800-1774036800@www.crystalballroompdx.com
+SUMMARY:Jesse Welles
+DESCRIPTION:Jesse Welles unassumingly upholds and continues the tradition of traveling troubadours\, relaying the news\, putting pain into words\, and healing with a little humor. Fearless\, he reports from the frontlines of a divided country on the brink\, addressing inequalities and injustices\, cutting through all bullshit and driving directly to the source of the matter. His songs leave the same mark in front of a sold-out club as they do under the unbiased eye of a smartphone camera as he strums his guitar alone in the wilderness of Arkansas. Following tens of millions of streams and a groundswell of acclaim from Rolling Stone\, the New York Times\, and more\, the singer\, songwriter\, and guitar player cuts deep on his 2025 full-length album Middle. “Breathe to write\, write to breathe\,” he says. “Humans are meant to create\, so I’m gonna create music and keep releasing it constantly.” \nJesse calls Ozark\, AR home. Growing up\, his father worked as a mechanic\, and his mom a school teacher. Early on\, his grandpa copied The Beatles’ White Album and Sgt. Pepper’s Lonely Hearts Club Band for Jesse. At 12-years-old\, he finally scrounged up enough to dough for a “$56 first act guitar from Walmart.” It became like another limb. He fed his obsession by checking CDs out of the public library and ripping them to the family computer\, embracing classics from Bob Dylan\, Joni Mitchell\, Joan Baez\, and Woody Guthrie. \nRelocating to Nashville\, he launched his eponymous band Welles\, releasing music and touring incessantly. He logged 280 shows in a year\, canvassing North America and Europe alongside the likes of Royal Blood\, Highly Suspect\, Greta Van Fleet\, and Dead Sara. Dropped from his old label (mid-Pandemic)\, he quit a job at a vegan meat manufacturer and returned to Arkansas. In February 2024\, life changed again when dad suffered a heart attack. Sitting in his father’s hospital room with a Woody Guthrie biography on his lap\, Jesse realized what he needed to do. \nHe walked into the Ozarks\, placed his phone on a tripod\, sang right to it\, and posted the performance. The ensuing series of videos made a seismic impact online. He impressively attracted over 1 million followers on Instagram by performing tunes like “Cancer\,” “Fentanyl\,” and “War Isn’t Murder” out in the cold. On a creative tear\, he served up two full-length albums\, Hells Welles and Patchwork\, and sold out successive headline tours. Capping off 2024\, he railed against the corruption of the healthcare system in the powerful polemic “United Health\,” which Rolling Stone hailed as “a John Prine-like ballad.“ \nNow\, Jesse turns the page on another chapter with his new album Middle and its first single “Horses.” “It’s a pro-love song\,” he notes. “Fear leads to hate. Hate leads to all kinds of atrocities. You build up walls. If you love everyone\, it’s a lot easier on you-and everybody else too. Hate is a whip for the mule. Nobody gets nutrition from it.” \n“If my music helps you believe you can make art and tell the world how you feel\, there would be nothing better\,” he leaves off. “I hope you get those paints out of the garage or fill up your journal. Turn on your phone and say what you gotta to say. There’s so much wild stuff in my head. I want to see where it can go.”
+URL:https://www.crystalballroompdx.com/events/270212-jesse-welles/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/08/JesseWelles25-NFS7Wh.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T100000
+DTEND;TZID=America/Los_Angeles:20260322T100000
+DTSTAMP:20260312T193235
+CREATED:20260205T200057Z
+LAST-MODIFIED:20260205T200101Z
+UID:10001049-1774173600-1774173600@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275300-crystal-ballroom-history-art-tour/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260322T203000
+DTEND;TZID=America/Los_Angeles:20260322T203000
+DTSTAMP:20260312T193235
+CREATED:20250915T213027Z
+LAST-MODIFIED:20250915T213030Z
+UID:10000961-1774211400-1774211400@www.crystalballroompdx.com
+SUMMARY:Mariah the Scientist
+DESCRIPTION:Sunday\, March 22nd at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/271033-mariah-the-scientist/
+CATEGORIES:March
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260323T203000
+DTEND;TZID=America/Los_Angeles:20260323T203000
+DTSTAMP:20260312T193235
+CREATED:20251208T173006Z
+LAST-MODIFIED:20251208T173010Z
+UID:10000988-1774297800-1774297800@www.crystalballroompdx.com
+SUMMARY:Machine Girl
+DESCRIPTION:Machine Girl have always operated as an inimitable\, inventive\, and individual sonic phenomenon. The newly trio’d-Matt Stephenson [vocals\, producer]\, Sean Kelly [drums]\, and Lucy Caputi [guitar]-fortify a punk exoskeleton with electronic alchemy and cinematic ambition outfitted for an uncompromisingly heavy attack. Rave\, metal\, punk\, and pummeling electronic (and real) drums collide and splinter like shrapnel into kaleidoscopic blasts of vibrant color and visceral sound. \nAfter amassing millions of fans\, hundreds of millions of streams\, inciting critical acclaim\, and captivating at cap crowds in nineteen (19) countries YTD in 2025 so far\, the band continue to elevate on their seventh full-length LP\, Psycho Warrior. \n“I’d been reading analytical psychology and the writings of Joseph Campbell and Jung\,” recalls Matt. “There’s a concept of the collective unconscious and these archetypes that we innately have. We adopt different personae in order to get through the day. In essence\, you complete yourself by facing your shadow self. To do so\, you must accept the less savory aspects of who you are. There’s a lot of validity to these theories. Right now\, we’re a very psychologically damaged culture and society. We’re being pushed over the edge with social media and technology. Any chance of resistance against these systems starts in the mind\, so this was the genesis of Psycho Warrior.” \nMachine Girl carved out an incomparable lane upon arrival in 2012. Stephenson’s 2014 full-length debut LP\, Wlfgrl\, achieved bona fide cult status shocked to life by “Out by 16\, Dead on the Scene\,” “Ghost\,” and “Mg1\,” which reeled in north of 43 million Spotify streams and counting. Their sound proceeded to completely reinvent itself across each LP that followed – Gemini [2015]\, …Because I’m Young Arrogant and Hate Everything You Stand For [2017]\, The Ugly Art [2018]\, U-Void Synthesizer [2020]\, and 2022’s \ntwo-part Original Soundtrack for the video game Neon White. Most recently\, 2024’s MG Ultra incited the most enthusiastic critical applause of the band’s career so far. Pitchfork professed\, “Their music together plays like the soundtrack to the final boss level of some finger-blistering bullet hell\,” and Dazed mused\, “it’s hard to imagine a better soundtrack for the revolution than Machine Girl.” \nThe latter LP also set the stage for Psycho Warrior\, functioning as a prelude. \n“MG Ultra is the setup\,” reveals Matt. “It explores mind control and brings attention to the overall concepts. It’s Act 1. Sonically\, it’s more rave-y\, but the songs seem hopeless conceptually. Psycho Warrior was made after\, and it follows as Acts 2 and 3 of the same arc. Lyrically\, it’s more empowering and anthemic. We worked out a lot of the framework with bass guitar and more punk and metal elements.” \nMachine Girl recorded this body of work at Civil Defense Recording Studio between Jan – June 2025 in New York\, allowing their vision time to naturally take shape. \nNow\, the single “Come On Baby\, Scrape My Data” layers a guttural bassline atop a woozy old school computer loop\, conjuring a frenetic bounce from the depths of cyberspace. Matt’s upbeat punky cadence warbles and wheezes on the verses until culminating on a glitchy chant\, Wanna know me? Wanna own me? Wanna clone me? F**k you\, you can blow me. \n“It was written after experiencing something creepy and fucked up either with A.I. or the surveillance state\,” he reveals. “My phone knows me way too well-which is a feeling we’ve all gotten very used to within the last ten years. The song teases big tech companies\, taunting them to come and try to take our data and identities. It’s a pretty decisive way to open up the record in terms of attitude.” \nElsewhere\, brain-rattling beat-craft sets the tempo for “Rabbit Season.” Neon keys chime and echo off in the distance\, and a snappy hook takes hold\, “I love the feeling.“ \n“With Machine Girl’s lyrics\, I’ll take some dystopian or dark subject matter and flip it into something more lighthearted\,” he notes. “I took the concept of conspiracy rabbit holes and used it to make a bouncy dance track. ‘Rabbit Season’ is obviously a reference to Looney Tunes and Bugs Bunny. It discusses the cartoonish world of conspiracies and false\, subjective realities people are trapping themselves inside of.” \nThen\, there’s “Dread Architect” [feat. Drumcorps]. A relentless drum-n-bass barrage crashes into manic screams underlined by groans of fuzzed-out feedback and \nlaser-precise synths. \n“To me\, ‘Dread Architect’ is almost the antagonist of the whole double-LP\,” he states. “It’s the worst of our war-hungry billionaire class leaders who are seething to create a horrible future. We’re witnessing the destruction of the environment worldwide. Mark Zuckerberg and all of these billionaires have already built bunkers for the apocalypse. They’re trying to get out of here and go to Mars. It’s grim and fucked up. Drumcorps is the de facto metalcore breakcore producer extraordinaire. He provided some super gnarly guitar tracks for us to chop up and use too.” \nBack in October 2024\, the band had welcomed Lucy as a live member. Formally etching out her place in the fold\, she handles lead vocals on “Ignore The Vore.” Matt adds\, “It’s the first track where my vocals take a backseat\, and Lucy is front-and-center. It was an exciting experiment\, and it’s a new form of Machine Girl.” \nNearing the six-minute mark\, the epic “Psychowar” revolves around the chug of distorted guitars\, piston-like percussion\, and paranoid pleas a la\, “Pass me the Kool-Aid.“ \n“The goal was always for it to be prog rock-level\, epic\, and freaky\,” he grins. “It’s linked to the central theme. The lines\, ‘Fight your Psychowar\,‘ refer to confronting the parts of yourself you don’t want to confront\, overcoming them\, and becoming mentally stronger. The first half is darker. On the second\, you’re picking yourself up\, working on your shit\, fighting your ‘Psychowar\,‘ and becoming a Psycho Warrior.“ \nIn the end\, Machine Girl tap into the sound of self-actualization. It’s gritty\, dirty\, unpredictable\, beautiful\, and utterly brilliant. \n“We really want the music to be life-affirming\,” he leaves off. “Catharsis is important in the world of Machine Girl. This is probably the most cathartic album we’ve made.”
+URL:https://www.crystalballroompdx.com/events/272294-machine-girl/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/10/MachineGirl25-ncHADP.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260326T100000
+DTEND;TZID=America/Los_Angeles:20260326T100000
+DTSTAMP:20260312T193235
+CREATED:20260205T200047Z
+LAST-MODIFIED:20260205T200051Z
+UID:10001048-1774519200-1774519200@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275299-crystal-ballroom-history-art-tour/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260327T190000
+DTEND;TZID=America/Los_Angeles:20260327T190000
+DTSTAMP:20260312T193235
+CREATED:20260113T180014Z
+LAST-MODIFIED:20260113T180022Z
+UID:10001018-1774638000-1774638000@www.crystalballroompdx.com
+SUMMARY:My Life With The Thrill Kill Kult
+DESCRIPTION:Hailing from Chicago’s renowned Wax Trax! Records stable of arCsts\, MY LIFE WITH THE THRILL KILL KULT have been conjuring up sonic tales of sex\, blasphemy and kitschy horror since 1987. The band was instrumental in developing the industrial dance music genre\, yet have conCnued to expand their style\, creaCng one of the most diverse repertoires in modern music. Electronic rock\, heavily in?uenced by both disco and funk can best describe their sound\, while spoken-word samples liRed from B-movies gives the band their signature mark. They have released 14 studio albums\, a slew of remix compilaCons\, and have contributed to a variety of soundtracks and ?lm scores\, including a cameo performance in the 1994 cult movie classic The Crow. \nArCst Franke Nardiello and musician Marston Daley\, two Chicago neighbors who enjoyed late night binges watching trashy exploitaCon ?lms and horror ?icks\, wanted to make their own movie to be called “My Life With The Thrill Kill Kult”. While the project never came to fruiCon\, they wrote some music to be the accompanying soundtrack. Both worked at the Wax Trax record store\, and when label founders Jim Nash and Dannie Flesher heard the songs\, they were intrigued. Using the ?lm Ctle as the name of the band\, they released a 3-song EP in early 1988. The response was overwhelming\, and it was clear fans wanted to hear more. \nTaking the stage names Groovie Mann (Nardiello) and Buzz McCoy (Daley)\, the duo began to focus on music full Cme. They created an occult meets leather biker image to compliment the band’s name which included enlisCng a bevy of voluptuous back-up singers/dancers known as the BOMB GANG GIRLZ. The New York Times wrote\, “Sex\, blasphemy\, big beats and go-go dancing; they’re all in a day’s work for My Life With The Thrill Kill Kult”. This agracted the agenCon of indie fans\, as well as the ire of the PMRC and conservaCve religious groups in pracCcally equal measure. By the Cme of their sophomore release\, Confessions Of A Knife (1990)\, they were far and away one of the biggest selling acts on the label. \n1991 saw the release of their third album Sexplosion!\, a calculated sonic and visual departure from their previous work. 1950’s pin-up models replaced the demonic imagery\, while sleazy stripper horns\, disco beats and house diva vocals (provided by arCst Shawn Christopher) took prominence over the more abrasive musical elements. They put together a provocaCve stage show\, complete with spinning police lights\, mirror balls and a stocked bar with bartender to serve the scanCly clad musicians and dancers while they performed. AlternaCve Press reviewed the show as “Sin-saConal!”\, while Melody Maker described it as “A Cabaret from Hell”. It was a huge success\, and the album sold so well (fueled by the phenomenal radio hit “Sex On Wheelz”) that the group signed a deal with Interscope Records. \nHollywood also embraced the KULT\, recognizing the unique cinemaCc aspect in their sound. Most notably they scored music for animator Ralph Bakshi’s Cool World (1992) and director Paul Verhoven’s saucy Showgirls (1993)\, while comedic ?lms such as Baseketball and The Flintstones Movie prominently featured songs from their album Hit & Run Holiday. \nThe band moved to Rykodisc in 1997 and re-released their enCre remastered / repackaged catalog\, along with ?ve more studio albums\, including an homage to 70’s disco era called Gay Black & Married\, and the sultry and decadent Filthiest Show In Town 2007). They also formed their own label SleazeBox Records in 2001\, enabling the release of a growing number of side-projects in addiCon to new TKK material. \nBuzz and Groovie sCll record and perform live along with veteran band mates Mimi Star (bass) and JusCn Thyme (drums)\, all the while maintaining a de?ant spirit that refuses to be con?ned by musical norms. They’ve in?uenced countless arCsts in electronic\, industrial\, and dance music scenes\, creaCng a reputaCon for themselves as one of the most notorious and controversial cult bands of their generaCon. \n\nFacebook:\nhttps://www.facebook.com/thrillkillkult\n \nYouTube:\nhttps://www.youtube.com/user/thrillkillkultx\n \nSpotify:\nhttps://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD\n \nInstagram:\nhttps://www.instagram.com/mythrillkillkult/#\n \nBluesky:\n@thrillkillkult.bsky.social\n \nWebsite:\nhttps://thrillkillkult.com
+URL:https://www.crystalballroompdx.com/events/273887-my-life-with-the-thrill-kill-kult/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/12/ThrillKillKult26-OuCU8i.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260328T200000
+DTEND;TZID=America/Los_Angeles:20260328T200000
+DTSTAMP:20260312T193235
+CREATED:20251119T010008Z
+LAST-MODIFIED:20251119T010014Z
+UID:10001013-1774728000-1774728000@www.crystalballroompdx.com
+SUMMARY:Poison Arrow: An Alternative Dance Night
+DESCRIPTION:KNRK2 presents Poison Arrow: An Alternative Dance Night \nDJ Gregarious and VJ Disorder distill the best and most danceable 80’s & 90’s New Wave\, Post-Punk\, Brit Pop\, and Alt-Club dance songs. From deep cut favorites to club classics\, join us for a night reminiscent of an era when dance club culture reigned supreme. \nPoison Arrow is based on the authentic alternative club sounds and visuals that came from pioneering dance clubs like Mudd Club\, Danceteria\, & Tier 3 in New York City; Kabuki Club\, DV8\, & The I-Beam in San Francisco; and Blitz Club & Blow Up in London (among others).
+URL:https://www.crystalballroompdx.com/events/273756-poison-arrow-an-alternative-dance-night/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/07/poisonarrow25-85bD50.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260329T100000
+DTEND;TZID=America/Los_Angeles:20260329T100000
+DTSTAMP:20260312T193235
+CREATED:20260205T200019Z
+LAST-MODIFIED:20260205T200039Z
+UID:10001047-1774778400-1774778400@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275298-crystal-ballroom-history-art-tour/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260329T203000
+DTEND;TZID=America/Los_Angeles:20260329T203000
+DTSTAMP:20260312T193235
+CREATED:20251002T233007Z
+LAST-MODIFIED:20251002T233011Z
+UID:10000980-1774816200-1774816200@www.crystalballroompdx.com
+SUMMARY:St Paul & The Broken Bones
+DESCRIPTION:St. Paul & The Broken Bones are a powerhouse soul ensemble from Alabama known for their electrifying live shows and impassioned vocals. Formed in Birmingham in 2011\, the band features Paul Janeway (vocals)\, Jesse Phillips (bass)\, Browan Lollar (guitar)\, Kevin Leon (drums)\, Al Gamble (keyboards)\, Allen Branstetter (trumpet)\, Chad Fisher (trombone)\, and Amari Ansari (saxophone). \nTheir new self-titled sixth album marks a creative renewal-melding the band’s adventurous spirit with a return to soulful\, song-focused roots. Recorded at the legendary FAME Studios and produced by Eg White (Adele\, Celine Dion)\, the record blends psych-funk grooves\, gospel-tinged ballads\, and cinematic rock flourishes. Tracks like “Sushi and Coca-Cola” and “Going Back” reflect both personal introspection and the band’s deepened identity after a decade of evolution. \nSt. Paul & The Broken Bones have shared stages with The Rolling Stones\, Lizzo\, and Black Pumas\, and performed at major festivals like Coachella\, Glastonbury\, Lollapalooza\, and Bonnaroo. Even Sir Elton John took notice\, inviting them to perform at his Oscar party. Blending rock & roll\, soul\, R&B\, and more\, the band continues to captivate audiences around the world.
+URL:https://www.crystalballroompdx.com/events/272115-st-paul-the-broken-bones/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/10/StPaul25-FVnvTZ.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260331T200000
+DTEND;TZID=America/Los_Angeles:20260331T200000
+DTSTAMP:20260312T193235
+CREATED:20251113T190012Z
+LAST-MODIFIED:20251113T190020Z
+UID:10001000-1774987200-1774987200@www.crystalballroompdx.com
+SUMMARY:Maddox Batson
+DESCRIPTION:Tuesday\, March 31st at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/273091-maddox-batson/
+CATEGORIES:March
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/11/MaddoxBaston25-qLzxAR.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260401T203000
+DTEND;TZID=America/Los_Angeles:20260401T203000
+DTSTAMP:20260312T193235
+CREATED:20250919T220026Z
+LAST-MODIFIED:20250919T220034Z
+UID:10000968-1775075400-1775075400@www.crystalballroompdx.com
+SUMMARY:Evan Honer
+DESCRIPTION:A cross-country move to Nashville. An international touring schedule. A record label with 25 artists and more than 100 releases\, all operating out of his living room. A recording studio built into his four-car garage. Evan Honer spent 2024 in a blur of momentum\, expanding his life in all directions\, playing nearly 100 shows in support of his second album\, Fighting For\, while writing new songs for its follow-up. \nOnly two years earlier\, his cover of Tyler Childers’ “Jersey Giant” had become a viral juggernaut\, earning more than 200 million streams and launching his music career. He was busy then\, too\, balancing his college classes with nighttime gigs as a solo act and daily practices with the school’s Division 1 swimming team. Things only intensified as school came to a close. Honer released the debut album West On I-10 on graduation day and quickly remade himself into a road warrior\, balancing the challenges of early adulthood with an unbending commitment to music. \nThen\, one day\, he learned to look around him and take stock of the present. Everything I Wanted finds Honer planting new roots in Nashville\, his adopted hometown after a multi-year stint in Southern California. Recorded over 18 days in a garage studio that he built himself\, it’s a homemade record with big-studio sparkle\, its 13 songs emphasizing the indie and alternative-pop influences that have always lingered on the outskirts of his sound. Here\, they’re moved to the forefront\, pushing Honer beyond his roots as an acoustic Americana act and into something more eclectic and electrifying. There are string arrangements courtesy of a talented neighbor\, Kate Stephenson. There are horn arrangements\, pedal steel swells\, and contributions from his roommates\, too. At the center of that sound is Evan Honer himself: an acclaimed songwriter\, storyteller\, and bleeding-heart vocalist who\, after years on the move\, has learned to slow down a bit and appreciate the moment. \n“My life completely changed this past year\,” he says. “I’m learning to be happy with where I’m at. I’m grateful that I get to stand onstage and sing songs I wrote in my bedroom\, and people know the words and sing them back to me. How can you be upset about that?” \nIt’s true; there’s a lot to be grateful for. 500 million streams\, for starters. An RIAA gold certification for his “Jersey Giant” cover. Sold-out shows alongside headliners like Wyatt Flores. The ongoing success of his own label\, Cloverdale Records. With Everything I Wanted\, though\, Honer turns his gaze inward\, writing autobiographical songs about romance\, resilience\, roots\, and his relationship with his audience. \n“When the going gets tough\, I’ll stick through the season\,” he promises during “Maybe For Once.” On the surface\, it’s a love song to a woman he met on the road\, her memory lingering in the rear-review mirror every time his van pulls away. For someone who’s used to living life at 80 miles per hour\, though\, the song is something more: a self-made promise to focus not only upon the destination\, but on the journey itself. “These songs are about me not getting in my own way\,” he clarifies. “I’ve stopped looking for reasons not to commit. I’m pushing myself to just let things happen.” The rest of the record is similarly personal. On the cinematic piano ballad “It’s a Home\,” Honer whisks himself back to childhood to unpack some traumatic family baggage. On “Place I Hate\,” he sings about a career filled with astral highs and bottomed-out lows. With the short-and-sweet “Waiting Room\,” he delivers a genuine love song in less than two minutes\, showcasing just how concise his craft has become over the past three years. And with “Curtain\,” he sings directly to the fans who’ve supported him over the years\, singing\, “You guys bother showing up to hear me scream about my feelings… I don’t know if you can tell\, but I’m the one who really needs it.” \nHoner’s previous album\, Fighting For\, was recorded during his first national tour\, slowly pieced together in the studio spaces\, living rooms\, and AirBNBs he encountered while driving from show to show. Everything I Wanted\, on the other hand\, was recorded at home with producers Garrett Hall\, Shane Travis and a small handful of guests. From the start\, Honer embraced those differences. “The last thing I ever want to do is make something I’ve already made\,” he says\, naming artists like Andy Shauf\, Medium Build\, and Pinegrove as the album’s touchstones. He sought outside opinions\, too\, by embracing Nashville’s co-writing culture. “Writing with other people wasexciting\,” he adds\, “because some of these songs wound up going to places I wouldn’t normally go.” \nLongtime fans will notice those changes and more. There’s the Beatles-inspired bridge of “Finally Commit.” The noisy\, full-band freakout that brings the final track\, “Wonder\,” to a close. The drums kickstart “Lose a Friend\,” one of Honer’s only tracks to begin with percussion. Now three albums into  is career\, Evan Honer has more than a signature sound – he has the guts to expand and evolve that sound\, as well. There will be more shows to play… more horizons to chase down in a 15-passenger van… but as long as Everything I Wanted is playing\, you can find Evan Honer at home\, coaxing new sounds out of the garage\, thankful for the moment even as it passesby. 
+URL:https://www.crystalballroompdx.com/events/271940-evan-honer/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/09/evanhoner25-78SoTy.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260402T100000
+DTEND;TZID=America/Los_Angeles:20260402T100000
+DTSTAMP:20260312T193235
+CREATED:20260312T233100Z
+LAST-MODIFIED:20260312T233103Z
+UID:10001079-1775124000-1775124000@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275944-crystal-ballroom-history-art-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260403T200000
+DTEND;TZID=America/Los_Angeles:20260403T200000
+DTSTAMP:20260312T193235
+CREATED:20260220T233023Z
+LAST-MODIFIED:20260220T233028Z
+UID:10001038-1775246400-1775246400@www.crystalballroompdx.com
+SUMMARY:Heated Rivalry: A Jockstar Rave
+DESCRIPTION:From the Closet ? Ice ? Dance floor. \nA Night of Party Boy Anthems & Club Hits. \n\nInstagram:\nhttps://www.instagram.com/jockstarrave/
+URL:https://www.crystalballroompdx.com/events/275032-heated-rivalry-a-jockstar-rave/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/jockstarrave_26-3wOgYF.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260404T200000
+DTEND;TZID=America/Los_Angeles:20260404T200000
+DTSTAMP:20260312T193235
+CREATED:20251016T173006Z
+LAST-MODIFIED:20251016T173010Z
+UID:10000992-1775332800-1775332800@www.crystalballroompdx.com
+SUMMARY:Sticky Fingers
+DESCRIPTION:It’s February 2019 and Yours to Keep\, the 4th studio album by the Australian band Sticky Fingers is released. A full tour of the US and Canada was planned in March of the same year…it was half completed\, then cancelled. While the band did perform to thousands of excited fans across the Eastern portion of the US and Canada\, the Western portion never came to be. Ending on March 24th\, 2019\, in Montreal on a frightful and freezing night. The tour finished in a fitting way for Sticky\, no strangers to odd coincidences. \nAfter the show had ended the bands tour bus door was ripped off the hinges. A bus invader came on\, then attempted to run off the bus with a member’s passport and backpack. A tumble ensued\, the invader was pushed off the bus and as the door flew open\, a car driving past clipped it and sent it off the hinges. The unwelcome invader evaded capture\, the door was off\, and the tour was over. \n6.5 years later and Sticky Fingers are coming back to the shores of North America. Fans will rejoice\, guitar strings will be broken\, tears of joy will flow\, fun times are predicted\, and bus doors will remain intact.
+URL:https://www.crystalballroompdx.com/events/272238-sticky-fingers/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/10/StickyFingers0426-g2zmZX.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260405T100000
+DTEND;TZID=America/Los_Angeles:20260405T100000
+DTSTAMP:20260312T193235
+CREATED:20260312T233055Z
+LAST-MODIFIED:20260312T233057Z
+UID:10001078-1775383200-1775383200@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275943-crystal-ballroom-history-art-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260405T193000
+DTEND;TZID=America/Los_Angeles:20260405T193000
+DTSTAMP:20260312T193235
+CREATED:20251210T200010Z
+LAST-MODIFIED:20251210T200015Z
+UID:10001022-1775417400-1775417400@www.crystalballroompdx.com
+SUMMARY:Lacuna Coil
+DESCRIPTION:If you know Lacuna Coil then you’ll already be aware that every album entry in their storied career is more than just a sound. Each one is a richly textured soundtrack to a specific time and a place. With Sleepless Empire\, that place is dark\, cinematic\, and unmistakably true to the unique characteristics that have given Lacuna Coil such a celebrated entry in the annals of heavy music. \nAs founding songwriter-in-chief Marco Coti Zelati\, aka Maki explains\, while the writing process for Lacuna Coil’s tenth studio record began in December\, the record’s real creative birth coincided with the release of 2022’s Comalies XX\, a 20th-anniversary reimagining of their landmark 2002 record\, Comalies. It was more than an epic and rapturously received reinvention of that 21st century classic. It would serve to align the past\, the present\, and the future of Lacuna Coil as they take their first steps into the fourth decade of their remarkable career. \n“I never get stuck in the past\,” says Maki. “Sure\, I still love Type O Negative and Paradise Lost\, but I also love soundtracks: big orchestral stuff like Hans Zimmer\, Danny Elfman or even John Williams. If people had a chance to listen to Sleepless Empire without the voice\, guitars or drums – the orchestral part – it’d be a soundtrack because it’s very cinematic and that’s how I spend most of my time. I grew up watching movies all day long\, even with my father – there was this massive culture of movies and soundtracks\, even iconic horror ones like Friday the 13th or Halloween and obviously growing up in Italy\, Goblin and their incredible soundtracks for Profondo Rosso and Suspiria.” \n\nFacebook:\nhttps://www.facebook.com/lacunacoil/\n \nInstagram:\nhttps://www.instagram.com/lacunacoilofficial/\n \nYouTube:\nhttps://www.youtube.com/@lacunacoil\n \nSpotify:\nhttps://open.spotify.com/artist/4OAddazJM576euUnFSvXSL
+URL:https://www.crystalballroompdx.com/events/274001-lacuna-coil/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/12/lacunacoil25-iASmBo.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260409T100000
+DTEND;TZID=America/Los_Angeles:20260409T100000
+DTSTAMP:20260312T193235
+CREATED:20260312T233048Z
+LAST-MODIFIED:20260312T233051Z
+UID:10001077-1775728800-1775728800@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275942-crystal-ballroom-history-art-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260410T200000
+DTEND;TZID=America/Los_Angeles:20260410T200000
+DTSTAMP:20260312T193235
+CREATED:20260304T003009Z
+LAST-MODIFIED:20260304T003016Z
+UID:10001057-1775851200-1775851200@www.crystalballroompdx.com
+SUMMARY:Nettspend: Early Life Crisis Tour
+DESCRIPTION:Friday\, April 10th at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/275486-nettspend-early-life-crisis-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/Nettspend26-1XCSqQ.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260411T200000
+DTEND;TZID=America/Los_Angeles:20260411T200000
+DTSTAMP:20260312T193235
+CREATED:20260206T203009Z
+LAST-MODIFIED:20260206T203014Z
+UID:10001054-1775937600-1775937600@www.crystalballroompdx.com
+SUMMARY:Best of 90s & 2000s Dance Flashback -14th Anniversary Bash!
+DESCRIPTION:To celebrate 14 years of Dance Flashback parties in the Crystal Ballroom building… we are throwing an anniversary “Best Of 90s and 2000s Bash!” A whole night full of nothing but bangers and crowd favorites! Wear your favorite 90s outfits\, 2000s gear\, glow in the dark accessories or just put on your best dance shoes and help us celebrate 14 years!  \nAnd this year we are adding a second floor of dancing! Our 2010s Night will be live all night long in Lola’s Room on the second floor. Both floors included with the Anniversary ticket.
+URL:https://www.crystalballroompdx.com/events/275344-best-of-90s-amp-2000s-dance-flashback-14th-anniversary-bash/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/90s00sDanceFlashbackAnniversary26-xAvRPa.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260412T100000
+DTEND;TZID=America/Los_Angeles:20260412T100000
+DTSTAMP:20260312T193235
+CREATED:20260312T233039Z
+LAST-MODIFIED:20260312T233043Z
+UID:10001076-1775988000-1775988000@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275941-crystal-ballroom-history-art-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260412T120000
+DTEND;TZID=America/Los_Angeles:20260412T120000
+DTSTAMP:20260312T193235
+CREATED:20260217T160759Z
+LAST-MODIFIED:20260217T160818Z
+UID:10001058-1775995200-1775995200@www.crystalballroompdx.com
+SUMMARY:The BIGGEST Clothing Swap in the Northwest
+DESCRIPTION:The BIGGEST Clothing Swap in the Northwest!!! \nTwo full floors of swapping fun! \nBallroom on the 3rd Floor: The main swap area with tons of clothing sorted into non-binary categories as well as a plethora of shoes and accessories! Plus a bar! \nLola’s Room on the 2nd Floor: Plus-size swap with more shoes and accessories! \nA small entrance fee and a bag of clothes gets you a WHOLE NEW WARDROBE! You can bring more than one bag if you want! Don’t have a bag of clothes to share? No problem\, you can buy an empty bag for $5. \nPLEASE READ THE RULES VERY CAREFULLYCLOTHES MUST BE: \n\nCleanWearable\nNo holes\nNo odors\nNo underwear\, socks/ hosiery\, or bras (new items still in original packaging are okay)\nNo children’s apparel (sorry!)\n\nAnd\, Clothing Swap soundtrack provided by DJ Gregarious!!! \nInvite ALL your friends! The more that attend\, the more awesome clothes to choose from!!! \nThis is an all ages event\, but we recommend leaving small children at home.
+URL:https://www.crystalballroompdx.com/events/275512-the-biggest-clothing-swap-in-the-northwest/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/ClothingSwap0426-Wd4yBV.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260415T203000
+DTEND;TZID=America/Los_Angeles:20260415T203000
+DTSTAMP:20260312T193235
+CREATED:20260212T000043Z
+LAST-MODIFIED:20260212T000048Z
+UID:10000995-1776285000-1776285000@www.crystalballroompdx.com
+SUMMARY:Oklou
+DESCRIPTION:Wednesday\, April 15th at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/272978-oklou/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/Oklou26-Aqk4hI.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260416T100000
+DTEND;TZID=America/Los_Angeles:20260416T100000
+DTSTAMP:20260312T193235
+CREATED:20260312T233032Z
+LAST-MODIFIED:20260312T233035Z
+UID:10001075-1776333600-1776333600@www.crystalballroompdx.com
+SUMMARY:Crystal Ballroom History & Art Tour
+DESCRIPTION:Tour will meet outside the Box Office  \nJoin us as we explore the rich history of the Crystal Ballroom\, including police raids\, visits by silent screen idols and Beat poets\, psychedelic light shows\, R&B and rock legends\, dancing throughout the decades and narrow escapes from ruin.  \nThis tour may require standing for long periods of time and is mostly accessible via elevator. One stop on the tour\, the balcony\, can be seen but not accessed\, except by stairs.  \nPassport holders: This tour is eligible for the Crystal Ballroom and Lola’s Room location stamps and the Attend a History Sponsored Event experience stamp.
+URL:https://www.crystalballroompdx.com/events/275940-crystal-ballroom-history-art-tour/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2025/06/CrystalBallroomTours25-ACh39k.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260416T200000
+DTEND;TZID=America/Los_Angeles:20260416T200000
+DTSTAMP:20260312T193235
+CREATED:20251210T190008Z
+LAST-MODIFIED:20251210T190012Z
+UID:10001021-1776369600-1776369600@www.crystalballroompdx.com
+SUMMARY:Bloodywood
+DESCRIPTION:Thursday\, April 16th at Crystal Ballroom in Portland\, OR
+URL:https://www.crystalballroompdx.com/events/273783-bloodywood/
+CATEGORIES:April
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260417T200000
+DTEND;TZID=America/Los_Angeles:20260417T200000
+DTSTAMP:20260312T193235
+CREATED:20260225T010032Z
+LAST-MODIFIED:20260225T010037Z
+UID:10001016-1776456000-1776456000@www.crystalballroompdx.com
+SUMMARY:Taken by the Sky (Fleetwood Mac Tribute)
+DESCRIPTION:Taken By The Sky – Fleetwood Mac tribute captures audiences with their authentic performance of the iconic band at the height of their career\, representing the music known & loved by millions. The 6-piece Portland band has amassed fans at each performance with their gorgeous harmonies\, impeccable musicianship and captivating stage show. \n\nWebsite:\nhttps://j-fell.com/takenbythesky/\n \nYouTube:\nhttps://youtu.be/kga892sw5So
+URL:https://www.crystalballroompdx.com/events/273842-taken-by-the-sky-fleetwood-mac-tribute/
+CATEGORIES:April
+ATTACH;FMTTYPE=image/jpeg:https://www.crystalballroompdx.com/wp-content/uploads/2026/02/takenbythesky26-Jx2EMb.jpg
+END:VEVENT
+END:VCALENDAR

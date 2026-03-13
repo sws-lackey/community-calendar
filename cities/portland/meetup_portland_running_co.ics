@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Portland Running Co. Weekly Group Runs
+X-WR-CALNAME:Portland Running Co. Weekly Group Runs
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313492810@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260315T080000
+DTEND;TZID=America/Los_Angeles:20260315T100000
+SUMMARY:Sunday Long Run from PRC NW
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nPortland Running Company leads a long run every Sunday morning departing from our location at 2258 NW Raleigh St. in Portland.\n\nWe decide the route(s) on the spot\; there is almost always a contingent heading into Forest Park to hit the trails. Other routes we like include Terwilliger/Council Crest\, Mount Tabor\, and the Sellwood Bridge Loop. Distances vary\, but most folks run for about two hours.\n\nIf you've never run with PRC before\, you may need to sign a waiver beforehand. (No dogs\, please.) Free and open to all\, like all of PRC's Group Runs. More info and waiver here: https://portlandrunning.com/pages/weekly-group-runs
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313492810/
+STATUS:CONFIRMED
+CREATED:20260223T164929Z
+LAST-MODIFIED:20260223T164929Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313516471@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260316T173000
+DTEND;TZID=America/Los_Angeles:20260316T190000
+SUMMARY:Monday Night Easy Run in Beaverton
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nJessa and Kristin are your leaders for Beaverton's easygoing Monday-night run/walk. All paces and abilities welcome. Weather-permitting\, we'll use the Fanno Creek Trail\, but alternative neighborhood routes are the norm during winter and into spring.\n\nDistances vary\, but usually 3–5 miles. Lights and reflective clothing are recommended. No charge for this run\, like all PRC group runs: https://portlandrunning.com/pages/weekly-group-runs.\n\nAll are welcome\, but no dogs please.
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313516471/
+STATUS:CONFIRMED
+CREATED:20260225T022428Z
+LAST-MODIFIED:20260225T022428Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313517773@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260316T180000
+DTEND;TZID=America/Los_Angeles:20260316T200000
+SUMMARY:Monday Night Trails in NW
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nJoin us for a Monday evening trail run in Forest Park\, followed by refreshments at Run Pub. Meet at 6 PM at PRC\, 2258 NW Raleigh St. in Portland. We'll embark from the store. Expect hills\, dirt\, and routes of 5–9 miles. All are welcome!
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313517773/
+STATUS:CONFIRMED
+CREATED:20260225T033837Z
+LAST-MODIFIED:20260225T033837Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/1/d/c/600_510180476.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313535162@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260317T183000
+DTEND;TZID=America/Los_Angeles:20260317T193000
+SUMMARY:Tuesday Night Track workouts
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nLights! Camera! Track-tion! Meet us every Tuesday evening for our free weekly group interval workout. DIY warmup at 6:15\; workout starts at 6:30 sharp. Workout details are posted beforehand on our Facebook Page (https://www.facebook.com/portlandrunningcompany) every week (also check Twitter (https://twitter.com/PortlandRunning)). Workout from warmup through cool-down lasts 60–75 minutes.\n\nWe meet currently at Duniway Track on SW Barbur Blvd. in Portland.\n\nMost of the "meat" of the workout will be limited to 3 miles or less of hard stuff\; with warmup and cool-down expect at least 7 miles.\n\nThis is the run to come to if you're looking for fast company or just want to take the next step to get faster\, regardless of your current pace. Workouts are often geared toward an upcoming race\, like PDX Shamrock Run for instance\, but you are more than welcome to come do your own thing if all you want is company for your speedwork.\n\nRun is open to all (no dogs on campus)\, and free of charge\, like all PRC Group Runs: https://portlandrunning.com/pages/weekly-group-runs\n\nTrack nights are especially popular with the PRC Race Team: https://portlandrunning.com/pages/race-team
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313535162/
+STATUS:CONFIRMED
+CREATED:20260226T040142Z
+LAST-MODIFIED:20260226T040142Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313568367@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260319T180000
+DTEND;TZID=America/Los_Angeles:20260319T193000
+SUMMARY:An easy 4–6 miles followed by $5 pints. 
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nYour host Brendan will lead you on an easy-ish run in the neighborhood or around the waterfront. After the run we return to the Run Pub for libations and yakkety-yak. You'll come back.\n\nNo sign up necessary\, but if you haven't joined a PRC run before\, the host will have you sign an e-waiver beforehand. Ages 21 and over for this run\, please. Also\, no dogs. (Sorry\, we love 'em\, but there have been incidents....)\n\nMore: https://portlandrunning.com/pages/weekly-group-runs
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313568367/
+STATUS:CONFIRMED
+CREATED:20260228T030851Z
+LAST-MODIFIED:20260228T030851Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/a/7/5/600_487531349.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313604060@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260322T080000
+DTEND;TZID=America/Los_Angeles:20260322T100000
+SUMMARY:Sunday Long Run from PRC NW
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nPortland Running Company leads a long run every Sunday morning departing from our location at 2258 NW Raleigh St. in Portland.\n\nWe decide the route(s) on the spot\; there is almost always a contingent heading into Forest Park to hit the trails. Other routes we like include Terwilliger/Council Crest\, Mount Tabor\, and the Sellwood Bridge Loop. Distances vary\, but most folks run for about two hours.\n\nIf you've never run with PRC before\, you may need to sign a waiver beforehand. (No dogs\, please.) Free and open to all\, like all of PRC's Group Runs. More info and waiver here: https://portlandrunning.com/pages/weekly-group-runs
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313604060/
+STATUS:CONFIRMED
+CREATED:20260302T170523Z
+LAST-MODIFIED:20260302T170523Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313458618@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260323T173000
+DTEND;TZID=America/Los_Angeles:20260323T190000
+SUMMARY:Monday Night Easy Run in Beaverton
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nJessa and Kristin are your leaders for Beaverton's easygoing Monday-night run/walk. All paces and abilities welcome. Weather-permitting\, we'll use the Fanno Creek Trail\, but alternative neighborhood routes are the norm during winter and into spring.\n\nDistances vary\, but usually 3–5 miles. Lights and reflective clothing are recommended. No charge for this run\, like all PRC group runs: https://portlandrunning.com/pages/weekly-group-runs.\n\nAll are welcome\, but no dogs please.
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313458618/
+STATUS:CONFIRMED
+CREATED:20260221T053813Z
+LAST-MODIFIED:20260221T053813Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313628208@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260323T180000
+DTEND;TZID=America/Los_Angeles:20260323T200000
+SUMMARY:Monday Night Trails in NW
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nJoin us for a Monday evening trail run in Forest Park\, followed by refreshments at Run Pub. Meet at 6 PM at PRC\, 2258 NW Raleigh St. in Portland. We'll embark from the store. Expect hills\, dirt\, and routes of 5–9 miles. All are welcome!
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313628208/
+STATUS:CONFIRMED
+CREATED:20260304T025539Z
+LAST-MODIFIED:20260304T025539Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/1/d/c/600_510180476.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313643992@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260324T183000
+DTEND;TZID=America/Los_Angeles:20260324T193000
+SUMMARY:Tuesday Night Track workouts
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nLights! Camera! Track-tion! Meet us every Tuesday evening for our free weekly group interval workout. DIY warmup at 6:15\; workout starts at 6:30 sharp. Workout details are posted beforehand on our Facebook Page (https://www.facebook.com/portlandrunningcompany) every week (also check Twitter (https://twitter.com/PortlandRunning)). Workout from warmup through cool-down lasts 60–75 minutes.\n\nWe meet currently at Duniway Track on SW Barbur Blvd. in Portland.\n\nMost of the "meat" of the workout will be limited to 3 miles or less of hard stuff\; with warmup and cool-down expect at least 7 miles.\n\nThis is the run to come to if you're looking for fast company or just want to take the next step to get faster\, regardless of your current pace. Workouts are often geared toward an upcoming race\, like PDX Shamrock Run for instance\, but you are more than welcome to come do your own thing if all you want is company for your speedwork.\n\nRun is open to all (no dogs on campus)\, and free of charge\, like all PRC Group Runs: https://portlandrunning.com/pages/weekly-group-runs\n\nTrack nights are especially popular with the PRC Race Team: https://portlandrunning.com/pages/race-team
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313643992/
+STATUS:CONFIRMED
+CREATED:20260305T032321Z
+LAST-MODIFIED:20260305T032321Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/4/a/7/7/600_459139063.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313676455@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023248Z
+DTSTART;TZID=America/Los_Angeles:20260326T180000
+DTEND;TZID=America/Los_Angeles:20260326T193000
+SUMMARY:An easy 4–6 miles followed by $5 pints. 
+DESCRIPTION:Portland Running Co. Weekly Group Runs\nYour host Brendan will lead you on an easy-ish run in the neighborhood or around the waterfront. After the run we return to the Run Pub for libations and yakkety-yak. You'll come back.\n\nNo sign up necessary\, but if you haven't joined a PRC run before\, the host will have you sign an e-waiver beforehand. Ages 21 and over for this run\, please. Also\, no dogs. (Sorry\, we love 'em\, but there have been incidents....)\n\nMore: https://portlandrunning.com/pages/weekly-group-runs
+URL;VALUE=URI:https://www.meetup.com/portland-running-co-weekly-group-runs/events/313676455/
+STATUS:CONFIRMED
+CREATED:20260307T024505Z
+LAST-MODIFIED:20260307T024505Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/a/7/5/600_487531349.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/Portland-Running-Co-Weekly-Group-Runs/events/ical/
+X-WR-CALNAME:Portland Running Co. Weekly Group Runs
+END:VCALENDAR

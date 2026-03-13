@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//Meetup Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Contra Dancing
+X-WR-CALNAME:Contra Dancing
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:event_313547035@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023253Z
+DTSTART;TZID=America/Los_Angeles:20260314T184500
+DTEND;TZID=America/Los_Angeles:20260314T223000
+SUMMARY:Special Megaband Contra Dance
+DESCRIPTION:Contra Dancing\nThis is PCDC's annual **Portland Megaband** contra dance at the Smith Memorial Ballroom at PSU in SW Portland. (No dance at Fulton on 3/14.)\n\nThe Megaband is BIG! Fiddles\, horns\, flutes\, mandolins\, drums — you name it we've got it\, all in a huge ballroom with a beautiful wood floor. This year\, nationally known caller **Lindsey Dono** leads the evening. Lesson for newcomers at 6:45 pm\, dancing from 7:15 to 10:30 with a short break halfway through.\n\nBring water\, clothing appropriate for indoor aerobic activity and smooth-soled shoes for dancing. Please do not wear scented products to the dance.\n\nCost: $25 suggested entry fee\; sliding scale of $15-$40\; cash\, check or card.\n\nMasking and up-to-date vaccination is recommended but not required. For more information about PCDC: www.portlandcountrydance.org.
+URL;VALUE=URI:https://www.meetup.com/meetup-group-ccddsysh/events/313547035/
+STATUS:CONFIRMED
+CREATED:20260226T222224Z
+LAST-MODIFIED:20260226T222224Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/a/e/4/600_526487844.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313547215@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023253Z
+DTSTART;TZID=America/Los_Angeles:20260315T120000
+DTEND;TZID=America/Los_Angeles:20260315T191500
+SUMMARY:Portland Roadhouse Contra Dance
+DESCRIPTION:Contra Dancing\nThis is our annual all-day contra dance at the Milwaukie Community Center. All are welcome\, but please note that there is no beginner lesson. Five excellent bands and five enthusiastic callers will have you dancing from noon to 7:15 pm. Downstairs we'll have jamming\, conversation and potluck snacks/lunch so bring something to share.\n\nBring water\, clothing appropriate for indoor aerobic (sweaty!) activity and smooth-soled shoes for dancing. Please do not wear scented products to the dance as many people are sensitive.\n\nCost: $15-40 sliding scale. More info at: https://portlandroadhouse.org/
+URL;VALUE=URI:https://www.meetup.com/meetup-group-ccddsysh/events/313547215/
+STATUS:CONFIRMED
+CREATED:20260226T224035Z
+LAST-MODIFIED:20260226T224035Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/4/f/9/600_532933561.jpeg
+END:VEVENT
+X-ORIGINAL-URL:https://www.meetup.com/meetup-group-ccddsysh/events/ical/
+X-WR-CALNAME:Contra Dancing
+END:VCALENDAR

@@ -1866,9 +1866,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8867
 DTEND;TZID=America/New_York:20260317T190000
-DTSTAMP;TZID=America/New_York:20260304T095712
+DTSTAMP;TZID=America/New_York:20260312T101400
 DTSTART;TZID=America/New_York:20260317T173000
-LAST-MODIFIED;TZID=America/New_York:20260304T095712
+LAST-MODIFIED;TZID=America/New_York:20260312T101400
 LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;">Melr
  ose Branch Library</span></p> -   Roanoke VA 24011
 SEQUENCE:0
@@ -1887,35 +1887,6 @@ LOCATION:<p id="isPasted">Human Resources Learning Center</p><p>Municipal
 SEQUENCE:0
 SUMMARY:Greater Roanoke Transit Company Board of Directors
 UID:8420
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8843
-DTEND;TZID=America/New_York:20260312T190000
-DTSTAMP;TZID=America/New_York:20260213T141424
-DTSTART;TZID=America/New_York:20260312T173000
-LAST-MODIFIED;TZID=America/New_York:20260213T141424
-LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;" data
- -pasted="true">Noel C. Taylor Municipal Building - HR Learning Center<br>
- 215 Church Avenue SW<br>3rd Floor North<br>Roanoke\, VA 24011</span></p> 
- -   Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Youth Athletic Review Board Meeting
-UID:8843
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8882
-DTEND;TZID=America/New_York:20260312T170000
-DTSTAMP;TZID=America/New_York:20260306T155914
-DTSTART;TZID=America/New_York:20260312T160000
-LAST-MODIFIED;TZID=America/New_York:20260306T155914
-LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;">Roan
- oke City Department of Human/Social Services<br>1510 Williamson Rd NE<br>
- Roanoke\, VA 24012</span></p> -   Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Human Services Advisory Board Meeting
-UID:8882
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
