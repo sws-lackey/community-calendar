@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T00:22:50.919372",
+  "generated": "2026-03-13T00:30:00.832596",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -30262,7 +30262,7 @@
         },
         {
           "category": "Health / Wellness",
-          "count": 34
+          "count": 38
         },
         {
           "category": "Arts / Culture",
@@ -30299,15 +30299,11 @@
         {
           "category": "History / Heritage",
           "count": 6
-        },
-        {
-          "category": "(uncategorized)",
-          "count": 4
         }
       ],
       "images": {
         "total": 854,
-        "with_image": 624,
+        "with_image": 625,
         "by_source": [
           {
             "source": "Griffo Distillery",
@@ -30392,7 +30388,7 @@
           {
             "source": "Blue Zones Project Petaluma",
             "total": 4,
-            "with_image": 3
+            "with_image": 4
           },
           {
             "source": "Polly Klaas Community Theater",
