@@ -4,22 +4,13 @@ PRODID:-//Brewsters Beer Garden//brewstersbeergarden.com//
 X-WR-CALNAME:Brewsters Beer Garden
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Trivia Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260312T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260312T040000Z
-UID:972a74b808f62439693934b0cb8baf8b@brewstersbeergarden.com
-DESCRIPTION:Join us for Trivia Night hosted by North Bay Trivia! Come win 
- prizes\, enjoy food and drinks!
-LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
-URL:https://brewstersbeergarden.com/calendar1/2026/1/14/trivia-night-na693
- -ty6dp-4ddbd-x8x9g-xhn7w-ds4pw-adtzp-p5gry
-X-SOURCE:Brewsters Beer Garden
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brian Baudoin
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260314T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T030000Z
 UID:e4a95d3e85ac3486dcc5ff96508b6c7e@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1773187891774-2U3B5B9JVU6P7B5ER3P0/brian_baudoin.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/3/13/brian-baudoin
@@ -30,6 +21,9 @@ SUMMARY:Ragtag Sullivan
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260314T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T230000Z
 UID:1f747f8c520d61cc7c3ea3d1c9743793@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1773187938464-1NLMFFB6LWMW8G5C3TT5/ragtag_sullivan.
+ jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/3/14/ragtag-sullivan
@@ -40,6 +34,8 @@ SUMMARY:SunHunter
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260315T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260315T030000Z
 UID:8e5256c6383ae1daa31eab0b4f15fa2b@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1773188042502-NYP9CULUDY9712DOA7YL/sunhunter.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/3/14/sunhunter
@@ -50,6 +46,8 @@ SUMMARY:Matt Bolton - Winter Residency
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260315T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260315T230000Z
 UID:b6257dd010aebc50d64de2c54ce64937@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1767991368199-J53383U7A6KHSL1EFEUX/CGA05317.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/11/matt-bolton-winter
@@ -61,8 +59,11 @@ SUMMARY:Bingo Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260317T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260317T040000Z
 UID:dd60f67d2c2909a2f26a8952c83a7842@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1767994418286-M4HPYSOXMDFYYOJGXKXP/Bingo+Brewsters+
+ from+Canva.jpg
 DESCRIPTION:Join us for Bingo Night with North Bay Bingo! Every Monday fro
- m 7-9pm.
+ m 7-9pm. .fe-block-471406097f7469afd17e {mix-blend-mode: \; }
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/12/bingo-night-ea2rn-
  khnwk-krrkj-wrwr3-gaxl8-5emze-yjhfl-p8hjd-49tt9
@@ -73,8 +74,11 @@ SUMMARY:Trivia Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260319T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260319T040000Z
 UID:fb3aeecddbfde7c9c6113faf14bf40e0@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/0cb2fddc-3479-4372-a69a-be793dfbefb4/trivia.jpg
 DESCRIPTION:Join us for Trivia Night hosted by North Bay Trivia! Come win 
- prizes\, enjoy food and drinks!
+ prizes\, enjoy food and drinks! .fe-block-760eec3042d5f4612523 {mix-blend-
+ mode: \; }
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/14/trivia-night-na693
  -ty6dp-4ddbd-x8x9g-xhn7w-ds4pw-adtzp-p5gry-7kb5z
@@ -85,6 +89,8 @@ SUMMARY:Matt Bolton - Winter Residency
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260322T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260322T230000Z
 UID:f06fb9e9f68f32fcdffc6f9c198049ee@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1767991368199-J53383U7A6KHSL1EFEUX/CGA05317.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/11/matt-bolton-winter
@@ -96,8 +102,11 @@ SUMMARY:Bingo Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260324T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260324T040000Z
 UID:7ff640042ba43fccc11f93da89d7ca77@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1767994418286-M4HPYSOXMDFYYOJGXKXP/Bingo+Brewsters+
+ from+Canva.jpg
 DESCRIPTION:Join us for Bingo Night with North Bay Bingo! Every Monday fro
- m 7-9pm.
+ m 7-9pm. .fe-block-bff4ba91847dc49ce10e {mix-blend-mode: \; }
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/12/bingo-night-ea2rn-
  khnwk-krrkj-wrwr3-gaxl8-5emze-yjhfl-p8hjd-49tt9-6t7rl
@@ -108,8 +117,11 @@ SUMMARY:Trivia Night
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260326T020000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260326T040000Z
 UID:1008eea9c6e586bb332d1c144f5feeb6@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/0cb2fddc-3479-4372-a69a-be793dfbefb4/trivia.jpg
 DESCRIPTION:Join us for Trivia Night hosted by North Bay Trivia! Come win 
- prizes\, enjoy food and drinks!
+ prizes\, enjoy food and drinks! .fe-block-3cf20abd2254e87eb826 {mix-blend-
+ mode: \; }
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/14/trivia-night-na693
  -ty6dp-4ddbd-x8x9g-xhn7w-ds4pw-adtzp-p5gry-7kb5z-pm7tw
@@ -120,6 +132,8 @@ SUMMARY:Matt Bolton - Winter Residency
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260329T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260329T230000Z
 UID:ce36d83cd5964b7546d87e95cd62d59f@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1767991368199-J53383U7A6KHSL1EFEUX/CGA05317.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/1/11/matt-bolton-winter
@@ -131,6 +145,8 @@ SUMMARY:Matt Bolton
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260403T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260403T030000Z
 UID:86abde3d425d580552f941a3d7f6aa47@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771359730779-DZT7J99XA8J29JWCQ4LN/matt_bolton.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/2/matt-bolton
@@ -141,6 +157,9 @@ SUMMARY:Rhythm Drivers
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260404T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260404T030000Z
 UID:ce762c20f635de0d582386921a116b8f@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771359890863-JD6KEP6JJXZH3JAE3YQ2/rhythm_drivers.j
+ pg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/3/rhythm-drivers
@@ -151,6 +170,8 @@ SUMMARY:Jenerator
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260404T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260404T230000Z
 UID:bbea0a92a072ababc7ca825d091b8fc8@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771359948905-YF68UX3Q48R83IVK39VC/jenerator.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/4/jenerator
@@ -161,6 +182,8 @@ SUMMARY:Big Baby
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260405T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260405T030000Z
 UID:69bc05a7cbbf20e90f67f621c6ef0851@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360042452-S4CXAHPUQKMPWR79U1Y6/big_baby.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/4/big-baby
@@ -171,6 +194,8 @@ SUMMARY:The Bluebyrds
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260405T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260405T220000Z
 UID:be00e73650a932f7eaac0641cbfcedc3@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360103534-D63JSWFKFYAFD5ZMRFE6/bluebyrds.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/5/the-bluebyrds
@@ -181,6 +206,9 @@ SUMMARY:Miracle Mule
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260405T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260406T020000Z
 UID:809a6d5b15d5d24171d862fde16fb4da@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360262271-XTR0KVWE2KKPKIH62IPN/miracle_mule.web
+ p
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/5/miracle-mule
@@ -191,6 +219,8 @@ SUMMARY:Whiskey Dent
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260410T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260410T030000Z
 UID:dcc897b4be40d2bdec46e18e84f81cab@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360349542-NRN13TNK696FMQIHJL7W/whiskey_dent.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/9/whiskey-dent
@@ -201,6 +231,8 @@ SUMMARY:PB & Jam
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260411T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260411T030000Z
 UID:3b3fa8b788d9bfca7e362799b179ac0f@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360577987-75TIVC00F3O8PMPTSQBY/pb_%26_jam.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/10/pb-jam
@@ -211,6 +243,9 @@ SUMMARY:Fox + The Hound
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260411T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260411T230000Z
 UID:bb0746ab5d72e577ffdf7e82d1e51746@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360684283-5I3KHMM7HIYM4S5R5WV1/fox_%2B_hound.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/11/fox-the-hound
@@ -221,6 +256,8 @@ SUMMARY:AltCity
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260412T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260412T030000Z
 UID:66ae30b7af5866eb2f70469cb988f82d@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360743674-YNTJYA4I6L2LK98BBCU9/altcity.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/2/17/le641h1cu4brp87hcj
@@ -232,6 +269,9 @@ SUMMARY:Jason Movrich Band
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260412T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260412T230000Z
 UID:e62c82bb0cebeba5f3712610956396b3@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360838791-4OVSX3FSY2LRFTYLKG20/jason_movrich.we
+ bp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/12/jason-movrich-band
@@ -242,6 +282,9 @@ SUMMARY:Back pOrchestra
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260412T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260413T020000Z
 UID:43d4d30089a3303f50d249b25f1e2208@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360888827-XCDS3UXHJAFNQGIWFQY5/back_porchestra.
+ jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/12/back-porchestra
@@ -252,6 +295,8 @@ SUMMARY:Matt Bolton
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260417T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260417T030000Z
 UID:67cd79b72396175beae9880e75bb2ff2@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771360945689-ECITPNZ91LE6EGS4S62U/matt_bolton.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/16/matt-bolton
@@ -262,6 +307,9 @@ SUMMARY:Corner Pocket
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260418T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260418T030000Z
 UID:ff17b537d34e2e932b1a73056b9a2c10@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361039673-ASYM93F6LYM3JU129G6H/corner_pocket.we
+ bp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/17/corner-pocket
@@ -272,6 +320,8 @@ SUMMARY:Derek Irving & His Combo
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260418T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260418T230000Z
 UID:348399f4e714913cc8e62f02fb04d537@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361106494-6Q9ZVAJT2X1TPI2SQ6DU/derek_irving.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/18/derek-irving-his-c
@@ -283,6 +333,8 @@ SUMMARY:The Vibe
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260419T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260419T030000Z
 UID:76cbd50f0d15aa0d0a16b6d741f7484a@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361178300-XHVQPR3AFBJ606U827BW/vibe_the.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/18/the-vibe
@@ -293,6 +345,9 @@ SUMMARY:Janie & The Reformed
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260419T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260419T220000Z
 UID:02cef4ea10ba7b6a9f95f0ddc62002e1@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361268262-O6ASJTRVO2VQ2G9IMTS5/janie_and_the_re
+ formed.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/19/janie-the-reformed
@@ -303,6 +358,8 @@ SUMMARY:Adrian West Band
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260419T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260420T020000Z
 UID:bd1467f5394082074315432c5192b773@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361313984-NVLLKRNDUF4HXI417TTN/adrian_west.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/19/adrian-west-band
@@ -313,6 +370,8 @@ SUMMARY:The Workshop
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260424T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260424T030000Z
 UID:86b8518d70a479465be73373f3fc55d6@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361394639-R8BXWKQ5N817EJ9Y607I/workshop_the.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/23/the-workshop
@@ -323,6 +382,9 @@ SUMMARY:Doggone Ornery
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260425T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260425T030000Z
 UID:19b1f0183dd513cb892b3d68843068cc@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361441718-CDL1KAF4SL3QJ2I6RK36/doggone_ornery.j
+ pg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/24/doggone-ornery
@@ -333,6 +395,9 @@ SUMMARY:Chris James & The Showdowns
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260425T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260425T230000Z
 UID:e74b9041ec8f983ded31861ff4e15c8c@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361543412-LI7RZTG77KQRZ9RCNXMV/chris_james_show
+ downs.webp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/25/chris-james-the-sh
@@ -344,6 +409,9 @@ SUMMARY:Redwood Highway Ramblers
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260426T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260426T030000Z
 UID:d690a3ed4836dc4209b41054517f7b0b@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771535422650-OVSTVN007GZQTS1QX3GN/redwood_highway_
+ ramblers.jpeg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/25/redwood-highway-ra
@@ -355,6 +423,8 @@ SUMMARY:Surf Monster
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260426T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260426T220000Z
 UID:17099a42f0e0d623e52078cef5b2500b@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771535285504-FBN97R3XQHRMJDCMOOLJ/surf_monster.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/26/surf-monster
@@ -365,6 +435,8 @@ SUMMARY:Jinx Jones
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260426T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260427T020000Z
 UID:1c19bf3efb8635c2c73205fd8e9d7346@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361862470-138LSOUWXWQZK2WWLEP7/jinx_jones.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/26/jinx-jones
@@ -375,6 +447,9 @@ SUMMARY:Loralee Christensen Combo
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260501T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260501T030000Z
 UID:9a79194f2951edd0af081d7ed4d68852@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1771361935019-JSGF0QW18KK3YQ0JX71S/loralee_christen
+ sen.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/4/30/loralee-christense
@@ -386,6 +461,9 @@ SUMMARY:Michael Brown Band
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260502T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260502T030000Z
 UID:8793a6a5ae707a8f7afa3e1339a8aabe@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224217448-GF45KOQQ135CWOTLHIK9/michael_brown.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/1/michael-brown-band
@@ -396,6 +474,8 @@ SUMMARY:The Tahoes
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260502T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260502T230000Z
 UID:73321c37dabd0c1ec8e52462898601ca@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224265138-Z7DGJ5S634XSHHCM2U2J/tahoes.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/2/the-tahoes
@@ -406,6 +486,9 @@ SUMMARY:Parlor Tricks
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260503T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260503T030000Z
 UID:6f9833949a7e2a47a3914f3fcd4fff93@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224316190-RMR1OJFGBYUTXSBQA8AK/parlor_tricks.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/2/parlor-tricks
@@ -416,6 +499,9 @@ SUMMARY:The Humdinger Band
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260503T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260503T220000Z
 UID:8bd2256aafae51debba18e195367d0c6@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224454312-G4GOQV3FNAQ39F509G3H/humdinger_band.w
+ ebp
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/3/the-humdinger-band
@@ -426,6 +512,9 @@ SUMMARY:The Occasionals
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260503T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260504T020000Z
 UID:62a0dc84dffd74b0ab30e739fa56d73e@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224521525-HT4MDLAOIXIRCQ2A2M8L/kevin_russell.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/3/the-occasionals
@@ -436,6 +525,8 @@ SUMMARY:Matt Bolton
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260508T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260508T030000Z
 UID:fbeb2491aa94de792a98e02f21fa7420@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224736123-1WMHBG6PGH8QPYFVG3JF/matt_bolton.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/7/matt-bolton
@@ -446,6 +537,9 @@ SUMMARY:40 Fathoms
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260509T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260509T030000Z
 UID:4c27b6db57ed91689888d08f8f0af373@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224798044-S374EI9NOFVD001DCBOZ/forty_fathoms.jp
+ g
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/8/40-fathoms
@@ -456,6 +550,8 @@ SUMMARY:Iko YaYa
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260509T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260509T230000Z
 UID:d481423ec3f950cbbd7c01b14be58f5e@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772224843602-8ZP4N7QUXJEM7GW546EY/iko_yaya.jpg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/9/iko-yaya
@@ -466,6 +562,8 @@ SUMMARY:Juke Joint
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260510T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260510T030000Z
 UID:ddb4c6a25c7926369878ca83cb191f67@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772567881582-1FP8AATTBHXGX7O2WDEK/juke_joint.PNG
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/9/juke-joint
@@ -476,6 +574,9 @@ SUMMARY:Tim O'Neil Band
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260510T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260510T220000Z
 UID:ca00667597e9c2c7c8276cc04820f0e2@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772225158657-OL86S6X7XRZNQBH6NVHJ/tim_oneil_band.j
+ pg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/10/tim-oneil-band
@@ -486,6 +587,9 @@ SUMMARY:Maddy & The Mayors
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260510T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260511T020000Z
 UID:984012adae495ee3495b177c3e173eec@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772658328054-X8L0H8VMOC4ELKO9CYZ3/maddy_and_the_ma
+ yors.jpeg
 DESCRIPTION:
 LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/10/maddy-the-mayors

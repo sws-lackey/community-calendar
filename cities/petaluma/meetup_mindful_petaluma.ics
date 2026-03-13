@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313440017@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T014055Z
-DTSTART;TZID=America/Los_Angeles:20260311T183000
-DTEND;TZID=America/Los_Angeles:20260311T193000
-SUMMARY:Beginners in The Work of Byron Katie: Newcomers Welcome
-DESCRIPTION:The Mindful Stream (CA)\nA free Zoom meditation session designed with newcomers in mind. Sessions will include at least one hour of facilitation (meditation) and there is room for questions and answers throughout. If you're curious about The Work\, you're invited to join!\n\nSee you there!\n\nPlease be aware that sessions will close if no members have joined after 10 minutes.\n\n**To book a free introductory private session with Emrys\, [click here](https://calendly.com/mindfulnesswithemrys/onehoursession)[.](https://mindfulnesswithemrys.business.site/)**\n\nEmrys also organises a free Work of Byron Katie Meetup group. Visit: [https://www.meetup.com/thework-runsfree](https://www.meetup.com/thework-runsfree/)\n\n*Find out more about Emrys [here](https://mindfulnesswithemrys.business.site/)[.](http://linktr.ee/theworkrunsfree)*
-URL;VALUE=URI:https://www.meetup.com/mindfulnesspetaluma/events/313440017/
-STATUS:CONFIRMED
-CREATED:20260220T022104Z
-LAST-MODIFIED:20260220T022104Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/d/8/b/600_516803947.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313456787@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260312T183000
 DTEND;TZID=America/Los_Angeles:20260312T185000
 SUMMARY:Inner Body Guided-Meditation (20 minutes)
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313476237@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260314T074500
 DTEND;TZID=America/Los_Angeles:20260314T080500
 SUMMARY:Inner Body Guided-Meditation 
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313516396@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260316T183000
 DTEND;TZID=America/Los_Angeles:20260316T185000
 SUMMARY:Inner Body Guided-Meditation (20 minutes)
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313534299@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260317T183000
 DTEND;TZID=America/Los_Angeles:20260317T193000
 SUMMARY:Awakening Awareness: Embracing This Moment
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313551015@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260318T183000
 DTEND;TZID=America/Los_Angeles:20260318T193000
 SUMMARY:Beginners in The Work of Byron Katie: Newcomers Welcome
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313567834@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260319T183000
 DTEND;TZID=America/Los_Angeles:20260319T185000
 SUMMARY:Inner Body Guided-Meditation (20 minutes)
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313587246@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260321T074500
 DTEND;TZID=America/Los_Angeles:20260321T080500
 SUMMARY:Inner Body Guided-Meditation 
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313628014@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260323T183000
 DTEND;TZID=America/Los_Angeles:20260323T185000
 SUMMARY:Inner Body Guided-Meditation (20 minutes)
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313644290@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T014055Z
+DTSTAMP:20260313T001414Z
 DTSTART;TZID=America/Los_Angeles:20260324T183000
 DTEND;TZID=America/Los_Angeles:20260324T193000
 SUMMARY:Awakening Awareness: Embracing This Moment
@@ -173,6 +158,21 @@ CREATED:20260305T032718Z
 LAST-MODIFIED:20260305T032718Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/2/2/8/600_527532840.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313662052@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T001414Z
+DTSTART;TZID=America/Los_Angeles:20260325T183000
+DTEND;TZID=America/Los_Angeles:20260325T193000
+SUMMARY:Beginners in The Work of Byron Katie: Newcomers Welcome
+DESCRIPTION:The Mindful Stream (CA)\nA free Zoom meditation session designed with newcomers in mind. Sessions will include at least one hour of facilitation (meditation) and there is room for questions and answers throughout. If you're curious about The Work\, you're invited to join!\n\nSee you there!\n\nPlease be aware that sessions will close if no members have joined after 10 minutes.\n\n**To book a free introductory private session with Emrys\, [click here](https://calendly.com/mindfulnesswithemrys/onehoursession)[.](https://mindfulnesswithemrys.business.site/)**\n\nEmrys also organises a free Work of Byron Katie Meetup group. Visit: [https://www.meetup.com/thework-runsfree](https://www.meetup.com/thework-runsfree/)\n\n*Find out more about Emrys [here](https://mindfulnesswithemrys.business.site/)[.](http://linktr.ee/theworkrunsfree)*
+URL;VALUE=URI:https://www.meetup.com/mindfulnesspetaluma/events/313662052/
+STATUS:CONFIRMED
+CREATED:20260306T040753Z
+LAST-MODIFIED:20260306T040753Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/d/8/b/600_516803947.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/mindfulnesspetaluma/events/ical/
 X-WR-CALNAME:The Mindful Stream (CA)

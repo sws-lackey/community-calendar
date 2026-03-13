@@ -7,7 +7,7 @@ used across all city feeds, identified by their PRODID header.
 
 | Platform | Description | Cities | Feeds |
 |----------|-------------|--------|------:|
-| **Meetup** | ICS export from meetup.com groups. | bloomington, davis, evanston, jweekly, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 167 |
+| **Meetup** | ICS export from meetup.com groups. | bloomington, davis, evanston, jweekly, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 161 |
 | **The Events Calendar (WordPress)** | WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version. | bloomington, boston, davis, evanston, jweekly, matsu, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 91 |
 | **Google Calendar** | Public Google Calendar ICS export. | bloomington, davis, jweekly, montclair, petaluma, portland, raleighdurham, roanoke, santarosa, toronto | 53 |
 | **CivicPlus (ical.net)** | Government CMS using ical.net library. Common for city/county websites. | bloomington, evanston, matsu, montclair, raleighdurham, roanoke, santarosa | 53 |
@@ -24,7 +24,7 @@ used across all city feeds, identified by their PRODID header.
 
 ## Detail
 
-### Meetup (167 feeds)
+### Meetup (161 feeds)
 
 ICS export from meetup.com groups.
 
@@ -38,7 +38,7 @@ ICS export from meetup.com groups.
 
 **montclair** (12): meetup_btcnj, meetup_everwalk_nj, meetup_exploring_montclair, meetup_lets_walkprogram, meetup_lwv_montclair, meetup_metrotrails, meetup_montclair_gamenights_and_social_networking_meetup_group, meetup_nj_bvt_sports, meetup_nj_code_coffee, meetup_somocon, meetup_themindfulstream, meetup_west_african_drumming_nj
 
-**petaluma** (14): meetup_active_20_30, meetup_book_brew, meetup_brat_pack, meetup_candlelight_yoga, meetup_contra_dance, meetup_figure_drawing, meetup_go_wild_hikers, meetup_meditate_monk, meetup_mindful_petaluma, meetup_mindfull_hikes, meetup_north_bay_adventure, meetup_petaluma_salon, meetup_rebel_craft, meetup_sonoma_outdoors
+**petaluma** (8): meetup_active_20_30, meetup_book_brew, meetup_candlelight_yoga, meetup_figure_drawing, meetup_meditate_monk, meetup_mindful_petaluma, meetup_rebel_craft, meetup_sonoma_outdoors
 
 **portland** (27): meetup_active_dads, meetup_art_guild, meetup_arts_craft, meetup_code_for_pdx, meetup_coffee_sketch, meetup_contra_dance, meetup_meditation, meetup_more_than_reading, meetup_nw_trail_runners, meetup_padnug, meetup_paint_and_sip, meetup_pdxcpp, meetup_pdxgames, meetup_portland_2030, meetup_portland_city_walking, meetup_portland_code_coffee, meetup_portland_free_community, meetup_portland_fun_run, meetup_portland_hiking, meetup_portland_outdoors, meetup_portland_running_co, meetup_portland_trail_runners, meetup_silent_book_club_portland, meetup_silent_books_club, meetup_slowpo_runners, meetup_techacademy, meetup_womens_wanderers
 
@@ -235,6 +235,7 @@ own scrapers, add a pattern to `OUR_SCRAPERS`.
 | `-//SIDEARM Sports//NONSGML SIDEARM//EN` | portland | psu_athletics, up_athletics |
 | `-//SIDEARM Sports//NONSGML SIDEARM//EN` | raleighdurham | duke_athletics, ncsu_athletics, unc_athletics |
 | `-//Sabre//Sabre VObject 4.5.8//EN` | evanston | lincolnwood_library, morton_grove_library, skokie_library, winnetka_northfield_library |
+| `-//Santa Rosa Junior College//NONSGML v1.0//EN` | petaluma | srjc_petaluma |
 | `-//Santa Rosa Junior College//NONSGML v1.0//EN` | santarosa | srjc |
 | `-//Teamup Solutions AG//Teamup Calendar//EN` | montclair | shomrei_emunah |
 | `-//Ticketmaster/Evanston Venues//ticketmaster.com//` | evanston | ticketmaster_evanston_venues |
