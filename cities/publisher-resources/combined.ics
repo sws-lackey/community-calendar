@@ -28,7 +28,7 @@ X-SOURCE-ID:poynter
 X-SOURCE:Poynter Institute
 DTSTART;TZID=America/Chicago:20260316T093000
 DTEND;TZID=America/Chicago:20260316T173000
-DTSTAMP:20260313T091441
+DTSTAMP:20260313T115145
 CREATED:20260225T165916Z
 LAST-MODIFIED:20260310T150550Z
 UID:1190562-1773653400-1773682200@www.poynter.org
@@ -65,7 +65,7 @@ X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;TZID=America/New_York:20260317T150000
 DTEND;TZID=America/New_York:20260317T160000
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20251014T194807Z
 LAST-MODIFIED:20251211T214028Z
 UID:10004834-1773759600-1773763200@inn.org
@@ -177,7 +177,7 @@ X-SOURCE-ID:poynter
 X-SOURCE:Poynter Institute
 DTSTART;TZID=America/New_York:20260324T180000
 DTEND;TZID=America/New_York:20260324T200000
-DTSTAMP:20260313T091441
+DTSTAMP:20260313T115145
 CREATED:20260213T192122Z
 LAST-MODIFIED:20260302T211830Z
 UID:1189352-1774375200-1774382400@www.poynter.org
@@ -281,7 +281,7 @@ X-SOURCE-ID:nlgja
 X-SOURCE:Assoc. of LGBTQ+ Journalists
 DTSTART;TZID=America/New_York:20260328T100000
 DTEND;TZID=America/New_York:20260328T140000
-DTSTAMP:20260313T115145
+DTSTAMP:20260313T130647
 CREATED:20260223T202227Z
 LAST-MODIFIED:20260223T202227Z
 UID:16847-1774692000-1774706400@www.nlgja.org
@@ -312,7 +312,7 @@ X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;TZID=America/New_York:20260331T150000
 DTEND;TZID=America/New_York:20260331T160000
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20251014T194807Z
 LAST-MODIFIED:20251211T214028Z
 UID:10004835-1774969200-1774972800@inn.org
@@ -323,12 +323,56 @@ CATEGORIES:Services
 ATTACH;FMTTYPE=image/png:https://inn.org/wp-content/uploads/2025/06/300-x-250-_-CTA-with-TNC-6.png
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Tiny News Members Only": "https://us06web.zoom.us/j/92829491964?pwd=Sm1oYW9KYmFPWGJFVW1UN3Y1TVpKZz09"}
+X-SOURCE-ID:tiny_news_members_only
+X-SOURCE:Tiny News Members Only
+URL:https://us06web.zoom.us/j/92829491964?pwd=Sm1oYW9KYmFPWGJFVW1UN3Y1TVpKZz09
+DTSTART;TZID=America/Chicago:20260401T160000
+DTEND;TZID=America/Chicago:20260401T170000
+DTSTAMP:20260313T170647Z
+UID:4jg70vrpsq4dhvmmpi2q37v4nq_R20260304T220000@google.com
+RECURRENCE-ID;TZID=America/Chicago:20260401T160000
+CREATED:20250102T172959Z
+DESCRIPTION:<p>Our monthly Collective Call is part collective update and pa
+ rt town-hall-style conversation. All members\, staff and TNC board members 
+ are invited to attend. They take place over Zoom on the first Wednesday of 
+ every month at 1 p.m. AKT / 2 p.m. PT / 4 p.m. CT / 5 p.m. ET.</p><p>TNC st
+ aff share updates about work underway with the Collective. We highlight pro
+ grams\, new resources and decisions that affect members. Founders are invit
+ ed to share updates about their work. This is a space to surface challenges
+ \, ask questions and celebrate progress. Together\, we discuss what members
+  need and explore ways TNC can support them. The goal is to learn from one 
+ another and stay connected as a community.</p><br><br><br>Tiny News Collect
+ ive is inviting you to a scheduled Zoom meeting.<br><br>Topic: TNC Collecti
+ ve Call<br>Time: This is a recurring meeting Meet anytime<br>Join Zoom Meet
+ ing<br><a href="https://us06web.zoom.us/j/92829491964?pwd=Sm1oYW9KYmFPWGJFV
+ W1UN3Y1TVpKZz09" target="_blank">https://us06web.zoom.us/j/92829491964?pwd=
+ Sm1oYW9KYmFPWGJFVW1UN3Y1TVpKZz09</a><br><br>Meeting ID: 928 2949 1964<br>Pa
+ sscode: 687155<br><br>---<br><br>One tap mobile<br>+13017158592\,\,92829491
+ 964#\,\,\,\,*687155# US (Washington DC)<br>+13052241968\,\,92829491964#\,\,
+ \,\,*687155# US<br><br>---<br><br>Dial by your location<br>• +1 301 715 859
+ 2 US (Washington DC)<br>• +1 305 224 1968 US<br>• +1 309 205 3325 US<br>• +
+ 1 312 626 6799 US (Chicago)<br>• +1 646 931 3860 US<br>• +1 929 436 2866 US
+  (New York)<br>• +1 253 205 0468 US<br>• +1 253 215 8782 US (Tacoma)<br>• +
+ 1 346 248 7799 US (Houston)<br>• +1 360 209 5623 US<br>• +1 386 347 5053 US
+ <br>• +1 507 473 4847 US<br>• +1 564 217 2000 US<br>• +1 669 444 9171 US<br
+ >• +1 669 900 6833 US (San Jose)<br>• +1 689 278 1000 US<br>• +1 719 359 45
+ 80 US<br><br>Meeting ID: 928 2949 1964<br>Passcode: 687155<br><br>Find your
+  local number: <a href="https://us06web.zoom.us/u/kbdovsDm91" target="_blan
+ k">https://us06web.zoom.us/u/kbdovsDm91</a>
+LAST-MODIFIED:20260311T170242Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TNC Monthly Collective Call
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/projourn-legal-checkup-clinic/2026-04-02/"}
 X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;TZID=America/New_York:20260402T153000
 DTEND;TZID=America/New_York:20260402T163000
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20260302T153409Z
 LAST-MODIFIED:20260302T153409Z
 UID:10004846-1775143800-1775147400@inn.org
@@ -354,6 +398,35 @@ DESCRIPTION:This National Academies program will award $640\,000 in prizes
 URL:https://www.sej.org/calendar/deadline-eric-and-wendy-schmidt-awards-ex
  cellence-science-communications
 X-SOURCE:Society of Environmental Journalists
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Tiny News Members Only": "https://us06web.zoom.us/j/86552943689?pwd=t4x9gaGynZjoijavBBGgNV74zZa60P.1"}
+X-SOURCE-ID:tiny_news_members_only
+X-SOURCE:Tiny News Members Only
+URL:https://us06web.zoom.us/j/86552943689?pwd=t4x9gaGynZjoijavBBGgNV74zZa60P.1
+DTSTART;TZID=America/New_York:20260408T160000
+DTEND;TZID=America/New_York:20260408T170000
+DTSTAMP:20260313T170647Z
+UID:1n5k0jj3qlpjp2rrcusgp7kcq8_R20260311T200000@google.com
+RECURRENCE-ID;TZID=America/New_York:20260408T160000
+CREATED:20251212T131931Z
+DESCRIPTION:<p>Tiny News Collective is inviting you to a scheduled Zoom mee
+ ting.</p><br>Topic: Founders Show and Tell<br>Time: Mar 11\, 2026 04:00 PM 
+ Eastern Time (US and Canada)<br>Join Zoom Meeting<br><a href="https://us06w
+ eb.zoom.us/j/86552943689?pwd=t4x9gaGynZjoijavBBGgNV74zZa60P.1" target="_bla
+ nk">https://us06web.zoom.us/j/86552943689?pwd=t4x9gaGynZjoijavBBGgNV74zZa60
+ P.1</a><br><br>Meeting ID: 865 5294 3689<br>Passcode: 313729<br><br>---<br>
+ <br>One tap mobile<br>+13052241968\,\,86552943689#\,\,\,\,*313729# US<br>+1
+ 3092053325\,\,86552943689#\,\,\,\,*313729# US<br><br>Join instructions<br><
+ a href="https://us06web.zoom.us/meetings/86552943689/invitations?signature=
+ zG9hTHI0UHT25lEhR7WKstpH11b9b477bryLIBs2nSI" target="_blank">https://us06we
+ b.zoom.us/meetings/86552943689/invitations?signature=zG9hTHI0UHT25lEhR7WKst
+ pH11b9b477bryLIBs2nSI</a><br><br><b><br></b><br><b><br></b>
+LAST-MODIFIED:20260313T041450Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Founder Show and Tell
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Society of Professional Journalists": "http://www.spj.org/distinguished-teaching-in-journalism-award/"}
@@ -506,7 +579,7 @@ X-SOURCE-ID:nlgja
 X-SOURCE:Assoc. of LGBTQ+ Journalists
 DTSTART;TZID=America/New_York:20260416T183000
 DTEND;TZID=America/New_York:20260416T213000
-DTSTAMP:20260313T115145
+DTSTAMP:20260313T130647
 CREATED:20260218T180601Z
 LAST-MODIFIED:20260218T182113Z
 UID:16824-1776364200-1776375000@www.nlgja.org
@@ -530,12 +603,54 @@ DESCRIPTION:Sponsored by the Park Center for Independent Media at Ithaca College
 LOCATION:Park Center for Independent Media  at Ithaca College
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-ID:tiny_news_members_only
+X-SOURCE:Tiny News Members Only
+DTSTART:20260421T200000Z
+DTEND:20260421T210000Z
+DTSTAMP:20260313T170647Z
+UID:6ubpt0oc287io5a9jsp01q02vl@google.com
+CREATED:20260220T203220Z
+DESCRIPTION:<p><strong>From Founder to Leader: What to Consider as Your Org
+ anization Evolves</strong></p><p>As your organization grows\, your role has
+  to grow with it. What made you a strong founder is not always what will ma
+ ke you an effective leader at the next stage.</p><p>This interactive sessio
+ n invites you to pause and reflect on that transition.</p><p>We’ll begin by
+  grounding ourselves in what leadership means to each of us\, then explore 
+ the distinction between “founder mode” and “leader mode.” From there\, we’l
+ l work through a set of practical\, self-reflective questions designed to h
+ elp you assess where you are and what may need to shift.</p><p>We’ll examin
+ e four key areas:</p><ul><li><p><strong>Identity and attachment:</strong> W
+ hat is the line between you and the organization?Who are you without the da
+ ily hustle of building? Where might ego\, control or fear be shaping decisi
+ ons?</p></li><li><p><strong>Strategic clarity:</strong> Are you leading fro
+ m a clear north star\, or reacting to urgent demands?</p></li><li><p><stron
+ g>Hard conversations:</strong> What are you avoiding that a leader must add
+ ress?</p></li><li><p><strong>Sustainable leadership:</strong> Are you build
+ ing a role that can last\, or one that depends entirely on your personal ov
+ erextension?</p></li></ul><p>You’ll also be guided through a <strong>person
+ al SWOT analysis</strong> tailored to your leadership evolution\, with a li
+ ve example to help you think concretely about strengths\, blind spots\, ris
+ ks and opportunities.</p><p>We’ll close with Q&amp\;A and an invitation: ch
+ oose one leadership question to sit with this week and complete your own pe
+ rsonal SWOT. Those who sign up for a follow-up coaching session can bring t
+ heir reflection for deeper discussion and accountability.</p><p>This sessio
+ n is designed for founders who sense that the next stage requires something
+  different from them and are ready to lead more intentionally\, not just wo
+ rk harder.</p>
+LAST-MODIFIED:20260220T204650Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:From Founder to Leader: What to Consider as Your Organization Evolv
+ es
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Institute for Nonprofit News": "https://inn.org/event/projourn-legal-checkup-clinic/2026-04-23/"}
 X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;TZID=America/New_York:20260423T130000
 DTEND;TZID=America/New_York:20260423T150000
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20260302T153409Z
 LAST-MODIFIED:20260302T153409Z
 UID:10004847-1776949200-1776956400@inn.org
@@ -587,7 +702,7 @@ X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20260123T165431Z
 LAST-MODIFIED:20260206T171526Z
 UID:10004840-1781568000-1781827199@inn.org
@@ -603,7 +718,7 @@ X-SOURCE-ID:inn
 X-SOURCE:Institute for Nonprofit News
 DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T203000
-DTSTAMP:20260313T115143
+DTSTAMP:20260313T130645
 CREATED:20260209T143527Z
 LAST-MODIFIED:20260209T143527Z
 UID:10004844-1781629200-1781641800@inn.org
@@ -618,7 +733,7 @@ X-SOURCE-ID:poynter
 X-SOURCE:Poynter Institute
 DTSTART;TZID=Europe/Vilnius:20260617T080000
 DTEND;TZID=Europe/Vilnius:20260619T170000
-DTSTAMP:20260313T091441
+DTSTAMP:20260313T115145
 CREATED:20260219T160726Z
 LAST-MODIFIED:20260224T182258Z
 UID:1189666-1781683200-1781888400@www.poynter.org
@@ -650,7 +765,7 @@ X-SOURCE-ID:nlgja
 X-SOURCE:Assoc. of LGBTQ+ Journalists
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260313T115145
+DTSTAMP:20260313T130647
 CREATED:20251017T201309Z
 LAST-MODIFIED:20260218T182432Z
 UID:16643-1788998400-1789343999@www.nlgja.org

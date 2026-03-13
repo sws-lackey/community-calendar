@@ -1,20 +1,20 @@
-2026-03-13 15:51:40,517 - SEJCalendarScraper - INFO - Scraping Society of Environmental Journalists
-2026-03-13 15:51:40,517 - SEJCalendarScraper - INFO - Fetching RSS feed: https://www.sej.org/rss_calendar
-2026-03-13 15:51:40,867 - SEJCalendarScraper - INFO - Found 10 entries in RSS feed
-2026-03-13 15:51:40,884 - SEJCalendarScraper - INFO - Found event: Waterman Fund Essay Contest for Emerging Writers on 2026-03-15 00:00:00-04:00
-2026-03-13 15:51:40,886 - SEJCalendarScraper - INFO - Found event: Travel grants to the first International Conference for the Just Transition Away from Fossil Fuels on 2026-03-17 00:00:00-04:00
-2026-03-13 15:51:40,887 - SEJCalendarScraper - INFO - Found event: DC Environmental Film Festival on 2026-03-19 00:00:00-04:00
-2026-03-13 15:51:40,889 - SEJCalendarScraper - INFO - Found event: 2026 Islamic Scholarship Fund on 2026-03-21 00:00:00-04:00
-2026-03-13 15:51:40,890 - SEJCalendarScraper - INFO - Found event: Al Neuharth Free Spirit and Journalism Conference for High School Juniors on 2026-03-25 00:00:00-04:00
-2026-03-13 15:51:40,892 - SEJCalendarScraper - INFO - Found event: Science Talk ’26 on 2026-03-26 00:00:00-04:00
-2026-03-13 15:51:40,894 - SEJCalendarScraper - INFO - Found event: Kovler Prize for Trust in Life Science Journalism on 2026-03-27 00:00:00-04:00
-2026-03-13 15:51:40,896 - SEJCalendarScraper - INFO - Found event: EVOME Institute Science Journalism Fellowship on 2026-03-27 00:00:00-04:00
-2026-03-13 15:51:40,897 - SEJCalendarScraper - INFO - Found event: Online News Association Conference on 2026-03-30 00:00:00-04:00
-2026-03-13 15:51:40,899 - SEJCalendarScraper - INFO - Found event: Eric and Wendy Schmidt Awards for Excellence in Science Communications on 2026-04-03 00:00:00-04:00
-2026-03-13 15:51:40,899 - SEJCalendarScraper - INFO - Found 10 events
-2026-03-13 15:51:40,902 - SEJCalendarScraper - INFO - Written to cities/publisher-resources/sej.ics
-2026-03-13 15:51:41,121 - IREScheduleScraper - INFO - Scraping IRE 2026
-2026-03-13 15:51:41,121 - IREScheduleScraper - INFO - Fetching schedule: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json
+2026-03-13 17:06:42,727 - SEJCalendarScraper - INFO - Scraping Society of Environmental Journalists
+2026-03-13 17:06:42,727 - SEJCalendarScraper - INFO - Fetching RSS feed: https://www.sej.org/rss_calendar
+2026-03-13 17:06:42,903 - SEJCalendarScraper - INFO - Found 10 entries in RSS feed
+2026-03-13 17:06:42,933 - SEJCalendarScraper - INFO - Found event: Waterman Fund Essay Contest for Emerging Writers on 2026-03-15 00:00:00-04:00
+2026-03-13 17:06:42,935 - SEJCalendarScraper - INFO - Found event: Travel grants to the first International Conference for the Just Transition Away from Fossil Fuels on 2026-03-17 00:00:00-04:00
+2026-03-13 17:06:42,936 - SEJCalendarScraper - INFO - Found event: DC Environmental Film Festival on 2026-03-19 00:00:00-04:00
+2026-03-13 17:06:42,938 - SEJCalendarScraper - INFO - Found event: 2026 Islamic Scholarship Fund on 2026-03-21 00:00:00-04:00
+2026-03-13 17:06:42,939 - SEJCalendarScraper - INFO - Found event: Al Neuharth Free Spirit and Journalism Conference for High School Juniors on 2026-03-25 00:00:00-04:00
+2026-03-13 17:06:42,941 - SEJCalendarScraper - INFO - Found event: Science Talk ’26 on 2026-03-26 00:00:00-04:00
+2026-03-13 17:06:42,943 - SEJCalendarScraper - INFO - Found event: Kovler Prize for Trust in Life Science Journalism on 2026-03-27 00:00:00-04:00
+2026-03-13 17:06:42,945 - SEJCalendarScraper - INFO - Found event: EVOME Institute Science Journalism Fellowship on 2026-03-27 00:00:00-04:00
+2026-03-13 17:06:42,946 - SEJCalendarScraper - INFO - Found event: Online News Association Conference on 2026-03-30 00:00:00-04:00
+2026-03-13 17:06:42,948 - SEJCalendarScraper - INFO - Found event: Eric and Wendy Schmidt Awards for Excellence in Science Communications on 2026-04-03 00:00:00-04:00
+2026-03-13 17:06:42,948 - SEJCalendarScraper - INFO - Found 10 events
+2026-03-13 17:06:42,951 - SEJCalendarScraper - INFO - Written to cities/publisher-resources/sej.ics
+2026-03-13 17:06:43,179 - IREScheduleScraper - INFO - Scraping IRE 2026
+2026-03-13 17:06:43,179 - IREScheduleScraper - INFO - Fetching schedule: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json
 Traceback (most recent call last):
   File "/home/runner/work/community-calendar/community-calendar/scrapers/ire_schedule.py", line 165, in <module>
     IREScheduleScraper.main()
@@ -27,8 +27,8 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.10.20/x64/lib/python3.10/site-packages/requests/models.py", line 960, in raise_for_status
     raise HTTPError(http_error_msg, response=self)
 requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json
-2026-03-13 15:51:41,556 - IREScheduleScraper - INFO - Scraping NICAR 2026
-2026-03-13 15:51:41,556 - IREScheduleScraper - INFO - Fetching schedule: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/nicar-2026/nicar-2026-schedule.json
-2026-03-13 15:51:41,815 - IREScheduleScraper - INFO - Found 233 sessions
-2026-03-13 15:51:41,884 - IREScheduleScraper - INFO - Found 232 events
-2026-03-13 15:51:41,927 - IREScheduleScraper - INFO - Written to cities/publisher-resources/nicar_2026.ics
+2026-03-13 17:06:43,590 - IREScheduleScraper - INFO - Scraping NICAR 2026
+2026-03-13 17:06:43,590 - IREScheduleScraper - INFO - Fetching schedule: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/nicar-2026/nicar-2026-schedule.json
+2026-03-13 17:06:43,813 - IREScheduleScraper - INFO - Found 233 sessions
+2026-03-13 17:06:43,908 - IREScheduleScraper - INFO - Found 232 events
+2026-03-13 17:06:43,951 - IREScheduleScraper - INFO - Written to cities/publisher-resources/nicar_2026.ics

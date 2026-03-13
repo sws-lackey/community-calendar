@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T15:51:50.672992",
+  "generated": "2026-03-13T17:06:49.772756",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -43153,16 +43153,24 @@
               "count": 19
             }
           ]
+        },
+        "tiny_news_members_only": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 6
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Education / Workshops",
-          "count": 19
+          "count": 20
         },
         {
           "category": "Community / Social",
-          "count": 17
+          "count": 19
         },
         {
           "category": "Books / Literature / Poetry",
@@ -43186,7 +43194,7 @@
         }
       ],
       "images": {
-        "total": 41,
+        "total": 44,
         "with_image": 9,
         "by_source": [
           {
@@ -43202,9 +43210,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 41,
-        "total_events": 41,
-        "unique_urls": 41,
+        "total_with_url": 43,
+        "total_events": 44,
+        "unique_urls": 43,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 19,
@@ -43238,6 +43246,12 @@
             "source": "Assoc. of LGBTQ+ Journalists",
             "events": 3,
             "unique_urls": 3,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Tiny News Members Only",
+            "events": 2,
+            "unique_urls": 2,
             "specificity_pct": 100
           }
         ]
