@@ -373,6 +373,8 @@ SUMMARY:Earth Month at Parklane Park Garden of Weedin'
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260401T090000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260401T090000
 UID:95d5b0e760e92e3105ec398c89579d93@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/Yarrow.jpg?itok=naLtXx1v
 DESCRIPTION:Join us for Earth Month at the Garden of Weedin' to help us ke
  ep Parklane Park in bloom!
 LOCATION:Parklane Park Label: Park Park Location or Entrance SE 155th Aven
@@ -402,18 +404,39 @@ URL:https://www.portland.gov/parks/events/2026/4/2/earth-month-volunteer-d
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Earth Month at Pier Park
+SUMMARY:Earth Month Volunteer Day at Argay Park
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260402T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260402T100000
+UID:07582f2c87766a66743fa6fc439c37f4@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/2025-Argay-Park-Volunteers.jpg?itok=BoiqcykF
+DESCRIPTION:Join us for Earth Month to help prepare the Argay Park sign be
+ d for spring blooms!
+LOCATION:Argay Park Label: Park Park Location or Entrance NE 141st Avenue 
+ and Failing Street Portland\, OR 97230 Get Directions Argay Park main entr
+ ance NE 141st Avenue and Failing Street Portland\n                        
+   \, OR\n                           97230 Get Directions More about this l
+ ocation
+URL:https://www.portland.gov/parks/events/2026/4/2/earth-month-volunteer-d
+ ay-argay-park
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pier Park Plant Pals Earth Month Event
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260403T100000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260403T100000
-UID:c2edb4a6c12eb57dc8ef7f91259389d8@portland.gov
-DESCRIPTION:Join us for Earth Month at Pier Park to help our plant pals th
- rive!
+UID:011243cc5f03c4c5700d22ba72b2e76a@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/Pier-Park-Pollinator-Patch.jpg?itok=brvpxFO_
+DESCRIPTION:Be a pal to plants and join us for Earth Month at Pier Park to
+  help the local flora thrive!
 LOCATION:Pier Park Label: Park Park Location or Entrance N Lombard Street 
  and Bruce Avenue Portland\, OR 97203 Get Directions Pier Park main entranc
  e N Lombard Street and Bruce Avenue Portland\n                          \,
   OR\n                           97203 Get Directions More about this locat
  ion
-URL:https://www.portland.gov/parks/events/2026/4/3/earth-month-pier-park
+URL:https://www.portland.gov/parks/events/2026/4/3/pier-park-plant-pals-ea
+ rth-month-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -588,6 +611,24 @@ URL:https://www.portland.gov/parks/events/2026/4/14/pittock-garden-tuesday
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:North Powellhurst Park What in the Worlds of Weeds!
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260415T090000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260415T090000
+UID:85c65f890d446ad509f74ef9a81a54c4@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2020-04/north-powellhurst-park.jpg?itok=MSaFxxlR
+DESCRIPTION:Join PP&R for a spring stewardship event to help with invasive
+  weed removal!
+LOCATION:North Powellhurst Park Label: Park Park Location or Entrance SE 1
+ 35th Avenue and Main Street Portland\, OR 97266 Get Directions North Powel
+ lhurst Park main entrance SE 135th Avenue and Main Street Portland\n      
+                     \, OR\n                           97266 Get Directions
+  More about this location
+URL:https://www.portland.gov/parks/events/2026/4/15/north-powellhurst-park
+ -what-worlds-weeds
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lents Nature Patch Stewardship Event
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260416T080000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260416T080000
@@ -699,6 +740,44 @@ DESCRIPTION:Join PP&R and Hoyt Arboretum Friends to care for Portland's li
 LOCATION:Hoyt Arboretum
 URL:https://www.portland.gov/parks/nas/events/2026/4/22/hoyt-arboretum-ear
  th-day-event
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nurture Nature at Hazeltine Park Earth Day Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260422T090000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260422T090000
+UID:b81ec33f06ff4d1e43b4e5d9d3f113b2@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2020-09/hazeltine-park-nature-patch-2019.jpg?itok=Tt4m
+ EjUI
+DESCRIPTION:Join us for Earth Month to help care for native plants and pol
+ linator habitat at Hazeltine Park!
+LOCATION:Hazeltine Park Label: Park Park Location or Entrance 5416 SE Flav
+ el Drive Portland\, OR 97206 Get Directions Hazeltine Park main entrance 5
+ 416 SE Flavel Drive Portland\n                          \, OR\n           
+                 97206 Get Directions More about this location
+URL:https://www.portland.gov/parks/events/2026/4/22/nurture-nature-hazelti
+ ne-park-earth-day-event
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earth Day Tending Time at Errol Heights Park
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260422T090000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260422T090000
+UID:72d73e48c854a3f0aa945fda7cd2fd6a@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2021/ehp_watercolor_mr-2021_play.jpg?itok=_aDtQ0XG
+DESCRIPTION:Join us for Earth Month at Errol Heights Park to help prepare 
+ garden beds for spring blooms!
+LOCATION:Errol Heights Community Garden main entrance 4841 SE Tenino Court
+  Portland\n                          \, OR\n                           972
+ 06 Get Directions More about this location Errol Heights Park Label: Park 
+ Park Location or Entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
+ 7206 Get Directions Errol Heights Park main entrance SE 52nd Avenue and Te
+ nino Street Portland\n                          \, OR\n                   
+         97206 Get Directions More about this location
+URL:https://www.portland.gov/parks/events/2026/4/22/earth-day-tending-time
+ -errol-heights-park
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -828,6 +907,26 @@ URL:https://www.portland.gov/parks/events/2026/5/6/parklane-park-garden-we
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Errol Heights Park Tending Time
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260506T090000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260506T090000
+UID:7c2704882c3835ebfa465d9ef907c0f3@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2021/ehp_watercolor_mr-2021_sm.jpg?itok=ObXzhm_s
+DESCRIPTION:Join us for gardening activities and projects to help keep Err
+ ol Heights Park vibrant and in bloom!
+LOCATION:Errol Heights Community Garden main entrance 4841 SE Tenino Court
+  Portland\n                          \, OR\n                           972
+ 06 Get Directions More about this location Errol Heights Park Label: Park 
+ Park Location or Entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
+ 7206 Get Directions Errol Heights Park main entrance SE 52nd Avenue and Te
+ nino Street Portland\n                          \, OR\n                   
+         97206 Get Directions More about this location
+URL:https://www.portland.gov/parks/events/2026/5/6/errol-heights-park-tend
+ ing-time
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mill Park Volunteer Day
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260507T090000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260507T090000
@@ -841,6 +940,24 @@ LOCATION:Mill Park Label: Park Park Location or Entrance 1949 SE 122nd Ave
  Ave Portland\n                          \, OR\n                           
  97216 Get Directions More about this location
 URL:https://www.portland.gov/parks/events/2026/5/7/mill-park-volunteer-day
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Argay Park Volunteer Day
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260507T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260507T100000
+UID:f3daba880bbe4e92956ab26848978eec@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/Kinnikinnick.jpg?itok=5TYGBCGw
+DESCRIPTION:Join us to help maintain the park sign garden bed and keep pol
+ linator-friendly plants blooming!
+LOCATION:Argay Park Label: Park Park Location or Entrance NE 141st Avenue 
+ and Failing Street Portland\, OR 97230 Get Directions Argay Park main entr
+ ance NE 141st Avenue and Failing Street Portland\n                        
+   \, OR\n                           97230 Get Directions More about this l
+ ocation
+URL:https://www.portland.gov/parks/events/2026/5/7/argay-park-volunteer-da
+ y
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT

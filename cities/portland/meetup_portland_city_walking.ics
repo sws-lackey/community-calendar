@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313449416@meetup.com
-SEQUENCE:1
-DTSTAMP:20260312T183250Z
-DTSTART;TZID=America/Los_Angeles:20260312T100000
-DTEND;TZID=America/Los_Angeles:20260312T120000
-SUMMARY:THURSDAY **10 AM** Holman Lane to Pittock Mansion 
-DESCRIPTION:Portland City Trail Walking Group\n
-URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313449416/
-STATUS:CONFIRMED
-CREATED:20260220T184351Z
-LAST-MODIFIED:20260220T184351Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/d/7/e/600_529352126.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313706684@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260313T100000
 DTEND;TZID=America/Los_Angeles:20260313T120000
 SUMMARY:**10 AM** Friday Walk to and from Council Crest from Hillsdale Library 
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313069312@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260315T100000
 DTEND;TZID=America/Los_Angeles:20260315T120000
 SUMMARY:**10 AM** Walk to Coffee in SW Portland **10 AM**
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313746621@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260317T100000
 DTEND;TZID=America/Los_Angeles:20260317T120000
 SUMMARY:**10 AM** Portland SW Hills Stairway to Heaven(ly) Goose Hollow Walk
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313734783@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260318T100000
 DTEND;TZID=America/Los_Angeles:20260318T123000
 SUMMARY:Southwest Portland Rectangular Adventure
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313527283@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260319T100000
 DTEND;TZID=America/Los_Angeles:20260319T120000
 SUMMARY:THURSDAY **10 AM** Holman Lane to Pittock Mansion 
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313727467@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260320T100000
 DTEND;TZID=America/Los_Angeles:20260320T120000
 SUMMARY:Oswego - Off We Go 
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313403966@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260322T100000
 DTEND;TZID=America/Los_Angeles:20260322T120000
 SUMMARY:**10 AM** Walk to Coffee in SW Portland **10 AM**
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313721157@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260324T100000
 DTEND;TZID=America/Los_Angeles:20260324T120000
 SUMMARY:**10 AM** Portland Heights Stair Walk
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313734803@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260325T093000
 DTEND;TZID=America/Los_Angeles:20260325T123000
 SUMMARY:Bull Mountain Urban‑Wild Hills Challenge
@@ -173,6 +158,21 @@ CREATED:20260310T231448Z
 LAST-MODIFIED:20260310T231448Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/7/2/f/600_531914127.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313670351@meetup.com
+SEQUENCE:1
+DTSTAMP:20260313T023247Z
+DTSTART;TZID=America/Los_Angeles:20260326T100000
+DTEND;TZID=America/Los_Angeles:20260326T120000
+SUMMARY:THURSDAY **10 AM** Holman Lane to Pittock Mansion 
+DESCRIPTION:Portland City Trail Walking Group\nAbout 5 miles out-and-back from the Holman Lane trailhead next to 3509 NW Raleigh St up to the Pittock Mansion on a lovely forested path.\n\nThere is a good amount of elevation gain (833 feet)\, but we take a moderate pace\, and we usually stop for 15 to 20 minutes at the top to take in the views and chit chat.\nOptional lunch/snacks at Elephants Deli afterwards.\nCome hang out with us!
+URL;VALUE=URI:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/313670351/
+STATUS:CONFIRMED
+CREATED:20260306T193929Z
+LAST-MODIFIED:20260306T193929Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/d/7/e/600_529352126.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/portland-city-walking-and-trail-walking-meetup-group/events/ical/
 X-WR-CALNAME:Portland City Trail Walking Group

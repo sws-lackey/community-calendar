@@ -23,983 +23,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-SUMMARY:2026 Gender Studies Symposium - Day 2
-DESCRIPTION:March 12 highlights include the following events:A zine-makin
- g workshop  Film screening and talkback  A Sanctuary Campus workshop with
-  resources for rapid response networks and community care  A reading and 
- reception celebrating the L&amp\;C student publication of Synergia: Journ
- al of Gender Thought and Expression&#160\;  Presentations addressing quee
- r worldbuilding\, attacks on higher education\, and more  "Destroy the Fa
- mily to Realize its Promise: Abolition as Care Communization\," a keynote
-  presentation by critical utopianist scholar Sophie Lewis (https://colleg
- e.lclark.edu/departments/gender_studies/symposium/45th-annual-gender-stud
- ies-symposium/speakers/)  Times\, locations\, and additional details can 
- be found on the schedule (https://college.lclark.edu/departments/gender_s
- tudies/symposium/45th-annual-gender-studies-symposium/schedule/). Events 
- are free and open to the public.
-X-ALT-DESC;FMTTYPE=text/html:<p>  March 12 highlights include the followi
- ng events:</p><ul><li>A zine-making workshop  </li><li>Film screening and
-  talkback  </li><li>A Sanctuary Campus workshop with resources for rapid 
- response networks and community care  </li><li>A reading and reception ce
- lebrating the L&amp\;C student publication of <em>Synergia: Journal of Ge
- nder Thought and Expression</em>&#160\;  </li><li>Presentations addressin
- g queer worldbuilding\, attacks on higher education\, and more  </li><li>
- "Destroy the Family to Realize its Promise: Abolition as Care Communizati
- on\," a keynote presentation by critical utopianist scholar <a href="http
- s://college.lclark.edu/departments/gender_studies/symposium/45th-annual-g
- ender-studies-symposium/speakers/" target="_blank" rel="noopener">Sophie 
- Lewis</a></li></ul><p>  Times\, locations\, and additional details can be
-  found on the <a href="https://college.lclark.edu/departments/gender_stud
- ies/symposium/45th-annual-gender-studies-symposium/schedule/" target="_bl
- ank" rel="noopener">schedule</a>. Events are free and open to the public.
- </p>
-UID:20260312T070000Z-382265@www.lclark.edu
-DTSTAMP:20260202T112325Z
-URL:https://www.lclark.edu/live/events/381612-2026-gender-studies-symposi
- um-day-2
-CATEGORIES:Dialogue in Action,Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382265
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Gender Studies Symposium cochairs at <a h
- ref="mailto:gendsymp@lclark.edu">gendsymp@lclark.edu</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Day 2 of the <a href="https://college.lclark.e
- du/departments/gender_studies/symposium/45th-annual-gender-studies-sympos
- ium/" target="_blank" rel="noopener">45th Annual Gender Studies Symposium
- </a>!<br />\n  <br />\n  This year's symposium explores dimensions of res
- istance\, activism\, and solidarity in relation to gender and sexuality.&
- #160\;<br />\n  <br />\n  Join us for three days of keynote presentations
- \, multidisciplinary panels\, workshops\, readings\, and other events\, a
- s well as an art exhibition. View the complete <a href="https://college.l
- clark.edu/departments/gender_studies/symposium/45th-annual-gender-studies
- -symposium/schedule/" target="_blank" rel="noopener">event schedule</a> f
- or details.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-LOCATION:Watzek Library
-SUMMARY:2026 Gender Studies Symposium Art Show
-DESCRIPTION:For more information about this year's participating artists 
- and additional details about the physical and virtual art exhibit\, pleas
- e visit the website (https://college.lclark.edu/departments/gender_studie
- s/symposium/45th-annual-gender-studies-symposium/).
-X-ALT-DESC;FMTTYPE=text/html:<p>  For more information about this year's 
- participating artists and additional details about the physical and virtu
- al art exhibit\, please visit the <a href="https://college.lclark.edu/dep
- artments/gender_studies/symposium/45th-annual-gender-studies-symposium/" 
- target="_blank" rel="noopener">website</a>.</p>
-UID:20260312T070000Z-382263@www.lclark.edu
-DTSTAMP:20260202T112322Z
-URL:https://www.lclark.edu/live/events/381705-2026-gender-studies-symposi
- um-art-show
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382263
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  &#160\;<a href="mailto:gssart@lclark.edu"
- >gssart@lclark.edu</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  One important part of the symposium is an art 
- exhibit of work from community members from Lewis &amp\; Clark and beyond
- . The <a href="https://college.lclark.edu/departments/gender_studies/symp
- osium/45th-annual-gender-studies-symposium/" target="_blank" rel="noopene
- r">45th Annual Gender Studies Symposium</a>\, "RESIST NOW\," explores dim
- ensions of resistance\, activism\, and solidarity in relation to gender a
- nd sexuality<br />\n  <br />\n  This year's exhibit includes a gallery in
-  the Watzek Library atrium and an online gallery.\n</p>\n<p>\n  Curated b
- y L&amp\;C students <strong>Jamison Bane</strong> '27\, <strong>Finn Dwye
- r</strong> '28\, and <strong>Maria Martinez Decuir</strong> '27.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-SUMMARY:Animal Law Week
-DESCRIPTION:*Events that are open to the public are shown with an asteris
- k.MONDAY\, MARCH 9 12:10-1:10 PM PST McCARTY ROOM 3 and ONLINE*  Join the
-  Center for Animal Law Studies for this special event to kick off Animal 
- Law Week. In 2024\, Lucy's Project convened a National Roundtable on Dome
- stic and Family Violence Perpetrated against People and Animals. This pre
- sentation will share the Roundtable findings and recommendations for legi
- slative\, policy and program reform to improve the safety and wellbeing o
- f people and animals across Australia. Vegan lunch provided! To join onli
- ne\, RSVP here (https://lclark-edu.zoom.us/webinar/register/WN_bQ-9uYo-S7
- GzynykmuTbVQ#/registration).TUESDAY\, MARCH 10 12:10-1 PM PST LRC LOUNGE 
-  Join LC ALDF for the annual MeatOut event. MeatOut celebrates Portland's
-  vegan food scene and encourages our campus community to consider plant-b
- ased options. Food will be available on a first-come\, first-served basis
- . To reduce waste\, please bring your own tupperware and serve yourself o
- nly as much food as you will eat.THURSDAY\, MARCH 12 12:10-1:10 PM PST Mc
- CARTY ROOM 3  Join LC ALDF for Taking Individual Action for Animals\, a m
- ultimedia exploration of the history of the animal liberation movement. T
- his talk will highlight key events to show how early activists demanded c
- hange and impacted the modern scope of animal advocacy. This event is a p
- relude to LC ALDF's evening reception.THURSDAY\, MARCH 12 7-9 PM PST LRC 
- LOUNGE*  Join LC ALDF for the annual Animal Law Week reception featuring 
- animal activist Zoe Rosenberg\, who was sentenced to 90 days in jail for 
- rescuing 4 sick chickens from a slaughterhouse. Through discussion\, hist
- orical artifacts\, and community\, explore how open rescue challenges ind
- ustrial animal agriculture and advances justice for animals. Refreshments
-  provided by Vtopian Artisan Cheeses. There will also be a silent auction
-  benefiting Lighthouse Farm Sanctuary. RSVP here. (https://engage.lclark.
- edu/register/AnimalLawWeekReception2026)&#160\;
-X-ALT-DESC;FMTTYPE=text/html:<p><strong>*Events that are open to the publ
- ic are shown with an asterisk.</strong></p><h4><strong>MONDAY\, MARCH 9 1
- 2:10-1:10 PM PST McCARTY ROOM 3 and ONLINE*</strong></h4><p>  Join the Ce
- nter for Animal Law Studies for this special event to kick off Animal Law
-  Week. In 2024\, Lucy's Project convened a National Roundtable on Domesti
- c and Family Violence Perpetrated against People and Animals. This presen
- tation will share the Roundtable findings and recommendations for legisla
- tive\, policy and program reform to improve the safety and wellbeing of p
- eople and animals across Australia. Vegan lunch provided! To join online\
- , RSVP <a href="https://lclark-edu.zoom.us/webinar/register/WN_bQ-9uYo-S7
- GzynykmuTbVQ#/registration">here</a>.</p><h4><br /><strong>TUESDAY\, MARC
- H 10 12:10-1 PM PST LRC LOUNGE</strong></h4><p>  Join LC ALDF for the ann
- ual MeatOut event. MeatOut celebrates Portland's vegan food scene and enc
- ourages our campus community to consider plant-based options. Food will b
- e available on a first-come\, first-served basis. To reduce waste\, pleas
- e bring your own tupperware and serve yourself only as much food as you w
- ill eat.</p><p><strong>THURSDAY\, MARCH 12 12:10-1:10 PM PST McCARTY ROOM
-  3</strong></p><p>  Join LC ALDF for Taking Individual Action for Animals
- \, a multimedia exploration of the history of the animal liberation movem
- ent. This talk will highlight key events to show how early activists dema
- nded change and impacted the modern scope of animal advocacy. This event 
- is a prelude to LC ALDF's evening reception.</p><h4><strong>THURSDAY\, MA
- RCH 12 7-9 PM PST LRC LOUNGE*</strong></h4><p>  Join LC ALDF for the annu
- al Animal Law Week reception featuring animal activist Zoe Rosenberg\, wh
- o was sentenced to 90 days in jail for rescuing 4 sick chickens from a sl
- aughterhouse. Through discussion\, historical artifacts\, and community\,
-  explore how open rescue challenges industrial animal agriculture and adv
- ances justice for animals. Refreshments provided by Vtopian Artisan Chees
- es. There will also be a silent auction benefiting Lighthouse Farm Sanctu
- ary. RSVP <a href="https://engage.lclark.edu/register/AnimalLawWeekRecept
- ion2026">here.</a>&#160\;</p>
-UID:20260312T070000Z-384715@www.lclark.edu
-DTSTAMP:20260223T121242Z
-URL:https://www.lclark.edu/calendars/events/event/384715-animal-law-week
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260303T141900Z
-ATTACH:https://www.lclark.edu/live/image/gid/41/width/80/height/80/crop/1
- /src_region/0,0,1080,1080/112118_AnimalLawWeek_2026_v1.rev.1771877518.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384715
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/41/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1080\,1080/112118_AnimalLawWeek_2026_v1.rev.
- 1771877518.jpg
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-SUMMARY:<p>\n  Join the Lewis &amp\; Clark Animal Legal Defen
- se Fund Student Chapter during this year's annual Animal Law Week as they
-  showcase dynamic speakers\, in-depth presentations\, and opportunities t
- o network with other professionals in animal law. Some events are open to
-  the public!\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-SUMMARY:L&C Days of Giving
-UID:20260312T070000Z-385316@www.lclark.edu
-DTSTAMP:20251008T152836Z
-URL:https://www.lclark.edu/calendars/events/event/385316-lampc-days-of-gi
- ving
-LAST-MODIFIED:20260304T000107Z
-RRULE:FREQ=DAILY;COUNT=3;INTERVAL=1
-ATTACH:https://www.lclark.edu/live/image/gid/110/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111624_Untitled_design_12.rev.1769554664.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385316
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/110/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111624_Untitled_design_12.rev.17
- 69554664.png
-X-LIVEWHALE-IMAGE-CAPTION:L&amp\;C Days of Giving. March 10-12. Three Day
- s of Impact.
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-SUMMARY:<p>\n  <span class="a_GcMg font-feature-liga-off font
- -feature-clig-off font-feature-calt-off text-decoration-none text-striket
- hrough-none">From</span> <span class="a_GcMg font-feature-liga-off font-f
- eature-clig-off font-feature-calt-off text-decoration-none text-strikethr
- ough-none">March 10-12</span><span class="a_GcMg font-feature-liga-off fo
- nt-feature-clig-off font-feature-calt-off text-decoration-none text-strik
- ethrough-none">\, the entire Lewis &amp\; Clark community is joining forc
- es for an event as big as our mission! We're expanding Day of Giving to t
- hree days to unite the College of Arts &amp\; Sciences\, Graduate School\
- , and Law School in one big celebration of our collective strength.<br />
- </span>\n</p>\n<p class="cvGsUA direction-ltr align-start para-style-body
- ">\n  <strong><span class="a_GcMg font-feature-liga-off font-feature-clig
- -off font-feature-calt-off text-decoration-none text-strikethrough-none">
- Every gift counts.</span></strong> <span class="a_GcMg font-feature-liga-
- off font-feature-clig-off font-feature-calt-off text-decoration-none text
- -strikethrough-none">Your participation helps us unlock thousands of doll
- ars in challenge matches\, multiplying the impact of your generosity.</sp
- an>\n</p>\n<p class="cvGsUA direction-ltr align-start para-style-body">\n
-   <span class="a_GcMg font-feature-liga-off font-feature-clig-off font-fe
- ature-calt-off text-decoration-none text-strikethrough-none">Join us as w
- e invest in the next generation of curious and compassionate leaders. <a 
- href="https://college.lclark.edu/giving/annual_giving/day/">Learn more!</
- a></span>\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T090000
-DTEND;TZID=America/Los_Angeles:20260312T160000
-LOCATION:Online
-SUMMARY:Ethics and Legal Considerations for Professional Counselors (Onli
- ne)
-DESCRIPTION:This ethics training will provide mental health professionals
-  with information and discussion opportunities on several important ethic
- al and legal aspects of professional counseling work. Content is specific
- ally designed for the LPC standard and meets Oregon and Washington state 
- LPC and LMFT licensure requirements for ethics training.  After a brief i
- ntroduction and pre-training confidence rating\, we will start with a soc
- ial justice-informed discussion of the Applied Participatory Ethics Model
- . Following\, professional counselor competence and boundary consideratio
- ns in counseling will be discussed. A formal ethical decision making mode
- l will be introduced and practiced as a group.  The afternoon will focus 
- on confidentiality considerations for professional counseling\, followed 
- by discussions and an exercise on informed consent and documentation. Fol
- lowing\, we will explore the legal considerations of malpractice\, direct
-  and vicarious liability\, and their impact on professional practice.Duri
- ng this training\, participants will:      Learn\, discuss\, and apply th
- e social justice-informed applied participatory ethics model          Pra
- ctice ethical decision making utilizing a formal ethical decision making 
- model          Discuss informed consent\, and utilize a creative exercise
-  developed for this workshop          Discuss and develop understanding o
- f legal issues (direct and vicarious liability) and the impact on profess
- ional clinical practice    Details &amp\; RegistrationRegistration for th
- is workshop is closedDate &amp\; Time: Thursday\, March 12\, 2026\, 9 a.m
- .-4 p.m. PST\, OnlineInstructor: James Gurule\, MA\, LPCCost &amp\; Credi
- ts: $140 by 2/10\, $165 after\, includes 6 CEUs. GSEC Alumni\, Adjuncts\,
-  and Clinical Mental Health Supervisors save 20%.Accessibility: We are co
- mmitted to making our events accessible to all needs and abilities. When 
- registering\, please let us know your access needs. Contact us at 503-768
- -6040 or cce@lclark.edu (mailto:cce@lclark.edu)&#160\;with questions.Plea
- se note: Discounted &#x2018\;Student Rate&#x2019\; registrations are for 
- current students only and do not include continuing education credit (CEU
- /PDUs)About the InstructorJames Gurule\, MA\, LPC (https://parallelpatter
- ns.com/#)\, is a Licensed Professional Counselor with over three and a ha
- lf decades of clinical experience working in community mental health sett
- ings. In addition to his clinical work as a Child and Family Therapist\, 
- James also provides clinical supervision with agency staff and is designa
- ted as an agency Lead Risk Manager at Lifeworks NW.  James also regularly
-  provides professional trainings in ethics\, solution focused clinical su
- pervision and other strength-based supervisory practices through the Cent
- er for Community Engagement at Lewis &amp\; Clark Graduate School in Port
- land\, Oregon. He has instructed additional courses at Lewis &amp\; Clark
-  Graduate School as part of their Professional Mental Health Counseling a
- nd School Psychology programs.&#160\;New workshops and trainings are adde
- d to our calendar regularly. For the latest on professional development r
- elated to your specific interests\, sign up for our mailing list! (https:
- //lclark.tfaforms.net/4735441)
-X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  This ethics 
- training will provide mental health professionals with information and di
- scussion opportunities on several important ethical and legal aspects of 
- professional counseling work. Content is specifically designed for the LP
- C standard and meets Oregon and Washington state LPC and LMFT licensure r
- equirements for ethics training.</p><p style="line-height: 1.5\;">  After
-  a brief introduction and pre-training confidence rating\, we will start 
- with a social justice-informed discussion of the Applied Participatory Et
- hics Model. Following\, professional counselor competence and boundary co
- nsiderations in counseling will be discussed. A formal ethical decision m
- aking model will be introduced and practiced as a group.</p><p style="lin
- e-height: 1.5\;">  The afternoon will focus on confidentiality considerat
- ions for professional counseling\, followed by discussions and an exercis
- e on informed consent and documentation. Following\, we will explore the 
- legal considerations of malpractice\, direct and vicarious liability\, an
- d their impact on professional practice.</p><p><strong>During this traini
- ng\, participants will:</strong></p><ul><li><p style="line-height: 1.5\;"
- >      Learn\, discuss\, and apply the social justice-informed applied pa
- rticipatory ethics model    </p></li><li><p style="line-height: 1.5\;">  
-     Practice ethical decision making utilizing a formal ethical decision 
- making model    </p></li><li><p style="line-height: 1.5\;">      Discuss 
- informed consent\, and utilize a creative exercise developed for this wor
- kshop    </p></li><li><p style="line-height: 1.5\;">      Discuss and dev
- elop understanding of legal issues (direct and vicarious liability) and t
- he impact on professional clinical practice    </p></li></ul><hr /><h2><s
- trong>Details &amp\; Registration</strong></h2><h5 style="line-height: 1.
- 5\;"><strong>Registration for this workshop is closed</strong></h5><p sty
- le="line-height: 1.5\;"><strong>Date &amp\; Time:</strong> Thursday\, Mar
- ch 12\, 2026\, 9 a.m.-4 p.m. PST\, Online</p><p style="line-height: 1.5\;
- "><strong>Instructor:</strong> James Gurule\, MA\, LPC</p><p style="line-
- height: 1.5\;"><strong>Cost &amp\; Credits:</strong> $140 by 2/10\, $165 
- after\, includes 6 CEUs. GSEC Alumni\, Adjuncts\, and Clinical Mental Hea
- lth Supervisors save 20%.</p><div id="lw_widget_30f0017c" class="lw_widge
- t lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_7119 lw_widget_acce
- ssibility_statement lw_widget_pagination"><ul class="lw_widget_results lw
- _widget_results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"
- ><p class="p1" style="font-size: 15px\; line-height: 1.5\;"><em><strong>A
- ccessibility:</strong> We are committed to making our events accessible t
- o all needs and abilities. When registering\, please let us know your acc
- ess needs. Contact us at 503-768-6040 or <a href="mailto:cce@lclark.edu">
- cce@lclark.edu</a>&#160\;with questions.<br/></em></p><p class="p1" style
- ="font-size: 15px\; line-height: 1.5\;"><em><strong>Please note:</strong>
-  Discounted &#x2018\;Student Rate&#x2019\; registrations are for current 
- students only and <strong>do not</strong> include continuing education cr
- edit (CEU/PDUs)</em></p></div></li></ul></div><hr /><h2><strong>About the
-  Instructor</strong></h2><p style="line-height: 1.5\;"><strong><a href="h
- ttps://parallelpatterns.com/#">James Gurule\, MA\, LPC</a></strong>\, is 
- a Licensed Professional Counselor with over three and a half decades of c
- linical experience working in community mental health settings. In additi
- on to his clinical work as a Child and Family Therapist\, James also prov
- ides clinical supervision with agency staff and is designated as an agenc
- y Lead Risk Manager at Lifeworks NW.</p><p style="line-height: 1.5\;">  J
- ames also regularly provides professional trainings in ethics\, solution 
- focused clinical supervision and other strength-based supervisory practic
- es through the Center for Community Engagement at Lewis &amp\; Clark Grad
- uate School in Portland\, Oregon. He has instructed additional courses at
-  Lewis &amp\; Clark Graduate School as part of their Professional Mental 
- Health Counseling and School Psychology programs.&#160\;</p><div id="lw_w
- idget_470b39ba" class="lw_widget lw_widget_type_blurbs lw_widget_blurbs l
- w_widget_id_3994 lw_widget_opt_in lw_widget_pagination"><ul class="lw_wid
- get_results lw_widget_results_blurbs"><li class="lw_item_1"><div class="l
- w_blurbs_body"><p style="line-height: 1.5\;"><em><strong>New workshops an
- d trainings are added to our calendar regularly.</strong> For the latest 
- on professional development related to your specific interests\, <a href=
- "https://lclark.tfaforms.net/4735441">sign up for our mailing list!</a></
- em></p></div></li></ul></div>
-UID:20260312T160000Z-371357@www.lclark.edu
-DTSTAMP:20250930T151959Z
-URL:https://www.lclark.edu/calendars/events/event/371357-ethics-and-legal
- -considerations-for-professional-coun
-LAST-MODIFIED:20260310T191043Z
-ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
- /src_region/0,0,1280,803/105571_crocuses-3287046_1280.rev.1727814674.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:371357
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/91/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1280\,803/105571_crocuses-3287046_1280.rev.1
- 727814674.jpg
-X-LIVEWHALE-SUMMARY:<p>\n  Thursday\, March 12\, 2026\, 9 a.m.-4 p.m. PST
-  |&#160\; 6 CEUs\n</p>
-X-LIVEWHALE-TAGS:All Courses Upcoming|Counselors Upcoming|cpsy|March|work
- shops
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T121000
-DTEND;TZID=America/Los_Angeles:20260312T130000
-LOCATION:McCarty Classroom Complex\, Room 1
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Oregon Supreme Court Talk with Justice Landau
-UID:20260312T191000Z-379130@www.lclark.edu
-DTSTAMP:20260106T135832Z
-URL:https://www.lclark.edu/calendars/events/event/379130-law-oregon-supre
- me-court-talk-with-justice-landau
-LAST-MODIFIED:20260106T215832Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:379130
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>Justice Landau will talk about the role of the Ore
- gon Supreme Court in the state's court system and provide background on t
- he cases that the court will hear at Lewis &amp\; Clark on March 16. Pizz
- a provided for the first 80 attendees!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T121000
-DTEND;TZID=America/Los_Angeles:20260312T131000
-LOCATION:McCarty Classroom Complex\, Room 3
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Animal Law Week: Taking Individual Action for the Animals
-UID:20260312T191000Z-370032@www.lclark.edu
-DTSTAMP:20250820T100735Z
-URL:https://www.lclark.edu/calendars/events/event/370032-law-animal-law-w
- eek-taking-individual-action-for-the-
-LAST-MODIFIED:20260306T194247Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:370032
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>\n  Please join LC ALDF for a multimedia explorati
- on of the history of the animal liberation movement. This talk will highl
- ight key events to show how early activists demanded change and impacted 
- the modern scope of animal advocacy. This event is a prelude to LC ALDF's
-  evening reception. Vegan lunch generously provided by ALDF\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T121000
-DTEND;TZID=America/Los_Angeles:20260312T131000
-LOCATION:McCarty Classroom Complex
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Supporting YOU! A Series of Sessions by the L&C Counseling C
- enter
-UID:20260312T191000Z-383426@www.lclark.edu
-DTSTAMP:20260211T094830Z
-URL:https://www.lclark.edu/calendars/events/event/383426-law-supporting-y
- ou-a-series-of-sessions-by-the
-LAST-MODIFIED:20260303T175502Z
-RRULE:FREQ=WEEKLY;UNTIL=20260312T191000Z;INTERVAL=1
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:383426
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>\n  The Student Counseling Center is providing a g
- roup space for Law Students to talk about the emotional and physical toll
-  of the constant news about what's going on in our nation. We hope to see
-  you there as we hold space for each other's pain - we're all hurting in 
- different ways.<br />\n  <br />\n  Thursday February 19th\, McCarty 1\, 1
- 2:10-1:10pm: Open discussion exploring impact and ways to build resilienc
- e and empowerment<br />\n  Thursday February 26th\, McCarty 4\, 12:10-1:1
- 0pm: Structured workshop with skills and strategies to Manage Stress/Dist
- ress<br />\n  Thursday March 5th\, McCarty 4\, 12:10-1:10pm: Structured w
- orkshop with skills and strategies to Manage Grief. Pizza Provided!&#160\
- ;<br />\n  Thursday March 12th\, McCarty 4\, 12:10-1:10pm: Structured wor
- kshop with skills and strategies to Regulate Emotions. Pizza Provided!&#1
- 60\;<br />\n  <br />\n  Feel free to contact counsel@lclark.edu or 503-76
- 8-7160 for further information.\n</p>
-X-LIVEWHALE-REPEATS-UNTIL:2026-03-12 19:10:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T121000
-DTEND;TZID=America/Los_Angeles:20260312T131000
-LOCATION:McCarty Classroom Complex\, Room 2
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Law Without Frontiers: Working with International Colleagues
-  and Students in the Global Arena
-UID:20260312T191000Z-383436@www.lclark.edu
-DTSTAMP:20260211T103411Z
-URL:https://www.lclark.edu/calendars/events/event/383436-law-law-without-
- frontiers-working-with
-LAST-MODIFIED:20260211T183411Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:383436
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p><span data-sheets-root="1">Prof. Ebrahim will shar
- e his experiences working collaboratively as a legal scholar internationa
- lly. Through the lens of business and IP law\, he takes a look at how inv
- entor motivations and business growth differ between the U.S. and Jordans
-  legal systems.</span></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T153000
-DTEND;TZID=America/Los_Angeles:20260312T163000
-SUMMARY:2026-2027 Housing Application Drop-In Hours
-DESCRIPTION:Have a question or want to learn more about the2026-27 housin
- g application?Visit the Odell Annexbetween 3:30-4:30pm on thefollowing da
- ys:Tuesday\, February 24thTuesday\, March 3rdThursday\, March 5thTuesday\
- , March 10thThursday\, March 12thTuesday\, March 16thThursday\, March 19t
- hTuesday\, March 23rdThursday\, March 26thTuesday\, March 31st**Thursday\
- , April 2nd**Tuesday\, April 6th**Thursday\, April 9th**Tuesday\, April 1
- 4thThursday\, April 16th**The Office of Student Accessibility will have a
- staff member present on these dates.  &#160\;  &#160\;
-X-ALT-DESC;FMTTYPE=text/html:<p class="cvGsUA direction-ltr align-center 
- para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-c
- lig-off font-feature-calt-off text-decoration-none text-strikethrough-non
- e">Have a question or want to learn more about the</span></p><p class="cv
- GsUA direction-ltr align-center para-style-body"><span class="a_GcMg font
- -feature-liga-off font-feature-clig-off font-feature-calt-off text-decora
- tion-none text-strikethrough-none">2026-27 housing application?</span></p
- ><p class="cvGsUA direction-ltr align-center para-style-body"><span class
- ="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-of
- f text-decoration-none text-strikethrough-none">Visit the Odell Annex</sp
- an><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-f
- eature-calt-off text-decoration-none text-strikethrough-none">between 3:3
- 0-4:30pm on the</span></p><p class="cvGsUA direction-ltr align-center par
- a-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig
- -off font-feature-calt-off text-decoration-none text-strikethrough-none">
- following days:<br /></span></p><ul><li><span class="a_GcMg font-feature-
- liga-off font-feature-clig-off font-feature-calt-off text-decoration-none
-  text-strikethrough-none">Tuesday\, February 24th</span></li><li><span cl
- ass="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt
- -off text-decoration-none text-strikethrough-none">Tuesday\, March 3rd</s
- pan></li><li><span class="a_GcMg font-feature-liga-off font-feature-clig-
- off font-feature-calt-off text-decoration-none text-strikethrough-none">T
- hursday\, March 5th</span></li><li><span class="a_GcMg font-feature-liga-
- off font-feature-clig-off font-feature-calt-off text-decoration-none text
- -strikethrough-none">Tuesday\, March 10th</span></li><li><span class="a_G
- cMg font-feature-liga-off font-feature-clig-off font-feature-calt-off tex
- t-decoration-none text-strikethrough-none">Thursday\, March 12th</span></
- li><li><span class="a_GcMg font-feature-liga-off font-feature-clig-off fo
- nt-feature-calt-off text-decoration-none text-strikethrough-none">Tuesday
- \, March 16th</span></li><li><span class="a_GcMg font-feature-liga-off fo
- nt-feature-clig-off font-feature-calt-off text-decoration-none text-strik
- ethrough-none">Thursday\, March 19th</span></li><li><span class="a_GcMg f
- ont-feature-liga-off font-feature-clig-off font-feature-calt-off text-dec
- oration-none text-strikethrough-none">Tuesday\, March 23rd</span></li><li
- ><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-fea
- ture-calt-off text-decoration-none text-strikethrough-none">Thursday\, Ma
- rch 26th</span></li><li><span class="a_GcMg font-feature-liga-off font-fe
- ature-clig-off font-feature-calt-off text-decoration-none text-strikethro
- ugh-none">Tuesday\, March 31st**</span></li><li><span class="a_GcMg font-
- feature-liga-off font-feature-clig-off font-feature-calt-off text-decorat
- ion-none text-strikethrough-none">Thursday\, April 2nd**</span></li><li><
- span class="a_GcMg font-feature-liga-off font-feature-clig-off font-featu
- re-calt-off text-decoration-none text-strikethrough-none">Tuesday\, April
-  6th**</span></li><li><span class="a_GcMg font-feature-liga-off font-feat
- ure-clig-off font-feature-calt-off text-decoration-none text-strikethroug
- h-none">Thursday\, April 9th**</span></li><li><span class="a_GcMg font-fe
- ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
- n-none text-strikethrough-none">Tuesday\, April 14th</span></li><li><span
-  class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-c
- alt-off text-decoration-none text-strikethrough-none">Thursday\, April 16
- th</span></li></ul><p class="cvGsUA direction-ltr align-center para-style
- -body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off fo
- nt-feature-calt-off text-decoration-none text-strikethrough-none">**The O
- ffice of Student Accessibility will have a</span><span class="a_GcMg font
- -feature-liga-off font-feature-clig-off font-feature-calt-off text-decora
- tion-none text-strikethrough-none">staff member present on these dates.</
- span></p><p>  &#160\;</p><p class="cvGsUA direction-ltr align-center para
- -style-body">  &#160\;</p>
-UID:20260312T223000Z-385728@www.lclark.edu
-DTSTAMP:20260303T094548Z
-URL:https://www.lclark.edu/live/events/382595-2026-2027-housing-applicati
- on-drop-in-hours
-LAST-MODIFIED:20260303T174557Z
-RRULE:FREQ=DAILY;UNTIL=20260416T223000Z;INTERVAL=1;BYDAY=TU,TH
-ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
- 1/src_region/0,0,1545,2000/111744_26-27_Housing_Application_Drop_In_Hours
- _2_2.rev.1770771144.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385728
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1545\,2000/111744_26-27_Housing_Application
- _Drop_In_Hours_2_2.rev.1770771144.png
-X-LIVEWHALE-IMAGE-CAPTION:Drop In
-X-LIVEWHALE-SUMMARY:<p class="cvGsUA direction-ltr align-center para-styl
- e-body">\n  Drop-ins at the Odell Annex! Learn more and ask questions abo
- ut 2026-2027 housing.&#160\;\n</p>
-X-LIVEWHALE-TAGS:events
-X-LIVEWHALE-REPEATS-UNTIL:2026-04-16 22:30:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T153000
-DTEND;TZID=America/Los_Angeles:20260312T163000
-SUMMARY:Japanese Office Hours with Mayu!
-UID:20260312T223000Z-384896@www.lclark.edu
-DTSTAMP:20260224T164809Z
-URL:https://www.lclark.edu/calendars/events/event/384896-japanese-office-
- hours-with-mayu
-LAST-MODIFIED:20260306T004924Z
-RRULE:FREQ=WEEKLY;UNTIL=20260604T223000Z;INTERVAL=1;BYDAY=TH
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384896
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-REPEATS-UNTIL:2026-06-04 22:30:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T153000
-DTEND;TZID=America/Los_Angeles:20260312T170000
-LOCATION:Gregg Pavilion
-SUMMARY:Awakened Awareness
-DESCRIPTION:The 2026 Spring Cohort begins Jan. 29 and will conclude befor
- e spring break on Mar. 18. Our finale on March 18th will include a celebr
- ation of all we have learned and feature requested treats! We want partic
- ipants to be able to make all the sessions\, as each session builds upon 
- the last. We also recognize that sickness and other unplanned things happ
- en\, and so hope that participants can make a minimum of 6/8 workshops.  
- Each session includes an opening meditation\, journaling\, peer-to-peer s
- haring\, a weekly "focus\," a special guided meditation\, group sharing\,
-  and a closing meditation. Participants are also provided journals.&#160\
- ;  Our Spring 2026 Monday Cohort will be facilitated by Hilary Martin Him
- an (Center for Spiritual Life) and Theresa Brostowitz (Campus Living.)  A
- wakened Awareness is a science-driven\, meditation-based series of worksh
- ops that was developed from research at Columbia University's Teachers Co
- llege and the work of Dr. Lisa Miller\, and has been conducted there with
-  undergraduates for years with positive results. More colleges and univer
- sities across the country are now offering it to their own undergraduate 
- students.  If you have a disability and/or require accommodations\, pleas
- e email us ahead of time at hmhiman@lclark.edu so that we may assist you 
- as best possible.  Questions about what to expect? Please reach out to Hi
- lary\, hmhiman@lclark.edu (mailto:hmhiman@lclark.edu) or call 503-768-708
- 2.&#160\;  Open to Lewis &amp\; Clark undergrad and graduate students.
-X-ALT-DESC;FMTTYPE=text/html:<p>  The 2026 Spring Cohort begins <strong>J
- an. 29</strong> and will conclude before spring break on <strong>Mar. 18<
- /strong>. Our finale on March 18th will include a celebration of all we h
- ave learned and feature requested treats! We want participants to be able
-  to make all the sessions\, as each session builds upon the last. We also
-  recognize that sickness and other unplanned things happen\, and so hope 
- that participants can make a minimum of 6/8 workshops.</p><p>  Each sessi
- on includes an opening meditation\, journaling\, peer-to-peer sharing\, a
-  weekly "focus\," a special guided meditation\, group sharing\, and a clo
- sing meditation. Participants are also provided journals.&#160\;</p><p>  
- Our Spring 2026 Monday Cohort will be facilitated by Hilary Martin Himan 
- (Center for Spiritual Life) and Theresa Brostowitz (Campus Living.)</p><p
- >  Awakened Awareness is a science-driven\, meditation-based series of wo
- rkshops that was developed from research at Columbia University's Teacher
- s College and the work of Dr. Lisa Miller\, and has been conducted there 
- with undergraduates for years with positive results. More colleges and un
- iversities across the country are now offering it to their own undergradu
- ate students.</p><p>  If you have a disability and/or require accommodati
- ons\, please email us ahead of time at hmhiman@lclark.edu so that we may 
- assist you as best possible.</p><p>  Questions about what to expect? Plea
- se reach out to Hilary\, <a href="mailto:hmhiman@lclark.edu">hmhiman@lcla
- rk.edu</a> or call 503-768-7082.&#160\;</p><p>  Open to Lewis &amp\; Clar
- k undergrad and graduate students.</p>
-UID:20260312T223000Z-380612@www.lclark.edu
-DTSTAMP:20260120T100023Z
-URL:https://www.lclark.edu/live/events/380460-awakened-awareness
-LAST-MODIFIED:20260120T202522Z
-RRULE:FREQ=WEEKLY;UNTIL=20260319T223000Z;INTERVAL=1
-ATTACH:https://www.lclark.edu/live/image/gid/259/width/80/height/80/crop/
- 1/src_region/0,0,1000,402/111526_AA-A_photo.rev.1768802502.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:380612
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/259/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1000\,402/111526_AA-A_photo.rev.1768802502.
- png
-X-LIVEWHALE-IMAGE-CAPTION:Awakened Awareness
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Hilary Martin Himan<br />\n  Director of 
- Spiritual Life and Chaplain to all<br />\n  <a href="mailto:hmhiman@lclar
- k.edu">hmhiman@lclark.edu<br />\n  <br />\n  503-768-7082</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Join the 2026 Spring Cohort of Awakened Awaren
- ess and get a <strong>$25 gift card</strong> to learn mindfulness and med
- itation! Participants engage in an 8 week evidence-based curriculum desig
- ned by neuroscientist Dr. Lisa Miller from Teachers College\, Columbia Un
- iversity. Engage in mindfulness techniques\, experience guided meditation
- s\, and discuss spiritual concepts. Learn tools and strategies to reduce 
- anxiety\, depression\, and post-traumatic stress and find ease and meanin
- g.<br />\n  <br />\n  Register <a href="https://forms.gle/G7UcVNKrjb3P3bG
- x5">here</a>!\n</p>
-X-LIVEWHALE-TAGS:events
-X-LIVEWHALE-REPEATS-UNTIL:2026-03-19 22:30:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T153000
-DTEND;TZID=America/Los_Angeles:20260312T170000
-LOCATION:Smith Hall\, Albany Quadrangle
-SUMMARY:2026 Gender Studies Symposium Synergia Reading and Launch Party
-DESCRIPTION:Synergia: Journal of Gender Thought &amp\; Expression (https:
- //scdc.watzekdi.net/items/browse?collection=57) is a student-edited publi
- cation featuring works of poetry\, fiction\, non-fiction\, and visual art
- \, all exploring issues of gender and sexuality.&#160\;
-X-ALT-DESC;FMTTYPE=text/html:<p><em><a href="https://scdc.watzekdi.net/it
- ems/browse?collection=57" target="_blank" rel="noopener">Synergia: Journa
- l of Gender Thought &amp\; Expression</a></em> is a student-edited public
- ation featuring works of poetry\, fiction\, non-fiction\, and visual art\
- , all exploring issues of gender and sexuality.&#160\;</p>
-UID:20260312T223000Z-382267@www.lclark.edu
-DTSTAMP:20260202T112332Z
-URL:https://www.lclark.edu/live/events/381812-2026-gender-studies-symposi
- um-synergia-reading-and-la
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382267
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  synergia@lclark.edu\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Join us in celebrating the release of the 2025
- -26 issue of <em><a href="https://specialcollections.lclark.edu/collectio
- ns/show/54" target="_blank" rel="noopener">Synergia: Journal of Gender Th
- ought &amp\; Expression</a></em>\, edited by L&amp\;C students.<br />\n  
- <br />\n  Some of the authors will read their poetry and prose\, and ther
- e will be free <em>Synergia</em> merch\, in addition to copies of the new
-  journal\, hot off the press.<br />\n  <br />\n  <em>Refreshments will be
-  served</em>.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T163000
-DTEND;TZID=America/Los_Angeles:20260312T180000
-LOCATION:Miller Hall
-GEO:45.450858;-122.668265
-SUMMARY:Sexual Health & Consent (SHAC) Workshop
-DESCRIPTION:Sign up here to attend one of our upcoming SHAC workshops!
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="mce-format-header" href="https:
- //www.signupgenius.com/go/10C0F48AFAA23A2FBC61-58897096-sexual" target="_
- blank" rel="noopener"><strong>Sign up here</strong></a> to attend one of 
- our upcoming SHAC workshops!<picture class="lw_image lw_image110071 lw_al
- ign_left"><source media="(max-width: 500px)" type="image/webp" srcset="ht
- tps://www.lclark.edu/live/image/gid/245/width/500/height/647/110071_SHAC_
- IG.webp 1x" data-origin="responsive"/><source media="(max-width: 500px)" 
- type="image/png" srcset="https://www.lclark.edu/live/image/gid/245/width/
- 500/height/647/110071_SHAC_IG.rev.1759530859.png 1x" data-origin="respons
- ive"/><source media="(min-width: 501px)" type="image/webp" srcset="https:
- //www.lclark.edu/live/image/gid/245/width/583/height/754/110071_SHAC_IG.w
- ebp 1x" data-origin="responsive"/><source media="(min-width: 501px)" type
- ="image/png" srcset="https://www.lclark.edu/live/image/gid/245/width/583/
- height/754/110071_SHAC_IG.rev.1759530859.png 1x" data-origin="responsive"
- /><img alt="" width="583" height="754" data-alt="" data-caption="SHAC 25-
- 26 Flyer" src="https://www.lclark.edu/live/image/gid/245/width/583/height
- /754/110071_SHAC_IG.rev.1759530859.png" title="SHAC IG" data-max-w="583" 
- data-max-h="754" loading="lazy" data-optimized="true"/></picture></p>
-UID:20260312T233000Z-371544@www.lclark.edu
-DTSTAMP:20251003T165518Z
-URL:https://www.lclark.edu/calendars/events/event/371544-sexual-health-co
- nsent-shac-workshop
-LAST-MODIFIED:20251003T235518Z
-ATTACH:https://www.lclark.edu/live/image/gid/245/width/80/height/80/crop/
- 1/src_region/0,0,252,303/110074_HPW_Logo.PNG
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:371544
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/245/width/80/heig
- ht/80/crop/1/src_region/0\,0\,252\,303/110074_HPW_Logo.PNG
-X-LIVEWHALE-CONTACT-INFO:<p>Jenna Reinhart<br />\nOffice for Health Promo
- tion &amp\; Wellness<br />\n<a href="mailto:healthed@lclark.edu">healthed
- @lclark.edu<br /></a></p>
-X-LIVEWHALE-SUMMARY:<p><strong>Calling all first year students:</strong> 
- Sign up and attend one of our upcoming <strong>Sexual Health and Consent<
- /strong> workshops to learn about healthy relationships\, contraception\,
-  STI prevention\, consent\, and resources to help support you!&#160\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T170000
-DTEND;TZID=America/Los_Angeles:20260312T180000
-SUMMARY:Documentary Screening: Helpers by Kelly Clendenon
-UID:20260313T000000Z-385208@www.lclark.edu
-DTSTAMP:20260226T161904Z
-URL:https://www.lclark.edu/live/events/385207-documentary-screening-helpe
- rs-by-kelly-clendenon
-LAST-MODIFIED:20260227T001937Z
-ATTACH:https://www.lclark.edu/live/image/gid/485/width/80/height/80/crop/
- 1/src_region/0,0,1536,1041/111210_0_8_4.rev.1764990050.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385208
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/485/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1536\,1041/111210_0_8_4.rev.1764990050.jpg
-X-LIVEWHALE-IMAGE-CAPTION:Students posing at blanchet house
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Questions? Contact leadserve@lclark.edu\n
- </p>
-X-LIVEWHALE-SUMMARY:<p>\n  Join the Center of Social Change in collaborat
- ion with an emerging local Portland nonprofit organization 'Common Lens'
-  to learn about houselessness in our local community. We will be watching
-  a short film on houselessness in Portland and it's overlap with substanc
- e abuse. Kelly Clendenon\, the director of the film and founder of Common
-  Lens\, will be providing a Q &amp\; A session after the film. Snacks wil
- l be provided!<br />\n  <br />\n  <a class="btn-small-style-1" href="http
- s://www.givepulse.com/event/846018" target="_blank" rel="noopener">REGIST
- ER HERE!</a>\n</p>
-X-LIVEWHALE-TAGS:community engagement|events|faculty|Health Studies Minor
- |human rights|Portland|staff|student
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T180000
-DTEND;TZID=America/Los_Angeles:20260312T190000
-LOCATION:Griswold Stadium
-GEO:45.452108;-122.672095
-SUMMARY:Women's Lacrosse vs. Aurora University
-UID:20260313T010000Z-381090@www.lclark.edu
-DTSTAMP:20260123T162855Z
-URL:https://lcpioneers.com/sports/womens-lacrosse/schedule
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260124T003027Z
-ATTACH:https://www.lclark.edu/live/image/gid/293/width/80/height/80/crop/
- 1/src_region/0,0,555,556/111583_Lacrosse.rev.1769210663.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:381090
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/293/width/80/heig
- ht/80/crop/1/src_region/0\,0\,555\,556/111583_Lacrosse.rev.1769210663.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T180000
-DTEND;TZID=America/Los_Angeles:20260312T190000
-LOCATION:Frank Manor House\, Armstrong Lounge
-GEO:45.450219;-122.670175
-SUMMARY:2025-2026 Visiting Writers Series: Elizabeth Willis
-DESCRIPTION:Elizabeth Willis is the author ofLiontaming in America(New Di
- rections\, 2024)\, a hybrid work engaged with American belief and relatio
- nship structures\, theatre\, activism\, and film. Her other books of poet
- ry includeAlive(New York Review Books\, 2015)\, a finalist for the Pulitz
- er Prize\, as well asAddress\;Meteoric Flowers\;Turneresque\;The Human Ab
- stract\; and the artist's bookSpectral Evidence. She also writes about th
- e intersection of art and labor and edited the volumeRadical Vernacular: 
- Lorine Niedecker and the Poetics of Place. She teaches at the Iowa Writer
- s' Workshop.
-X-ALT-DESC;FMTTYPE=text/html:<p><span class="sqsrte-text-color--black">El
- izabeth Willis is the author of</span><a href="https://www.elizabeth-will
- is.com/liontaming-in-america" target=""><span class="sqsrte-text-color--b
- lack"><em>Liontaming in America</em></span></a><span class="sqsrte-text-c
- olor--black">(New Directions\, 2024)\, a hybrid work engaged with America
- n belief and relationship structures\, theatre\, activism\, and film. Her
-  other books of poetry include</span><a href="https://www.elizabeth-willi
- s.com/alive" target=""><span class="sqsrte-text-color--black"><em>Alive</
- em></span></a><span class="sqsrte-text-color--black">(New York Review Boo
- ks\, 2015)\, a finalist for the Pulitzer Prize\, as well as</span><a href
- ="https://www.elizabeth-willis.com/address"><span class="sqsrte-text-colo
- r--black"><em>Address</em></span></a><span class="sqsrte-text-color--blac
- k">\;</span><a href="https://www.elizabeth-willis.com/meteoric-flowers"><
- span class="sqsrte-text-color--black"><em>Meteoric Flowers</em></span></a
- ><span class="sqsrte-text-color--black">\;</span><a href="https://www.eli
- zabeth-willis.com/turneresque"><span class="sqsrte-text-color--black"><em
- >Turneresque</em></span></a><span class="sqsrte-text-color--black">\;</sp
- an><a href="https://www.elizabeth-willis.com/human-abstract"><span class=
- "sqsrte-text-color--black"><em>The Human Abstract</em></span></a><span cl
- ass="sqsrte-text-color--black">\; and the artist's book</span><a href="ht
- tps://litmuspress.org/product/spectral-evidence-the-witch-book/" target="
- _blank" rel="noopener"><span class="sqsrte-text-color--black"><em>Spectra
- l Evidence</em></span></a><span class="sqsrte-text-color--black">. She al
- so writes about the intersection of art and labor and edited the volume</
- span><a href="https://www.elizabeth-willis.com/radicalvernacular"><span c
- lass="sqsrte-text-color--black"></span></a><a href="https://www.elizabeth
- -willis.com/radicalvernacular" target="_blank" rel="noopener"><span class
- ="sqsrte-text-color--black"><em>Radical Vernacular: Lorine Niedecker and 
- the Poetics of Place</em></span></a><span class="sqsrte-text-color--black
- ">. She teaches at the Iowa Writers' Workshop.</span></p>
-UID:20260313T010000Z-373462@www.lclark.edu
-DTSTAMP:20251113T121443Z
-URL:https://www.lclark.edu/calendars/events/event/373462-2025-2026-visiti
- ng-writers-series-elizabeth-willis
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20251113T202631Z
-ATTACH:https://www.lclark.edu/live/image/gid/4/width/80/height/80/crop/1/
- src_region/0,0,1728,2304/110739_Insta_square_7.rev.1763064646.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:373462
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/4/width/80/height
- /80/crop/1/src_region/0\,0\,1728\,2304/110739_Insta_square_7.rev.17630646
- 46.jpg
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  <a href="mailto:Amy@lclark.edu">Amy Baski
- n</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  LC English welcomes Elizabeth Willis as the la
- st of six authors in our 2025-2026 Visiting Writers Series.&#160\;\n</p>
-X-LIVEWHALE-TAGS:English Major|English Minor|English|literary|Novelist|Po
- etry
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T180000
-DTEND;TZID=America/Los_Angeles:20260312T190000
-LOCATION:Frank Manor House\, Armstrong Lounge
-GEO:45.450219;-122.670175
-SUMMARY:2025-2026 Visiting Writers Series: Elizabeth Willis
-DESCRIPTION:Elizabeth Willis is the author ofLiontaming in America(New Di
- rections\, 2024)\, a hybrid work engaged with American belief and relatio
- nship structures\, theatre\, activism\, and film. Her other books of poet
- ry includeAlive(New York Review Books\, 2015)\, a finalist for the Pulitz
- er Prize\, as well asAddress\;Meteoric Flowers\;Turneresque\;The Human Ab
- stract\; and the artist's bookSpectral Evidence. She also writes about th
- e intersection of art and labor and edited the volumeRadical Vernacular: 
- Lorine Niedecker and the Poetics of Place. She teaches at the Iowa Writer
- s' Workshop.
-X-ALT-DESC;FMTTYPE=text/html:<p><span class="sqsrte-text-color--black">El
- izabeth Willis is the author of</span><a href="https://www.elizabeth-will
- is.com/liontaming-in-america" target=""><span class="sqsrte-text-color--b
- lack"><em>Liontaming in America</em></span></a><span class="sqsrte-text-c
- olor--black">(New Directions\, 2024)\, a hybrid work engaged with America
- n belief and relationship structures\, theatre\, activism\, and film. Her
-  other books of poetry include</span><a href="https://www.elizabeth-willi
- s.com/alive" target=""><span class="sqsrte-text-color--black"><em>Alive</
- em></span></a><span class="sqsrte-text-color--black">(New York Review Boo
- ks\, 2015)\, a finalist for the Pulitzer Prize\, as well as</span><a href
- ="https://www.elizabeth-willis.com/address"><span class="sqsrte-text-colo
- r--black"><em>Address</em></span></a><span class="sqsrte-text-color--blac
- k">\;</span><a href="https://www.elizabeth-willis.com/meteoric-flowers"><
- span class="sqsrte-text-color--black"><em>Meteoric Flowers</em></span></a
- ><span class="sqsrte-text-color--black">\;</span><a href="https://www.eli
- zabeth-willis.com/turneresque"><span class="sqsrte-text-color--black"><em
- >Turneresque</em></span></a><span class="sqsrte-text-color--black">\;</sp
- an><a href="https://www.elizabeth-willis.com/human-abstract"><span class=
- "sqsrte-text-color--black"><em>The Human Abstract</em></span></a><span cl
- ass="sqsrte-text-color--black">\; and the artist's book</span><a href="ht
- tps://litmuspress.org/product/spectral-evidence-the-witch-book/" target="
- _blank" rel="noopener"><span class="sqsrte-text-color--black"><em>Spectra
- l Evidence</em></span></a><span class="sqsrte-text-color--black">. She al
- so writes about the intersection of art and labor and edited the volume</
- span><a href="https://www.elizabeth-willis.com/radicalvernacular"><span c
- lass="sqsrte-text-color--black"></span></a><a href="https://www.elizabeth
- -willis.com/radicalvernacular" target="_blank" rel="noopener"><span class
- ="sqsrte-text-color--black"><em>Radical Vernacular: Lorine Niedecker and 
- the Poetics of Place</em></span></a><span class="sqsrte-text-color--black
- ">. She teaches at the Iowa Writers' Workshop.</span></p>
-UID:20260313T010000Z-386549@www.lclark.edu
-DTSTAMP:20260310T170132Z
-URL:https://www.lclark.edu/calendars/events/event/386549-2025-2026-visiti
- ng-writers-series-elizabeth-willis
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T000223Z
-ATTACH:https://www.lclark.edu/live/image/gid/4/width/80/height/80/crop/1/
- src_region/0,0,1728,2304/110739_Insta_square_7.rev.1763064646.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:386549
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/4/width/80/height
- /80/crop/1/src_region/0\,0\,1728\,2304/110739_Insta_square_7.rev.17630646
- 46.jpg
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  <a href="mailto:Amy@lclark.edu">Amy Baski
- n</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  LC English welcomes Elizabeth Willis as the la
- st of six authors in our 2025-2026 Visiting Writers Series.&#160\;\n</p>
-X-LIVEWHALE-TAGS:English Major|English Minor
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T190000
-DTEND;TZID=America/Los_Angeles:20260312T200000
-LOCATION:Fowler Student Center\, Council Chamber
-GEO:45.44918;-122.670969
-SUMMARY:Gender Studies Symposium Keynote: Sophie Lewis
-DESCRIPTION:American Sign Language (ASL) interpretation will be provided.
-  For additional information about accessibility\, please consult the Even
- t Details (https://college.lclark.edu/departments/gender_studies/symposiu
- m/info/) page.  Book signing and reception to follow in the Beth Miller L
- ounge (Council Chamber foyer). Books will be available for purchase.
-X-ALT-DESC;FMTTYPE=text/html:<ul><li>American Sign Language (ASL) interpr
- etation will be provided. For additional information about accessibility\
- , please consult the <a tabindex="0" href="https://college.lclark.edu/dep
- artments/gender_studies/symposium/info/" target="_blank" rel="noopener">E
- vent Details</a> page.  </li><li>Book signing and reception to follow in 
- the Beth Miller Lounge (Council Chamber foyer). Books will be available f
- or purchase.  </li></ul>
-UID:20260313T020000Z-382279@www.lclark.edu
-DTSTAMP:20260202T112649Z
-URL:https://www.lclark.edu/live/events/381599-gender-studies-symposium-ke
- ynote-sophie-lewis
-CATEGORIES:Dialogue in Action,Open to the Public
-LAST-MODIFIED:20260202T192716Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,683,911/109716_SophieLewis.rev.1757388130.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382279
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,683\,911/109716_SophieLewis.rev.1757388130.
- jpg
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Gender Studies Symposium student co-chair
- s<br />\n  <a href="mailto:gendsymp@lclark.edu">gendsymp@lclark.edu</a>&#
- 160\;\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Please join us for a Gender Studies Symposium 
- keynote presentation by writer\, critical utopianist\, and scholar of fem
- inist\, queer\, and trans politics and philosophy <strong><a tabindex="0"
-  href="https://college.lclark.edu/departments/gender_studies/symposium/45
- th-annual-gender-studies-symposium/speakers/" target="_blank" rel="noopen
- er">Sophie Lewis</a></strong><a tabindex="0" href="https://college.lclark
- .edu/departments/gender_studies/symposium/45th-annual-gender-studies-symp
- osium/speakers/" target="_blank" rel="noopener">.</a><strong><strong><br 
- />\n  <br /></strong></strong>The presentation is titled <strong><strong>
- "</strong><span style="background-color: transparent\;">Destroy the Famil
- y to Realize Its Promise: Abolition as Care Communization."<br />\n  <br 
- /></span></strong><span style="background-color: transparent\;">Descripti
- on: The idea of family abolition has reappeared among parts of the radica
- l left\, following a hiatus of almost fifty years. But–as some have obj
- ected–is not capitalism itself "abolishing" familial life (in the collo
- quial sense of destroying it) in various ways? Indeed\, the private nucle
- ar household appears embattled and undermined. In this context\, the resu
- rgent debate clarifies why the form of destruction family abolitionists s
- eek is one that realizes familism's false promise. Abolition\, here\, is 
- the actualization of humanity's universal care-neediness through the comm
- unization of lifemaking. Defending this sense of the word "abolish" (i.e.
- \, positive supersession) remains worthwhile.</span>\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260312T190000
 DTEND;TZID=America/Los_Angeles:20260312T210000
 LOCATION:Legal Research Center Lounge
@@ -1023,35 +46,6 @@ X-LIVEWHALE-SUMMARY:<p>\n  Join LC ALDF for the annual Animal Law Week re
  ments provided by Vtopian Artisan Cheeses. There will also be a silent Au
  ction benefiting Lighthouse Farm Sanctuary. RSVP <a href="https://engage.
  lclark.edu/register/AnimalLawWeekReception2026">here.</a>&#160\;\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T193000
-DTEND;TZID=America/Los_Angeles:20260312T203000
-LOCATION:Fir Acres Theatre
-GEO:45.452168;-122.668233
-SUMMARY:Spring 2026 MainStage: "When We Slept in Trees" (copy)
-UID:20260313T023000Z-379333@www.lclark.edu
-DTSTAMP:20260108T134311Z
-URL:https://college.lclark.edu/live/news/57409-spring-2026-mainstage-prod
- uction-when-we-slept-in-tree
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260226T153101Z
-RRULE:FREQ=DAILY;UNTIL=20260315T023000Z;INTERVAL=1
-ATTACH:https://www.lclark.edu/live/image/gid/6/width/80/height/80/crop/1/
- src_region/0,0,1080,1080/111426_when_we_slept_in_trees.rev.1767904670.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:379333
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/6/width/80/height
- /80/crop/1/src_region/0\,0\,1080\,1080/111426_when_we_slept_in_trees.rev.
- 1767904670.jpg
-X-LIVEWHALE-IMAGE-CAPTION:Spring 2026 MainStage Production: When we Slept
-  in Trees
-X-LIVEWHALE-SUMMARY:<p>\n  March 6-8 at 7:30pm<br />\n  March 8 at 2pm<br
-  />\n  March 12-14 at 7:30pm\n</p>
-X-LIVEWHALE-TAGS:2026|ArtsLC|current season|performance|performing arts|T
- heatre Major|Theatre Minor|theatre
-X-LIVEWHALE-REPEATS-UNTIL:2026-03-15 02:30:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
@@ -2246,6 +1240,35 @@ X-LIVEWHALE-SUMMARY:<p>\n  The Lewis &amp\; Clark Department of Music pre
  day\, March 13\, 2026 art 7:30pm in Evans Auditorium.\n</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260313T193000
+DTEND;TZID=America/Los_Angeles:20260313T203000
+LOCATION:Fir Acres Theatre
+GEO:45.452168;-122.668233
+SUMMARY:Spring 2026 MainStage: "When We Slept in Trees" (copy)
+UID:20260314T023000Z-379334@www.lclark.edu
+DTSTAMP:20260108T134311Z
+URL:https://college.lclark.edu/live/news/57409-spring-2026-mainstage-prod
+ uction-when-we-slept-in-tree
+CATEGORIES:Open to the Public
+LAST-MODIFIED:20260226T153101Z
+RRULE:FREQ=DAILY;UNTIL=20260315T023000Z;INTERVAL=1
+ATTACH:https://www.lclark.edu/live/image/gid/6/width/80/height/80/crop/1/
+ src_region/0,0,1080,1080/111426_when_we_slept_in_trees.rev.1767904670.jpg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:379334
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/6/width/80/height
+ /80/crop/1/src_region/0\,0\,1080\,1080/111426_when_we_slept_in_trees.rev.
+ 1767904670.jpg
+X-LIVEWHALE-IMAGE-CAPTION:Spring 2026 MainStage Production: When we Slept
+  in Trees
+X-LIVEWHALE-SUMMARY:<p>\n  March 6-8 at 7:30pm<br />\n  March 8 at 2pm<br
+  />\n  March 12-14 at 7:30pm\n</p>
+X-LIVEWHALE-TAGS:2026|ArtsLC|current season|performance|performing arts|T
+ heatre Major|Theatre Minor|theatre
+X-LIVEWHALE-REPEATS-UNTIL:2026-03-15 02:30:00
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 LOCATION:Watzek Library
@@ -2328,87 +1351,6 @@ X-LIVEWHALE-SUMMARY:<p>\n  Whether you are leading a team today or prepar
  akes to lead with impact.<br />\n  <br />\n  There will be food\, swag\, 
  and raffle prizes for participants.\n</p>
 X-LIVEWHALE-TAGS:events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260314T090000
-DTEND;TZID=America/Los_Angeles:20260314T203000
-LOCATION:Lewis &amp\; Clark
-SUMMARY:Alumni Cheer on L&C: Theatre\, Lacrosse\, and Tennis!
-DESCRIPTION:Saturday\, March 14th\, 2026  L&amp\;C Undergraduate Campus  
- 8:00 am – 7:30 pmGames\, Social Bites &amp\; Other Refreshments Free  T
- heatre tickets $5 with discount code at registration pageClick to Registe
- r (https://engage.lclark.edu/register/?id=a3e939b1-731e-4a66-9cb4-3b4bf93
- ae917)Schedule of EventsJoin us for the full day or drop in for your favo
- rite segments!8:00 – 9:30 am | Breakfast Meet &amp\; GreetLocation: Ten
- nis DomeKick off the day with coffee and conversation.10:00 am – 12:00 
- pm | Tennis Match vs. George FoxLocation: Tennis Dome12:00 – 1:00 pm | 
- Women's Lacrosse SocialLocation: Griswold StadiumEnjoy hosted snacks and 
- catch up with fellow alumni.1:00 – 3:00 pm | Women's Lacrosse vs. Occid
- ental CollegeLocation: Griswold Stadium3:00 – 5:00 pm | PNW Native Lacr
- osse ClinicLocation: Griswold StadiumA special collaboration between PNW 
- Native LAX (https://www.pnwnativelax.com/) and L&amp\;C Lacrosse.5:00 –
-  7:00 pm | Dinner Break &amp\; Campus StrollLocation: Watzek Library &amp
- \; CampusExplore the Gender Studies Symposium Art Exhibit (https://www.lc
- lark.edu/calendars/events/event/381705-2026-gender-studies-symposium-art-
- show) at the library or grab dinner at Fields Dining Hall.7:30 pm | "When
-  We Slept in Trees (https://college.lclark.edu/live/news/57409-spring-202
- 6-mainstage-production-when-we-slept-in-tree?_gl=1*2qntt7*_ga*ODMyOTkwMjY
- 2LjE3NTIwODI5OTA.*_ga_6MKT6LMD5S*czE3NzExMDkzMzQkbzQzMCRnMSR0MTc3MTEwOTM1
- MSRqNDMkbDAkaDA.)"Location: Fir Acres TheatreL&amp\;C MainStage Productio
- n (Devised Dance/Theatre).
-X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong>Satu
- rday\, March 14th\, 2026</strong><br />  L&amp\;C Undergraduate Campus<br
-  />  8:00 am – 7:30 pm<br /><strong>Games\, Social Bites &amp\; Other R
- efreshments Free<br />  Theatre tickets $5 with discount code at registra
- tion page</strong></p><p style="text-align: center\;"><a class="btn-small
- -style-1 btn-small-style-1" href="https://engage.lclark.edu/register/?id=
- a3e939b1-731e-4a66-9cb4-3b4bf93ae917" target="_blank" rel="noopener">Clic
- k to Register</a></p><p><strong>Schedule of Events</strong></p><p><em>Joi
- n us for the full day or drop in for your favorite segments!</em></p><p><
- strong>8:00 – 9:30 am | Breakfast Meet &amp\; Greet</strong><em>Locatio
- n: Tennis Dome</em><em>Kick off the day with coffee and conversation.</em
- ></p><p><strong>10:00 am – 12:00 pm | Tennis Match vs. George Fox</stro
- ng><em>Location: Tennis Dome</em></p><p><strong>12:00 – 1:00 pm | Women
- 's Lacrosse Social</strong><em>Location: Griswold Stadium</em><em>Enjoy h
- osted snacks and catch up with fellow alumni.</em></p><p><strong>1:00 –
-  3:00 pm | Women's Lacrosse vs. Occidental College</strong><em>Location: 
- Griswold Stadium</em></p><p><strong>3:00 – 5:00 pm | PNW Native Lacross
- e Clinic</strong><em>Location: Griswold Stadium</em><em>A special collabo
- ration between <a style="text-decoration: underline\;" href="https://www.
- pnwnativelax.com/" target="_blank" rel="noopener">PNW Native LAX</a> and 
- L&amp\;C Lacrosse.</em></p><p><strong>5:00 – 7:00 pm | Dinner Break &am
- p\; Campus Stroll</strong><em>Location: Watzek Library &amp\; Campus</em>
- <em>Explore the <a style="text-decoration: underline\;" href="https://www
- .lclark.edu/calendars/events/event/381705-2026-gender-studies-symposium-a
- rt-show" target="_blank" rel="noopener">Gender Studies Symposium Art Exhi
- bit</a> at the library or grab dinner at Fields Dining Hall.</em></p><p><
- strong>7:30 pm | "<a style="text-decoration: underline\;" href="https://c
- ollege.lclark.edu/live/news/57409-spring-2026-mainstage-production-when-w
- e-slept-in-tree?_gl=1*2qntt7*_ga*ODMyOTkwMjY2LjE3NTIwODI5OTA.*_ga_6MKT6LM
- D5S*czE3NzExMDkzMzQkbzQzMCRnMSR0MTc3MTEwOTM1MSRqNDMkbDAkaDA." target="_bl
- ank" rel="noopener">When We Slept in Trees</a>"</strong><em>Location: Fir
-  Acres Theatre</em><em>L&amp\;C MainStage Production (Devised Dance/Theat
- re).</em></p>
-UID:20260314T160000Z-383763@www.lclark.edu
-DTSTAMP:20260214T150229Z
-URL:https://www.lclark.edu/calendars/events/event/383763-alumni-cheer-on-
- lc-theatre-lacrosse-and-tennis
-LAST-MODIFIED:20260215T003134Z
-ATTACH:https://www.lclark.edu/live/image/gid/45/width/80/height/80/crop/1
- /src_region/0,0,1920,1080/111376_5-2025-05-07T141406.003.rev.1766449092.p
- ng
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:383763
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/45/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1920\,1080/111376_5-2025-05-07T141406.003.re
- v.1766449092.png
-X-LIVEWHALE-SUMMARY:<p>\n  The Portland and SW Washington Chapter is exci
- ted to invite alumni for a day of gatherings while supporting students in
-  L&amp\;C Athletics and Theatre on March 14\, 2026. Attend all or part of
-  the day\; you can also attend the PNW LAX Lacrosse Clinic at L&amp\;C or
-  check out the Gender Studies Symposium Art Show at Watzek.\n</p>
-X-LIVEWHALE-TAGS:alumni|athletics|portland chapter events|theatre
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260314T093000
@@ -2939,6 +1881,53 @@ X-LIVEWHALE-SUMMARY:<p>Justin Zieman will be available to meet with 3L st
  udents regarding loan repayment. Details on scheduling to follow.</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260316T100000
+DTEND;TZID=America/Los_Angeles:20260316T120000
+LOCATION:York Graduate Center
+GEO:45.445733;-122.671119
+SUMMARY:Nickless Dissertation Defense
+DESCRIPTION:Shaw Nickless\, a candidate in the Doctor of Education in Lea
+ dership Program\, will defend her dissertation at 10:00 AM PT on Monday\,
+  March 16\, 2025 in York 116.  Her dissertation is titled "A Choice Worth
+  Wanting: A Critical Policy Analysis of Oregon Alternative Education Poli
+ cy\," and the chair of her committee is Dr. Megan Barrett.  This event is
+  open to the public.  The presentation may be viewed via Zoom (https://lc
+ lark-edu.zoom.us/j/91989990964?pwd=qaLzaSQF4c5cLtRuidouZRYAq9B6d8.1).
+X-ALT-DESC;FMTTYPE=text/html:<p>  Shaw Nickless\, a candidate in the Doct
+ or of Education in Leadership Program\, will defend her dissertation at 1
+ 0:00 AM PT on Monday\, March 16\, 2025 in York 116.</p><p>  Her dissertat
+ ion is titled "A Choice Worth Wanting: A Critical Policy Analysis of Oreg
+ on Alternative Education Policy\," and the chair of her committee is Dr. 
+ Megan Barrett.</p><p>  This event is open to the public.</p><p>  The pres
+ entation may be viewed <a href="https://lclark-edu.zoom.us/j/91989990964?
+ pwd=qaLzaSQF4c5cLtRuidouZRYAq9B6d8.1" target="_blank" rel="noopener">via 
+ Zoom</a>.</p>
+UID:20260316T170000Z-386788@www.lclark.edu
+DTSTAMP:20260312T133029Z
+URL:https://www.lclark.edu/calendars/events/event/-nickless-dissertation-
+ defense
+CATEGORIES:Open to the Public
+LAST-MODIFIED:20260312T204602Z
+ATTACH:https://www.lclark.edu/live/image/gid/54/width/80/height/80/crop/1
+ /src_region/0,0,1556,2000/96212_Ed_Leadership_Graphic_22.rev.1666048141.p
+ ng
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386788
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/54/width/80/heigh
+ t/80/crop/1/src_region/0\,0\,1556\,2000/96212_Ed_Leadership_Graphic_22.re
+ v.1666048141.png
+X-LIVEWHALE-IMAGE-CAPTION:Educational Leadership at GSEC
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Leadership Studies Office eda@lclark.edu\
+ n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Shaw Nickless will defend her dissertation tit
+ led "A Choice Worth Wanting: A Critical Policy Analysis of Oregon Alterna
+ tive Education Policy."\n</p>
+X-LIVEWHALE-TAGS:dissertation defense|Doctor of Educational Leadership|Do
+ ctoral Program|Ed.D.
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260316T110000
 DTEND;TZID=America/Los_Angeles:20260316T120000
 SUMMARY:NotebookLM Deep Dive
@@ -3378,6 +2367,98 @@ X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/7/width/80/height
  /80/crop/1/src_region/0\,0\,768\,390/28003_baseball_crop.rev.1373936757.j
  pg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260317T153000
+DTEND;TZID=America/Los_Angeles:20260317T163000
+SUMMARY:2026-2027 Housing Application Drop-In Hours
+DESCRIPTION:Have a question or want to learn more about the2026-27 housin
+ g application?Visit the Odell Annexbetween 3:30-4:30pm on thefollowing da
+ ys:Tuesday\, February 24thTuesday\, March 3rdThursday\, March 5thTuesday\
+ , March 10thThursday\, March 12thTuesday\, March 16thThursday\, March 19t
+ hTuesday\, March 23rdThursday\, March 26thTuesday\, March 31st**Thursday\
+ , April 2nd**Tuesday\, April 6th**Thursday\, April 9th**Tuesday\, April 1
+ 4thThursday\, April 16th**The Office of Student Accessibility will have a
+ staff member present on these dates.  &#160\;  &#160\;
+X-ALT-DESC;FMTTYPE=text/html:<p class="cvGsUA direction-ltr align-center 
+ para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-c
+ lig-off font-feature-calt-off text-decoration-none text-strikethrough-non
+ e">Have a question or want to learn more about the</span></p><p class="cv
+ GsUA direction-ltr align-center para-style-body"><span class="a_GcMg font
+ -feature-liga-off font-feature-clig-off font-feature-calt-off text-decora
+ tion-none text-strikethrough-none">2026-27 housing application?</span></p
+ ><p class="cvGsUA direction-ltr align-center para-style-body"><span class
+ ="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-of
+ f text-decoration-none text-strikethrough-none">Visit the Odell Annex</sp
+ an><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-f
+ eature-calt-off text-decoration-none text-strikethrough-none">between 3:3
+ 0-4:30pm on the</span></p><p class="cvGsUA direction-ltr align-center par
+ a-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig
+ -off font-feature-calt-off text-decoration-none text-strikethrough-none">
+ following days:<br /></span></p><ul><li><span class="a_GcMg font-feature-
+ liga-off font-feature-clig-off font-feature-calt-off text-decoration-none
+  text-strikethrough-none">Tuesday\, February 24th</span></li><li><span cl
+ ass="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt
+ -off text-decoration-none text-strikethrough-none">Tuesday\, March 3rd</s
+ pan></li><li><span class="a_GcMg font-feature-liga-off font-feature-clig-
+ off font-feature-calt-off text-decoration-none text-strikethrough-none">T
+ hursday\, March 5th</span></li><li><span class="a_GcMg font-feature-liga-
+ off font-feature-clig-off font-feature-calt-off text-decoration-none text
+ -strikethrough-none">Tuesday\, March 10th</span></li><li><span class="a_G
+ cMg font-feature-liga-off font-feature-clig-off font-feature-calt-off tex
+ t-decoration-none text-strikethrough-none">Thursday\, March 12th</span></
+ li><li><span class="a_GcMg font-feature-liga-off font-feature-clig-off fo
+ nt-feature-calt-off text-decoration-none text-strikethrough-none">Tuesday
+ \, March 16th</span></li><li><span class="a_GcMg font-feature-liga-off fo
+ nt-feature-clig-off font-feature-calt-off text-decoration-none text-strik
+ ethrough-none">Thursday\, March 19th</span></li><li><span class="a_GcMg f
+ ont-feature-liga-off font-feature-clig-off font-feature-calt-off text-dec
+ oration-none text-strikethrough-none">Tuesday\, March 23rd</span></li><li
+ ><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-fea
+ ture-calt-off text-decoration-none text-strikethrough-none">Thursday\, Ma
+ rch 26th</span></li><li><span class="a_GcMg font-feature-liga-off font-fe
+ ature-clig-off font-feature-calt-off text-decoration-none text-strikethro
+ ugh-none">Tuesday\, March 31st**</span></li><li><span class="a_GcMg font-
+ feature-liga-off font-feature-clig-off font-feature-calt-off text-decorat
+ ion-none text-strikethrough-none">Thursday\, April 2nd**</span></li><li><
+ span class="a_GcMg font-feature-liga-off font-feature-clig-off font-featu
+ re-calt-off text-decoration-none text-strikethrough-none">Tuesday\, April
+  6th**</span></li><li><span class="a_GcMg font-feature-liga-off font-feat
+ ure-clig-off font-feature-calt-off text-decoration-none text-strikethroug
+ h-none">Thursday\, April 9th**</span></li><li><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Tuesday\, April 14th</span></li><li><span
+  class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-c
+ alt-off text-decoration-none text-strikethrough-none">Thursday\, April 16
+ th</span></li></ul><p class="cvGsUA direction-ltr align-center para-style
+ -body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off fo
+ nt-feature-calt-off text-decoration-none text-strikethrough-none">**The O
+ ffice of Student Accessibility will have a</span><span class="a_GcMg font
+ -feature-liga-off font-feature-clig-off font-feature-calt-off text-decora
+ tion-none text-strikethrough-none">staff member present on these dates.</
+ span></p><p>  &#160\;</p><p class="cvGsUA direction-ltr align-center para
+ -style-body">  &#160\;</p>
+UID:20260317T223000Z-385729@www.lclark.edu
+DTSTAMP:20260303T094548Z
+URL:https://www.lclark.edu/live/events/382596-2026-2027-housing-applicati
+ on-drop-in-hours
+LAST-MODIFIED:20260303T174557Z
+RRULE:FREQ=DAILY;UNTIL=20260416T223000Z;INTERVAL=1;BYDAY=TU,TH
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1545,2000/111744_26-27_Housing_Application_Drop_In_Hours
+ _2_2.rev.1770771144.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:385729
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1545\,2000/111744_26-27_Housing_Application
+ _Drop_In_Hours_2_2.rev.1770771144.png
+X-LIVEWHALE-IMAGE-CAPTION:Drop In
+X-LIVEWHALE-SUMMARY:<p class="cvGsUA direction-ltr align-center para-styl
+ e-body">\n  Drop-ins at the Odell Annex! Learn more and ask questions abo
+ ut 2026-2027 housing.&#160\;\n</p>
+X-LIVEWHALE-TAGS:events
+X-LIVEWHALE-REPEATS-UNTIL:2026-04-16 22:30:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260317T160000
@@ -4026,6 +3107,27 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260318T160000
 DTEND;TZID=America/Los_Angeles:20260318T170000
+LOCATION:Miller Hall
+GEO:45.450858;-122.668265
+SUMMARY:Information Session: China Study Tour
+UID:20260318T230000Z-386784@www.lclark.edu
+DTSTAMP:20260312T115545Z
+URL:https://www.lclark.edu/live/events/386782-information-session-china-s
+ tudy-tour
+LAST-MODIFIED:20260312T185545Z
+ATTACH:https://www.lclark.edu/live/image/gid/489/width/80/height/80/crop/
+ 1/src_region/0,0,2000,1125/112377_1pagepdf_2.rev.1773341496.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386784
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/489/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,2000\,1125/112377_1pagepdf_2.rev.1773341496
+ .png
+X-LIVEWHALE-IMAGE-CAPTION:a
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T160000
+DTEND;TZID=America/Los_Angeles:20260318T170000
 LOCATION:Watzek Library Atrium
 SUMMARY:2026 Gender Studies Symposium Art Show Reception
 DESCRIPTION:For more information about this year's participating artists 
@@ -4325,19 +3427,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260319T110000
 DTEND;TZID=America/Los_Angeles:20260319T120000
-SUMMARY:VPSL Popup - March Spring-board!
+SUMMARY:VPSL Pop-Up - March Spring-board!
 DESCRIPTION:Join us for our monthly pop-up! Come reset for the Spring Bre
  ak with some sweet treats\, coffee\, and more.  Date and time: March 19\,
-  11:00 a.m. - noon.  Location: J.R. Howard\, 1st Floor\, Looby
+  11:00 a.m. - noon.  Location: J.R. Howard\, 1st Floor\, Lobby
 X-ALT-DESC;FMTTYPE=text/html:<p>  Join us for our monthly pop-up! Come re
  set for the Spring Break with some sweet treats\, coffee\, and more.</p><
  p>  Date and time: March 19\, 11:00 a.m. - noon.<br />  Location: J.R. Ho
- ward\, 1st Floor\, Looby</p>
+ ward\, 1st Floor\, Lobby</p>
 UID:20260319T180000Z-385964@www.lclark.edu
 DTSTAMP:20260305T140446Z
-URL:https://www.lclark.edu/calendars/events/event/385964-vpsl-popup-march
- -spring-board
-LAST-MODIFIED:20260305T220446Z
+URL:https://www.lclark.edu/calendars/events/event/385964-vpsl-pop-up-marc
+ h-spring-board
+LAST-MODIFIED:20260312T190736Z
 ATTACH:https://www.lclark.edu/live/image/gid/210/width/80/height/80/crop/
  1/src_region/0,0,2000,2000/112318_March_Pop-Up_poster_Poster_Square.rev.1
  772748254.png
@@ -4347,7 +3449,7 @@ X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/210/width/80/heig
  ht/80/crop/1/src_region/0\,0\,2000\,2000/112318_March_Pop-Up_poster_Poste
  r_Square.rev.1772748254.png
-X-LIVEWHALE-SUMMARY:<p>Monthly VPSL Pop-Up</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Monthly VPSL Pop-Up\n</p>
 X-LIVEWHALE-TAGS:events
 END:VEVENT
 BEGIN:VEVENT
@@ -4429,6 +3531,99 @@ X-LIVEWHALE-SUMMARY:<p>\n  Join us for the <strong>2026 L&amp\;C Athletic
  ated coaches\, inspiring current student-athletes\, and successful alumni
  .</strong>\n</p>
 X-LIVEWHALE-TAGS:alumni|athletics
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T153000
+DTEND;TZID=America/Los_Angeles:20260319T163000
+SUMMARY:Japanese Office Hours with Mayu!
+UID:20260319T223000Z-384896@www.lclark.edu
+DTSTAMP:20260224T164809Z
+URL:https://www.lclark.edu/calendars/events/event/384896-japanese-office-
+ hours-with-mayu
+LAST-MODIFIED:20260312T223134Z
+RRULE:FREQ=WEEKLY;UNTIL=20260611T223000Z;INTERVAL=1;BYDAY=TH
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384896
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-REPEATS-UNTIL:2026-06-11 22:30:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260319T153000
+DTEND;TZID=America/Los_Angeles:20260319T170000
+LOCATION:Gregg Pavilion
+SUMMARY:Awakened Awareness
+DESCRIPTION:The 2026 Spring Cohort begins Jan. 29 and will conclude befor
+ e spring break on Mar. 18. Our finale on March 18th will include a celebr
+ ation of all we have learned and feature requested treats! We want partic
+ ipants to be able to make all the sessions\, as each session builds upon 
+ the last. We also recognize that sickness and other unplanned things happ
+ en\, and so hope that participants can make a minimum of 6/8 workshops.  
+ Each session includes an opening meditation\, journaling\, peer-to-peer s
+ haring\, a weekly "focus\," a special guided meditation\, group sharing\,
+  and a closing meditation. Participants are also provided journals.&#160\
+ ;  Our Spring 2026 Monday Cohort will be facilitated by Hilary Martin Him
+ an (Center for Spiritual Life) and Theresa Brostowitz (Campus Living.)  A
+ wakened Awareness is a science-driven\, meditation-based series of worksh
+ ops that was developed from research at Columbia University's Teachers Co
+ llege and the work of Dr. Lisa Miller\, and has been conducted there with
+  undergraduates for years with positive results. More colleges and univer
+ sities across the country are now offering it to their own undergraduate 
+ students.  If you have a disability and/or require accommodations\, pleas
+ e email us ahead of time at hmhiman@lclark.edu so that we may assist you 
+ as best possible.  Questions about what to expect? Please reach out to Hi
+ lary\, hmhiman@lclark.edu (mailto:hmhiman@lclark.edu) or call 503-768-708
+ 2.&#160\;  Open to Lewis &amp\; Clark undergrad and graduate students.
+X-ALT-DESC;FMTTYPE=text/html:<p>  The 2026 Spring Cohort begins <strong>J
+ an. 29</strong> and will conclude before spring break on <strong>Mar. 18<
+ /strong>. Our finale on March 18th will include a celebration of all we h
+ ave learned and feature requested treats! We want participants to be able
+  to make all the sessions\, as each session builds upon the last. We also
+  recognize that sickness and other unplanned things happen\, and so hope 
+ that participants can make a minimum of 6/8 workshops.</p><p>  Each sessi
+ on includes an opening meditation\, journaling\, peer-to-peer sharing\, a
+  weekly "focus\," a special guided meditation\, group sharing\, and a clo
+ sing meditation. Participants are also provided journals.&#160\;</p><p>  
+ Our Spring 2026 Monday Cohort will be facilitated by Hilary Martin Himan 
+ (Center for Spiritual Life) and Theresa Brostowitz (Campus Living.)</p><p
+ >  Awakened Awareness is a science-driven\, meditation-based series of wo
+ rkshops that was developed from research at Columbia University's Teacher
+ s College and the work of Dr. Lisa Miller\, and has been conducted there 
+ with undergraduates for years with positive results. More colleges and un
+ iversities across the country are now offering it to their own undergradu
+ ate students.</p><p>  If you have a disability and/or require accommodati
+ ons\, please email us ahead of time at hmhiman@lclark.edu so that we may 
+ assist you as best possible.</p><p>  Questions about what to expect? Plea
+ se reach out to Hilary\, <a href="mailto:hmhiman@lclark.edu">hmhiman@lcla
+ rk.edu</a> or call 503-768-7082.&#160\;</p><p>  Open to Lewis &amp\; Clar
+ k undergrad and graduate students.</p>
+UID:20260319T223000Z-380614@www.lclark.edu
+DTSTAMP:20260120T100023Z
+URL:https://www.lclark.edu/live/events/380461-awakened-awareness
+LAST-MODIFIED:20260120T202522Z
+RRULE:FREQ=WEEKLY;UNTIL=20260319T223000Z;INTERVAL=1
+ATTACH:https://www.lclark.edu/live/image/gid/259/width/80/height/80/crop/
+ 1/src_region/0,0,1000,402/111526_AA-A_photo.rev.1768802502.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:380614
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/259/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1000\,402/111526_AA-A_photo.rev.1768802502.
+ png
+X-LIVEWHALE-IMAGE-CAPTION:Awakened Awareness
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Hilary Martin Himan<br />\n  Director of 
+ Spiritual Life and Chaplain to all<br />\n  <a href="mailto:hmhiman@lclar
+ k.edu">hmhiman@lclark.edu<br />\n  <br />\n  503-768-7082</a>\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Join the 2026 Spring Cohort of Awakened Awaren
+ ess and get a <strong>$25 gift card</strong> to learn mindfulness and med
+ itation! Participants engage in an 8 week evidence-based curriculum desig
+ ned by neuroscientist Dr. Lisa Miller from Teachers College\, Columbia Un
+ iversity. Engage in mindfulness techniques\, experience guided meditation
+ s\, and discuss spiritual concepts. Learn tools and strategies to reduce 
+ anxiety\, depression\, and post-traumatic stress and find ease and meanin
+ g.<br />\n  <br />\n  Register <a href="https://forms.gle/G7UcVNKrjb3P3bG
+ x5">here</a>!\n</p>
+X-LIVEWHALE-TAGS:events
+X-LIVEWHALE-REPEATS-UNTIL:2026-03-19 22:30:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260319T163000
@@ -5613,6 +4808,70 @@ X-LIVEWHALE-TAGS:All Courses Upcoming|clinical supervision|Counselors Upc
  oming|cpsy|March|workshops
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260326T160000
+DTEND;TZID=America/Los_Angeles:20260326T170000
+SUMMARY:Master's Programs Application Walkthrough & Q&A: Environmental\, 
+ Natural Resources & Energy Law
+DESCRIPTION:Applying to graduate law programs doesn't have to feel overwh
+ elming. Join Tess Jacobson\, Assistant Director of Lewis &amp\; Clark Law
+  School's Environmental\, Natural Resources &amp\; Energy Law Programs\, 
+ for an interactive walkthrough of the application process.  This session 
+ will cover both the Master of Studies in Law (MSL) for professionals with
+  a bachelor's degree and the Master of Laws (LLM) for attorneys and law g
+ raduates. It's an opportunity to connect directly with program leadership
+ \, ask questions\, and gain guidance as you prepare your application.  In
+  this session\, you will:Walk through each step of the application proces
+ s  Learn what materials are required and how to strengthen your submissio
+ n  Get tips for writing a strong personal statement  Learn about scholars
+ hip opportunities and eligibility  Ask questions and receive guidance in 
+ real time    Whether you're just beginning the application process or pre
+ paring to submit\, this session will give you the clarity and confidence 
+ to move forward with applying to the MSL or LLM program.Register Here for
+  Zoom link (https://us06web.zoom.us/webinar/register/7417732605359/WN_x2V
+ MXhuUSI-4bj36LoasgQ#/registration)
+X-ALT-DESC;FMTTYPE=text/html:<p><picture class="lw_image lw_image112381  
+ lw_align_left"><source media="(max-width: 500px)" type="image/webp" srcse
+ t="https://www.lclark.edu/live/image/gid/71/width/500/height/200/112381_7
+ eca982c-cbe1-4584-ae7d-c0404a80c881.webp 1x" data-origin="responsive"/><s
+ ource media="(max-width: 500px)" type="image/png" srcset="https://www.lcl
+ ark.edu/live/image/gid/71/width/500/height/200/112381_7eca982c-cbe1-4584-
+ ae7d-c0404a80c881.rev.1773346069.png 1x" data-origin="responsive"/><sourc
+ e media="(min-width: 501px)" type="image/webp" srcset="https://www.lclark
+ .edu/live/image/gid/71/width/600/height/240/112381_7eca982c-cbe1-4584-ae7
+ d-c0404a80c881.webp 1x" data-origin="responsive"/><source media="(min-wid
+ th: 501px)" type="image/png" srcset="https://www.lclark.edu/live/image/gi
+ d/71/width/600/height/240/112381_7eca982c-cbe1-4584-ae7d-c0404a80c881.rev
+ .1773346069.png 1x" data-origin="responsive"/><img width="600" height="24  0" alt="" data-alt="" data-decoration="true" src="https://www.lclark.edu/live/resource/image/  live/image/gid/71/width/600/height/240/112381_7eca982c-cbe1-4584-ae7d-c04  04a80c881.rev.1773346069.png" title="JANUARY 16\, noon PST (600 x 240 px)   - 1" data-max-w="600" data-max-h="240" loading="lazy" data-optimized="tr  ue"/></picture></p><p>  Applying to graduate law programs doesn't have to
+  feel overwhelming. Join Tess Jacobson\, Assistant Director of Lewis &amp
+ \; Clark Law School's Environmental\, Natural Resources &amp\; Energy Law
+  Programs\, for an interactive walkthrough of the application process.</p
+ ><p>  This session will cover both the Master of Studies in Law (MSL) for
+  professionals with a bachelor's degree and the Master of Laws (LLM) for 
+ attorneys and law graduates. It's an opportunity to connect directly with
+  program leadership\, ask questions\, and gain guidance as you prepare yo
+ ur application.</p><p>  In this session\, you will:</p><ul><li>Walk throu
+ gh each step of the application process  </li><li>Learn what materials ar
+ e required and how to strengthen your submission  </li><li>Get tips for w
+ riting a strong personal statement  </li><li>Learn about scholarship oppo
+ rtunities and eligibility  </li><li>Ask questions and receive guidance in
+  real time  </li></ul><p>  Whether you're just beginning the application 
+ process or preparing to submit\, this session will give you the clarity a
+ nd confidence to move forward with applying to the MSL or LLM program.</p
+ ><p><a class="btn-small-style-1" href="https://us06web.zoom.us/webinar/re
+ gister/7417732605359/WN_x2VMXhuUSI-4bj36LoasgQ#/registration">Register He
+ re for Zoom link</a></p>
+UID:20260326T230000Z-386787@www.lclark.edu
+DTSTAMP:20260312T130717Z
+URL:https://www.lclark.edu/calendars/events/event/386787-masters-programs
+ -application-walkthrough-qampa
+LAST-MODIFIED:20260312T200907Z
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386787
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IS-ONLINE:1
+X-LIVEWHALE-ONLINE-TYPE:Online only
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:Spring break
@@ -6273,6 +5532,43 @@ X-LIVEWHALE-SUMMARY:<p>\n  In-person event\n</p>
 X-LIVEWHALE-TAGS:alumni|student alumni association
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260401T180000
+DTEND;TZID=America/Los_Angeles:20260401T193000
+LOCATION:JRHH 258
+SUMMARY:Holding on to Arid Land
+UID:20260402T010000Z-386800@www.lclark.edu
+DTSTAMP:20260312T143521Z
+URL:https://www.lclark.edu/calendars/events/event/386800-holding-on-to-ar
+ id-land
+CATEGORIES:Open to the Public
+LAST-MODIFIED:20260312T215347Z
+ATTACH:https://www.lclark.edu/live/image/gid/79/width/80/height/80/crop/1
+ /src_region/0,0,1019,874/112382_2026_Arid_Land_film_event_poster_1.rev.17
+ 73350323.jpg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386800
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/79/width/80/heigh
+ t/80/crop/1/src_region/0\,0\,1019\,874/112382_2026_Arid_Land_film_event_p
+ oster_1.rev.1773350323.jpg
+X-LIVEWHALE-IMAGE-CAPTION:Documentary film
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Professor Elizabeth Bennett<br />\n  Depa
+ rtment of International Affairs\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  <strong>Arid Land: Film Screening and Discussi
+ on with Filmmaker<br />\n  6:00-7:30 p.m. / JRHH 258</strong>\n</p>\n<p>\
+ n  Just south of Oregon's border\, the government prohibits cannabis farm
+ ing and attempts to cut off water. After a fire ignites\, distrust spills
+  into protest. Shot in 2024<strong>\, the documentary <em>Holding on to A
+ rid Land</em></strong> tells the story of Kim\, who moved to Northern Cal
+ ifornia for a new start and an acre of land. Over the last decade\, local
+  politicians have made it extremely difficult for Hmong families\, like K
+ im's\, to live there. They face the looming challenges of a government th
+ at is working against them\, wielding the legal system to push people out
+  of the valley.\n</p>
+X-LIVEWHALE-TAGS:Political Economy Minor|send-to-undergraduate
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260401T190000
 DTEND;TZID=America/Los_Angeles:20260401T200000
 LOCATION:Griswold Stadium
@@ -6407,48 +5703,51 @@ GEO:45.4523562107472;-122.677470210342
 SUMMARY:2026 Environmental Law Spring Symposium – Regulating Plastics: 
  Legal Issues and Opportunities from Production to Disposal
 DESCRIPTION:RSVP Here (https://engage.lclark.edu/register/ENV.LawSpringSy
- mposium)Schedule of Events:7:45am | Continental Breakfast and Check-In8:1
- 5am | Introduction and Welcome:Janice Weis\,Associate Dean\, Environmenta
- l Law Program\, Lewis &amp\; Clark Law School8:30am | Keynote - Senator J
- aneen Sollman (https://www.oregonlegislature.gov/sollman)\, Senate Distri
- ct 15 (https://www.oregonlegislature.gov/sollman/Pages/map.aspx)9:00-10:3
- 0am | Panel 1 – The International Landscape10:30-10:45am Break10:45-12:
- 15pm | Panel 2 – Policy Levers and Considerations12:15-1:30pm | Lunch -
-  Lunch is in the Student Lounge of the Legal Research Center on campus1:3
- 0-3:00pm | Panel 3 – U.S. Litigation Opportunities3:00-3:15pm Break3:15
- -4:45pm | Panel 4 – Hot Topics4:45pm | Reception for all attendees and 
- speakers (Wood Hall Lounge)Panelists:Robert Adler (https://profiles.facul
- ty.utah.edu/u0028434) – Professor of Law at the University of Utah\, S.
- J. Quinney College of LawHira Jaleel (https://law.lclark.edu/live/profile
- s/17124-hira-jaleel) – Visiting Assistant Professor at the Center for A
- nimal Law Studies at Lewis &amp\; Clark Law SchoolTatiana Luján (https:/
- /www.clientearth.org/about/who-we-are/experts/tatiana-lujan/) – Lawyer 
- and Materials Systems Lead at Client EarthAnna Mance– Assistant Profess
- or of Law atSMU Dedman School of Law from Stanford Law SchoolSarah Morath
- – Professor of Law and Associate Dean for International Affairs at Wake
-  Forest University of LawDan Mensher (https://www.kellerrohrback.com/atto
- rney/daniel-mensher) – Attorney at Keller Rohrback LLPMichelle Nowlin (
- https://law.duke.edu/fac/nowlin) – Clinical Professor of Law and Co-Dir
- ector of the Environmental Law and Policy Clinic at Duke University Law S
- choolMargot Pollans (https://www.pace.edu/profile/margot-j-pollans) – G
- ilbert and Sarah Kerlin Distinguished Professor of Environmental Law and 
- Faculty Director at the Elisabeth Haub School of Law at Pace University.D
- raft article (not for circulation). (https://docs.google.com/document/d/1
- oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp\;ouid=1129038309006
- 09882818&amp\;rtpof=true&amp\;sd=true)Rachael Salcido– Stephen C. McCaf
- frey Endowed Professor of Law at the University of the Pacific\, McGeorge
-  School of LawZak Smith (https://www.nrdc.org/bio/zak-smith) – Senior A
- ttorney and Director Global Biodiversity Conservation at Natural Resource
- s Defense Council (NRDC)Amy Youngman– International Environmental Attor
- ney at the Environmental Investigation Agency  Parking  Parking is limite
- d at the law school\, and we highly encourage carpooling to our events. D
- ue to its proximity to the law school\, we suggest parking in the Upper G
- riswold (https://www.lclark.edu/live/profiles/6366-parking-lot-c-upper-gr
- iswold) or Lower Griswold (https://www.lclark.edu/live/profiles/6367-park
- ing-lot-d-lower-griswold) parking lot at the college campus (just a few m
- inutes walk to the law school).&#160\;  For those unfamiliar with the cam
- pus\, you can access a full campus map here (https://www.lclark.edu/live/
- news/43826-updated-printable-campus-map).
+ mposium)  If you are unable to attend in person or via the live stream\, 
+ please email deliaweidman@lclark.edu (mailto:deliaweidman@lclark.edu) to 
+ receive a recording of the event.Schedule of Events:7:45am | Continental 
+ Breakfast and Check-In8:15am | Introduction and Welcome:Janice Weis\,Asso
+ ciate Dean\, Environmental Law Program\, Lewis &amp\; Clark Law School8:3
+ 0am | Keynote - Senator Janeen Sollman (https://www.oregonlegislature.gov
+ /sollman)\, Senate District 15 (https://www.oregonlegislature.gov/sollman
+ /Pages/map.aspx) &#160\;Oregon State Legislature&#160\;9:00-10:30am | Pan
+ el 1 – The International Landscape10:30-10:45am Break10:45-12:15pm | Pa
+ nel 2 – Policy Levers and Considerations12:15-1:30pm | Lunch - Lunch is
+  in the Student Lounge of the Legal Research Center on campus1:30-3:00pm 
+ | Panel 3 – U.S. Litigation Opportunities3:00-3:15pm Break3:15-4:45pm |
+  Panel 4 – Hot Topics4:45pm | Reception for all attendees and speakers 
+ (Wood Hall Lounge)Panelists:Robert Adler (https://profiles.faculty.utah.e
+ du/u0028434) – Dean Emeritus and Distinguished Professor Emeritus\, Uni
+ versity of Utah\, S.J Quinney College of LawHira Jaleel (https://law.lcla
+ rk.edu/live/profiles/17124-hira-jaleel) – Visiting Assistant Professor 
+ at the Center for Animal Law Studies at Lewis &amp\; Clark Law SchoolTati
+ ana Luján (https://www.clientearth.org/about/who-we-are/experts/tatiana-
+ lujan/) – Plastic and Chemicals Lead at ClientEarthAnna Mance– Assist
+ ant Professor of Law atSMU Dedman School of Law from Stanford Law SchoolS
+ arah Morath– Professor of Law and Associate Dean for International Affa
+ irs at Wake Forest University of LawDan Mensher (https://www.kellerrohrba
+ ck.com/attorney/daniel-mensher) – Attorney at Keller Rohrback LLPMichel
+ le Nowlin (https://law.duke.edu/fac/nowlin) – Clinical Professor of Law
+  and Co-Director of the Environmental Law and Policy Clinic at Duke Unive
+ rsity Law SchoolMargot Pollans (https://www.pace.edu/profile/margot-j-pol
+ lans) – Gilbert and Sarah Kerlin Distinguished Professor of Environment
+ al Law and Faculty Director at the Elisabeth Haub School of Law at Pace U
+ niversity.Draft article (not for circulation). (https://docs.google.com/d
+ ocument/d/1oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp\;ouid=11
+ 2903830900609882818&amp\;rtpof=true&amp\;sd=true)Rachael Salcido– Steph
+ en C. McCaffrey Endowed Professor of Law at the University of the Pacific
+ \, McGeorge School of LawZak Smith (https://www.nrdc.org/bio/zak-smith) �
+ �� Senior Attorney and Director Global Biodiversity Conservation at Natur
+ al Resources Defense Council (NRDC)Amy Youngman– Lawyer and Legal and P
+ olicy Specialist  Parking  Parking is limited at the law school\, and we 
+ highly encourage carpooling to our events. Due to its proximity to the la
+ w school\, we suggest parking in the Upper Griswold (https://www.lclark.e
+ du/live/profiles/6366-parking-lot-c-upper-griswold) or Lower Griswold (ht
+ tps://www.lclark.edu/live/profiles/6367-parking-lot-d-lower-griswold) par
+ king lot at the college campus (just a few minutes walk to the law school
+ ).&#160\;  For those unfamiliar with the campus\, you can access a full c
+ ampus map here (https://www.lclark.edu/live/news/43826-updated-printable-
+ campus-map).
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn-small-style-1" href="https:
  //engage.lclark.edu/register/ENV.LawSpringSymposium">RSVP Here</a></p><p>
  <picture class="lw_image lw_image111385  lw_align_center"><source media="
@@ -6467,102 +5766,108 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn-small-style-1" href="https:
  "true" src="https://www.lclark.edu/live/image/gid/71/width/608/height/453
  /111385_Screenshot_2025-12-23_at_2.42.52PM.rev.1766529784.png" title="Scr
  eenshot 2025-12-23 at 2.42.52 PM" data-max-w="972" data-max-h="724" loadi
- ng="lazy" data-optimized="true"/></picture></p><hr /><h3><strong>Schedule
-  of Events:</strong></h3><p><strong>7:45am | Continental Breakfast and Ch
- eck-In</strong></p><p><strong>8:15am | Introduction and Welcome:</strong>
- <a href="https://law.lclark.edu/live/profiles/288-janice-weis"><strong>Ja
- nice Weis</strong>\,</a><strong>Associate Dean\, Environmental Law Progra
- m\, Lewis &amp\; Clark Law School</strong></p><p><strong><strong>8:30am |
-  Keynote - <a href="https://www.oregonlegislature.gov/sollman">Senator Ja
- neen Sollman</a>\, <em><a href="https://www.oregonlegislature.gov/sollman
- /Pages/map.aspx">Senate District 15</a></em></strong></strong></p><p><str
- ong>9:00-10:30am | Panel 1 – The International Landscape</strong></p><p
- ><strong>10:30-10:45am Break</strong></p><p><strong>10:45-12:15pm | Panel
-  2 – Policy Levers and Considerations</strong></p><p><strong>12:15-1:30
- pm | Lunch - Lunch is in the Student Lounge of the Legal Research Center 
- on campus</strong></p><p><strong>1:30-3:00pm | Panel 3 – U.S. Litigatio
- n Opportunities</strong></p><p><strong>3:00-3:15pm Break</strong></p><p><
- strong>3:15-4:45pm | Panel 4 – Hot Topics</strong></p><p><strong>4:45pm
-  | Reception for all attendees and speakers (Wood Hall Lounge)</strong></
- p><hr /><h3 style="text-align: left\;"><strong>Panelists:</strong></h3><p
- ><strong><a href="https://profiles.faculty.utah.edu/u0028434">Robert Adle
- r</a> – Professor of Law at the University of Utah\, S.J. Quinney Colle
- ge of Law</strong></p><p><strong><a href="https://law.lclark.edu/live/pro
- files/17124-hira-jaleel">Hira Jaleel</a> – Visiting Assistant Professor
-  at the Center for Animal Law Studies at Lewis &amp\; Clark Law School</s
- trong></p><p><strong><a href="https://www.clientearth.org/about/who-we-ar
- e/experts/tatiana-lujan/">Tatiana Luján</a> – Lawyer and Materials Sys
- tems Lead at Client Earth</strong></p><p><a href="https://www.smu.edu/law
- /faculty/profiles/mance-anna-a"><strong>Anna Mance</strong></a><strong>�
- � Assistant Professor of Law at</strong><strong>SMU Dedman School of Law 
- from Stanford Law School</strong></p><p><a href="https://directory.law.wf
- u.edu/moraths/"><strong>Sarah Morath</strong></a><strong>– Professor of
-  Law and Associate Dean for International Affairs at Wake Forest Universi
- ty of Law</strong></p><p><strong><a href="https://www.kellerrohrback.com/
- attorney/daniel-mensher">Dan Mensher</a> – Attorney at Keller Rohrback 
- LLP</strong></p><p><strong><a href="https://law.duke.edu/fac/nowlin">Mich
- elle Nowlin</a> – Clinical Professor of Law and Co-Director of the Envi
- ronmental Law and Policy Clinic at Duke University Law School</strong></p
- ><p><strong><a href="https://www.pace.edu/profile/margot-j-pollans">Margo
- t Pollans</a> – Gilbert and Sarah Kerlin Distinguished Professor of Env
- ironmental Law and Faculty Director at the Elisabeth Haub School of Law a
- t Pace University.</strong><a href="https://docs.google.com/document/d/1o
- JwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp\;ouid=11290383090060
- 9882818&amp\;rtpof=true&amp\;sd=true">Draft article (not for circulation)
- .</a></p><p><a href="https://www.pacific.edu/campus-directory/rachael-sal
- cido"><strong>Rachael Salcido</strong></a><strong>– Stephen C. McCaffre
- y Endowed Professor of Law at the University of the Pacific\, McGeorge Sc
- hool of Law</strong></p><p><strong><a href="https://www.nrdc.org/bio/zak-
- smith">Zak Smith</a> – Senior Attorney and Director Global Biodiversity
-  Conservation at Natural Resources Defense Council (NRDC)</strong></p><p>
- <a href="https://www.linkedin.com/in/amy-youngman-7a1b08b1/?originalSubdo
- main=nl"><strong>Amy Youngman</strong></a><strong>– International Envir
- onmental Attorney at the Environmental Investigation Agency</strong></p><
- hr /><h2>  Parking</h2><p>  Parking is limited at the law school\, and we
-  highly encourage carpooling to our events. Due to its proximity to the l
- aw school\, we suggest parking in the <a href="https://www.lclark.edu/liv
- e/profiles/6366-parking-lot-c-upper-griswold" target="_blank" rel="noopen
- er">Upper Griswold</a> or <a href="https://www.lclark.edu/live/profiles/6
- 367-parking-lot-d-lower-griswold">Lower Griswold</a> parking lot at the c
- ollege campus (just a few minutes walk to the law school).&#160\;</p><p><
- picture class="lw_image lw_image102140 lw_align_left"><source media="(max
- -width: 500px)" type="image/webp" srcset="https://law.lclark.edu/live/ima
- ge/scale/2x/gid/71/width/500/height/188/102140_Image_1-9-24_at_12.34PM.we
- bp 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/500/heigh
- t/188/102140_Image_1-9-24_at_12.34PM.webp 3x" data-origin="responsive" />
- <source media="(max-width: 500px)" type="image/jpeg" srcset="https://law.
- lclark.edu/live/image/scale/2x/gid/71/width/500/height/188/102140_Image_1
- -9-24_at_12.34PM.jpg 2x\, https://law.lclark.edu/live/image/scale/3x/gid/
- 71/width/500/height/188/102140_Image_1-9-24_at_12.34PM.jpg 3x" data-origi
- n="responsive" /><source media="(min-width: 501px)" type="image/webp" src
+ ng="lazy" data-optimized="true"/></picture></p><p>  If you are unable to 
+ attend in person or via the live stream\, please email <a href="mailto:de
+ liaweidman@lclark.edu">deliaweidman@lclark.edu</a> to receive a recording
+  of the event.</p><hr /><h3><strong>Schedule of Events:</strong></h3><p><
+ strong>7:45am | Continental Breakfast and Check-In</strong></p><p><strong
+ >8:15am | Introduction and Welcome:</strong><a href="https://law.lclark.e
+ du/live/profiles/288-janice-weis"><strong>Janice Weis</strong>\,</a><stro
+ ng>Associate Dean\, Environmental Law Program\, Lewis &amp\; Clark Law Sc
+ hool</strong></p><p><strong><strong>8:30am | Keynote - <a href="https://w
+ ww.oregonlegislature.gov/sollman">Senator Janeen Sollman</a>\, <a href="h
+ ttps://www.oregonlegislature.gov/sollman/Pages/map.aspx">Senate District 
+ 15</a> &#160\;Oregon State Legislature&#160\;</strong></strong></p><p><st
+ rong>9:00-10:30am | Panel 1 – The International Landscape</strong></p><
+ p><strong>10:30-10:45am Break</strong></p><p><strong>10:45-12:15pm | Pane
+ l 2 – Policy Levers and Considerations</strong></p><p><strong>12:15-1:3
+ 0pm | Lunch - Lunch is in the Student Lounge of the Legal Research Center
+  on campus</strong></p><p><strong>1:30-3:00pm | Panel 3 – U.S. Litigati
+ on Opportunities</strong></p><p><strong>3:00-3:15pm Break</strong></p><p>
+ <strong>3:15-4:45pm | Panel 4 – Hot Topics</strong></p><p><strong>4:45p
+ m | Reception for all attendees and speakers (Wood Hall Lounge)</strong><
+ /p><hr /><h3 style="text-align: left\;"><strong>Panelists:</strong></h3><
+ p><strong><a href="https://profiles.faculty.utah.edu/u0028434">Robert Adl
+ er</a> – Dean Emeritus and Distinguished Professor Emeritus\, Universit
+ y of Utah\, S.J Quinney College of Law</strong></p><p><strong><a href="ht
+ tps://law.lclark.edu/live/profiles/17124-hira-jaleel">Hira Jaleel</a> –
+  Visiting Assistant Professor at the Center for Animal Law Studies at Lew
+ is &amp\; Clark Law School</strong></p><p><strong><a href="https://www.cl
+ ientearth.org/about/who-we-are/experts/tatiana-lujan/">Tatiana Luján</a>
+  – Plastic and Chemicals Lead at ClientEarth</strong></p><p><a href="ht
+ tps://www.smu.edu/law/faculty/profiles/mance-anna-a"><strong>Anna Mance</
+ strong></a><strong>– Assistant Professor of Law at</strong><strong>SMU 
+ Dedman School of Law from Stanford Law School</strong></p><p><a href="htt
+ ps://directory.law.wfu.edu/moraths/"><strong>Sarah Morath</strong></a><st
+ rong>– Professor of Law and Associate Dean for International Affairs at
+  Wake Forest University of Law</strong></p><p><strong><a href="https://ww
+ w.kellerrohrback.com/attorney/daniel-mensher">Dan Mensher</a> – Attorne
+ y at Keller Rohrback LLP</strong></p><p><strong><a href="https://law.duke
+ .edu/fac/nowlin">Michelle Nowlin</a> – Clinical Professor of Law and Co
+ -Director of the Environmental Law and Policy Clinic at Duke University L
+ aw School</strong></p><p><strong><a href="https://www.pace.edu/profile/ma
+ rgot-j-pollans">Margot Pollans</a> – Gilbert and Sarah Kerlin Distingui
+ shed Professor of Environmental Law and Faculty Director at the Elisabeth
+  Haub School of Law at Pace University.</strong><a href="https://docs.goo
+ gle.com/document/d/1oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp
+ \;ouid=112903830900609882818&amp\;rtpof=true&amp\;sd=true">Draft article 
+ (not for circulation).</a></p><p><a href="https://www.pacific.edu/campus-
+ directory/rachael-salcido"><strong>Rachael Salcido</strong></a><strong>�
+ � Stephen C. McCaffrey Endowed Professor of Law at the University of the 
+ Pacific\, McGeorge School of Law</strong></p><p><strong><a href="https://
+ www.nrdc.org/bio/zak-smith">Zak Smith</a> – Senior Attorney and Directo
+ r Global Biodiversity Conservation at Natural Resources Defense Council (
+ NRDC)</strong></p><p><a href="https://www.linkedin.com/in/amy-youngman-7a
+ 1b08b1/?originalSubdomain=nl"><strong>Amy Youngman</strong></a><strong>�
+ � Lawyer and Legal and Policy Specialist</strong></p><hr /><h2>  Parking<
+ /h2><p>  Parking is limited at the law school\, and we highly encourage c
+ arpooling to our events. Due to its proximity to the law school\, we sugg
+ est parking in the <a href="https://www.lclark.edu/live/profiles/6366-par
+ king-lot-c-upper-griswold" target="_blank" rel="noopener">Upper Griswold<
+ /a> or <a href="https://www.lclark.edu/live/profiles/6367-parking-lot-d-l
+ ower-griswold">Lower Griswold</a> parking lot at the college campus (just
+  a few minutes walk to the law school).&#160\;</p><p><picture class="lw_i
+ mage lw_image102140 lw_align_left"><source media="(max-width: 500px)" typ
+ e="image/webp" srcset="https://law.lclark.edu/live/image/scale/2x/gid/71/
+ width/500/height/188/102140_Image_1-9-24_at_12.34PM.webp 2x\, https://law
+ .lclark.edu/live/image/scale/3x/gid/71/width/500/height/188/102140_Image_
+ 1-9-24_at_12.34PM.webp 3x" data-origin="responsive" /><source media="(max
+ -width: 500px)" type="image/jpeg" srcset="https://law.lclark.edu/live/ima
+ ge/scale/2x/gid/71/width/500/height/188/102140_Image_1-9-24_at_12.34PM.jp
+ g 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/500/height
+ /188/102140_Image_1-9-24_at_12.34PM.jpg 3x" data-origin="responsive" /><s
+ ource media="(min-width: 501px)" type="image/webp" srcset="https://law.lc
+ lark.edu/live/image/scale/2x/gid/71/width/609/height/229/102140_Image_1-9
+ -24_at_12.34PM.webp 2x\, https://law.lclark.edu/live/image/scale/3x/gid/7
+ 1/width/609/height/229/102140_Image_1-9-24_at_12.34PM.webp 3x" data-origi
+ n="responsive" /><source media="(min-width: 501px)" type="image/jpeg" src
  set="https://law.lclark.edu/live/image/scale/2x/gid/71/width/609/height/2
- 29/102140_Image_1-9-24_at_12.34PM.webp 2x\, https://law.lclark.edu/live/i
- mage/scale/3x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.
- webp 3x" data-origin="responsive" /><source media="(min-width: 501px)" ty
- pe="image/jpeg" srcset="https://law.lclark.edu/live/image/scale/2x/gid/71
- /width/609/height/229/102140_Image_1-9-24_at_12.34PM.jpg 2x\, https://law
- .lclark.edu/live/image/scale/3x/gid/71/width/609/height/229/102140_Image_
- 1-9-24_at_12.34PM.jpg 3x" data-origin="responsive" />
-<picture>
-<img title="Image 1-
- 9-24 at 12.34PM" src="https://www.lclark.edu/live/image/gid/71/width/609/
- height/229/102140_Image_1-9-24_at_12.34PM.rev.1704832550.jpg" srcset="htt
- ps://law.lclark.edu/live/image/scale/2x/gid/71/width/609/height/229/10214
- 0_Image_1-9-24_at_12.34PM.jpg 2x\, https://law.lclark.edu/live/image/scal
- e/3x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.jpg 3x" a
- lt="" loading="lazy" data-alt="" data-decoration="true" data-optimized="t
- rue" />
-</picture></picture></p><p>  For those unfamiliar with the campus\, you can 
- access a <a href="https://www.lclark.edu/live/news/43826-updated-printabl
- e-campus-map">full campus map here</a>.</p>
+ 29/102140_Image_1-9-24_at_12.34PM.jpg 2x\, https://law.lclark.edu/live/im
+ age/scale/3x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.j
+ pg 3x" data-origin="responsive" /><img title="Image 1-9-24 at 12.34PM" sr
+ c="https://www.lclark.edu/live/image/gid/71/width/609/height/229/102140_I
+ mage_1-9-24_at_12.34PM.rev.1704832550.jpg" srcset="https://law.lclark.edu
+ /live/image/scale/2x/gid/71/width/609/height/229/102140_Image_1-9-24_at_1
+ 2.34PM.jpg 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/6
+ 09/height/229/102140_Image_1-9-24_at_12.34PM.jpg 3x" alt="" loading="lazy
+ " data-alt="" data-decoration="true" data-optimized="true" /></picture></
+ p><p>  For those unfamiliar with the campus\, you can access a <a href="h
+ ttps://www.lclark.edu/live/news/43826-updated-printable-campus-map">full 
+ campus map here</a>.</p>
 UID:20260403T150000Z-378967@www.lclark.edu
 DTSTAMP:20260105T081353Z
 URL:https://www.lclark.edu/live/events/377679-2026-environmental-law-spri
  ng-symposium-
-LAST-MODIFIED:20260223T200845Z
+LAST-MODIFIED:20260312T212939Z
+ATTACH:https://www.lclark.edu/live/image/gid/71/width/80/height/80/crop/1
+ /src_region/104,0,987,882/111419_Screenshot_2026-01-07_at_1.55.48PM_2.rev
+ .1767822952.png
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:378967
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/71/width/80/heigh
+ t/80/crop/1/src_region/104\,0\,987\,882/111419_Screenshot_2026-01-07_at_1
+ .55.48PM_2.rev.1767822952.png
 X-LIVEWHALE-CONTACT-INFO:<p>\n  For more information or questions\, pleas
  e contact:<br />\n  <strong>Delia Weidman</strong><br />\n  <strong>Progr
  am Coordinator</strong><br />\n  <strong>Environmental\, Natural Resource
@@ -6848,24 +6153,25 @@ DESCRIPTION:This two-part workshop explores the complex and commonly over
  k\, LMHC\, LPC\, CSTCost and Credits: $160\, includes 8 CEUs. Alumni\, Ad
  juncts\, and GSEC Clinical Supervisors save 20%. $75 GSEC student rate.&#
  160\;Register Online (https://lclark.tfaforms.net/wf1W4MQ?epid=a1aUY00000
- 26GiT)Accessibility: We are committed to making our events accessible to 
- all needs and abilities. When registering\, please let us know your acces
- s needs. Contact us at 503-768-6040 or cce@lclark.edu (mailto:cce@lclark.
- edu)&#160\;with questions.Please note: Discounted &#x2018\;Student Rate&#
- x2019\; registrations are for current students only and do not include co
- ntinuing education credit (CEU/PDUs)  About the InstructorRenee Fitzpatri
- ck\, LMHC\, LPC\, CST (she/her) is a Licensed Professional Counselor and 
- AASECT-certified Sex Therapist currently working with individuals\, famil
- ies and relationship-systems with her private practice with OR and WA-bas
- ed clients. Renee is also an adjunct professor for the CMHC\, CTSP and MC
- FT programs within Lewis &amp\; Clark's Graduate School for Counseling Ed
- ucation. Renee specializes in working with sexually-marginalized communit
- ies\, including disabled and neurodivergent clients. Renee is a clinician
-  with lived experience having OCD who provides Exposure &amp\; Response P
- revention Treatment (ERP) for clients suffering with OCD.New workshops an
- d trainings are added to our calendar regularly. For the latest on profes
- sional development related to your specific interests\, sign up for our m
- ailing list! (https://lclark.tfaforms.net/4735441)
+ 26GiT)Registration ends after Wednesday\, April 1stAccessibility: We are 
+ committed to making our events accessible to all needs and abilities. Whe
+ n registering\, please let us know your access needs. Contact us at 503-7
+ 68-6040 or cce@lclark.edu (mailto:cce@lclark.edu)&#160\;with questions.Pl
+ ease note: Discounted &#x2018\;Student Rate&#x2019\; registrations are fo
+ r current students only and do not include continuing education credit (C
+ EU/PDUs)  About the InstructorRenee Fitzpatrick\, LMHC\, LPC\, CST (she/h
+ er) is a Licensed Professional Counselor and AASECT-certified Sex Therapi
+ st currently working with individuals\, families and relationship-systems
+  with her private practice with OR and WA-based clients. Renee is also an
+  adjunct professor for the CMHC\, CTSP and MCFT programs within Lewis &am
+ p\; Clark's Graduate School for Counseling Education. Renee specializes i
+ n working with sexually-marginalized communities\, including disabled and
+  neurodivergent clients. Renee is a clinician with lived experience havin
+ g OCD who provides Exposure &amp\; Response Prevention Treatment (ERP) fo
+ r clients suffering with OCD.New workshops and trainings are added to our
+  calendar regularly. For the latest on professional development related t
+ o your specific interests\, sign up for our mailing list! (https://lclark
+ .tfaforms.net/4735441)
 X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  This two-par
  t workshop explores the complex and commonly overlooked intersection of s
  exuality and Obsessive Compulsive Disorder (OCD).</p><p style="line-heigh
@@ -6911,42 +6217,44 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  This two-par
  ervisors save 20%. $75 GSEC student rate.&#160\;</p><p style="line-height
  : 1.5\;"><strong><a class="btn-small-style-1" href="https://lclark.tfafor
  ms.net/wf1W4MQ?epid=a1aUY0000026GiT" target="_blank" rel="noopener">Regis
- ter Online</a></strong></p><div id="lw_widget_30f0017c" class="lw_widget 
- lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_7119 lw_widget_access
- ibility_statement lw_widget_pagination"><ul class="lw_widget_results lw_w
+ ter Online</a></strong></p><p style="line-height: 1.5\;"><em><strong>Regi
+ stration ends after Wednesday\, April 1st</strong></em></p><div id="lw_wi
+ dget_30f0017c" class="lw_widget lw_widget_type_blurbs lw_widget_blurbs lw
+ _widget_id_7119 lw_widget_accessibility_statement lw_widget_pagination"><
+ ul class="lw_widget_results lw_widget_results_blurbs"><li class="lw_item_
+ 1"><div class="lw_blurbs_body"><p class="p1" style="font-size: 15px\; lin
+ e-height: 1.5\;"><em><strong>Accessibility:</strong> We are committed to 
+ making our events accessible to all needs and abilities. When registering
+ \, please let us know your access needs. Contact us at 503-768-6040 or <a
+  href="mailto:cce@lclark.edu">cce@lclark.edu</a>&#160\;with questions.<br
+ /></em></p><p class="p1" style="font-size: 15px\; line-height: 1.5\;"><em
+ ><strong>Please note:</strong> Discounted &#x2018\;Student Rate&#x2019\; 
+ registrations are for current students only and <strong>do not</strong> i
+ nclude continuing education credit (CEU/PDUs)</em></p></div></li></ul></d
+ iv><hr /><h2 style="line-height: 1.5\;">  About the Instructor</h2><p sty
+ le="line-height: 1.5\;"><strong>Renee Fitzpatrick\, LMHC\, LPC\, CST</str
+ ong> (she/her) is a Licensed Professional Counselor and AASECT-certified 
+ Sex Therapist currently working with individuals\, families and relations
+ hip-systems with her private practice with OR and WA-based clients. Renee
+  is also an adjunct professor for the CMHC\, CTSP and MCFT programs withi
+ n Lewis &amp\; Clark's Graduate School for Counseling Education. Renee sp
+ ecializes in working with sexually-marginalized communities\, including d
+ isabled and neurodivergent clients. Renee is a clinician with lived exper
+ ience having OCD who provides Exposure &amp\; Response Prevention Treatme
+ nt (ERP) for clients suffering with OCD.</p><div id="lw_widget_470b39ba" 
+ class="lw_widget lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_3994
+  lw_widget_opt_in lw_widget_pagination"><ul class="lw_widget_results lw_w
  idget_results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"><
- p class="p1" style="font-size: 15px\; line-height: 1.5\;"><em><strong>Acc
- essibility:</strong> We are committed to making our events accessible to 
- all needs and abilities. When registering\, please let us know your acces
- s needs. Contact us at 503-768-6040 or <a href="mailto:cce@lclark.edu">cc
- e@lclark.edu</a>&#160\;with questions.<br/></em></p><p class="p1" style="
- font-size: 15px\; line-height: 1.5\;"><em><strong>Please note:</strong> D
- iscounted &#x2018\;Student Rate&#x2019\; registrations are for current st
- udents only and <strong>do not</strong> include continuing education cred
- it (CEU/PDUs)</em></p></div></li></ul></div><hr /><h2 style="line-height:
-  1.5\;">  About the Instructor</h2><p style="line-height: 1.5\;"><strong>
- Renee Fitzpatrick\, LMHC\, LPC\, CST</strong> (she/her) is a Licensed Pro
- fessional Counselor and AASECT-certified Sex Therapist currently working 
- with individuals\, families and relationship-systems with her private pra
- ctice with OR and WA-based clients. Renee is also an adjunct professor fo
- r the CMHC\, CTSP and MCFT programs within Lewis &amp\; Clark's Graduate 
- School for Counseling Education. Renee specializes in working with sexual
- ly-marginalized communities\, including disabled and neurodivergent clien
- ts. Renee is a clinician with lived experience having OCD who provides Ex
- posure &amp\; Response Prevention Treatment (ERP) for clients suffering w
- ith OCD.</p><div id="lw_widget_470b39ba" class="lw_widget lw_widget_type_
- blurbs lw_widget_blurbs lw_widget_id_3994 lw_widget_opt_in lw_widget_pagi
- nation"><ul class="lw_widget_results lw_widget_results_blurbs"><li class=
- "lw_item_1"><div class="lw_blurbs_body"><p style="line-height: 1.5\;"><em
- ><strong>New workshops and trainings are added to our calendar regularly.
- </strong> For the latest on professional development related to your spec
- ific interests\, <a href="https://lclark.tfaforms.net/4735441">sign up fo
- r our mailing list!</a></em></p></div></li></ul></div>
+ p style="line-height: 1.5\;"><em><strong>New workshops and trainings are 
+ added to our calendar regularly.</strong> For the latest on professional 
+ development related to your specific interests\, <a href="https://lclark.
+ tfaforms.net/4735441">sign up for our mailing list!</a></em></p></div></l
+ i></ul></div>
 UID:20260404T180000Z-374003@www.lclark.edu
 DTSTAMP:20251118T153451Z
 URL:https://www.lclark.edu/calendars/events/event/374003-working-with-sex
  -and-obsessive-compulsive-disorder-on
-LAST-MODIFIED:20260224T182442Z
+LAST-MODIFIED:20260312T193857Z
 ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
  /src_region/0,0,589,555/101876_Profile_Pic.PNG
 X-LIVEWHALE-TYPE:events
@@ -11278,42 +10586,54 @@ DTEND;TZID=America/Los_Angeles:20260426T160000
 LOCATION:Flanagan Chapel
 GEO:45.450821;-122.671419
 SUMMARY:Lewis & Clark Orchestra and Choirs
-DESCRIPTION:Tickets are available online (https://app.arts-people.com/ind
- ex.php?ticketing=lccmd) and at the door one hour before the event via cas
- h or check.  This performance will be live streamed here (https://vimeo.c
- om/event/4079258)!  &#160\;Parking at Lewis &amp\; Clark - For events in 
- Evans Auditorium\, Agnes Flanagan Chapel\, or Diane Gregg Pavilion\, ente
- r at Gate 2 and park in Upper Griswold\, Lower Griswold\, or Fir Acres Lo
- ts (see: campus map (https://www.lclark.edu/live/files/7676-campus-map)).
- Parking permits are required during the academic year between Monday thro
- ugh Friday\, 7am to 7pm. Please see the Visiting Campus page (https://www
- .lclark.edu/visit/parking_and_transportation/visitor_parking/) for additi
- onal details. For weekday events before 7pm\, visitors may purchase day p
- asses online (https://lclark.t2hosted.com/Account/Portal) or via QR codes
-  posted in all major parking lots.
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://app.arts-people.com/inde
- x.php?ticketing=lccmd" target="_blank" rel="noopener">Tickets are availab
- le online</a> and at the door one hour before the event via cash or check
- .</p><p>  This performance will be <a href="https://vimeo.com/event/40792
- 58" target="_blank" rel="noopener">live streamed here</a>!</p><p>  &#160\
- ;</p><p><strong>Parking at Lewis &amp\; Clark</strong> - <em>For events i
- n Evans Auditorium\, Agnes Flanagan Chapel\, or Diane Gregg Pavilion\, en
- ter at Gate 2 and park in Upper Griswold\, Lower Griswold\, or Fir Acres 
- Lots (see: <a href="https://www.lclark.edu/live/files/7676-campus-map" ta
- rget="_blank" rel="noopener">campus map</a>).</em><em>Parking permits are
-  required during the academic year between Monday through Friday\, 7am to
-  7pm. Please see the <a href="https://www.lclark.edu/visit/parking_and_tr
- ansportation/visitor_parking/">Visiting Campus page</a> for additional de
- tails. For weekday events before 7pm\, visitors may purchase day passes <
- a href="https://lclark.t2hosted.com/Account/Portal" target="_blank" rel="
- noopener">online</a> or via QR codes posted in all major parking lots.</e
- m></p>
+DESCRIPTION:This ten-movement work for choirs\, soloists\, and orchestra 
+ offers a powerful and personal meditation on grief and hope. Featured art
+ ists: Madeleine Tran\, soprano\; Lisa Neher\, mezzo-soprano\; Brandon Mic
+ hael\, tenor\; and Nicolas Vilches '26\, baritone\, with Katherine FitzGi
+ bbon\, conductor.  Lewis &amp\; Clark's featured ensembles include Cappel
+ la Nova and Community Chorale (Katherine FitzGibbon\, director)\, Voces A
+ uream (John Cox\, director)\, and the Lewis &amp\; Clark Orchestra (Lance
+  Inouye\, director).Tickets are on sale now! (https://app.arts-people.com
+ /index.php?ticketing=lccmd) This performance will be live streamed here. 
+ (https://vimeo.com/event/4079258)  &#160\;Parking at Lewis &amp\; Clark -
+  For events in Evans Auditorium\, Agnes Flanagan Chapel\, or Diane Gregg 
+ Pavilion\, enter at Gate 2 and park in Upper Griswold\, Lower Griswold\, 
+ or Fir Acres Lots (see: campus map (https://www.lclark.edu/live/files/767
+ 6-campus-map)).Parking permits are required during the academic year betw
+ een Monday through Friday\, 7am to 7pm. Please see the Visiting Campus pa
+ ge (https://www.lclark.edu/visit/parking_and_transportation/visitor_parki
+ ng/) for additional details. For weekday events before 7pm\, visitors may
+  purchase day passes online (https://lclark.t2hosted.com/Account/Portal) 
+ or via QR codes posted in all major parking lots.
+X-ALT-DESC;FMTTYPE=text/html:<div>  This ten-movement work for choirs\, s
+ oloists\, and orchestra offers a powerful and personal meditation on grie
+ f and hope. Featured artists: Madeleine Tran\, soprano\; Lisa Neher\, mez
+ zo-soprano\; Brandon Michael\, tenor\; and Nicolas Vilches '26\, baritone
+ \, with Katherine FitzGibbon\, conductor.<br /><br />  Lewis &amp\; Clark
+ 's featured ensembles include Cappella Nova and Community Chorale (Kather
+ ine FitzGibbon\, director)\, Voces Auream (John Cox\, director)\, and the
+  Lewis &amp\; Clark Orchestra (Lance Inouye\, director).<br /><br /><a hr
+ ef="https://app.arts-people.com/index.php?ticketing=lccmd" target="_blank
+ " rel="noopener">Tickets are on sale now!</a> This performance will be <a
+  href="https://vimeo.com/event/4079258" target="_blank" rel="noopener">li
+ ve streamed here.</a></div><p>  &#160\;</p><p><strong>Parking at Lewis &a
+ mp\; Clark</strong> - <em>For events in Evans Auditorium\, Agnes Flanagan
+  Chapel\, or Diane Gregg Pavilion\, enter at Gate 2 and park in Upper Gri
+ swold\, Lower Griswold\, or Fir Acres Lots (see: <a href="https://www.lcl
+ ark.edu/live/files/7676-campus-map" target="_blank" rel="noopener">campus
+  map</a>).</em><em>Parking permits are required during the academic year 
+ between Monday through Friday\, 7am to 7pm. Please see the <a href="https
+ ://www.lclark.edu/visit/parking_and_transportation/visitor_parking/">Visi
+ ting Campus page</a> for additional details. For weekday events before 7p
+ m\, visitors may purchase day passes <a href="https://lclark.t2hosted.com
+ /Account/Portal" target="_blank" rel="noopener">online</a> or via QR code
+ s posted in all major parking lots.</em></p>
 UID:20260426T220000Z-370289@www.lclark.edu
 DTSTAMP:20250821T152601Z
 URL:https://www.lclark.edu/calendars/events/event/370289-lewis-clark-orch
  estra-and-choirs
 CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T181840Z
+LAST-MODIFIED:20260312T205559Z
 ATTACH:https://www.lclark.edu/live/image/gid/76/width/80/height/80/crop/1
  /src_region/665,127,2483,1944/92322_Copy_of_Choral_Concert_12.3.21-56.rev
  .1643143170.jpg
@@ -11331,9 +10651,9 @@ X-LIVEWHALE-COST:<p>\n  $20 General Admission<br />\n  $10 LC Faculty\, S
  y and guest artists.</em>\n</p>
 X-LIVEWHALE-CONTACT-INFO:<p>\n  concert@lclark.edu\n</p>
 X-LIVEWHALE-SUMMARY:<p>\n  Lewis &amp\; Clark's Choirs and Orchestra join
-  forces for an epic performance on Sunday\, April 26\, 2026 at 3:00pm in 
- Agnes Flanagan Chapel. You won't want to miss this unforgettable event!\n
- </p>
+  forces for a performance of Dvořák's <em>Stabat Mater</em> on Sunday\,
+  April 26\, 2026 at 3:00pm in Agnes Flanagan Chapel. You won't want to mi
+ ss this unforgettable event!\n</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260426T153000
@@ -11981,6 +11301,26 @@ X-LIVEWHALE-CONTACT-INFO:<p><a href="mailto:envs@lclark.edu">envs@lclark.
  edu<br />\n5</a>03-768-7790</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260508T110000
+DTEND;TZID=America/Los_Angeles:20260508T123000
+LOCATION:Fowler Student Center\; Stamm
+GEO:45.44918;-122.670969
+SUMMARY:Phi Beta Kappa Induction Ceremony
+DESCRIPTION:Please consult the listed contacts for more information!
+X-ALT-DESC;FMTTYPE=text/html:<p>  Please consult the listed contacts for 
+ more information!</p>
+UID:20260508T180000Z-386786@www.lclark.edu
+DTSTAMP:20260312T124054Z
+URL:https://www.lclark.edu/calendars/events/event/386786-phi-beta-kappa-i
+ nduction-ceremony
+LAST-MODIFIED:20260312T194216Z
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386786
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-CONTACT-INFO:<p>\n  <a class="email" href="mailto:casdean@lcl
+ ark.edu">casdean@lclark.edu</a>\n</p>\n<p>\n  503-768-7100\n</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260508T120000
 DTEND;TZID=America/Los_Angeles:20260508T130000
 SUMMARY:Halls close for Non-Graduating Residents: Noon on Friday May 8\, 
@@ -12003,6 +11343,26 @@ X-LIVEWHALE-IMAGE-CAPTION:Campus Living
 X-LIVEWHALE-SUMMARY:<p>All residents who are not remaining on-campus for 
  summer 2026 are required to move out by 12pm on Friday\, May 8th.&#160\;<
  /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260508T130000
+DTEND;TZID=America/Los_Angeles:20260508T150000
+LOCATION:Fowler Student Center\; Council Chamber
+GEO:45.44918;-122.670969
+SUMMARY:Posse Graduation Celebration
+DESCRIPTION:Please consult the listed contacts for more information!
+X-ALT-DESC;FMTTYPE=text/html:<p>  Please consult the listed contacts for 
+ more information!</p>
+UID:20260508T200000Z-386785@www.lclark.edu
+DTSTAMP:20260312T123805Z
+URL:https://www.lclark.edu/calendars/events/event/386785-posse-graduation
+ -celebration
+LAST-MODIFIED:20260312T194208Z
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386785
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-CONTACT-INFO:<p>\n  <a href="mailto:giving@lclark.edu">giving
+ @lclark.edu</a><br />\n  <br />\n  503-768-7900\n</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260508T150000

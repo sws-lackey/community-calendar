@@ -4,19 +4,6 @@ PRODID:-//Mat-Su Convention & Visitors Bureau//alaskavisit.com//
 X-WR-CALNAME:Mat-Su Convention & Visitors Bureau
 X-WR-TIMEZONE:America/Anchorage
 BEGIN:VEVENT
-SUMMARY:Command Men’s Event
-DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260313T000000
-DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260313T000000
-UID:23d804fcaadc1fe640a00a0e00ee464f@alaskavisit.com
-DESCRIPTION:Command with Duck Dynasty’s Willie Robertson is a night desi
- gned to call men higher. This is more than a dinner. This is a moment to r
- eceive your true...
-LOCATION:King's Alaska\, 3301 East Parks Highway\, Wasilla\, AK\, USA\, 33
- 01 East Parks Highway\, Wasilla\, AK\, 99654
-URL:https://www.alaskavisit.com/event/command-men%e2%80%99s-event/4774/
-X-SOURCE:Mat-Su Convention & Visitors Bureau
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elks Annual 9 hole Golf on Ice Fundraiser/Tournament on Finger Lak
  e
 DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260314T000000

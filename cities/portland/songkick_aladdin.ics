@@ -4,17 +4,6 @@ PRODID:-//Aladdin Theater//songkick.com//
 X-WR-CALNAME:Aladdin Theater
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:East Forest
-DTSTART;VALUE=DATE-TIME:20260313T000000
-DTEND;VALUE=DATE-TIME:20260313T000000
-UID:929562ddceea5981fcfc5056b1e6ee7b@songkick.com
-DESCRIPTION:East Forest at Aladdin Theater at 2026-03-13
-LOCATION:Aladdin Theater\, 3017 SE Milwaukie Ave.\, Portland\, OR\, 97202
-URL:http://www.songkick.com/concerts/42942031-east-forest-at-aladdin-theat
- er?utm_medium=organic&utm_source=microformat
-X-SOURCE:Aladdin Theater
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jonah Kagen
 DTSTART;VALUE=DATE-TIME:20260314T200000
 DTEND;VALUE=DATE-TIME:20260314T200000

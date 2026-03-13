@@ -3,55 +3,6 @@ VERSION:2.0
 PRODID:-//Indiana University//NONSGML v1.0//EN
 X-WR-CALNAME:Indiana University Events
 BEGIN:VEVENT
-DTSTART:20260312T230000Z
-DTEND:20260313T000000Z
-LOCATION:IU CINEMA
-GEO:39.168613;-86.517376
-SUMMARY:A Conversation with Jennifer Reeder | Girls to the Front! The Cin
- ema of Jennifer Reeder\, Jorgensen Guest Filmmaker Series
-DESCRIPTION:Writer\, director\, and producer Jennifer Reeder has earned c
- omparisons to other filmmakers: the surrealism of Lynch\, the camp of Wat
- ers\, the pop-culture sensibility of Spheeris\, the stylistic experimenta
- tion of Deren. While her influences are varied\, Reeder is a singular fil
- mmaker all her own. Reeder's films have premiered and screened at prestig
- ious global festivals including Sundance\, Berlin\, Rotterdam\, SXSW\, Tr
- ibeca\, BFI-London Film Festival\, the Whitney Biennial\, and the Venice 
- Biennale. She received the 2024 Tour De Force Award from the Chicago Inte
- rnational Film Festival and in 2020 was named by Oscar-winner Bong Joon-h
- o as a filmmaker pivotal to the future of cinema. [60 min]
-X-ALT-DESC;FMTTYPE=text/html:<p>  Writer\, director\, and producer Jennif
- er Reeder has earned comparisons to other filmmakers: the surrealism of L
- ynch\, the camp of Waters\, the pop-culture sensibility of Spheeris\, the
-  stylistic experimentation of Deren. While her influences are varied\, Re
- eder is a singular filmmaker all her own. Reeder's films have premiered a
- nd screened at prestigious global festivals including Sundance\, Berlin\,
-  Rotterdam\, SXSW\, Tribeca\, BFI-London Film Festival\, the Whitney Bien
- nial\, and the Venice Biennale. She received the 2024 Tour De Force Award
-  from the Chicago International Film Festival and in 2020 was named by Os
- car-winner Bong Joon-ho as a filmmaker pivotal to the future of cinema. [
- 60 min]</p>
-UID:20260312T230000Z-2211566@events.iu.edu
-DTSTAMP:20260216T174005Z
-URL:https://events.iu.edu/cinemaiub/event/2211566-a-conversation-with-jen
- nifer-reeder-girls-to-the
-CATEGORIES:Culture and languages,Performances, shows, and films
-LAST-MODIFIED:20260220T210939Z
-ATTACH:https://events.iu.edu/live/image/gid/81/width/168/height/168/crop/
- 1/src_region/0,0,1920,1080/30103_Jorgensen_Conversation_with_Jennifer_Ree
- der_1920x1080.rev.1771281353.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:2211566
-X-LIVEWHALE-TIMEZONE:America/New_York
-X-LIVEWHALE-IMAGE:https://events.iu.edu/live/image/gid/81/width/168/heigh
- t/168/crop/1/src_region/0\,0\,1920\,1080/30103_Jorgensen_Conversation_wit
- h_Jennifer_Reeder_1920x1080.rev.1771281353.png
-X-LIVEWHALE-CONTACT-INFO:<p>\n  <a href="mailto:iucinema@iu.edu">iucinema
- @iu.edu</a> // 812-856-CINE\n</p>
-X-LIVEWHALE-TAGS:Hoosier experience
-X-LIVEWHALE-CUSTOM-REGISTRATION-LINK:https://cinema.indiana.edu/upcoming-
- films/screening/2026-spring-thursday-march-12-700pm
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260313T020000Z
 DTEND:20260313T030000Z
 LOCATION:IU CINEMA

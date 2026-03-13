@@ -224,6 +224,31 @@ UID:8700
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Elmwood Park will be the host to the Short Track (XCC) Nationa
+ l Championship. This race will attract upwards of 600 athletes covering a
+  variety of experience levels from junior to Elite riders from around the
+  country. This race is a short format race attracting families and specta
+ tors to watch riders work their way through a very technical course that 
+ includes paved surfaces\, grass\, dirt\, steep elevation\, and technical 
+ features both natural and temporary.  \n \nThe race will include an expo 
+ area that features good and beverage vendors\, local community partner te
+ nts\, local vendors\, and music throughout. There will be programming on 
+ the main stage that includes a daily awards podium. This event is part of
+  the larger\; longer National Championship throughout the week at multipl
+ e venues including Carvins Cove XCM Championship. https://www.roanokeva.g
+ ov/calendar.aspx?EID=8887
+DTEND;TZID=America/New_York;VALUE=DATE:20260716
+DTSTAMP;TZID=America/New_York:20260312T125803
+DTSTART;TZID=America/New_York;VALUE=DATE:20260715
+LAST-MODIFIED;TZID=America/New_York:20260312T125803
+LOCATION:Elmwood Park - 706 S Jefferson St.  Roanoke VA 24011
+SEQUENCE:0
+SUMMARY:USA Cycling Endurance Mountain Bike Short Track (XCC) National Cha
+ mpionship
+UID:8887
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Carvins Cove \nRace begins and finishes at Hollins University.
   The riders access carvins cove via the boat dock (permissions granted by
   WVA Water Authority). Looped course. Closed to non participant.  \n \nRo
@@ -762,6 +787,21 @@ LOCATION:<p>Market Square Plaza&nbsp\;</p> -   Roanoke VA 24011
 SEQUENCE:0
 SUMMARY:Miniatures in the Market
 UID:8862
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annual Strawberry Festival serving shortcakes and chocolate co
+ vered berries.  There will also be two food trucks serving lunch  type it
+ ems.  Local music entertainment on Saturday.  15-20 artisan vendors each 
+ day. https://www.roanokeva.gov/calendar.aspx?EID=8888
+DTEND;TZID=America/New_York;VALUE=DATE:20260502
+DTSTAMP;TZID=America/New_York:20260312T150837
+DTSTART;TZID=America/New_York;VALUE=DATE:20260501
+LAST-MODIFIED;TZID=America/New_York:20260312T150837
+LOCATION:Elmwood Park - 706 S Jefferson St.  Roanoke VA 24011
+SEQUENCE:0
+SUMMARY:2026 Community School Strawberry Festival
+UID:8888
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT

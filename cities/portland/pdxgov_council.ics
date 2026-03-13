@@ -4,31 +4,6 @@ PRODID:-//Portland Council Meetings//portland.gov//
 X-WR-CALNAME:Portland Council Meetings
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Labor and Workforce Development Committee Meeting
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T120000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T120000
-UID:5551f3cf2fe0f713b3410a43573ddc02@portland.gov
-DESCRIPTION:
-LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
- um Portland\,\n                                OR\n                       
-                    97204 Get Directions More about this location
-URL:https://www.portland.gov/auditor/council-clerk/events/2026/3/12/labor-
- and-workforce-development-committee-meeting
-X-SOURCE:Portland Council Meetings
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City Council Executive Session
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T143000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T143000
-UID:d6feaa3234774346628b37456dee018b@portland.gov
-DESCRIPTION:
-LOCATION:City Hall 1221 SW Fourth Avenue Rose Room Portland\, OR 97204 Get
-  Directions More information about this room
-URL:https://www.portland.gov/auditor/council-clerk/events/2026/3/12/city-c
- ouncil-executive-session
-X-SOURCE:Portland Council Meetings
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:City Council Work Session
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260317T123000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260317T123000
@@ -115,6 +90,21 @@ URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/1/city-co
 X-SOURCE:Portland Council Meetings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finance and Governance Committee (Committee of the Whole) meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260402T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260402T093000
+UID:66d72fb1884fb2620e4475b10a2e68a8@portland.gov
+DESCRIPTION:The Finance and Governance Committee meets on the first\, seco
+ nd\, and fourth Thursday at 9:30 a.m. and the third Wednesday at 2:00 p.m.
+  of each month.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/2/finance
+ -and-governance-committee-committee-whole-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:City Council Meeting (tentative)
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260402T093000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260402T093000
@@ -128,6 +118,34 @@ LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
                     97204 Get Directions More about this location
 URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/2/city-co
  uncil-meeting-tentative
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community and Public Safety Committee meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260407T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260407T093000
+UID:2337f0383f6440764fa86bfb12567b13@portland.gov
+DESCRIPTION:The Community and Public Safety Committee meets on the first a
+ nd third Tuesday of each month at 9:30 a.m.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/7/communi
+ ty-and-public-safety-committee-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Housing and Permitting Committee meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260407T140000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260407T140000
+UID:79e56872a844cff790774cb391bc8c61@portland.gov
+DESCRIPTION:The Housing and Permitting Committee meets on the first and th
+ ird Tuesday of each month at 2:00 p.m.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/7/housing
+ -and-permitting-committee-meeting
 X-SOURCE:Portland Council Meetings
 END:VEVENT
 BEGIN:VEVENT
@@ -147,6 +165,21 @@ URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/8/city-co
 X-SOURCE:Portland Council Meetings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Finance and Governance Committee (Committee of the Whole) meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260409T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260409T093000
+UID:2c9fec149017e8d326ba53c271da4157@portland.gov
+DESCRIPTION:The Finance and Governance Committee meets on the first\, seco
+ nd\, and fourth Thursday at 9:30 a.m. and the third Wednesday at 2:00 p.m.
+  of each month.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/9/finance
+ -and-governance-committee-committee-whole-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:City Council Executive Session
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260409T143000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260409T143000
@@ -156,6 +189,49 @@ LOCATION:City Hall 1221 SW Fourth Avenue Rose Room Portland\, OR 97204 Get
   Directions More information about this room
 URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/9/city-co
  uncil-executive-session
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Works Committee meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260414T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260414T093000
+UID:88dc5492b4c99f2bcc8f606739814a9d@portland.gov
+DESCRIPTION:The Public Works Committee meets on the second and fourth Tues
+ day of each month at 9:30 a.m.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/14/public
+ -works-committee-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City Life Committee meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260414T140000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260414T140000
+UID:5533855956c200559991b12d9749ef92@portland.gov
+DESCRIPTION:The City Life Committee meets on the second and fourth Tuesday
+  of each month at 2:00 p.m.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/14/city-l
+ ife-committee-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finance and Governance Committee (Committee of the Whole) meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260415T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260415T093000
+UID:1318a4aa57d23437bdb2681900a38ed4@portland.gov
+DESCRIPTION:The Finance and Governance Committee meets on the first\, seco
+ nd\, and fourth Thursday at 9:30 a.m. and the third Wednesday at 2:00 p.m.
+  of each month.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/15/financ
+ e-and-governance-committee-committee-whole-meeting
 X-SOURCE:Portland Council Meetings
 END:VEVENT
 BEGIN:VEVENT
@@ -230,6 +306,21 @@ LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
                     97204 Get Directions More about this location
 URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/22/city-c
  ouncil-meeting
+X-SOURCE:Portland Council Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finance and Governance Committee (Committee of the Whole) meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260423T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260423T093000
+UID:cd20e45853851c55dc60a826f7a1a216@portland.gov
+DESCRIPTION:The Finance and Governance Committee meets on the first\, seco
+ nd\, and fourth Thursday at 9:30 a.m. and the third Wednesday at 2:00 p.m.
+  of each month.
+LOCATION:City Council Chambers 1221 SW Fourth Avenue Second Floor Auditori
+ um Portland\,\n                                OR\n                       
+                    97204 Get Directions More about this location
+URL:https://www.portland.gov/auditor/council-clerk/events/2026/4/23/financ
+ e-and-governance-committee-committee-whole-meeting
 X-SOURCE:Portland Council Meetings
 END:VEVENT
 BEGIN:VEVENT

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_313591914@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260314T083000
 DTEND;TZID=America/Los_Angeles:20260314T103000
 SUMMARY:Maple-Wildwood Loop + Coffee! 🍀
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313682975@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260318T183000
 DTEND;TZID=America/Los_Angeles:20260318T200000
 SUMMARY:Leif-Alder-Aspen (or Wild Cherry) Loop - Eve Run ed.
@@ -57,10 +57,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313518505@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260319T183000
 DTEND;TZID=America/Los_Angeles:20260319T210000
-SUMMARY:Trail Running Film Fest 2026!
+SUMMARY:SOLD OUT: Trail Running Film Fest 2026
 DESCRIPTION:Portland Trail Runners\nJoin us at **The Mountain Shop** on **Thursday\, March 19th from 6:30-8:30pm** for the ***Trail Running Film Festival*** Portland stop! The TRFF is a collaborative festival that focuses on an equitable future where everyone is celebrated on trails and within our broader trail running culture.\n\nThis will be a selection of films from multiple filmmakers\, who all celebrate running as a universal practice to explore our collective and individual potential to pursue our wildest dreams.\n\n**Buy your Tickets here!** https://www.eventbrite.com/e/mountain-shop-presents-the-trail-running-film-festival-tickets-1983922266906?aff=oddtdtcreator\n\n**New Store Location:**\n**Mountain Shop**\n**1205 NE 33rd Ave.**\n**Portland\, OR 97232**
 URL;VALUE=URI:https://www.meetup.com/portland-trail-runners-group/events/313518505/
 STATUS:CONFIRMED
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313580417@meetup.com
 SEQUENCE:1
-DTSTAMP:20260312T183250Z
+DTSTAMP:20260313T023247Z
 DTSTART;TZID=America/Los_Angeles:20260328T190000
 DTEND;TZID=America/Los_Angeles:20260328T223000
 SUMMARY:🎤 PTR Karaoke Night: Jeff & Julie are getting Married! 🎉

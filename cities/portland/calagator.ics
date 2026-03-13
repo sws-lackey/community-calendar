@@ -52,6 +52,32 @@ LOCATION:Inner SE Portland: \, Portland Oregon  United States
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T235836Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T180000
+DTSTAMP;VALUE=DATE-TIME:20260312T235836Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T235836Z
+UID:http://calagator.org/events/1250482505
+DESCRIPTION:​Better Futures Club is a weekly event (alternating Tuesdays 
+ and Thursdays) focused on imagining and making better futures.&#13\;\n&#
+ 13\;\nImagine an artist community\, a think tank\, and a research center
+  in the same building. People in all of those fields working alongside e
+ ach other imagining and creating different futures together. Cross polli
+ nation and inspiration. Liberal Arts and STEM and R&amp\;D. Photographer
+ s\, physicists\, authors\, astronomers\, musicians\, makers\, mathematic
+ ians\, designers\, developers\, fashionistas\, climatologists and all ma
+ nner of imaginative optimists.&#13\;\n&#13\;\nAll Better Futures Club ev
+ ents are covered by the Contributor Covenant Code of Conduct (https://ww
+ w.contributor-covenant.org)\n\nTags: ruby\, STEM\, liberal arts\, commun
+ ity\, hacking\, AI\n\nImported from: http://calagator.org/events/1250482
+ 505
+URL:https://betterfutures.club
+SUMMARY:Better Futures Club
+LOCATION:Ctrl-H / PDX Hackerspace: 7608 N Interstate Ave\, Portland OR 97
+ 217 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
 CREATED;VALUE=DATE-TIME:20260201T100647Z
 DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T163000
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T120000
@@ -105,6 +131,65 @@ URL:https://pdxlinux.org/
 SUMMARY:Portland Linux/Unix Group's Monthly Linux Clinic
 LOCATION:Ecotrust (Jean Vollum Natural Capital Center): 721 NW Ninth Ave\
  , Portland Oregon 97209 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T222728Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260317T173000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260317T151500
+DTSTAMP;VALUE=DATE-TIME:20260312T222728Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T222728Z
+UID:http://calagator.org/events/1250482504
+DESCRIPTION:AI is rewriting the rules of work and the winners will be the
+  progressive people and culture leaders who know how to put it to work\,
+  fast.&#13\;\n&#13\;\n​​Hosted by Technology Association of Oregon and U
+ pstart Collective\, join us for a high-energy afternoon of demos and pra
+ ctical case studies from some of Portland’s most exciting AI startups an
+ d technology leaders\, all focused on making work better for people.&#13
+ \;\n&#13\;\n**​Start with &quot\;what sucks&quot\;**&#13\;\nDavid Long\,
+  VP of Digital &amp\; Innovation at [Portland Trail Blazers](https://www
+ .nba.com/blazers/)&#13\;\n&#13\;\n**​Where the AI puck is going accordin
+ g to 2\,000 HR leaders**&#13\;\nDiane Haines\, Chief Marketing Officer&#
+ 13\;\n&#13\;\n**​Empowering your people to build their own solutions**&#
+ 13\;\nStephen Sklarew\, CEO at [Synaptiq](https://www.synaptiq.ai/)&#13\
+ ;\n&#13\;\n**Feedback and coaching at the speed of voice**&#13\;\nAaron 
+ Ward\, CEO at [Huckleberry](http://gethuckleberry.com/)&#13\;\n&#13\;\nI
+ t's one hour of practical Al-tools that you can put to work the next day
+ \, MC'd by Nathan Christensen and followed by drinks\, snacks and note-s
+ wapping with other progressive thinkers like you.&#13\;\n&#13\;\n​If you
+ 're an HR leader\, business leader or team manager looking to gain an ed
+ ge with AI\, this event is for you. &#13\;\n&#13\;\nSeats are strictly l
+ imited by the venue\, you should register right now..\n\nTags: AI\, hr\n
+ \nImported from: http://calagator.org/events/1250482504
+URL:https://luma.com/rbe2v6r0
+SUMMARY:AI ❤️ HR Portland: Make Work Better
+LOCATION:Big Pink: 111 Southwest 5th Avenue\, Portland OR 97204 US
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T235916Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260317T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260317T180000
+DTSTAMP;VALUE=DATE-TIME:20260312T235916Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T235916Z
+UID:http://calagator.org/events/1250482506
+DESCRIPTION:​Better Futures Club is a weekly event (alternating Tuesdays 
+ and Thursdays) focused on imagining and making better futures.&#13\;\n&#
+ 13\;\nImagine an artist community\, a think tank\, and a research center
+  in the same building. People in all of those fields working alongside e
+ ach other imagining and creating different futures together. Cross polli
+ nation and inspiration. Liberal Arts and STEM and R&amp\;D. Photographer
+ s\, physicists\, authors\, astronomers\, musicians\, makers\, mathematic
+ ians\, designers\, developers\, fashionistas\, climatologists and all ma
+ nner of imaginative optimists.&#13\;\n&#13\;\nAll Better Futures Club ev
+ ents are covered by the Contributor Covenant Code of Conduct (https://ww
+ w.contributor-covenant.org)\n\nTags: ruby\, STEM\, liberal arts\, commun
+ ity\, hacking\, AI\n\nImported from: http://calagator.org/events/1250482
+ 506
+URL:https://betterfutures.club
+SUMMARY:Better Futures Club
+LOCATION:Ctrl-H / PDX Hackerspace: 7608 N Interstate Ave\, Portland OR 97
+ 217 us
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
@@ -292,6 +377,45 @@ LOCATION:Capital One Café: 625 SW Broadway\, Portland OR 97205 us
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T185711Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260322T140000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260322T130000
+DTSTAMP;VALUE=DATE-TIME:20260312T185711Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T185711Z
+UID:http://calagator.org/events/1250482503
+DESCRIPTION:This one-hour tour of the [Portland Art Museum](https://portl
+ andartmuseum.org/) will include a tour of accessibility features\, follo
+ wed by an exploration of the museum's tactile graphics.&#13\;\n&#13\;\nT
+ he studio has been reserved - so we will have a quiet place to talk and 
+ explore the tactiles. Personal belongings can be left in this area durin
+ g the tour\, as the studio will be securely locked.&#13\;\n&#13\;\n**Thi
+ s tour is being offered free of charge\, but an RSVP is required.** Once
+  the tour is completed\, food and beverages can be purchased at Coquelic
+ o within the Portland Art Museum. Attendees can continue to tour the mus
+ eum if they wish.&#13\;\n&#13\;\n**Museum Staff Request:** Please avoid 
+ wearing scented body and laundry products\, as well as essential oils.&#
+ 13\;\n&#13\;\n**Accessibility Request:** The Portland Art Museum (PAM) n
+ ow has elevators and an accessible entrance. Here are further details on
+  the [PAM's accessibility offerings](https://portlandartmuseum.org/acces
+ sibility/). Please let us know if you have any accommodation requests\, 
+ such as stools\, etc.&#13\;\n&#13\;\n**Where to Meet:** The lobby\, more
+  details to come. Please look for our logo.\n\nTags: User Research\, a11
+ y\, accessibility\, accessibility lawsuits\, accessible technology\, acc
+ essible web design\, disability\, human rights\, inclusive design\, meet
+ up:event=313739561\, meetup:group=Portland-Accessibility-and-User-Experi
+ ence-Meetup\, mobile user experience\, screen reader\, structured negoti
+ ation\, technology\, universal design\, usability\, user experience\, wc
+ ag\, web accessibility\, web design\, art\, museum\n\nImported from: htt
+ p://calagator.org/events/1250482503
+URL:https://pdxa11yux.org/events/2026/03/22/portland-art-museum-accessibi
+ lity-tour.html
+SUMMARY:Portland Accessibility and User Experience Meetup (PDX A11Y UX) -
+  Portland Art Museum Accessibility Tour
+LOCATION:Portland Art Museum: 1219 SW Park Avenue\, Portland Oregon 97205
+  US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
 CREATED;VALUE=DATE-TIME:20260310T230407Z
 DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260324T220000
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260324T190000
@@ -347,6 +471,58 @@ SUMMARY:PDXOSGeo March Meetup
 LOCATION:Ecotrust Building: 721 Northwest 9th Avenue\, Portland OR 97209 
  US
 SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T235931Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260326T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260326T180000
+DTSTAMP;VALUE=DATE-TIME:20260312T235931Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T235931Z
+UID:http://calagator.org/events/1250482507
+DESCRIPTION:​Better Futures Club is a weekly event (alternating Tuesdays 
+ and Thursdays) focused on imagining and making better futures.&#13\;\n&#
+ 13\;\nImagine an artist community\, a think tank\, and a research center
+  in the same building. People in all of those fields working alongside e
+ ach other imagining and creating different futures together. Cross polli
+ nation and inspiration. Liberal Arts and STEM and R&amp\;D. Photographer
+ s\, physicists\, authors\, astronomers\, musicians\, makers\, mathematic
+ ians\, designers\, developers\, fashionistas\, climatologists and all ma
+ nner of imaginative optimists.&#13\;\n&#13\;\nAll Better Futures Club ev
+ ents are covered by the Contributor Covenant Code of Conduct (https://ww
+ w.contributor-covenant.org)\n\nTags: ruby\, STEM\, liberal arts\, commun
+ ity\, hacking\, AI\n\nImported from: http://calagator.org/events/1250482
+ 507
+URL:https://betterfutures.club
+SUMMARY:Better Futures Club
+LOCATION:Ctrl-H / PDX Hackerspace: 7608 N Interstate Ave\, Portland OR 97
+ 217 us
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260312T235956Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260331T210000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260331T180000
+DTSTAMP;VALUE=DATE-TIME:20260312T235956Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260312T235956Z
+UID:http://calagator.org/events/1250482508
+DESCRIPTION:​Better Futures Club is a weekly event (alternating Tuesdays 
+ and Thursdays) focused on imagining and making better futures.&#13\;\n&#
+ 13\;\nImagine an artist community\, a think tank\, and a research center
+  in the same building. People in all of those fields working alongside e
+ ach other imagining and creating different futures together. Cross polli
+ nation and inspiration. Liberal Arts and STEM and R&amp\;D. Photographer
+ s\, physicists\, authors\, astronomers\, musicians\, makers\, mathematic
+ ians\, designers\, developers\, fashionistas\, climatologists and all ma
+ nner of imaginative optimists.&#13\;\n&#13\;\nAll Better Futures Club ev
+ ents are covered by the Contributor Covenant Code of Conduct (https://ww
+ w.contributor-covenant.org)\n\nTags: ruby\, STEM\, liberal arts\, commun
+ ity\, hacking\, AI\n\nImported from: http://calagator.org/events/1250482
+ 508
+URL:https://betterfutures.club
+SUMMARY:Better Futures Club
+LOCATION:Ctrl-H / PDX Hackerspace: 7608 N Interstate Ave\, Portland OR 97
+ 217 us
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED;VALUE=DATE-TIME:20260309T173723Z

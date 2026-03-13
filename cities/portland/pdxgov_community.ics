@@ -62,18 +62,6 @@ URL:https://www.portland.gov/civic/myneighborhood/events/2026/3/7/foster-p
 X-SOURCE:Portland Community Events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:District 1 Budget Survey Virtual Party
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T123000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T123000
-UID:3d1d87ae382d0bb06223e795f440c0bb@portland.gov
-DESCRIPTION:This informal online gathering is an opportunity to learn more
-  about the survey\, ask questions\, share your priorities\, and connect wi
- th neighbors.
-URL:https://www.portland.gov/council/districts/1/candace-avalos/events/202
- 6/3/12/district-1-budget-survey-virtual-party
-X-SOURCE:Portland Community Events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Safe Ride Home St. Patrick's Day Weekend 2026
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260313T023000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260318T000000
@@ -325,6 +313,23 @@ URL:https://www.portland.gov/parks/events/2026/3/28/summer-career-fair-por
 X-SOURCE:Portland Community Events
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:'Scht Wiwnu Park Naming Ceremony
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260328T150000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260328T150000
+UID:3f72cbfbd0c39a7d294fdf7ff3cfe696@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/-Scht-Wiwnu-Park---photo-courtesy-of-Portland-Par
+ ks---Recreation.JPG?itok=qpVgoi9I
+DESCRIPTION:Join us to celebrate the new\, permanent name for the former C
+ uster Park. 'Scht Wiwnu (ish-chit way-el-noo) means "the path of the huckl
+ eberries" and comes from Ichishkin Sńwit\, a language spoken by Native Am
+ erican tribes from the Columbia River area.
+LOCATION:'Scht Wiwnu Park
+URL:https://www.portland.gov/parks/events/2026/3/28/scht-wiwnu-park-naming
+ -ceremony
+X-SOURCE:Portland Community Events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:An Afternoon of Chamber Music
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260329T133000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260329T133000
@@ -525,9 +530,7 @@ DTEND;TZID=PDT;VALUE=DATE-TIME:20260417T180000
 UID:d710eb83ced842ca2c29fbfc6b44f950@portland.gov
 DESCRIPTION:Join Urban Forestry and the Bureau of Transportation for tree 
  walk near Alberta Park.
-LOCATION:Midland Library 805 SE 122nd Ave Portland\n                      
-     \, OR\n                           97233 Get Directions More about this
-  location
+LOCATION:Alberta Park
 URL:https://www.portland.gov/trees/get-involved/events/2026/4/17/earth-day
  -tree-walk-bureau-transportation
 X-SOURCE:Portland Community Events

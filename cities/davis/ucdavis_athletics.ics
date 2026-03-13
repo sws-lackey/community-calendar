@@ -6,28 +6,6 @@ X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 SUMMARY:University of California\, Davis  Women's Swimming & Diving vs Big
   West Championship
-DTSTART;VALUE=DATE-TIME:20260211T183000Z
-DTEND;VALUE=DATE-TIME:20260211T213000Z
-UID:vcal_28755-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Women's Swimming & Diving vs 
- Big West Championship
-LOCATION:Houston\, Texas
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28755&sport_id=21
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POSTPONED University of California\, Davis  Softball at Pacific
-DTSTART;VALUE=DATE-TIME:20260211T230000Z
-DTEND;VALUE=DATE-TIME:20260212T010000Z
-UID:vcal_28849-ucdavisaggies.com
-DESCRIPTION:POSTPONED University of California\, Davis Softball at Pacific
-LOCATION:Stockton\, Calif.
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28849&sport_id=13
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Women's Swimming & Diving vs Big
-  West Championship
 DTSTART;VALUE=DATE-TIME:20260212T160000Z
 DTEND;VALUE=DATE-TIME:20260212T190000Z
 UID:vcal_29045-ucdavisaggies.com
@@ -1540,55 +1518,60 @@ URL:https://ucdavisaggies.com/calendar.aspx?game_id=29057&sport_id=21
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Women's Swimming & Diving vs NCA
- A Zone E Championships (Platform)
+SUMMARY:[N] University of California\, Davis  Women's Swimming & Diving vs
+  NCAA Zone E Championships (Platform)
 DTSTART;VALUE=DATE-TIME:20260311T183000Z
 DTEND;VALUE=DATE-TIME:20260311T213000Z
 UID:vcal_29058-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Women's Swimming & Diving vs 
- NCAA Zone E Championships (Platform)
+DESCRIPTION:[N] University of California\, Davis Women's Swimming & Diving
+  vs NCAA Zone E Championships (Platform)
 LOCATION:Flagstaff\, Ariz.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=29058&sport_id=21
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Men's Basketball vs UC Santa Bar
- bara
+SUMMARY:[W] University of California\, Davis  Men's Basketball vs UC Santa
+  Barbara - First Round
 DTSTART;VALUE=DATE-TIME:20260312T033000Z
 DTEND;VALUE=DATE-TIME:20260312T053000Z
 UID:vcal_29053-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Men's Basketball vs UC Santa 
- Barbara TV: ESPN+ Streaming Video: https://www.espn.com/watch/player/_/id/
- 070aa6cf-b957-4211-931a-baa4ebc826d9?om-navmethod=espn:globalsearch:result
- s Streaming Audio: https://ucdavisaggies.com/showcase?Live=2536 Tickets: h
- ttps://ucdavisaggies.evenue.net/item/MB2526/BWT26
+DESCRIPTION:[W] University of California\, Davis Men's Basketball vs UC Sa
+ nta Barbara - First Round W 79-73 TV: ESPN+ Streaming Video: https://www.e
+ spn.com/watch/player/_/id/070aa6cf-b957-4211-931a-baa4ebc826d9?om-navmetho
+ d=espn:globalsearch:results Streaming Audio: https://ucdavisaggies.com/sho
+ wcase?Live=2536 Tickets: https://ucdavisaggies.evenue.net/item/MB2526/BWT2
+ 6
 LOCATION:Henderson\, Nev.\, Lee's Family Forum
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=29053&sport_id=8
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Men's Basketball vs Big West Con
- ference
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260313
-UID:vcal_29054-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Men's Basketball vs Big West 
- Conference TV: ESPN+ Tickets: https://ucdavisaggies.evenue.net/item/MB2526
- /BWT26
-LOCATION:Henderson\, Nev.\, Lee's Family Forum
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=29054&sport_id=8
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Women's Basketball vs UC Riversi
- de
+SUMMARY:[W] University of California\, Davis  Women's Basketball vs UC Riv
+ erside
 DTSTART;VALUE=DATE-TIME:20260312T213000Z
 DTEND;VALUE=DATE-TIME:20260312T233000Z
 UID:vcal_28632-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Women's Basketball vs UC Rive
- rside Streaming Audio: https://ucdavisaggies.com/showcase?Live=2535
+DESCRIPTION:[W] University of California\, Davis Women's Basketball vs UC 
+ Riverside W 70-59 Streaming Video: https://www.espn.com/watch/player/_/id/
+ 6305a70a-8cdc-4875-bef1-1d4429c82365?om-navmethod=espn:globalsearch:result
+ s Streaming Audio: https://ucdavisaggies.com/showcase?Live=2535
 LOCATION:Henderson\, Nev.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28632&sport_id=15
+X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of California\, Davis  Men's Basketball vs Cal State Fu
+ llerton - Second Round
+DTSTART;VALUE=DATE-TIME:20260313T033000Z
+DTEND;VALUE=DATE-TIME:20260313T053000Z
+UID:vcal_29054-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Men's Basketball vs Cal State
+  Fullerton - Second Round TV: ESPN+ Streaming Video: https://www.espn.com/
+ watch/catalog/a539c1a7-8c16-49f2-a9e7-a6dce381c230/big-west-conference Str
+ eaming Audio: https://ucdavisaggies.com/showcase?Live=2537 Tickets: https:
+ //ucdavisaggies.evenue.net/item/MB2526/BWT26
+LOCATION:Henderson\, Nev.\, Lee's Family Forum
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=29054&sport_id=8
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -1621,9 +1604,25 @@ SUMMARY:University of California\, Davis  Softball at UC San Diego
 DTSTART;VALUE=DATE-TIME:20260313T200000Z
 DTEND;VALUE=DATE-TIME:20260313T220000Z
 UID:vcal_28921-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Softball at UC San Diego
+DESCRIPTION:University of California\, Davis Softball at UC San Diego Stre
+ aming Video: https://www.espn.com/watch/player/_/id/3926b532-4636-444c-87d
+ 0-e17667b707f4
 LOCATION:La Jolla\, Caif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28921&sport_id=13
+X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of California\, Davis  Women's Basketball vs UC San Die
+ go
+DTSTART;VALUE=DATE-TIME:20260313T213000Z
+DTEND;VALUE=DATE-TIME:20260313T233000Z
+UID:vcal_29060-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Women's Basketball vs UC San 
+ Diego Streaming Video: https://www.espn.com/watch/player/_/id/40fb883c-0aa
+ c-4ffe-94ba-d1a6bbb9e00a?om-navmethod=espn:globalsearch:results Streaming 
+ Audio: https://ucdavisaggies.com/showcase?Live=2538
+LOCATION:Henderson\, Nev.
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=29060&sport_id=15
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -1631,7 +1630,9 @@ SUMMARY:University of California\, Davis  Softball at UC San Diego
 DTSTART;VALUE=DATE-TIME:20260313T220000Z
 DTEND;VALUE=DATE-TIME:20260314T000000Z
 UID:vcal_28922-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Softball at UC San Diego
+DESCRIPTION:University of California\, Davis Softball at UC San Diego Stre
+ aming Video: https://www.espn.com/watch/player/_/id/5010dbd0-6c0e-4f23-af4
+ 3-bf2c9e942016
 LOCATION:La Jolla\, Caif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28922&sport_id=13
 X-SOURCE:UC Davis Athletics
@@ -1678,7 +1679,8 @@ DTSTART;VALUE=DATE-TIME:20260314T010000Z
 DTEND;VALUE=DATE-TIME:20260314T040000Z
 UID:vcal_28669-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Women's Lacrosse vs Marist - 
- Morgan's Message TV: YouTube
+ Morgan's Message TV: YouTube Streaming Video: https://www.youtube.com/watc
+ h?v=sHaSnTynGck
 LOCATION:Davis\, Calif.\, UC Davis Health Stadium
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28669&sport_id=19
 X-SOURCE:UC Davis Athletics
@@ -1725,7 +1727,9 @@ SUMMARY:University of California\, Davis  Softball at UC San Diego
 DTSTART;VALUE=DATE-TIME:20260314T180000Z
 DTEND;VALUE=DATE-TIME:20260314T200000Z
 UID:vcal_28923-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Softball at UC San Diego
+DESCRIPTION:University of California\, Davis Softball at UC San Diego Stre
+ aming Video: https://www.espn.com/watch/player/_/id/d2776562-0f8c-4903-a4c
+ 0-53111d509fe5
 LOCATION:La Jolla\, Caif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28923&sport_id=13
 X-SOURCE:UC Davis Athletics
@@ -1790,12 +1794,13 @@ X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of California\, Davis  Women's Gymnastics at California
- /Washington
+ /Washington/Penn
 DTSTART;VALUE=DATE-TIME:20260315T210000Z
 DTEND;VALUE=DATE-TIME:20260316T000000Z
 UID:vcal_28821-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Women's Gymnastics at Califor
- nia/Washington
+ nia/Washington/Penn Streaming Video: https://www.espn.com/watch/player/_/i
+ d/c19124e6-8f62-492a-9f75-b5df2a561371
 LOCATION:Berkeley\, Calif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28821&sport_id=18
 X-SOURCE:UC Davis Athletics
@@ -2407,6 +2412,17 @@ URL:https://ucdavisaggies.com/calendar.aspx?game_id=28898&sport_id=14
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of California\, Davis  Track and Field at Texas Relays
+DTSTART;VALUE=DATE-TIME:20260403T150000Z
+DTEND;VALUE=DATE-TIME:20260403T180000Z
+UID:vcal_28895-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Track and Field at Texas Rela
+ ys
+LOCATION:Austin\, Texas
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=28895&sport_id=14
+X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of California\, Davis  Track and Field at Stanford Invi
  te
 DTSTART;VALUE=DATE-TIME:20260403T150000Z
@@ -2416,17 +2432,6 @@ DESCRIPTION:University of California\, Davis Track and Field at Stanford I
  nvite
 LOCATION:Stanford\, Calif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28900&sport_id=14
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Track and Field at Texas Relays
-DTSTART;VALUE=DATE-TIME:20260403T150000Z
-DTEND;VALUE=DATE-TIME:20260403T180000Z
-UID:vcal_28895-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Track and Field at Texas Rela
- ys
-LOCATION:Austin\, Texas
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28895&sport_id=14
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -2504,14 +2509,15 @@ URL:https://ucdavisaggies.com/calendar.aspx?game_id=28791&sport_id=24
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Track and Field at Texas Relays
+SUMMARY:University of California\, Davis  Track and Field at Brutus Hamilt
+ on Multis/Invite
 DTSTART;VALUE=DATE-TIME:20260404T150000Z
 DTEND;VALUE=DATE-TIME:20260404T180000Z
-UID:vcal_28896-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Track and Field at Texas Rela
- ys
-LOCATION:Austin\, Texas
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28896&sport_id=14
+UID:vcal_28899-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Track and Field at Brutus Ham
+ ilton Multis/Invite
+LOCATION:Berkeley\, Calif.
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=28899&sport_id=14
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -2527,15 +2533,14 @@ URL:https://ucdavisaggies.com/calendar.aspx?game_id=28901&sport_id=14
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of California\, Davis  Track and Field at Brutus Hamilt
- on Multis/Invite
+SUMMARY:University of California\, Davis  Track and Field at Texas Relays
 DTSTART;VALUE=DATE-TIME:20260404T150000Z
 DTEND;VALUE=DATE-TIME:20260404T180000Z
-UID:vcal_28899-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Track and Field at Brutus Ham
- ilton Multis/Invite
-LOCATION:Berkeley\, Calif.
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28899&sport_id=14
+UID:vcal_28896-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Track and Field at Texas Rela
+ ys
+LOCATION:Austin\, Texas
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=28896&sport_id=14
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -3521,6 +3526,16 @@ UID:vcal_28998-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Baseball vs Hawai'i
 LOCATION:Davis\, Calif.\, Phil Swimley Field at Dobbins Stadium
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28998&sport_id=1
+X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of California\, Davis  Baseball vs CBU
+DTSTART;VALUE=DATE-TIME:20260514T010000Z
+DTEND;VALUE=DATE-TIME:20260514T040000Z
+UID:vcal_28999-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Baseball vs CBU
+LOCATION:Davis\, Calif.\, Phil Swimley Field at Dobbins Stadium
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=28999&sport_id=1
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 END:VCALENDAR

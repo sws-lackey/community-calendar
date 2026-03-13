@@ -34,6 +34,18 @@ UID:1396
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION: https://www.salemva.gov/calendar.aspx?EID=1447
+DTEND;TZID=America/New_York:20260808T235900
+DTSTAMP;TZID=America/New_York:20260312T113400
+DTSTART;TZID=America/New_York:20260808T080000
+LAST-MODIFIED;TZID=America/New_York:20260312T113400
+LOCATION:Longwood Park - 611 E. Main Street  Salem VA 24153
+SEQUENCE:0
+SUMMARY:Salem Distance Run
+UID:1447
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: https://www.salemva.gov/calendar.aspx?EID=1429
 DTEND;TZID=America/New_York:20260326T200000
 DTSTAMP;TZID=America/New_York:20260226T142132

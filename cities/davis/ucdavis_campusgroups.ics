@@ -6145,6 +6145,23 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=908259
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cognitive Science Student Assocation Conference
+DTSTART;VALUE=DATE-TIME:20260502T160000Z
+DTEND;VALUE=DATE-TIME:20260503T000000Z
+UID:67354626d655c809fb09456faf539672392026_7:29:52_AM@campusgroups.com
+DESCRIPTION:The annual CSSA conference is a place for undergraduate and gr
+ aduate students of all majors to learn about cognitive science in both aca
+ demia and in industry. The conference and club aim to empower attendees to
+  learn about the field and the diverse opportunities it entails\, provide 
+ an environment for everyone to broaden their network\, and meet other stud
+ ents. We hope to provide this throughout the conference through many key e
+ vents\, including professional and student networking sessions and interac
+ tive speaker and panel events. --- Event Details: https://aggielife.ucdavi
+ s.edu/rsvp?id=908471
+URL:https://aggielife.ucdavis.edu/rsvp?id=908471
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEDxUCD Conference 2026
 DTSTART;VALUE=DATE-TIME:20260502T170000Z
 DTEND;VALUE=DATE-TIME:20260502T230000Z
@@ -6404,6 +6421,16 @@ DESCRIPTION:Come join us for our weekly Davis Swing Dancers meeting! We me
  every single week. --- Event Details: https://aggielife.ucdavis.edu/rsvp?i
  d=905983
 URL:https://aggielife.ucdavis.edu/rsvp?id=905983
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Meeting
+DTSTART;VALUE=DATE-TIME:20260513T020000Z
+DTEND;VALUE=DATE-TIME:20260513T050000Z
+UID:546c0b50f47ee5f666daee312719e97d12202025_5:25:01_PM@campusgroups.com
+DESCRIPTION:Vegetarian dinner and thoughtful conversations --- Event Detai
+ ls: https://aggielife.ucdavis.edu/rsvp?id=907741
+URL:https://aggielife.ucdavis.edu/rsvp?id=907741
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 END:VCALENDAR

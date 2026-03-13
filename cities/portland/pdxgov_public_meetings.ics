@@ -4,17 +4,6 @@ PRODID:-//Portland Public Meetings//portland.gov//
 X-WR-CALNAME:Portland Public Meetings
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Clean Air Construction Intergovernmental Oversight Meeting
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T150000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T150000
-UID:342e8f71e88c063984e82b558c3603ef@portland.gov
-DESCRIPTION:Regularly scheduled meeting of the Clean Air Construction Inte
- rgovernmental Oversight Committee.
-URL:https://www.portland.gov/procurement/clean-air-construction/events/202
- 6/3/12/clean-air-construction-intergovernmental
-X-SOURCE:Portland Public Meetings
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Structural Engineering Advisory Committee
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260316T100000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260316T100000
@@ -474,6 +463,26 @@ DESCRIPTION:The New Portlanders Policy Commission met to discuss initiativ
  d next steps to amplify their voices in the city of Portland.
 URL:https://www.portland.gov/civic/immigrants/nppc/events/2026/5/12/new-po
  rtlanders-policy-commission-monthly-meeting
+X-SOURCE:Portland Public Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PCEF Committee Meeting – May 13\, 2026
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260513T180000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260513T180000
+UID:ca325c03e0b7eec08c857119b2ad5cd3@portland.gov
+DESCRIPTION:
+URL:https://www.portland.gov/bps/cleanenergy/grant-committee/events/2026/5
+ /13/pcef-committee-meeting-may-13-2026
+X-SOURCE:Portland Public Meetings
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Police Training Advisory Council Meeting
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260513T183000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260513T183000
+UID:5788b104ff05e0e77aff240f6222ad7e@portland.gov
+DESCRIPTION:
+URL:https://www.portland.gov/police/tac/events/2026/5/13/police-training-a
+ dvisory-council-meeting
 X-SOURCE:Portland Public Meetings
 END:VEVENT
 END:VCALENDAR

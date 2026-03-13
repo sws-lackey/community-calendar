@@ -4046,6 +4046,35 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2140/29596380/0/0
+DTSTART:20260410T010000Z
+DTEND:20260410T023000Z
+URL:https://tockify.com/kptv.calendar/detail/2140/1775782800000
+SUMMARY: Matthias Kemeny Lecture Series Presents April Greiman
+DESCRIPTION:The Kemeny Lecture Series\, launched in 2019 with an endowmen
+ t from the Matthias Kemeny Estate\, is a monthly talk series hosted by PS
+ U’s Graphic Design Program. Each discussion features a renowned designer 
+ who is invited to talk about their practice and share their insights on t
+ he world of design. April Greiman–a pioneering designer and transmedia ar
+ tist who helped shape a new visual language for design–will speak on Apri
+ l 9\, 2026. Having worked across publications\, environments\, and digita
+ l media\, Greiman transformed the computer from a production tool into a 
+ creative instrument.\n\n
+CATEGORIES:lecture,portland-state-university,graphic-design
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b3262fee764688667485fe/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:The Kemeny Lecture Series\, launched in 2019 with an
+  endowment from the Matthias Kemeny Estate\, is a monthly talk series hos
+ ted by PSU’s Graphic Design...
+LOCATION:Volumes Design Library\,426 Southwest Harvey Milk Street\, Portl
+ and\, OR 97204\, USA
+CREATED:20260312T204640Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T204640Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6217e973ba0abf09daa7bd89/2104/29596380/0/0
 DTSTART:20260410T010000Z
 DTEND:20260410T030000Z
@@ -4189,6 +4218,38 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2145/29607990/0/0
+DTSTART:20260418T023000Z
+DTEND:20260418T040000Z
+URL:https://tockify.com/kptv.calendar/detail/2145/1776479400000
+SUMMARY: Love\, Shakespeare
+DESCRIPTION:Portland's favorite improvised Shakespeare troupe is attempti
+ ng something new! After tackling Shakespeare's comedies and tragedies\, L
+ ove\, Shakespeare will breathe new life into the Bard's least performed w
+ orks: the Histories. Watch as seasoned Portland comedians attempt somethi
+ ng audacious: a fully improvised Elizabethan history based on audience su
+ ggestions. Each show will be an unpredictable mix of politics\, intrigue\
+ , betrayal\, and succession (all with the group's signature comedic bent)
+ . Follow a merry band of players – former buddies of the great Will himse
+ lf – as they unravel one of Shakespeare's “unfinished” historical gems. P
+ erfect for fans of Game of Thrones or Succession.
+CATEGORIES:improv,comedy,theatre,shakespeare
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b36bbcee76468866eaa4ee/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Portland's favorite improvised Shakespeare troupe is
+  attempting something new! After tackling Shakespeare's comedies and trag
+ edies\, Love\, Shakespeare will...
+X-TKF-PROMOTION-BUTTON;label=Tickets;skip_details=false:https://www.pcs.o
+ rg/events/improv-comedy-love-shakespeare-2
+LOCATION:Portland Center Stage\,128 Northwest 11th Avenue\, Portland\, OR
+  97209\, USA
+CREATED:20260313T014326Z
+DTSTAMP:20260313T023210Z
+LAST-MODIFIED:20260313T014326Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6217e973ba0abf09daa7bd89/2125/29607990/0/0
 DTSTART:20260418T023000Z
 DTEND:20260427T000000Z
@@ -4311,6 +4372,38 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2146/29609430/0/0
+DTSTART:20260419T023000Z
+DTEND:20260419T040000Z
+URL:https://tockify.com/kptv.calendar/detail/2146/1776565800000
+SUMMARY: Love\, Shakespeare
+DESCRIPTION:Portland's favorite improvised Shakespeare troupe is attempti
+ ng something new! After tackling Shakespeare's comedies and tragedies\, L
+ ove\, Shakespeare will breathe new life into the Bard's least performed w
+ orks: the Histories. Watch as seasoned Portland comedians attempt somethi
+ ng audacious: a fully improvised Elizabethan history based on audience su
+ ggestions. Each show will be an unpredictable mix of politics\, intrigue\
+ , betrayal\, and succession (all with the group's signature comedic bent)
+ . Follow a merry band of players – former buddies of the great Will himse
+ lf – as they unravel one of Shakespeare's “unfinished” historical gems. P
+ erfect for fans of Game of Thrones or Succession.
+CATEGORIES:improv,comedy,theatre,shakespeare
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b36bc2ee76468866eab168/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Portland's favorite improvised Shakespeare troupe is
+  attempting something new! After tackling Shakespeare's comedies and trag
+ edies\, Love\, Shakespeare will...
+X-TKF-PROMOTION-BUTTON;label=Tickets;skip_details=false:https://www.pcs.o
+ rg/events/improv-comedy-love-shakespeare-2
+LOCATION:Portland Center Stage\,128 Northwest 11th Avenue\, Portland\, OR
+  97209\, USA
+CREATED:20260313T014332Z
+DTSTAMP:20260313T023210Z
+LAST-MODIFIED:20260313T014332Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6217e973ba0abf09daa7bd89/1871/29616630/0/0
 DTSTART:20260424T023000Z
 DTEND:20260424T043000Z
@@ -4341,6 +4434,50 @@ LOCATION:St. Mary's Cathedral\,1739 Northwest Couch Street\, Portland\, O
 CREATED:20251031T201950Z
 DTSTAMP:20260312T183215Z
 LAST-MODIFIED:20251031T201950Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2144/29618880/0/0
+DTSTART:20260425T160000Z
+DTEND:20260425T220000Z
+URL:https://tockify.com/kptv.calendar/detail/2144/1777132800000
+SUMMARY: Gladstone Arbor Day & Plant Sale
+DESCRIPTION:Join the Friends of Gladstone Nature Park on April 25\, 2026 
+ for our 10th Annual Arbor Day & Plant Sale in the Gladstone Nature Park\,
+  18111 Webster Road in Gladstone.\n\nThe sale runs from 9am to 3pm and in
+ cludes: Oregon native plants\, vegetable starts\, hanging baskets\, peren
+ nials\, kitchen herbs\, mushroom grow-kits\, free seeds for sharing\, fru
+ it and berry plants\, local honey\, tool sharpening\, soil testing\, free
+  kids books\, electronics recycling and concessions.\n\nMany special plan
+ ts from Willamette Valley nurseries will be featured. The Clackamas Count
+ y Library will offer their free seed collection. Kraxberger Robotics team
+  will recycle your electronics. Gladstone High School students will offer
+  herbs from their greenhouse program. Gladstone Baseball Association will
+  have refreshments to purchase to support their teams. We will have our b
+ eautiful hanging baskets for Mother’s Day again.\n\nAre you doing a nativ
+ e garden or Backyard Habitat? We will have abundant varieties of native p
+ lants to get you started and experts on hand to advise you.\n\nThe event 
+ is free and parking is available at the LDS church at 8331 Cason Road\, i
+ n Gladstone. Please use the crosswalk. The park is served by TriMet bus l
+ ines 31 & 32. Proceeds support restoration projects in the Gladstone Natu
+ re Park. A can or 2 of food for our local food bank is much appreciated!\
+ n\nFor more information\, contact: FriendsOfGladstoneNature@gmailcom mail
+ to:FriendsOfGladstoneNature@gmailcom?subject=Plant%20sale .
+CATEGORIES:
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b353dbee76468866c54125/scaled_512.jpg
+X-TKF-CUSTOM-PREVIEW:Join the Friends of Gladstone Nature Park on April 2
+ 5\, 2026 for our 10th Annual Arbor Day & Plant Sale in the Gladstone Natu
+ re Park\, 18111 Webster Road in...
+X-TKF-PROMOTION-BUTTON;label=Gladstone Arbor Day & Plant Sale;skip_detail
+ s=false:https://www.gladstonenaturepark.org/arbor-day-plant-sale-2026.htm
+ l
+LOCATION:Gladstone Nature Park\,18111 Webster Road\, Gladstone\, OR 97027
+ \, USA
+CREATED:20260313T000132Z
+DTSTAMP:20260313T023210Z
+LAST-MODIFIED:20260313T000132Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -4537,6 +4674,30 @@ LOCATION:Tom McCall Waterfront Park\,98 Southwest Naito Parkway\, Portlan
 CREATED:20260223T130706Z
 DTSTAMP:20260312T183215Z
 LAST-MODIFIED:20260223T130706Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2135/29629440/0/0
+DTSTART:20260503T000000Z
+DTEND:20260503T030000Z
+URL:https://tockify.com/kptv.calendar/detail/2135/1777766400000
+SUMMARY: Be Honest Graphic Design Showcase
+DESCRIPTION:PSU’s top-ranked Graphic Design program presents its 17th ann
+ ual Be Honest: Graphic Design Student Showcase. Every spring since 2010\,
+  sophomores\, juniors\, and soon-to-be graduating seniors come together t
+ o show off their work to professionals and the community.\n\n
+CATEGORIES:graphic-design,showcase,portland-state-university
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b32187ee764688666b381f/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:PSU’s top-ranked Graphic Design program presents its
+  17th annual Be Honest: Graphic Design Student Showcase. Every spring sin
+ ce 2010\, sophomores\, juniors\,...
+LOCATION:Weiden + Kennedy\,224 Northwest 13th Avenue\, Portland\, OR 9720
+ 9\, USA
+CREATED:20260312T202650Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T202650Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -5061,6 +5222,36 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2141/29649360/0/0
+DTSTART:20260516T200000Z
+DTEND:20260517T020000Z
+URL:https://tockify.com/kptv.calendar/detail/2141/1778961600000
+SUMMARY: Comics Confluence Festival
+DESCRIPTION:The PSU School of Film presents the second annual Comics Conf
+ luence Festival\, a power-packed day of creativity\, insider knowledge\, 
+ and comic book magic. Co-presented with the Comic Studies program and spo
+ nsored by Dark Horse Comics\, this event features workshops and panel dis
+ cussions led by comics industry professionals and legendary creators like
+  Kelly Sue DeConnick\, Brian Bendis\, David Walker\, and Diana Schutz. A 
+ dedicated tabling section will highlight artwork from students\, recent g
+ raduates\, and emerging pros. Connect with fellow fans\, learn from the b
+ est in the business\, and celebrate everything there is to love about com
+ ics.
+CATEGORIES:film,portland-state-university,comics
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b32633ee7646886674884e/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:The PSU School of Film presents the second annual Co
+ mics Confluence Festival\, a power-packed day of creativity\, insider kno
+ wledge\, and comic book magic....
+LOCATION:Lincoln Hall 331 and 339\,Lincoln Hall\, 1620 Southwest Park Ave
+ nue\, Portland\, OR 97201\, USA
+CREATED:20260312T204644Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T204644Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6217e973ba0abf09daa7bd89/1978/29669370/0/0
 DTSTART:20260530T173000Z
 DTEND:20260531T010000Z
@@ -5115,6 +5306,109 @@ LOCATION:Downtown Canby\,222 Northeast 2nd Avenue\, Canby\, OR 97013\, US
 CREATED:20260309T223226Z
 DTSTAMP:20260312T183215Z
 LAST-MODIFIED:20260309T223226Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2142/29676540/0/0
+DTSTART:20260604T170000Z
+DTEND:20260604T180000Z
+URL:https://tockify.com/kptv.calendar/detail/2142/1780592400000
+SUMMARY: KSMoCA Artists in Residence Deep Time Collective
+DESCRIPTION:Dr. Martin Luther King Jr. School Museum of Contemporary Art 
+ (KSMoCA) is honored to participate in the 2026 Oregon Contemporary Artist
+ s’ Biennial with a project by KSMoCA spring artists-in-residence Amanda L
+ eigh Evans and Tia Kramer\, who collaborate as Deep Time Collective. Deep
+ Time Collective is a collaboration between artists Amanda Leigh Evans and
+  Tia Kramer that unearths how we understand ourselves within the interdep
+ endent constructs of time\, place\, community and landscape. Their work h
+ as been synergistically developed in partnership with artists\, performer
+ s\, geologists\, young people\, mathematicians\, writers\, farmers\, soft
+ ware architects\, mothers\, immigrants and educators.
+CATEGORIES:art,Portland-state-university
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b32638ee7646886674930b/scaled_768.jpg
+X-TKF-CUSTOM-PREVIEW:Dr. Martin Luther King Jr. School Museum of Contempo
+ rary Art (KSMoCA) is honored to participate in the 2026 Oregon Contempora
+ ry Artists’ Biennial with a...
+LOCATION:Dr. Martin Luther King Jr. School Museum of Contemporary Art (KS
+ MoCA)\,4906 Northeast 6th Avenue\, Portland\, OR 97211\, USA
+CREATED:20260312T204648Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T204648Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2143/29677380/0/0
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260608
+URL:https://tockify.com/kptv.calendar/detail/2143/1780642800000
+SUMMARY: PORTLAND STATE UNIVERSITY’S ART + SOCIAL PRACTICE MFA PROGRAM PR
+ ESENTS ASSEMBLY 2026: PUBLIC DOMAIN
+DESCRIPTION:What does public domain mean to you? Is it the physical space
+  and services that belong to a city? Is it knowledge that is free to use?
+  Who is the public domain for? Whose knowledge is considered relevant eno
+ ugh to become part of the public domain? Who gets access to public spaces
+  and why? Why are certain spaces public and others private\, and who deci
+ des which is which?\n\nPSU’s Art + Social Practice MFA students explore t
+ hese questions and more at this year’s conference\, Assembly 2026: Public
+  Domain. The gathering will span three days\, June 5-7\, 2026\, and membe
+ rs of the public are invited to take part in the thought-provoking\, soci
+ ally engaged experiential projects\, workshops\, and performances co-auth
+ ored by PSU’s 2026 Art + Social Practice MFA program – all focused on exp
+ loring questions about the nature of the public domain. All events are fr
+ ee and open to the public. More information can be found at [link]\n\nEac
+ h year since 2014\, students in the Art + Social Practice MFA program at 
+ Portland State University have hosted this annual gathering\, with the ai
+ m of assembling communities around participatory art making\, focused on 
+ a central theme. This year’s Assembly is being hosted with support from t
+ he City of Portland Office of Arts & Culture and will take place in vario
+ us locations downtown and elsewhere around the city\, featuring a total o
+ f 10 events.\n\nThroughout the conference\, workshops\, talks and interac
+ tive art installations embrace the shared emotions and experiences that m
+ ake us human: savoring food and the tastes of home\, raising our voices i
+ n song\, creating a sense of home and safety\, planning a trip to far-flu
+ ng locales\, processing grief through memories\, and much more.\n\n
+CATEGORIES:
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b3263cee76468866749b6e/scaled_896.jpg
+X-TKF-CUSTOM-PREVIEW:What does public domain mean to you? Is it the physi
+ cal space and services that belong to a city? Is it knowledge that is fre
+ e to use? Who is the public...
+LOCATION:location and time vary
+CREATED:20260312T204653Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T204653Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2139/29678310/0/0
+DTSTART:20260605T223000Z
+DTEND:20260606T013000Z
+URL:https://tockify.com/kptv.calendar/detail/2139/1780698600000
+SUMMARY: Portland State University School of Film Annual Showcase
+DESCRIPTION:The School of Film hosts an annual portfolio show and a curat
+ ed showcase of the best in production and writing\, featuring dozens of s
+ hort films made by students in the program. The 2026 Annual Showcase laun
+ ches online at https://www.psufilmspringshowcase.com/films https://www.ps
+ ufilmspringshowcase.com/films in early June\, and will also be held in pe
+ rson.\n\nPortfolio Show\n\n3:30 – 5:30 p.m. in Lincoln Hall 121\n\nOpen H
+ ouse format\n\n\nStudent Work Screening\n\n3:30 – 6:30 p.m. in Studio The
+ ater\, Lincoln Hall 115\n\nDrop-in format\n\nWork will be curated by facu
+ lty and played on a continuous loop.\n\n\nReception\n\n3:30 – 6:30 p.m.\n
+ \nLincoln Hall Lobby\n\n
+CATEGORIES:film,portland-state-university,showcase
+X-TKF-CUSTOM-PREVIEW:The School of Film hosts an annual portfolio show an
+ d a curated showcase of the best in production and writing\, featuring do
+ zens of short films made by...
+LOCATION:Lincoln Hall Lobby\, 121 and Studio Theater\,Lincoln Hall\, 1620
+  Southwest Park Avenue\, Portland\, OR 97201\, USA\, https://www.psufilms
+ pringshowcase.com/films
+CREATED:20260312T203412Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T203412Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -5313,6 +5607,111 @@ LOCATION:Washington County Fairgrounds\,801 Northeast 34th Avenue\, Hills
 CREATED:20260309T225940Z
 DTSTAMP:20260312T183215Z
 LAST-MODIFIED:20260309T225940Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2136/29768700/0/0
+DTSTART:20260807T170000Z
+DTEND:20260808T040000Z
+URL:https://tockify.com/kptv.calendar/detail/2136/1786122000000
+SUMMARY: The Vancouver USA Arts & Music Festival
+DESCRIPTION:Get ready to dive into a world of electrifying creativity Aug
+ . 7-9\, with the Vancouver USA Arts & Music Festival at Esther Short Park
+  in downtown Vancouver\, Washington!\n\nThere is so much to explore at th
+ is free festival\, with outdoor stages\, local art vendors\, a festival a
+ rt exhibition\, family activities and more. Esther Short Park will transf
+ orm into a playground of creativity\, where every corner holds a surprise
+  waiting to be discovered.\n\nImmerse yourself in the rhythm of world-ren
+ owned violinist Pinchas Zukerman\, acclaimed pianist Shelly Berg and cele
+ brated cellist Julian Schwarz as they perform with the Vancouver Symphony
+  Orchestra USA under the direction of Maestro Salvador Brotons and Maestr
+ o Gerard Schwarz.\n\nBrought to you by the Vancouver Symphony Orchestra U
+ SA and the City of Vancouver\, this festival is the city’s signature cult
+ ural event that celebrates culture\, community and the unbridled joy of e
+ xperiencing the arts together.\n\nLearn more at www.vancouverartsandmusic
+ festival.com http://www.vancouverartsandmusicfestival.com
+CATEGORIES:festival,art,music,dance
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b3218dee764688666b446e/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Get ready to dive into a world of electrifying creat
+ ivity Aug. 7-9\, with the Vancouver USA Arts & Music Festival at Esther S
+ hort Park in downtown Vancouver\,...
+LOCATION:Esther Short Park\,605 Esther Street\, Vancouver\, WA 98660\, US
+ A
+CREATED:20260312T202655Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T202655Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2137/29770140/0/0
+DTSTART:20260808T170000Z
+DTEND:20260809T040000Z
+URL:https://tockify.com/kptv.calendar/detail/2137/1786208400000
+SUMMARY: The Vancouver USA Arts & Music Festival
+DESCRIPTION:Get ready to dive into a world of electrifying creativity Aug
+ . 7-9\, with the Vancouver USA Arts & Music Festival at Esther Short Park
+  in downtown Vancouver\, Washington!\n\nThere is so much to explore at th
+ is free festival\, with outdoor stages\, local art vendors\, a festival a
+ rt exhibition\, family activities and more. Esther Short Park will transf
+ orm into a playground of creativity\, where every corner holds a surprise
+  waiting to be discovered.\n\nImmerse yourself in the rhythm of world-ren
+ owned violinist Pinchas Zukerman\, acclaimed pianist Shelly Berg and cele
+ brated cellist Julian Schwarz as they perform with the Vancouver Symphony
+  Orchestra USA under the direction of Maestro Salvador Brotons and Maestr
+ o Gerard Schwarz.\n\nBrought to you by the Vancouver Symphony Orchestra U
+ SA and the City of Vancouver\, this festival is the city’s signature cult
+ ural event that celebrates culture\, community and the unbridled joy of e
+ xperiencing the arts together.\n\nLearn more at www.vancouverartsandmusic
+ festival.com http://www.vancouverartsandmusicfestival.com
+CATEGORIES:festival,art,music,dance
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b32192ee764688666b50f3/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Get ready to dive into a world of electrifying creat
+ ivity Aug. 7-9\, with the Vancouver USA Arts & Music Festival at Esther S
+ hort Park in downtown Vancouver\,...
+LOCATION:Esther Short Park\,605 Esther Street\, Vancouver\, WA 98660\, US
+ A
+CREATED:20260312T202700Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T202700Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2138/29771580/0/0
+DTSTART:20260809T170000Z
+DTEND:20260810T030000Z
+URL:https://tockify.com/kptv.calendar/detail/2138/1786294800000
+SUMMARY: The Vancouver USA Arts & Music Festival
+DESCRIPTION:Get ready to dive into a world of electrifying creativity Aug
+ . 7-9\, with the Vancouver USA Arts & Music Festival at Esther Short Park
+  in downtown Vancouver\, Washington!\n\nThere is so much to explore at th
+ is free festival\, with outdoor stages\, local art vendors\, a festival a
+ rt exhibition\, family activities and more. Esther Short Park will transf
+ orm into a playground of creativity\, where every corner holds a surprise
+  waiting to be discovered.\n\nImmerse yourself in the rhythm of world-ren
+ owned violinist Pinchas Zukerman\, acclaimed pianist Shelly Berg and cele
+ brated cellist Julian Schwarz as they perform with the Vancouver Symphony
+  Orchestra USA under the direction of Maestro Salvador Brotons and Maestr
+ o Gerard Schwarz.\n\nBrought to you by the Vancouver Symphony Orchestra U
+ SA and the City of Vancouver\, this festival is the city’s signature cult
+ ural event that celebrates culture\, community and the unbridled joy of e
+ xperiencing the arts together.\n\nLearn more at www.vancouverartsandmusic
+ festival.com http://www.vancouverartsandmusicfestival.com
+CATEGORIES:festival,art,music,dance
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b32197ee764688666b5213/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Get ready to dive into a world of electrifying creat
+ ivity Aug. 7-9\, with the Vancouver USA Arts & Music Festival at Esther S
+ hort Park in downtown Vancouver\,...
+LOCATION:Esther Short Park\,605 Esther Street\, Vancouver\, WA 98660\, US
+ A
+CREATED:20260312T202705Z
+DTSTAMP:20260312T205059Z
+LAST-MODIFIED:20260312T202705Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT

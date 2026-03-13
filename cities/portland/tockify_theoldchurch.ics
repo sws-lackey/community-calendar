@@ -1460,6 +1460,40 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6255f70a970e2a7c613b11d0/777/29587830/0/0
+DTSTART:20260404T023000Z
+DTEND:20260404T050000Z
+URL:https://events.tocportland.org/theoldchurch/detail/777/1775269800000
+SUMMARY: Tesla City Stories: Live Vintage Radio
+DESCRIPTION:Doors at 6:30pm | All Ages | Bar w/ ID | Tickets $10-60\n\nTh
+ e Tesla City Stories is a monthly night of vintage radio comedy/drama liv
+ e onstage. Straight outta 1944. Laughs\, chills\, romance\, danger\, eats
+ \, beverages\, live Foley/sound F/X\, 1940's live music\, prizes\, audien
+ ce participation.\n\nThe Tesla City Stories return to the stage at the Ol
+ d Church Concert Hall Friday April 3rd at 7:30 PM!\n\nFirst up in an all-
+ new episode of The Wilde Card Mysteries\, a John Doe\, a pawn shop ticket
+ \, and a one word message lead P.I. Jack Wilde to the very height of his 
+ career\, but it’s quite a long way down in “The Cold Client and the Conce
+ rtina!”\n\nThen we return to the romantic obstacle course that is Blevins
+  to Betsy in an episode entitled “What’s In a Name?” Radio stars Blevins 
+ DeBell and Betsy Harper are closer than ever to admitting their feelings 
+ for each other\, so what’s stopping them? Plenty!\n\nMystery\, comedy\, s
+ oap operatics\, and the musical delights of Smut City Jellyroll Society!
+CATEGORIES:
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/6255f64a970e2a
+ 7c613b11a1/69b3205dee7646886668f875/scaled_384.jpg
+X-TKF-CUSTOM-PREVIEW:Doors at 6:30pm | All Ages | Bar w/ ID | Tickets $10
+ -60 The Tesla City Stories is a monthly night of vintage radio comedy/dra
+ ma live onstage. Straight outta...
+X-TKF-PROMOTION-BUTTON;label=TICKETS;skip_details=true:http://teslatix.co
+ m/
+CREATED:20260312T202207Z
+DTSTAMP:20260312T204412Z
+LAST-MODIFIED:20260312T202207Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6255f70a970e2a7c613b11d0/739/29589330/0/0
 DTSTART:20260405T033000Z
 DTEND:20260405T050000Z

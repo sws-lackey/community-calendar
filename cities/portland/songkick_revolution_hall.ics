@@ -5,18 +5,6 @@ X-WR-CALNAME:Revolution Hall
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Aimee Mann\, Jonathan Coulton
-DTSTART;VALUE=DATE-TIME:20260312T200000
-DTEND;VALUE=DATE-TIME:20260312T200000
-UID:06d611a55f079898e1ddb2ef3ad58dea@songkick.com
-DESCRIPTION:Aimee Mann and Jonathan Coulton at Revolution Hall at 2026-03-
- 12T20:00:00-0700
-LOCATION:Revolution Hall\, 1300 SE Stark St.\, Portland\, OR\, 97214
-URL:http://www.songkick.com/concerts/42895640-aimee-mann-at-revolution-hal
- l?utm_medium=organic&utm_source=microformat
-X-SOURCE:Revolution Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aimee Mann\, Jonathan Coulton
 DTSTART;VALUE=DATE-TIME:20260313T200000
 DTEND;VALUE=DATE-TIME:20260313T200000
 UID:d697f2ebf0898f356b3fa42715a6815a@songkick.com

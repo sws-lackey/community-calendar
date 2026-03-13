@@ -222,6 +222,16 @@ URL:https://www.portlandsaturdaymarket.com/events/portland-saturday-market
 X-SOURCE:Portland Saturday Market
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portland Saturday Market Mini Makers Market
+DTSTART;VALUE=DATE-TIME:20260509T170000Z
+DTEND;VALUE=DATE-TIME:20260509T193000Z
+UID:69b076ba63403a315c9654c0@squarespace.com
+DESCRIPTION:
+URL:https://www.portlandsaturdaymarket.com/events/portland-saturday-market
+ -mini-makers-market
+X-SOURCE:Portland Saturday Market
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pugapalooza
 DTSTART;VALUE=DATE-TIME:20250809T170000Z
 DTEND;VALUE=DATE-TIME:20250810T000000Z

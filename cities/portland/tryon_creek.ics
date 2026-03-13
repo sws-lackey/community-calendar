@@ -26,6 +26,28 @@ URL:https://www.tryonfriends.org/calendar/8yaqu1axmjy2i3h7rahio94dq0pipk
 X-SOURCE:Friends of Tryon Creek
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ash & Oak Workshop Series
+DTSTART;VALUE=DATE-TIME:20260328T163000Z
+DTEND;VALUE=DATE-TIME:20260328T193000Z
+UID:69b33e1babb363395d08cb25@squarespace.com
+DESCRIPTION:
+LOCATION:Friends of Tryon Creek - Education Pavilion\, 11321 South Terwill
+ iger Boulevard\, Portland\, OR\, 97219\, United States
+URL:https://www.tryonfriends.org/calendar/ash-oak-workshop-series
+X-SOURCE:Friends of Tryon Creek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ash &amp\; Oak Workshop Series 
+DTSTART;VALUE=DATE-TIME:20260418T163000Z
+DTEND;VALUE=DATE-TIME:20260418T193000Z
+UID:69b34be138ca16524096ee87@squarespace.com
+DESCRIPTION:
+LOCATION:Friends of Tryon Creek - Education Pavilion\, 11321 South Terwill
+ iger Boulevard\, Portland\, OR\, 97219\, United States
+URL:https://www.tryonfriends.org/calendar/ash-oak-workshop-series-3th2c
+X-SOURCE:Friends of Tryon Creek
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FULL Full Moon Hike
 DTSTART;VALUE=DATE-TIME:20260304T014500Z
 DTEND;VALUE=DATE-TIME:20260304T024500Z
