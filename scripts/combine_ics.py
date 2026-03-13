@@ -445,6 +445,7 @@ SOURCE_NAMES = {
     'editor_publisher': 'Editor & Publisher',
     'eventbrite_coop_media': 'Center for Cooperative Media',
     'eventbrite_ap': 'Associated Press',
+    'ona_events': 'Online News Association',
 }
 
 # Fallback URLs for sources whose ICS events lack a URL property.

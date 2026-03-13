@@ -23,9 +23,9 @@ No geolocation filtering applied.
 - [ ] Editor & Publisher — `editor_publisher.py` (HTML scraper, industry conference calendar)
 - [ ] Center for Cooperative Media — `eventbrite.py` (Eventbrite organizer scraper)
 - [ ] Associated Press — `eventbrite.py` (Eventbrite organizer scraper)
+- [ ] ONA (Online News Association) — `ona_events.py` (HTML scraper, Novi AMS events page)
 
 ### Scrapable (no feeds, but server-rendered HTML)
-- [ ] ONA (Online News Association) — `https://journalists.org/events/` (Novi AMS, server-rendered list with dates/times)
 - [ ] Knight Center for Journalism — `https://journalismcourses.org/course-library/` (WordPress/Elementor, paginated course cards with dates, instructors, pricing)
 
 ## Investigated — Not Viable
