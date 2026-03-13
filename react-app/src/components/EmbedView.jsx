@@ -22,7 +22,7 @@ import UniformGrid from './UniformGrid.jsx';
  */
 export default function EmbedView({ feedId, style, featuredStyle, title, featuredTitle, normalTitle, bg, mode }) {
   const isDark = mode === 'dark';
-  const { collection, events, loading } = useCollection(feedId);
+  const { collection, events, loading, featuredEvents: earlyFeatured, featuredLoading } = useCollection(feedId);
   const rawColumnCount = useColumnCount();
   const containerRef = useRef(null);
   const observerRef = useRef(null);
@@ -51,7 +51,7 @@ export default function EmbedView({ feedId, style, featuredStyle, title, feature
   // Re-post height whenever content changes (events load, window resize)
   useEffect(() => {
     postHeight();
-  }, [events, loading, postHeight]);
+  }, [events, loading, earlyFeatured, postHeight]);
 
   useEffect(() => {
     window.addEventListener('resize', postHeight);
@@ -77,10 +77,14 @@ export default function EmbedView({ feedId, style, featuredStyle, title, feature
     : rawColumnCount;
 
   const { featuredEvents, regularEvents } = useMemo(() => {
+    // While full events are still loading, use early featured if available
+    if (loading && earlyFeatured.length > 0) {
+      return { featuredEvents: earlyFeatured, regularEvents: [] };
+    }
     const featured = events.filter(e => e._featured);
     if (featured.length === 0) return { featuredEvents: [], regularEvents: events };
     return { featuredEvents: featured, regularEvents: events.filter(e => !e._featured) };
-  }, [events]);
+  }, [events, loading, earlyFeatured]);
 
   const featuredColumns = useMemo(
     () => getMasonryColumns(featuredEvents, featuredColumnCount),
@@ -110,12 +114,45 @@ export default function EmbedView({ feedId, style, featuredStyle, title, feature
     }
   }, [collection]);
 
+  const spinner = (
+    <div className="flex justify-center py-8">
+      <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-gray-400"></div>
+    </div>
+  );
+
   let content;
-  if (loading) {
+  if (loading && (featuredLoading || earlyFeatured.length === 0)) {
+    content = spinner;
+  } else if (loading && earlyFeatured.length > 0) {
+    // Progressive: show featured section early while regular events still load
+    const hasFeatured = featuredEvents.length > 0;
     content = (
-      <div className="flex justify-center py-8">
-        <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-gray-400"></div>
-      </div>
+      <>
+        {hasFeatured && (
+          <div className="mb-6">
+            {displayFeaturedTitle && (
+              <h2 className="text-lg font-bold text-gray-900 dark:text-gray-100 mb-3 px-1">{displayFeaturedTitle}</h2>
+            )}
+            {isFeaturedGridLayout ? (
+              <UniformGrid
+                events={featuredEvents}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+                columnCount={featuredColumnCount}
+              />
+            ) : (
+              <MasonryGrid
+                masonryColumns={featuredColumns}
+                filterTerm=""
+                onCategoryFilter={() => {}}
+                variant={featuredCardStyle}
+              />
+            )}
+          </div>
+        )}
+        {spinner}
+      </>
     );
   } else if (!collection) {
     content = <p className="text-center text-gray-400 py-8 text-sm">Collection not found.</p>;
