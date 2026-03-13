@@ -19,7 +19,7 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
   const {
     collections, createCollection, renameCollection, deleteCollection,
     getCollectionEvents, removeEventFromCollection, restoreExcludedEvent,
-    updateAllowedDomains,
+    updateCollectionRules, updateAllowedDomains,
   } = useCollections();
   const { city } = usePicks();
 
@@ -37,17 +37,18 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
   const [renamingId, setRenamingId] = useState(null);
   const [renameValue, setRenameValue] = useState('');
   const [domainInput, setDomainInput] = useState('');
+  const [editSources, setEditSources] = useState([]);
+  const [editCategories, setEditCategories] = useState([]);
+  const [editingRules, setEditingRules] = useState(false);
   const renameRef = useRef(null);
 
-  // Fetch distinct sources when type is 'auto'
+  // Determine if we need sources: creating an auto collection, or editing one
+  const expandedCol = collections.find(c => c.id === expanded);
+  const needSources = (newType === 'auto' || expandedCol?.type === 'auto') && city;
+
+  // Fetch distinct sources when needed for auto collection create or edit
   useEffect(() => {
-    if (newType !== 'auto' || !city) { setAvailableSources([]); return; }
-    fetch(
-      `${SUPABASE_URL}/rest/v1/rpc/`,
-      { headers: { apikey: SUPABASE_KEY } }
-    ).catch(() => {});
-    // Use a simple query with select and distinct isn't directly supported by PostgREST,
-    // so query events grouped by source
+    if (!needSources) { setAvailableSources([]); return; }
     fetch(
       `${SUPABASE_URL}/rest/v1/events?city=eq.${encodeURIComponent(city)}&select=source&order=source`,
       { headers: { apikey: SUPABASE_KEY, Accept: 'application/json' } }
@@ -59,10 +60,11 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
         setAvailableSources(unique.sort());
       })
       .catch(() => setAvailableSources([]));
-  }, [newType, city]);
+  }, [needSources, city]);
 
   // Load events when a collection is expanded
   useEffect(() => {
+    setEditingRules(false);
     if (!expanded) { setExpandedEvents([]); setExcludedEvents([]); return; }
     getCollectionEvents(expanded).then(({ active, excluded }) => {
       setExpandedEvents(active);
@@ -159,6 +161,31 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
   const toggleCategory = (c) => setSelectedCategories(prev =>
     prev.includes(c) ? prev.filter(x => x !== c) : [...prev, c]
   );
+
+  const toggleEditSource = (s) => setEditSources(prev =>
+    prev.includes(s) ? prev.filter(x => x !== s) : [...prev, s]
+  );
+  const toggleEditCategory = (c) => setEditCategories(prev =>
+    prev.includes(c) ? prev.filter(x => x !== c) : [...prev, c]
+  );
+
+  const startEditRules = (col) => {
+    setEditSources(col.rules?.sources || []);
+    setEditCategories(col.rules?.categories || []);
+    setEditingRules(true);
+  };
+
+  const saveEditRules = async (colId) => {
+    const rules = {};
+    if (editSources.length) rules.sources = editSources;
+    if (editCategories.length) rules.categories = editCategories;
+    await updateCollectionRules(colId, rules);
+    setEditingRules(false);
+  };
+
+  const cancelEditRules = () => {
+    setEditingRules(false);
+  };
 
   return (
     <div className="mb-6">
@@ -301,7 +328,7 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
                       {col.name}
                     </span>
                   )}
-                  {isAuto && summary && (
+                  {isAuto && summary && expanded !== col.id && (
                     <span className="text-[10px] text-gray-400 truncate block">{summary}</span>
                   )}
                 </div>
@@ -435,6 +462,85 @@ export default function CollectionManager({ expanded, onExpandedChange }) {
               {/* Expanded: show events in this collection */}
               {expanded === col.id && (
                 <div className="border-t border-gray-50 px-3 py-2">
+                  {/* Auto-collection rules editor */}
+                  {isAuto && (
+                    <div className="mb-2">
+                      {editingRules ? (
+                        <div className="border border-gray-200 rounded-lg p-3 space-y-3 bg-gray-50">
+                          {/* Sources */}
+                          <div>
+                            <div className="flex items-center gap-2 mb-1">
+                              <p className="text-xs font-medium text-gray-600">Sources</p>
+                              <button onClick={() => setEditSources([...availableSources])} className="text-[10px] text-gray-400 hover:text-gray-600">All</button>
+                              <button onClick={() => setEditSources([])} className="text-[10px] text-gray-400 hover:text-gray-600">None</button>
+                            </div>
+                            {availableSources.length === 0 ? (
+                              <p className="text-xs text-gray-400">Loading sources…</p>
+                            ) : (
+                              <div className="flex flex-wrap gap-1.5">
+                                {availableSources.map(s => (
+                                  <label key={s} className="flex items-center gap-1 text-xs text-gray-700 cursor-pointer">
+                                    <input
+                                      type="checkbox"
+                                      checked={editSources.includes(s)}
+                                      onChange={() => toggleEditSource(s)}
+                                      className="rounded border-gray-300 text-gray-900 focus:ring-gray-500 h-3.5 w-3.5"
+                                    />
+                                    {s}
+                                  </label>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                          {/* Categories */}
+                          <div>
+                            <div className="flex items-center gap-2 mb-1">
+                              <p className="text-xs font-medium text-gray-600">Categories</p>
+                              <button onClick={() => setEditCategories([...categoryList])} className="text-[10px] text-gray-400 hover:text-gray-600">All</button>
+                              <button onClick={() => setEditCategories([])} className="text-[10px] text-gray-400 hover:text-gray-600">None</button>
+                            </div>
+                            <div className="flex flex-wrap gap-1.5">
+                              {categoryList.map(c => (
+                                <label key={c} className="flex items-center gap-1 text-xs text-gray-700 cursor-pointer">
+                                  <input
+                                    type="checkbox"
+                                    checked={editCategories.includes(c)}
+                                    onChange={() => toggleEditCategory(c)}
+                                    className="rounded border-gray-300 text-gray-900 focus:ring-gray-500 h-3.5 w-3.5"
+                                  />
+                                  {c}
+                                </label>
+                              ))}
+                            </div>
+                          </div>
+                          {/* Save / Cancel */}
+                          <div className="flex gap-2">
+                            <button
+                              onClick={() => saveEditRules(col.id)}
+                              className="px-3 py-1 text-xs font-medium bg-gray-900 text-white rounded-md hover:bg-gray-800"
+                            >
+                              Save rules
+                            </button>
+                            <button
+                              onClick={cancelEditRules}
+                              className="px-3 py-1 text-xs font-medium text-gray-600 bg-gray-100 rounded-md hover:bg-gray-200"
+                            >
+                              Cancel
+                            </button>
+                          </div>
+                        </div>
+                      ) : (
+                        <button
+                          onClick={() => startEditRules(col)}
+                          className="flex items-center gap-1 text-[11px] text-gray-400 hover:text-gray-600 transition-colors"
+                        >
+                          <Pencil size={10} />
+                          {summary || 'No filters — matching all events'}
+                        </button>
+                      )}
+                    </div>
+                  )}
+
                   {expandedEvents.length === 0 && excludedEvents.length === 0 ? (
                     <p className="text-xs text-gray-400">
                       {isAuto ? 'No matching events.' : 'No events in this collection. Add them from your picks below.'}
