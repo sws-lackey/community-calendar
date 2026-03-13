@@ -52,8 +52,10 @@ function App() {
   const rawColumnCount = useColumnCount();
   const oneColStyles = ['list'];
   const twoColStyles = ['compact', 'split', 'splitimage'];
+  const threeColStyles = ['ticket'];
   const columnCount = oneColStyles.includes(cardStyle) ? 1
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
+    : threeColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 3)
     : rawColumnCount;
 
   const gridStyles = ['grid', 'gridcompact', 'gridtile'];

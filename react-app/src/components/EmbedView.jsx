@@ -66,8 +66,10 @@ export default function EmbedView({ feedId, style, featuredStyle, title, feature
   const isFeaturedGridLayout = gridStyles.includes(featuredCardStyle);
   const oneColStyles = ['list'];
   const twoColStyles = ['compact', 'split', 'splitimage'];
+  const threeColStyles = ['ticket'];
   const columnCount = oneColStyles.includes(cardStyle) ? 1
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
+    : threeColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 3)
     : rawColumnCount;
   const featuredColumnCount = oneColStyles.includes(featuredCardStyle) ? 1
     : twoColStyles.includes(featuredCardStyle) ? Math.min(rawColumnCount, 2)
