@@ -198,6 +198,16 @@ export function useCollections() {
     return { active: Array.isArray(data) ? data : [], excluded: [] };
   }, [headers, collections]);
 
+  const updateCollectionRules = useCallback(async (collectionId, rules) => {
+    const h = headers();
+    if (!h) return;
+    await fetch(`${SUPABASE_URL}/rest/v1/collections?id=eq.${collectionId}`, {
+      method: 'PATCH', headers: h,
+      body: JSON.stringify({ rules }),
+    });
+    refresh();
+  }, [headers, refresh]);
+
   const updateAllowedDomains = useCallback(async (collectionId, domains) => {
     const h = headers();
     if (!h) return;
@@ -208,5 +218,5 @@ export function useCollections() {
     refresh();
   }, [headers, refresh]);
 
-  return { collections, membershipMap, createCollection, renameCollection, deleteCollection, addEventToCollection, removeEventFromCollection, restoreExcludedEvent, getCollectionEvents, updateAllowedDomains, refresh };
+  return { collections, membershipMap, createCollection, renameCollection, deleteCollection, addEventToCollection, removeEventFromCollection, restoreExcludedEvent, getCollectionEvents, updateCollectionRules, updateAllowedDomains, refresh };
 }
