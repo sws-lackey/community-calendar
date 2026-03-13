@@ -46,3 +46,10 @@ No geolocation filtering applied.
 - Report for America
 - Center for Cooperative Media
 - Solutions Journalism Network
+https://insidethenewsroom.substack.com/p/free-journalism-calendar-fellowships
+http://www.hearstawards.org/guidelines-deadlines/
+https://www.editorandpublisher.com/calendar/
+https://www.spj.org/freelance-calendar/
+https://traumajournalism.org/ttj-calendar/#
+https://calendar.google.com/calendar/u/0/embed?src=er06vtjd12h86b4rej5bts6p6c@group.calendar.google.com&ctz=America/New_York
+https://www.rtdna.org/events
