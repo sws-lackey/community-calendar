@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T18:03:20.359897",
+  "generated": "2026-03-13T19:00:37.870474",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -43217,24 +43217,96 @@
               "count": 3
             }
           ]
+        },
+        "ahcj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 6
+            }
+          ]
+        },
+        "api_eventbrite": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "cooperative_media_eventbrite": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "hackshackers": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 2
+            }
+          ]
+        },
+        "nabj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 5
+            }
+          ]
+        },
+        "pen_america": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 11
+            }
+          ]
+        },
+        "sabew": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 4
+            }
+          ]
+        },
+        "sjn": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 17
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Education / Workshops",
-          "count": 52
+          "count": 80
         },
         {
           "category": "Community / Social",
-          "count": 19
+          "count": 24
         },
         {
           "category": "Books / Literature / Poetry",
-          "count": 1
+          "count": 7
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 3
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 2
         },
         {
           "category": "Film / Cinema",
-          "count": 1
+          "count": 2
         },
         {
           "category": "History / Heritage",
@@ -43243,15 +43315,11 @@
         {
           "category": "Government / Civic",
           "count": 1
-        },
-        {
-          "category": "Health / Wellness",
-          "count": 1
         }
       ],
       "images": {
-        "total": 76,
-        "with_image": 12,
+        "total": 120,
+        "with_image": 19,
         "by_source": [
           {
             "source": "Institute for Nonprofit News",
@@ -43259,14 +43327,29 @@
             "with_image": 6
           },
           {
-            "source": "Poynter Institute",
-            "total": 3,
+            "source": "Sabew",
+            "total": 4,
+            "with_image": 4
+          },
+          {
+            "source": "Ahcj",
+            "total": 6,
             "with_image": 3
           },
           {
             "source": "Center for Cooperative Media",
             "total": 2,
             "with_image": 2
+          },
+          {
+            "source": "Poynter Institute",
+            "total": 2,
+            "with_image": 2
+          },
+          {
+            "source": "Hackshackers, Poynter Institute",
+            "total": 1,
+            "with_image": 1
           },
           {
             "source": "Associated Press",
@@ -43276,9 +43359,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 75,
-        "total_events": 76,
-        "unique_urls": 75,
+        "total_with_url": 119,
+        "total_events": 120,
+        "unique_urls": 117,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 19,
@@ -43291,9 +43374,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "Solutions Journalism Network",
+            "events": 17,
+            "unique_urls": 16,
+            "specificity_pct": 94
+          },
+          {
             "source": "Editor & Publisher",
             "events": 13,
             "unique_urls": 13,
+            "specificity_pct": 100
+          },
+          {
+            "source": "PEN America",
+            "events": 11,
+            "unique_urls": 11,
             "specificity_pct": 100
           },
           {
@@ -43309,9 +43404,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "Ahcj",
+            "events": 6,
+            "unique_urls": 6,
+            "specificity_pct": 100
+          },
+          {
             "source": "Institute for Nonprofit News",
             "events": 6,
             "unique_urls": 6,
+            "specificity_pct": 100
+          },
+          {
+            "source": "NABJ",
+            "events": 5,
+            "unique_urls": 5,
             "specificity_pct": 100
           },
           {
@@ -43321,9 +43428,9 @@
             "specificity_pct": 100
           },
           {
-            "source": "Poynter Institute",
-            "events": 3,
-            "unique_urls": 3,
+            "source": "Sabew",
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
@@ -43345,21 +43452,9 @@
             "specificity_pct": 100
           },
           {
-            "source": "Tiny News Members Only",
+            "source": "Poynter Institute",
             "events": 2,
             "unique_urls": 2,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Associated Press",
-            "events": 1,
-            "unique_urls": 1,
-            "specificity_pct": 100
-          },
-          {
-            "source": "LION Publishers",
-            "events": 1,
-            "unique_urls": 1,
             "specificity_pct": 100
           }
         ]
@@ -44396,6 +44491,11 @@
     {
       "date": "2026-03-13",
       "line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json",
+      "source": "models"
+    },
+    {
+      "date": "2026-03-13",
+      "line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.journalists.org/events/",
       "source": "models"
     }
   ]
