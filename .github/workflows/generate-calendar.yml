@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       locations:
-        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,portland,jweekly,evanston or "all")'
+        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,portland,jweekly,evanston,publisher-resources or "all")'
         required: false
         default: 'all'
       regenerate_only:
@@ -1071,6 +1071,40 @@ jobs:
         python scripts/combine_ics.py --input-dir cities/boston --output cities/boston/combined.ics --name "Boston Community Calendar"
 
     # ==========================================
+    # Publisher Resources (journalism workshops & training)
+    # ==========================================
+    - name: Scrape Publisher Resources sources
+      if: contains(steps.locations.outputs.list, 'publisher-resources') && github.event.inputs.regenerate_only != 'true'
+      run: |
+        # SEJ (Society of Environmental Journalists) — RSS calendar feed
+        python scrapers/sej_calendar.py --output cities/publisher-resources/sej.ics || true
+        # IRE/NICAR conference schedules (S3 JSON — fail gracefully if not yet published)
+        python scrapers/ire_schedule.py --conference ire-2026 --output cities/publisher-resources/ire_2026.ics || true
+        python scrapers/ire_schedule.py --conference nicar-2026 --output cities/publisher-resources/nicar_2026.ics || true
+      continue-on-error: true
+
+    - name: Fetch Publisher Resources live feeds
+      if: contains(steps.locations.outputs.list, 'publisher-resources') && github.event.inputs.regenerate_only != 'true'
+      run: |
+        cd cities/publisher-resources
+        # INN (Institute for Nonprofit News) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://inn.org/events/list/?ical=1" -o inn.ics || true
+        # SPJ (Society of Professional Journalists) — custom calendar
+        curl -sL "https://calendar.spjnetwork.org/calendar.php" -o spj.ics || true
+        # Poynter Institute — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://www.poynter.org/events/?ical=1" -o poynter.ics || true
+        # NAHJ (National Assoc. of Hispanic Journalists) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://nahj.org/events/?ical=1" -o nahj.ics || true
+        # NLGJA (Assoc. of LGBTQ+ Journalists) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://www.nlgja.org/events/?ical=1" -o nlgja.ics || true
+        cd ../..
+
+    - name: Combine Publisher Resources ICS files
+      if: contains(steps.locations.outputs.list, 'publisher-resources')
+      run: |
+        python scripts/combine_ics.py --input-dir cities/publisher-resources --output cities/publisher-resources/combined.ics --name "Publisher Resources Calendar"
+
+    # ==========================================
     # Post-processing (all cities)
     # ==========================================
     - name: Convert ICS to JSON for Supabase
@@ -1135,7 +1169,7 @@ jobs:
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         
         # Save generated files before any git operations
-        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
+        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston portland boston publisher-resources; do
           if [ -f "cities/$city/events.json" ]; then
             cp "cities/$city/events.json" "/tmp/${city}_events.json"
           fi
@@ -1154,7 +1188,7 @@ jobs:
             fi
             echo "Push failed, restoring generated files and retrying..."
             # Restore generated files that may have been clobbered by rebase
-            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
+            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston portland boston publisher-resources; do
               if [ -f "/tmp/${city}_events.json" ]; then
                 cp "/tmp/${city}_events.json" "cities/$city/events.json"
               fi

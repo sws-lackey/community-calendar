@@ -430,6 +430,15 @@ SOURCE_NAMES = {
     'matsu_borough_assembly': 'Mat-Su Borough Assembly',
     'matsuk12': 'Mat-Su School District',
     'alaskavisit': 'Mat-Su CVB',
+    # Publisher Resources
+    'inn': 'Institute for Nonprofit News',
+    'spj': 'Society of Professional Journalists',
+    'poynter': 'Poynter Institute',
+    'nahj': 'National Assoc. of Hispanic Journalists',
+    'nlgja': 'Assoc. of LGBTQ+ Journalists',
+    'sej': 'Society of Environmental Journalists',
+    'ire_2026': 'IRE 2026 Conference',
+    'nicar_2026': 'NICAR 2026 Conference',
 }
 
 # Fallback URLs for sources whose ICS events lack a URL property.

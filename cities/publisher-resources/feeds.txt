@@ -1,0 +1,10 @@
+# Publisher Resources — Feed Inventory
+# Auto-generated from workflow. Do not edit manually.
+# Regenerate with: python scripts/sync_feeds_txt.py --city publisher-resources
+
+## ICS Feeds
+- INN (Institute for Nonprofit News): https://inn.org/events/list/?ical=1
+- SPJ (Society of Professional Journalists): webcal://calendar.spjnetwork.org/calendar.php
+- Poynter Institute: https://www.poynter.org/events/?ical=1
+- NAHJ: https://nahj.org/events/?ical=1
+- NLGJA: https://www.nlgja.org/events/?ical=1
