@@ -20,8 +20,10 @@ export default function FeedView({ feedId }) {
 
   const oneColStyles = ['list'];
   const twoColStyles = ['compact', 'split', 'splitimage'];
+  const threeColStyles = ['ticket'];
   const columnCount = oneColStyles.includes(cardStyle) ? 1
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
+    : threeColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 3)
     : rawColumnCount;
 
   const events = useMemo(

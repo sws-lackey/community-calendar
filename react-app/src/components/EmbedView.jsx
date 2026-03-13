@@ -63,8 +63,10 @@ export default function EmbedView({ feedId, style, title, featuredTitle, normalT
   const isGridLayout = gridStyles.includes(cardStyle);
   const oneColStyles = ['list'];
   const twoColStyles = ['compact', 'split', 'splitimage'];
+  const threeColStyles = ['ticket'];
   const columnCount = oneColStyles.includes(cardStyle) ? 1
     : twoColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 2)
+    : threeColStyles.includes(cardStyle) ? Math.min(rawColumnCount, 3)
     : rawColumnCount;
 
   const { featuredEvents, regularEvents } = useMemo(() => {
