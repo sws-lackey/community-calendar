@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-13T15:51:50.672992",
+  "generated": "2026-03-13T19:00:37.870474",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -43153,24 +43153,160 @@
               "count": 19
             }
           ]
+        },
+        "tiny_news_members_only": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 6
+            }
+          ]
+        },
+        "editor_publisher": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 13
+            }
+          ]
+        },
+        "eventbrite_ap": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "eventbrite_coop_media": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "journalism_deadlines": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 7
+            }
+          ]
+        },
+        "lion_publishers": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 1
+            }
+          ]
+        },
+        "ona_events": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 5
+            }
+          ]
+        },
+        "knight_center": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 3
+            }
+          ]
+        },
+        "ahcj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 6
+            }
+          ]
+        },
+        "api_eventbrite": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "cooperative_media_eventbrite": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 0
+            }
+          ]
+        },
+        "hackshackers": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 2
+            }
+          ]
+        },
+        "nabj": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 5
+            }
+          ]
+        },
+        "pen_america": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 11
+            }
+          ]
+        },
+        "sabew": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 4
+            }
+          ]
+        },
+        "sjn": {
+          "history": [
+            {
+              "date": "2026-03-13",
+              "count": 17
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Education / Workshops",
-          "count": 19
+          "count": 80
         },
         {
           "category": "Community / Social",
-          "count": 17
+          "count": 24
         },
         {
           "category": "Books / Literature / Poetry",
-          "count": 1
+          "count": 7
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 3
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 2
         },
         {
           "category": "Film / Cinema",
-          "count": 1
+          "count": 2
         },
         {
           "category": "History / Heritage",
@@ -43179,15 +43315,11 @@
         {
           "category": "Government / Civic",
           "count": 1
-        },
-        {
-          "category": "Health / Wellness",
-          "count": 1
         }
       ],
       "images": {
-        "total": 41,
-        "with_image": 9,
+        "total": 120,
+        "with_image": 19,
         "by_source": [
           {
             "source": "Institute for Nonprofit News",
@@ -43195,16 +43327,41 @@
             "with_image": 6
           },
           {
-            "source": "Poynter Institute",
-            "total": 3,
+            "source": "Sabew",
+            "total": 4,
+            "with_image": 4
+          },
+          {
+            "source": "Ahcj",
+            "total": 6,
             "with_image": 3
+          },
+          {
+            "source": "Center for Cooperative Media",
+            "total": 2,
+            "with_image": 2
+          },
+          {
+            "source": "Poynter Institute",
+            "total": 2,
+            "with_image": 2
+          },
+          {
+            "source": "Hackshackers, Poynter Institute",
+            "total": 1,
+            "with_image": 1
+          },
+          {
+            "source": "Associated Press",
+            "total": 1,
+            "with_image": 1
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 41,
-        "total_events": 41,
-        "unique_urls": 41,
+        "total_with_url": 119,
+        "total_events": 120,
+        "unique_urls": 117,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 19,
@@ -43217,9 +43374,39 @@
             "specificity_pct": 100
           },
           {
+            "source": "Solutions Journalism Network",
+            "events": 17,
+            "unique_urls": 16,
+            "specificity_pct": 94
+          },
+          {
+            "source": "Editor & Publisher",
+            "events": 13,
+            "unique_urls": 13,
+            "specificity_pct": 100
+          },
+          {
+            "source": "PEN America",
+            "events": 11,
+            "unique_urls": 11,
+            "specificity_pct": 100
+          },
+          {
             "source": "Society of Environmental Journalists",
             "events": 10,
             "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Journalism Internship & Fellowship Deadlines",
+            "events": 7,
+            "unique_urls": 7,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Ahcj",
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
@@ -43229,7 +43416,25 @@
             "specificity_pct": 100
           },
           {
-            "source": "Poynter Institute",
+            "source": "NABJ",
+            "events": 5,
+            "unique_urls": 5,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Online News Association",
+            "events": 5,
+            "unique_urls": 5,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Sabew",
+            "events": 4,
+            "unique_urls": 4,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Knight Center for Journalism",
             "events": 3,
             "unique_urls": 3,
             "specificity_pct": 100
@@ -43238,6 +43443,18 @@
             "source": "Assoc. of LGBTQ+ Journalists",
             "events": 3,
             "unique_urls": 3,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Center for Cooperative Media",
+            "events": 2,
+            "unique_urls": 2,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Poynter Institute",
+            "events": 2,
+            "unique_urls": 2,
             "specificity_pct": 100
           }
         ]
@@ -44274,6 +44491,11 @@
     {
       "date": "2026-03-13",
       "line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/ire-2026/ire-2026-schedule.json",
+      "source": "models"
+    },
+    {
+      "date": "2026-03-13",
+      "line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.journalists.org/events/",
       "source": "models"
     }
   ]
