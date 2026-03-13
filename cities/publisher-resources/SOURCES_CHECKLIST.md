@@ -1,0 +1,47 @@
+# Publisher Resources — Sources Checklist
+
+Aggregates workshops, training, and events for local news organizations and journalists.
+No geolocation filtering applied.
+
+## Currently Implemented
+
+### ICS Feeds
+- [ ] INN (Institute for Nonprofit News) — `https://inn.org/events/list/?ical=1` (WordPress Tribe Events)
+- [ ] SPJ (Society of Professional Journalists) — `webcal://calendar.spjnetwork.org/calendar.php`
+- [ ] Poynter Institute — `https://www.poynter.org/events/?ical=1` (WordPress Tribe Events)
+- [ ] NAHJ (National Assoc. of Hispanic Journalists) — `https://nahj.org/events/?ical=1` (WordPress Tribe Events)
+- [ ] NLGJA (Assoc. of LGBTQ+ Journalists) — `https://www.nlgja.org/events/?ical=1` (WordPress Tribe Events)
+
+### RSS Feeds (need conversion)
+- [ ] SEJ (Society of Environmental Journalists) — `https://www.sej.org/rss_calendar` (Drupal calendar RSS)
+
+## Investigated — Not Viable
+
+- **LION Publishers** — No calendar feeds; WordPress events page at `https://lionpublishers.com/events/` could be scraped
+- **American Journalism Project** — No public events; invitation-only (AJPalooza)
+- **Virginia Local News Project** — No events calendar; runs ongoing programs only
+- **GIJN** — Site returns 403 to all automated requests; no public feeds
+- **East-West Center** — Cloudflare 403 on all automated access
+- **The Open Notebook** — Trainings are custom-booked/on-demand, no scheduled events
+- **Trusting News** — Events announced via blog posts with Zoom links, no structured data
+- **ONA** — No public feeds; Novi AMS platform, EventScribe for conferences
+- **IRE/NICAR** — No ICS feeds; conference schedules available as JSON on S3 (potential scraper)
+- **Knight Foundation** — Events infrastructure under development, not live
+- **RTDNA** — No public feeds; /events/feed returns 500
+- **National Press Club** — Custom calendar grid, no feeds
+- **EWA** — No feeds; custom WordPress events with AJAX
+- **NABJ** — Site returns 403 to automated access
+- **AAJA** — No event-specific feeds; RSS has news only
+
+## To Investigate
+
+- LION Publishers events page scraper
+- IRE/NICAR S3 JSON schedule converter
+- SEJ RSS-to-ICS converter
+- Hacks/Hackers events
+- SRCCON / OpenNews
+- Lenfest Institute
+- News Revenue Hub
+- Report for America
+- Center for Cooperative Media
+- Solutions Journalism Network

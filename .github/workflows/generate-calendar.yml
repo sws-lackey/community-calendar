@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       locations:
-        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,jweekly,evanston or "all")'
+        description: 'Locations to process (comma-separated: santarosa,bloomington,davis,petaluma,jweekly,evanston,publisher-resources or "all")'
         required: false
         default: 'all'
       regenerate_only:
@@ -900,6 +900,30 @@ jobs:
         python scripts/combine_ics.py --input-dir cities/evanston --output cities/evanston/combined.ics --name "Evanston Community Calendar"
 
     # ==========================================
+    # Publisher Resources (journalism workshops & training)
+    # ==========================================
+    - name: Fetch Publisher Resources live feeds
+      if: contains(steps.locations.outputs.list, 'publisher-resources') && github.event.inputs.regenerate_only != 'true'
+      run: |
+        cd cities/publisher-resources
+        # INN (Institute for Nonprofit News) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://inn.org/events/list/?ical=1" -o inn.ics || true
+        # SPJ (Society of Professional Journalists) — custom calendar
+        curl -sL "https://calendar.spjnetwork.org/calendar.php" -o spj.ics || true
+        # Poynter Institute — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://www.poynter.org/events/?ical=1" -o poynter.ics || true
+        # NAHJ (National Assoc. of Hispanic Journalists) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://nahj.org/events/?ical=1" -o nahj.ics || true
+        # NLGJA (Assoc. of LGBTQ+ Journalists) — WordPress Tribe Events
+        curl -sL -A "Mozilla/5.0" "https://www.nlgja.org/events/?ical=1" -o nlgja.ics || true
+        cd ../..
+
+    - name: Combine Publisher Resources ICS files
+      if: contains(steps.locations.outputs.list, 'publisher-resources')
+      run: |
+        python scripts/combine_ics.py --input-dir cities/publisher-resources --output cities/publisher-resources/combined.ics --name "Publisher Resources Calendar"
+
+    # ==========================================
     # Post-processing (all cities)
     # ==========================================
     - name: Convert ICS to JSON for Supabase
@@ -964,7 +988,7 @@ jobs:
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         
         # Save generated files before any git operations
-        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
+        for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston publisher-resources; do
           if [ -f "cities/$city/events.json" ]; then
             cp "cities/$city/events.json" "/tmp/${city}_events.json"
           fi
@@ -983,7 +1007,7 @@ jobs:
             fi
             echo "Push failed, restoring generated files and retrying..."
             # Restore generated files that may have been clobbered by rebase
-            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston; do
+            for city in santarosa bloomington davis petaluma toronto raleighdurham montclair roanoke matsu jweekly evanston publisher-resources; do
               if [ -f "/tmp/${city}_events.json" ]; then
                 cp "/tmp/${city}_events.json" "cities/$city/events.json"
               fi
