@@ -5,69 +5,6 @@ X-WR-CALNAME:Boston Theatre Scene
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Natya Samaagam
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260313T183000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260313T203000
-UID:952f053172f29e32e8725971e35d94aa@bostontheatrescene.com
-ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
- 26/01/Flyer-final-Dec-19-scaled.png?resize=300%2C300&gravity
-DESCRIPTION:
-LOCATION:BCA Black Box Theatre\, 539 Tremont St.\, Boston\, MA
-URL:https://www.bostontheatrescene.com/shows-and-events/natya-samaagam/
-X-SOURCE:Boston Theatre Scene
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Had a World
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260313T193000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260313T213000
-UID:28d8d99d300989371eac7604348e1a14@bostontheatrescene.com
-ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
- 25/01/WHW-for-web-10802.jpg?resize=300%2C300&gravity
-DESCRIPTION:
-LOCATION:The Wimberly Theatre\, 527 Tremont St.\, Boston\, MA
-URL:https://www.bostontheatrescene.com/shows-and-events/we-had-a-world/
-X-SOURCE:Boston Theatre Scene
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Antiquities
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260313T193000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260313T213000
-UID:e38dd503b3da5b33a4da6fce0cbd694f@bostontheatrescene.com
-ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
- 25/03/FINAL-Antiq-900x900-BTS.png?resize=300%2C300&gravity
-DESCRIPTION:
-LOCATION:The Roberts Studio Theatre\, 527 Tremont St.\, Boston\, MA
-URL:https://www.bostontheatrescene.com/shows-and-events/the-antiquities/
-X-SOURCE:Boston Theatre Scene
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LATE: A New Musical
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260313T193000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260313T213000
-UID:6e85d1e88799262c50343941b07d5c10@bostontheatrescene.com
-ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
- 26/02/Book-and-Lyrics-KATHLEEN-CAHILL-Music-and-Additional-Lyrics-MICHAEL-
- WARTOFSKY-Director-ILANA-RANSOM-TOEPLITZ-Music-Director-DAVID-COLEMAN-Chor
- eographer-JOY-CLARK.png?resize=300%2C300&gravity
-DESCRIPTION:
-LOCATION:BCA Plaza Theatre\, 539 Tremont St.\, Boston\, MA
-URL:https://www.bostontheatrescene.com/shows-and-events/late-a-new-musical
- /
-X-SOURCE:Boston Theatre Scene
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Savage
-DTSTART;TZID=EDT;VALUE=DATE-TIME:20260313T200000
-DTEND;TZID=EDT;VALUE=DATE-TIME:20260313T220000
-UID:0ffb583d07f56bc9e12687d693116d8a@bostontheatrescene.com
-ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
- 25/12/Last-Savage-1080x1080-1-scaled.jpg?resize=300%2C300&gravity
-DESCRIPTION:
-LOCATION:The Huntington Theatre\, 264 Huntington Ave.\, Boston\, MA
-URL:https://www.bostontheatrescene.com/shows-and-events/the-last-savage/
-X-SOURCE:Boston Theatre Scene
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natya Samaagam
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260314T123000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260314T143000
 UID:4fb8cf4f7c9c5d8741853c1b954c1b7f@bostontheatrescene.com
@@ -484,6 +421,19 @@ URL:https://www.bostontheatrescene.com/shows-and-events/night-of-the-livin
 X-SOURCE:Boston Theatre Scene
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tradition\, Reimagined
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260403T190000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260403T210000
+UID:310029b3fe0ab42d51bc860e2e17222d@bostontheatrescene.com
+ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
+ 26/03/Tradition-Reimagined_BTS.png?resize=300%2C300&gravity
+DESCRIPTION:
+LOCATION:The Wimberly Theatre\, 527 Tremont St.\, Boston\, MA
+URL:https://www.bostontheatrescene.com/shows-and-events/tradition-reimagin
+ ed/
+X-SOURCE:Boston Theatre Scene
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:When Playwrights Kill
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260403T193000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260403T213000
@@ -510,6 +460,19 @@ URL:https://www.bostontheatrescene.com/shows-and-events/mariette-in-ecstas
 X-SOURCE:Boston Theatre Scene
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tradition\, Reimagined
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260404T140000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260404T160000
+UID:b794b218d119d4db5be03fb419d8951d@bostontheatrescene.com
+ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
+ 26/03/Tradition-Reimagined_BTS.png?resize=300%2C300&gravity
+DESCRIPTION:
+LOCATION:The Wimberly Theatre\, 527 Tremont St.\, Boston\, MA
+URL:https://www.bostontheatrescene.com/shows-and-events/tradition-reimagin
+ ed/
+X-SOURCE:Boston Theatre Scene
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Night of the Living Dead The Musical - Teen Edition
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260404T150000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260404T170000
@@ -533,6 +496,19 @@ DESCRIPTION:
 LOCATION:BCA Plaza Theatre\, 539 Tremont St.\, Boston\, MA
 URL:https://www.bostontheatrescene.com/shows-and-events/night-of-the-livin
  g-dead/
+X-SOURCE:Boston Theatre Scene
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tradition\, Reimagined
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260404T190000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260404T210000
+UID:22cc34ac3da0a61cdc8bf2d27668e1c6@bostontheatrescene.com
+ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
+ 26/03/Tradition-Reimagined_BTS.png?resize=300%2C300&gravity
+DESCRIPTION:
+LOCATION:The Wimberly Theatre\, 527 Tremont St.\, Boston\, MA
+URL:https://www.bostontheatrescene.com/shows-and-events/tradition-reimagin
+ ed/
 X-SOURCE:Boston Theatre Scene
 END:VEVENT
 BEGIN:VEVENT
@@ -1232,6 +1208,31 @@ SUMMARY:Oedipus El Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260513T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260513T210000
 UID:4832e543c8fe4fdc373e32387640f1fd@bostontheatrescene.com
+ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
+ 25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
+ 300%2C300&gravity
+DESCRIPTION:
+LOCATION:The Roberts Studio Theatre\, 527 Tremont St.\, Boston\, MA
+URL:https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/
+X-SOURCE:Boston Theatre Scene
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swept Away
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260514T190000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260514T210000
+UID:f778b5d3be0cefd279e3f39acce212b2@bostontheatrescene.com
+ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
+ 25/03/FINAL-Swept-Away-900x900-BTS.png?resize=300%2C300&gravity
+DESCRIPTION:
+LOCATION:The Wimberly Theatre\, 527 Tremont St.\, Boston\, MA
+URL:https://www.bostontheatrescene.com/shows-and-events/swept-away/
+X-SOURCE:Boston Theatre Scene
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oedipus El Rey
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260514T190000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260514T210000
+UID:b993fe3ee7f361816b4decc53b49bca6@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity

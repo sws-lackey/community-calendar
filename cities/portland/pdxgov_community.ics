@@ -40,7 +40,7 @@ DESCRIPTION:Get out\, get moving\, and get social by participating in PP&R
  n\, or diagonal to get a prize. Fill your whole card by participating in a
  ll 24 activities and become a Bingo All Star.
 LOCATION:East Portland Community Center 740 SE 106th Ave Portland\n       
-                    \, OR\n                           97216 Get Directions 
+                    \, OR\n                           97216 Get directions 
  More about this location Charles Jordan Community Center
 URL:https://www.portland.gov/parks/events/2026/1/20/recreation-bingo
 X-SOURCE:Portland Community Events
@@ -55,7 +55,7 @@ DESCRIPTION:FPNA hosts a monthly Community Gathering at Holgate Library on
  ically a presentation or group discussion\, and the second hour is more ca
  sual. This is a great time to meet your neighbors and FPNA board members!
 LOCATION:Holgate Library 7905 SE Holgate Blvd Portland\n                  
-         \, OR\n                           97206 Get Directions More about 
+         \, OR\n                           97206 Get directions More about 
  this location
 URL:https://www.portland.gov/civic/myneighborhood/events/2026/3/7/foster-p
  owell-neighborhood-assoc-community-gathering
@@ -142,7 +142,7 @@ DESCRIPTION:Come join Rose City Self-Defense and the Safe Blocks Program i
  elf-Defense workshop to learn empowering skills to help keep yourself and 
  your young ones safe and strong! Snacks provided for all attendees.
 LOCATION:Midland Library 805 SE 122nd Avenue Portland\n                   
-        \, OR\n                           97233 Get Directions More about t
+        \, OR\n                           97233 Get directions More about t
  his location
 URL:https://www.portland.gov/community-safety/ovp/rose-city-self-defense/e
  vents/2026/3/18/personal-safety-self-defense-workshop
@@ -178,7 +178,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join us as the Portland Office of Violence Prevention's monthl
  y Community Peace Collaborative (CPC) meeting.
 LOCATION:Police Bureau North Precinct 449 NE Emerson Street Portland\n    
-                       \, OR\n                           97211 Get Directio
+                       \, OR\n                           97211 Get directio
  ns More about this location
 URL:https://www.portland.gov/community-safety/ovp/events/2026/3/20/communi
  ty-peace-collaborative
@@ -234,7 +234,7 @@ DESCRIPTION:Looking for a summer job opportunity? Portland Parks & Recreat
  ion (PP&R) is planning to hire hundreds of summer staff. Join us for an in
  -person career fair and hear what we have to offer!
 LOCATION:East Portland Community Center 740 SE 106th Ave Portland\n       
-                    \, OR\n                           97216 Get Directions 
+                    \, OR\n                           97216 Get directions 
  More about this location
 URL:https://www.portland.gov/parks/events/2026/3/24/summer-career-fair-por
  tland-parks-recreation-epcc
@@ -253,7 +253,7 @@ DESCRIPTION:Come join Rose City Self-Defense and the Safe Blocks Program i
  elf-Defense workshop to learn empowering skills to help keep yourself and 
  your young ones safe and strong! Snacks provided for all attendees.
 LOCATION:Holgate Library 7905 SE Holgate Blvd Portland\n                  
-         \, OR\n                           97206 Get Directions More about 
+         \, OR\n                           97206 Get directions More about 
  this location
 URL:https://www.portland.gov/community-safety/ovp/rose-city-self-defense/e
  vents/2026/3/25/personal-safety-self-defense-workshop
@@ -282,6 +282,24 @@ DESCRIPTION:Portland City Archives and Don’t Shoot PDX are partnering on
  ble for generations to come.
 URL:https://www.portland.gov/auditor/archives/events/2026/3/27/portland-bl
  ack-documenting-our-lives-city-roses
+X-SOURCE:Portland Community Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Clean-Up
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260327T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260327T100000
+UID:a23f093a78c191408e09b09e0eb44edf@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/IMG_0418_0.JPG?h=0471f8f3&itok=E5f6OT-Q
+DESCRIPTION:Safe Blocks is organizing a litter clean-up for all ages along
+  SE 122nd\, between SE Harold Street and the Springwater Corridor Trail. P
+ lease join us to build community and give some love to a small section of 
+ SE 122nd!
+LOCATION:Arte Soleil 5530 SE 122nd Avenue Portland\n                      
+     \, OR\n                           97236 Get directions More about this
+  location
+URL:https://www.portland.gov/community-safety/ovp/safe-blocks/events/2026/
+ 3/27/community-clean
 X-SOURCE:Portland Community Events
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +374,22 @@ URL:https://www.portland.gov/transportation/walking-biking-transit-safety/
 X-SOURCE:Portland Community Events
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portland Street Response Community Town Hall
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260401T191500
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260401T191500
+UID:40bca4a5fa5ed57b29b1585469243634@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/PSR-Bubba.jpg?h=c0de14de&itok=Utgol-PK
+DESCRIPTION:Join Portland Street Response for a community town hall on Wed
+ nesday\, April 1\, 2026 from 6-7:15 p.m.
+LOCATION:Albina Library 205 NE Russell Street Portland\n                  
+         \, OR\n                           97212 Get directions More about 
+ this location
+URL:https://www.portland.gov/streetresponse/events/2026/4/1/portland-stree
+ t-response-community-town-hall
+X-SOURCE:Portland Community Events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Peace Collaborative
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260403T103000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260403T103000
@@ -365,7 +399,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join us as the Portland Office of Violence Prevention's Commun
  ity Peace Collaborative (CPC) meeting.
 LOCATION:Police Bureau East Precinct 737 SE 106th Avenue Portland\n       
-                    \, OR\n                           97216 Get Directions 
+                    \, OR\n                           97216 Get directions 
  More about this location
 URL:https://www.portland.gov/community-safety/ovp/events/2026/4/3/communit
  y-peace-collaborative
@@ -455,7 +489,7 @@ DESCRIPTION:How we move shapes our planet. Explore cleaner\, more proactiv
  clean energy and the food we eat — at the City of Portland's Earth Day 2
  026.
 LOCATION:Parkrose Middle School 11800 NE Shaver Street Portland\n         
-                  \, OR\n                           97220 Get Directions Mo
+                  \, OR\n                           97220 Get directions Mo
  re about this location
 URL:https://www.portland.gov/sustainability/events/2026/4/11/earth-motion-
  earth-day-2026
@@ -472,7 +506,7 @@ DESCRIPTION:Learn about bike maintenance and bring your bicycle with you t
  o get some hands-on experience doing basic repairs!
 LOCATION:Multnomah County Library - North Portland 512 N Killingsworth St 
  Portland\n                          \, OR\n                           9721
- 7 Get Directions More about this location
+ 7 Get directions More about this location
 URL:https://www.portland.gov/transportation/walking-biking-transit-safety/
  events/2026/4/14/basic-bike-maintenance-workshop
 X-SOURCE:Portland Community Events
@@ -484,7 +518,7 @@ DTEND;TZID=PDT;VALUE=DATE-TIME:20260414T180000
 UID:2550e1c752979fc1ff97db6cae0e3f45@portland.gov
 DESCRIPTION:
 LOCATION:Sellwood Community House 1436 SE Spokane St Portland\n           
-                \, OR\n                           97202 Get Directions More
+                \, OR\n                           97202 Get directions More
   about this location
 URL:https://www.portland.gov/council/districts/4/olivia-clark/events/2026/
  4/14/joint-town-hall-sellwood-moreland
@@ -501,7 +535,7 @@ DESCRIPTION:This event will be a presentation highlighting stories of Blac
  k tree activists around the world. Stories will be focused on individuals 
  from Portland\, New York\, Colombia\, Brazil\, Cameroon\, and Kenya.
 LOCATION:Midland Library 805 SE 122nd Ave Portland\n                      
-     \, OR\n                           97233 Get Directions More about this
+     \, OR\n                           97233 Get directions More about this
   location
 URL:https://www.portland.gov/trees/get-involved/events/2026/4/15/black-ear
  th-day-celebrating-black-tree-activists
@@ -517,7 +551,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join us as the Portland Office of Violence Prevention's monthl
  y Community Peace Collaborative (CPC) meeting.
 LOCATION:Police Bureau North Precinct 449 NE Emerson Street Portland\n    
-                       \, OR\n                           97211 Get Directio
+                       \, OR\n                           97211 Get directio
  ns More about this location
 URL:https://www.portland.gov/community-safety/ovp/events/2026/4/17/communi
  ty-peace-collaborative
@@ -549,7 +583,7 @@ DESCRIPTION:Every fall PBOT composts over 5\,000 tons of leaves collected
  lippery roads. This spring\, we have so much we’re giving it away for fr
  ee!
 LOCATION:Sunderland Yard 9325 NE Sunderland Ave Portland\n                
-           \, OR\n                           97211 Get Directions More abou
+           \, OR\n                           97211 Get directions More abou
  t this location
 URL:https://www.portland.gov/transportation/events/2026/4/18/free-compost-
  days-2026
@@ -564,7 +598,7 @@ DESCRIPTION:This is an opportunity for community members in Trees for Resi
  dential Streets neighborhoods to ask questions about the planting program 
  after the first round of communications about the program goes out.
 LOCATION:Midland Library 805 SE 122nd Ave Portland\n                      
-     \, OR\n                           97233 Get Directions More about this
+     \, OR\n                           97233 Get directions More about this
   location
 URL:https://www.portland.gov/trees/get-involved/events/2026/4/21/trees-res
  idential-streets-open-house
@@ -595,7 +629,7 @@ DESCRIPTION:The Hazelwood Neighborhood Bike Fair at Menlo Park Elementary
  is a free\, all-ages community event hosted by the Portland Bureau of Tran
  sportation (PBOT)!
 LOCATION:Menlo Park Elementary School 12900 NE Glisan St Portland\n       
-                    \, OR\n                           97230 Get Directions 
+                    \, OR\n                           97230 Get directions 
  More about this location
 URL:https://www.portland.gov/transportation/walking-biking-transit-safety/
  events/2026/4/24/hazelwood-neighborhood-bike-fair
@@ -650,7 +684,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join us as the Portland Office of Violence Prevention's Commun
  ity Peace Collaborative (CPC) meeting.
 LOCATION:Police Bureau East Precinct 737 SE 106th Avenue Portland\n       
-                    \, OR\n                           97216 Get Directions 
+                    \, OR\n                           97216 Get directions 
  More about this location
 URL:https://www.portland.gov/community-safety/ovp/events/2026/5/1/communit
  y-peace-collaborative

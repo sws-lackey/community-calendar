@@ -4,18 +4,6 @@ PRODID:-//Revolution Hall//songkick.com//
 X-WR-CALNAME:Revolution Hall
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Aimee Mann\, Jonathan Coulton
-DTSTART;VALUE=DATE-TIME:20260313T200000
-DTEND;VALUE=DATE-TIME:20260313T200000
-UID:d697f2ebf0898f356b3fa42715a6815a@songkick.com
-DESCRIPTION:Aimee Mann and Jonathan Coulton at Revolution Hall at 2026-03-
- 13T20:00:00-0700
-LOCATION:Revolution Hall\, 1300 SE Stark St.\, Portland\, OR\, 97214
-URL:http://www.songkick.com/concerts/42895641-aimee-mann-at-revolution-hal
- l?utm_medium=organic&utm_source=microformat
-X-SOURCE:Revolution Hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mavis Staples\, Shirley Nanette
 DTSTART;VALUE=DATE-TIME:20260314T200000
 DTEND;VALUE=DATE-TIME:20260314T200000
@@ -46,6 +34,18 @@ DESCRIPTION:Umphrey's McGee at Revolution Hall at 2026-03-17T20:00:00-0700
 LOCATION:Revolution Hall\, 1300 SE Stark St.\, Portland\, OR\, 97214
 URL:http://www.songkick.com/concerts/42928527-umphreys-mcgee-at-revolution
  -hall?utm_medium=organic&utm_source=microformat
+X-SOURCE:Revolution Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maggie Lindemann
+DTSTART;VALUE=DATE-TIME:20260318T200000
+DTEND;VALUE=DATE-TIME:20260318T200000
+UID:dc1207fe0bc2c968cd1c339e5fd3ba06@songkick.com
+DESCRIPTION:Maggie Lindemann at Revolution Hall at 2026-03-18T20:00:00-070
+ 0
+LOCATION:Revolution Hall\, 1300 SE Stark St.\, Portland\, OR\, 97214
+URL:http://www.songkick.com/concerts/42928548-maggie-lindemann-at-revoluti
+ on-hall?utm_medium=organic&utm_source=microformat
 X-SOURCE:Revolution Hall
 END:VEVENT
 END:VCALENDAR

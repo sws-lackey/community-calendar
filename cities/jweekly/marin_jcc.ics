@@ -90,7 +90,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260203T130000
 DTEND;TZID=America/Los_Angeles:20260317T144500
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20260108T230015Z
 LAST-MODIFIED:20260108T230157Z
 UID:10001815-1770123600-1773758700@www.marinjcc.org
@@ -102,23 +102,9 @@ CATEGORIES:FItness Event,Jewish Life
 ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2025/08/New-Israeli-Dance-3.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T160000
-DTEND;TZID=America/Los_Angeles:20260313T171500
-DTSTAMP:20260312T191906
-CREATED:20260225T202058Z
-LAST-MODIFIED:20260225T202800Z
-UID:10001685-1773417600-1773422100@www.marinjcc.org
-SUMMARY:Shabbat Shmooze
-DESCRIPTION:Please join us in the JCC lobby to welcome in Shabbat\, where we will be joined by Covenant Winery proprietor Jodie Morgan and General Manager Zoe Morgan-Koelewijn for a wine tasting! Enjoy the live French cafe music of Bistro Mustache. Light snacks will be provided. \n  \n \n  \nCovenant Winery is an urban winery located in Berkeley. We source grapes grown in some of the finest vineyards in California and Israel\, places where we enjoy a historical and personal connection to the land. As such\, we strive to harness quality in the bottle that reflects the unique aspects of the land and the vines we are privileged to work with. Our winemaking techniques highlight what the land gives us naturally. All our wines are certified kosher and are naturally vegan. Discover our world through our wines! www.covenantwines.com \n  \nWe will gather every 2nd Friday\, monthly.  \n  \nFree event! All are welcome. No registration\, just drop-in! 
-URL:https://www.marinjcc.org/event/shabbat-shmooze-4/
-LOCATION:Osher Marin JCC\, 200 North San Pedro Road\, San Rafael\, CA\, 94903\, United States
-CATEGORIES:Jewish Life
-ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2025/09/1400x1080-1.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260330T133000
 DTEND;TZID=America/Los_Angeles:20260330T143000
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20260307T164843Z
 LAST-MODIFIED:20260307T164844Z
 UID:10001836-1774877400-1774881000@www.marinjcc.org
@@ -132,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260330T153000
 DTEND;TZID=America/Los_Angeles:20260330T170000
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20250901T202714Z
 LAST-MODIFIED:20260108T231037Z
 UID:10001748-1774884600-1774890000@www.marinjcc.org
@@ -146,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260407T110000
 DTEND;TZID=America/Los_Angeles:20260407T123000
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20260115T175258Z
 LAST-MODIFIED:20260115T184245Z
 UID:10001846-1775559600-1775565000@www.marinjcc.org
@@ -158,9 +144,23 @@ CATEGORIES:Jewish Life
 ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2026/01/web-updates-1-1.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260410T160000
+DTEND;TZID=America/Los_Angeles:20260410T171500
+DTSTAMP:20260313T224341
+CREATED:20260225T203005Z
+LAST-MODIFIED:20260225T215257Z
+UID:10001687-1775836800-1775841300@www.marinjcc.org
+SUMMARY:Shabbat Shmooze
+DESCRIPTION:Join us in the JCC Lobby for a very special Shabbat Shmooze! As Passover ends\, we’ll celebrate Mimouna– the Maghrebi Jewish feast marking the return to eating hametz (leavened bread)\, which is forbidden during Passover. Featuring Sephardic-Mizrachi songs by Rachel Valfer of the Qadim Ensemble\, along with traditional delicacies to taste! While you’re here\, be sure to walk through our galleries to see She’erit\, the artwork of Chama Metchaly\, before this exhibit leaves. \n\nAbout this exhibit: \nShe’erit\, שְׁאֵרִית\, is the Hebrew word for “remnant.” It evokes what survives erasure\, what endures exile\, what persists across generations despite the forces of assimilation and antisemitism. Rooted in the intersecting spiritual and cultural lineages of Amazigh and Sephardi heritage\, the exhibition transforms devastation into art\, not to beautify pain\, but to dignify indigenous inheritance against the erasures of colonial Islamist ideology. This is a reclamation of narrative\, of space\, of voice\, and breath. \n\nWe will gather every 2nd Friday\, monthly.  \n  \nFree event! All are welcome. No registration\, just drop-in! 
+URL:https://www.marinjcc.org/event/shabbat-shmooze-4-10/
+LOCATION:Osher Marin JCC\, 200 North San Pedro Road\, San Rafael\, CA\, 94903\, United States
+CATEGORIES:Jewish Life
+ATTACH;FMTTYPE=image/png:https://www.marinjcc.org/wp-content/uploads/2025/09/1400x1080-1.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260411T180000
 DTEND;TZID=America/New_York:20260428T090000
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20250613T131920Z
 LAST-MODIFIED:20250613T131920Z
 UID:10001529-1775930400-1777366800@www.marinjcc.org
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260519T160000
 DTEND;TZID=America/New_York:20260525T110000
-DTSTAMP:20260312T191906
+DTSTAMP:20260313T224341
 CREATED:20250606T191211Z
 LAST-MODIFIED:20250606T195740Z
 UID:10001523-1779206400-1779706800@www.marinjcc.org
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260526T160000
 DTEND;TZID=America/New_York:20260601T110000
-DTSTAMP:20260312T191907
+DTSTAMP:20260313T224341
 CREATED:20250606T192538Z
 LAST-MODIFIED:20250606T195824Z
 UID:10001525-1779811200-1780311600@www.marinjcc.org
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260602T160000
 DTEND;TZID=America/New_York:20260608T110000
-DTSTAMP:20260312T191907
+DTSTAMP:20260313T224341
 CREATED:20250606T192637Z
 LAST-MODIFIED:20250606T195852Z
 UID:10001526-1780416000-1780916400@www.marinjcc.org
@@ -216,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260609T160000
 DTEND;TZID=America/New_York:20260615T110000
-DTSTAMP:20260312T191907
+DTSTAMP:20260313T224341
 CREATED:20250606T192807Z
 LAST-MODIFIED:20250606T195924Z
 UID:10001527-1781020800-1781521200@www.marinjcc.org
@@ -230,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260926T180000
 DTEND;TZID=America/New_York:20261007T110000
-DTSTAMP:20260312T191907
+DTSTAMP:20260313T224341
 CREATED:20250606T194937Z
 LAST-MODIFIED:20250606T195646Z
 UID:10001528-1790445600-1791370800@www.marinjcc.org

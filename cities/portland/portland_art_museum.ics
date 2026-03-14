@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260306T110000
 DTEND;TZID=America/Vancouver:20260404T170000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260302T165827Z
 LAST-MODIFIED:20260302T165855Z
 UID:10001393-1772794800-1775322000@portlandartmuseum.org
@@ -63,51 +63,9 @@ CATEGORIES:Free & discounted
 ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/03/RSG-FF-The-Lurking-Loss-of-Innocence-Michelle-Yamamoto.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260312T190000
-DTEND;TZID=America/Vancouver:20260312T210000
-DTSTAMP:20260312T193219
-CREATED:20260212T173546Z
-LAST-MODIFIED:20260212T173548Z
-UID:10001366-1773342000-1773349200@portlandartmuseum.org
-SUMMARY:The Last Waltz x Johnny Franco and his Real Brother Dom
-DESCRIPTION:See full details at tomorrowtheater.org.
-URL:https://portlandartmuseum.org/event/the-last-waltz-x-johnny-franco-and-his-real-brother-dom/
-LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
-CATEGORIES:Screenings & experiences,Tomorrow Theater
-ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/The-Last-Waltz.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260313T173000
-DTEND;TZID=America/Vancouver:20260313T190000
-DTSTAMP:20260312T193219
-CREATED:20260209T170125Z
-LAST-MODIFIED:20260227T162232Z
-UID:10001363-1773423000-1773428400@portlandartmuseum.org
-SUMMARY:MORE COLORS THAN THE EYE CAN SEE: A Conversation with Jeffrey Gibson
-DESCRIPTION:Event overview\n\n\n\nJoin us for an evening with acclaimed artist Jeffrey Gibson. Gibson’s selection to represent the United States at the 2024 Venice Biennale marked the first solo presentation of an Indigenous artist for the U.S. Pavilion. His resulting exhibition\, the space in which to place me\, was jointly presented by the Portland Art Museum and SITE Santa Fe\, and extended beyond Venice through an ambitious Education Initiative with the goal of transforming how Native American art and cultures are taught in classrooms nationwide.  \n\n\n\nThis March\, in partnership with the Smithsonian’s National Museum of the American Indian (NMAI)\, the Education Initiative launches a new suite of free\, classroom-ready resources for K-12 educators. In this conversation\, Gibson will reflect on his larger artistic practice and also share how education\, collaboration\, and responsibility to future learners shapes his thinking. \n\n\n\nTicket price includes admission to the Museum during regular hours on March 13. Free admission for Museum Members and youth 17 and under.  \n\n\n\nFree admission available to educators (current K-12 and college faculty\, teaching artists\, and teachers-in-training). Quantity is limited. First come\, first served. Please contact learning@pam.org. \n\n\n\nFind information on the Saturday Educator Symposium with Jeffrey Gibson here. \n\n\n\nJeffrey Gibson\n\n\n\nJeffrey Gibson (American\, b. 1972) is an interdisciplinary artist\, curator\, and convener celebrated for his work in painting\, installation\, video\, and performance. For over two decades\, he has examined how language\, pattern\, and music construct meaning\, synthesizing Indigenous and Western traditions through vibrant color\, complex patterning\, and layered sound. A member of the Mississippi Band of Choctaw Indians and of Cherokee descent\, Gibson represented the U.S. at the 2024 Venice Biennale with his acclaimed exhibition the space in which to place me\, which made its U.S. debut at The Broad in Los Angeles in May 2025. In June 2025 he unveiled a site-specific installation at Kunsthaus Zurich. Gibson was selected for the Metropolitan Museum’s 2025 Genesis Facade Commission. His work is held in major collections including MoMA\, the Whitney\, and the National Gallery of Art. He lives in New York’s Hudson Valley and is artist-in-residence at Bard College.  \n\n\n\nMORE COLORS THAN THE EYE CAN SEE: An Education Initiative Inspired by the Art of Jeffrey Gibson\n\n\n\nMORE COLORS THAN THE EYE CAN SEE transforms how Native American art and cultures are taught nationwide with new\, free resources for K-12 educators. Established in 2024\, the project is a key component of artist Jeffrey Gibson’s vision for the space in which to place me\, his solo exhibition for the U.S. Pavilion at the 60th Venice Biennale\, commissioned by Portland Art Museum (PAM) and SITE Santa Fe (SITE). Led by PAM and SITE\, in collaboration with Gibson and the Smithsonian’s National Museum of the American Indian (NMAI)\, a cohort of 10 educators participated in a multiyear program that generated 14 cross-disciplinary lessons\, freely available in March 2026 to educators on the Smithsonian’s National Museum of American Indian Native Knowledge 360° (NK360°) digital platform and the space in which to place me: K-12 Education Resources.
-URL:https://portlandartmuseum.org/event/more-colors-than-the-eye-can-see-a-conversation-with-jeffrey-gibson/
-LOCATION:Portland Art Museum\, Mark Building\, 1119 SW Park Ave\, Portland\, OR\, 97205
-CATEGORIES:Lectures & talks
-ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/WebRes4354.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Vancouver:20260313T190000
-DTEND;TZID=America/Vancouver:20260313T210000
-DTSTAMP:20260312T193219
-CREATED:20260212T174255Z
-LAST-MODIFIED:20260212T174258Z
-UID:10001367-1773428400-1773435600@portlandartmuseum.org
-SUMMARY:Six Short Films by Barbara Hammer x Lesbian Cinema Club
-DESCRIPTION:See full details at tomorrowtheater.org.
-URL:https://portlandartmuseum.org/event/six-short-films-by-barbara-hammer-x-lesbian-cinema-club/
-LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
-CATEGORIES:Screenings & experiences,Tomorrow Theater
-ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/02/Barbara-Hammer.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260314T093000
 DTEND;TZID=America/Vancouver:20260314T150000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260209T171229Z
 LAST-MODIFIED:20260302T162713Z
 UID:10001364-1773480600-1773500400@portlandartmuseum.org
@@ -121,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260314T160000
 DTEND;TZID=America/Vancouver:20260314T180000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T175631Z
 LAST-MODIFIED:20260212T175633Z
 UID:10001368-1773504000-1773511200@portlandartmuseum.org
@@ -135,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260314T190000
 DTEND;TZID=America/Vancouver:20260314T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T175912Z
 LAST-MODIFIED:20260212T175914Z
 UID:10001369-1773514800-1773522000@portlandartmuseum.org
@@ -149,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260315T120000
 DTEND;TZID=America/Vancouver:20260315T170000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20251208T182627Z
 LAST-MODIFIED:20260113T194241Z
 UID:10001275-1773576000-1773594000@portlandartmuseum.org
@@ -163,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260315T140000
 DTEND;TZID=America/Vancouver:20260315T160000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260128T193052Z
 LAST-MODIFIED:20260303T173028Z
 UID:10001349-1773583200-1773590400@portlandartmuseum.org
@@ -177,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260315T160000
 DTEND;TZID=America/Vancouver:20260315T180000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T180113Z
 LAST-MODIFIED:20260212T180114Z
 UID:10001370-1773590400-1773597600@portlandartmuseum.org
@@ -191,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260319T190000
 DTEND;TZID=America/Vancouver:20260319T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T180303Z
 LAST-MODIFIED:20260212T180305Z
 UID:10001371-1773946800-1773954000@portlandartmuseum.org
@@ -205,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260321T100000
 DTEND;TZID=America/Vancouver:20260321T143000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260126T161255Z
 LAST-MODIFIED:20260126T161351Z
 UID:10001347-1774087200-1774103400@portlandartmuseum.org
@@ -219,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260321T140000
 DTEND;TZID=America/Vancouver:20260321T163000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260128T202711Z
 LAST-MODIFIED:20260303T173423Z
 UID:10001350-1774101600-1774110600@portlandartmuseum.org
@@ -233,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260321T150000
 DTEND;TZID=America/Vancouver:20260321T170000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T180450Z
 LAST-MODIFIED:20260212T180452Z
 UID:10001372-1774105200-1774112400@portlandartmuseum.org
@@ -247,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260321T190000
 DTEND;TZID=America/Vancouver:20260321T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T180717Z
 LAST-MODIFIED:20260212T180719Z
 UID:10001373-1774119600-1774126800@portlandartmuseum.org
@@ -261,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260322T120000
 DTEND;TZID=America/Vancouver:20260322T150000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20251206T052120Z
 LAST-MODIFIED:20251206T052121Z
 UID:10001270-1774180800-1774191600@portlandartmuseum.org
@@ -275,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260322T140000
 DTEND;TZID=America/Vancouver:20260322T153000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260128T203225Z
 LAST-MODIFIED:20260303T173638Z
 UID:10001351-1774188000-1774193400@portlandartmuseum.org
@@ -289,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260322T160000
 DTEND;TZID=America/Vancouver:20260322T180000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T180850Z
 LAST-MODIFIED:20260212T180852Z
 UID:10001374-1774195200-1774202400@portlandartmuseum.org
@@ -303,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260322T190000
 DTEND;TZID=America/Vancouver:20260322T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T181022Z
 LAST-MODIFIED:20260212T181023Z
 UID:10001375-1774206000-1774213200@portlandartmuseum.org
@@ -317,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260323T130000
 DTEND;TZID=America/Vancouver:20260324T170000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260126T160529Z
 LAST-MODIFIED:20260126T191729Z
 UID:10001346-1774270800-1774371600@portlandartmuseum.org
@@ -331,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260325T190000
 DTEND;TZID=America/Vancouver:20260325T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260303T181423Z
 LAST-MODIFIED:20260303T181424Z
 UID:10001400-1774465200-1774472400@portlandartmuseum.org
@@ -345,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260326T190000
 DTEND;TZID=America/Vancouver:20260326T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T181149Z
 LAST-MODIFIED:20260212T181150Z
 UID:10001376-1774551600-1774558800@portlandartmuseum.org
@@ -359,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260327T190000
 DTEND;TZID=America/Vancouver:20260327T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T181437Z
 LAST-MODIFIED:20260212T181439Z
 UID:10001377-1774638000-1774645200@portlandartmuseum.org
@@ -373,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260328T033000
 DTEND;TZID=America/Vancouver:20260328T173000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T181619Z
 LAST-MODIFIED:20260212T181621Z
 UID:10001378-1774668600-1774719000@portlandartmuseum.org
@@ -387,7 +345,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260328T140000
 DTEND;TZID=America/Vancouver:20260328T153000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260128T203614Z
 LAST-MODIFIED:20260303T173732Z
 UID:10001352-1774706400-1774711800@portlandartmuseum.org
@@ -401,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260328T190000
 DTEND;TZID=America/Vancouver:20260328T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T181914Z
 LAST-MODIFIED:20260212T181916Z
 UID:10001379-1774724400-1774731600@portlandartmuseum.org
@@ -415,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260329T120000
 DTEND;TZID=America/Vancouver:20260329T150000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20251206T052148Z
 LAST-MODIFIED:20251206T052148Z
 UID:10001271-1774785600-1774796400@portlandartmuseum.org
@@ -429,7 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260329T140000
 DTEND;TZID=America/Vancouver:20260329T160000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260128T205822Z
 LAST-MODIFIED:20260303T173818Z
 UID:10001353-1774792800-1774800000@portlandartmuseum.org
@@ -443,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260329T160000
 DTEND;TZID=America/Vancouver:20260329T180000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T182223Z
 LAST-MODIFIED:20260212T182224Z
 UID:10001380-1774800000-1774807200@portlandartmuseum.org
@@ -457,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Vancouver:20260329T190000
 DTEND;TZID=America/Vancouver:20260329T210000
-DTSTAMP:20260312T193219
+DTSTAMP:20260313T225531
 CREATED:20260212T182355Z
 LAST-MODIFIED:20260212T182356Z
 UID:10001381-1774810800-1774818000@portlandartmuseum.org
@@ -467,5 +425,47 @@ URL:https://portlandartmuseum.org/event/purple-rain-march2026/
 LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
 CATEGORIES:Screenings & experiences,Tomorrow Theater
 ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2024/05/PurpleRain_3.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260402T100000
+DTEND;TZID=America/Vancouver:20260402T190000
+DTSTAMP:20260313T225531
+CREATED:20260311T210430Z
+LAST-MODIFIED:20260311T210430Z
+UID:10001405-1775124000-1775156400@portlandartmuseum.org
+SUMMARY:Free First Thursday
+DESCRIPTION:Overview\n\n\n\nPortland Art Museum invites the community to join a special Free First Thursday event\, offering free admission to the museum for all\, plus DJs and Look With Me tours. This unique day includes a chance to explore the special exhibition David Hockney: Works from the Collections of Jordan D. Schnitzer and His Family Foundation\, as well as PAM’s transformed campus and reinstalled permanent collection galleries.  \n\n\n\nRelated Events\n\n\n\n\n\n			\n			\n							\n		\n		\n		\n		\n			\n							\n											Free & discounted\n						 x 											Lectures & talks\n															\n						\n							\n											\n												Art and Conversation: The Art of Mark Rothko with Sara Krajewski												\n									\n						\n							\n										\n														\n								General accessibility							\n						\n										\n					\n		\n						\n			\n																	Apr 2\, 2026 \n			\n						\n							\n										1119 SW Park Ave \n				\n						\n					\n	\n\n\n\n\n			\n			\n							\n		\n		\n		\n		\n			\n							\n											Free & discounted\n						 x 											Screenings & experiences\n						 x 											Tomorrow Theater\n															\n						\n							\n											\n												Tree Fest												\n									\n						\n							\n										\n														\n								Gender neutral restrooms							\n						\n												\n														\n								General accessibility							\n						\n												\n														\n								Wheelchair accessible restrooms							\n						\n										\n					\n		\n						\n			\n																	Apr 2\, 2026 \n			\n						\n							\n										3530 SE Division St. \n				\n						\n					\n	\n\n\n\n\nTickets\n\n\n\nFree First Thursday tickets can be reserved online one week in advance and are also available at the door. Tickets to Free First Thursday programs at the Tomorrow Theater are available online. \n\n\n\nFree First Thursdays at the Museum and PAM CUT’s Tomorrow Theater aligns with the revitalization of the long-standing Portland art galleries’ tradition of opening their doors for openings\, receptions\, and events on the first Thursday of each month. In recent months art and culture organizations have joined to bring back this popular activity\, including the Pacific Northwest College of Art and the Oregon Jewish Museum and Center for Holocaust Education in the North Park Blocks. \n\n\n\nGenerous support provided by Art Bridges Foundation’s Access for All program. \n\n\n\n\n\n\n\n\nLearn more about other discounted and free opportunities.
+URL:https://portlandartmuseum.org/event/free-first-thursday-april2026/
+LOCATION:Portland Art Museum\, 1219 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Free & discounted
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2025/11/Rothko-Pavilion-4C_8386_F2-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260402T103000
+DTEND;TZID=America/Vancouver:20260402T123000
+DTSTAMP:20260313T225531
+CREATED:20260305T213633Z
+LAST-MODIFIED:20260306T015744Z
+UID:10001404-1775125800-1775133000@portlandartmuseum.org
+SUMMARY:Art and Conversation: The Art of Mark Rothko with Sara Krajewski
+DESCRIPTION:Start your morning with free coffee\, pastries\, and a conversation led by Sara Krajewski\, Eichholz Senior Curator of Modern and Contemporary Art. \n\n\n\n\n10:30 a.m. – Coffee and snacks\n\n\n\n11 a.m. – Talk and Q&A \n\n\n\n12:30 p.m. – Visit the galleries as part of Free First Thursday
+URL:https://portlandartmuseum.org/event/art-and-conversation-the-art-of-mark-rothko-with-sara-krajewski/
+LOCATION:Portland Art Museum\, Mark Building\, 1119 SW Park Ave\, Portland\, OR\, 97205
+CATEGORIES:Free & discounted,Lectures & talks
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/03/20251202_Reinstallation_Rothko_Abstaction_CFU_03-Website-JPG-2600-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260402T190000
+DTEND;TZID=America/Vancouver:20260402T210000
+DTSTAMP:20260313T225531
+CREATED:20260311T210325Z
+LAST-MODIFIED:20260311T210327Z
+UID:10001406-1775156400-1775163600@portlandartmuseum.org
+SUMMARY:Tree Fest
+DESCRIPTION:See full details at tomorrowtheater.org.
+URL:https://portlandartmuseum.org/event/tree-fest/
+LOCATION:PAM CUT’s Tomorrow Theater\, 3530 SE Division St.\, Portland\, OR\, 97202\, United States
+CATEGORIES:Free & discounted,Screenings & experiences,Tomorrow Theater
+ATTACH;FMTTYPE=image/jpeg:https://portlandartmuseum.org/wp-content/uploads/2026/03/Tree-Fest.jpg
 END:VEVENT
 END:VCALENDAR

@@ -4,102 +4,6 @@ PRODID:-//UC Davis Library//events.library.ucdavis.edu//
 X-WR-CALNAME:UC Davis Library
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:UC Love Data Week 2026 (February 9-13)
-DTSTART;VALUE=DATE-TIME:20260212T180000Z
-DTEND;VALUE=DATE-TIME:20260213T010000Z
-UID:tag:localist.com\,2008:EventInstance_51959615323410
-DESCRIPTION:UC Love Data Week (UCLDW) is a week-long offering of presentat
- ions and workshops from across the University of California focused on all
-  things data. All members of the UC community are welcome to attend this f
- ree\, virtual event. See the full schedule by day and register now. With o
- ver 20 presentations and workshops\, whether you’re working with qualita
- tive or quantitative data\, there’s plenty to choose from. This year's t
- opics include: Data visualizationIntegrating AIWorking with data in R and 
- PythonData repositoriesand much more! Workshops taught during UCLDW by UC 
- Davis DataLab and Librarians include: Monday\, 2/9 at 11 AM - Intro to Ope
- nRefine for Data CleaningMonday\, 2/9 at 2 PM - How to Use Data Repository
-  FindersWednesday\, 2/11 at 10 AM - How I Slacked at Work and Accidentally
-  Built an Automated\, AI Driven ETL PipelineThursday\, 2/12 at 10 AM - Vis
- ualizing data with ggplot for R users (offered in person at DataLab and vi
- a Zoom!) For more information please visit the UC Love Data Week website. 
- Please register with your UC campus email. Zoom links will be emailed to r
- egistered participants.
-URL:https://events.library.ucdavis.edu/event/uc-love-data-week-2026-februa
- ry-9-13
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Workshop: Visualizing data with ggplot for R users
-DTSTART;VALUE=DATE-TIME:20260212T180000Z
-DTEND;VALUE=DATE-TIME:20260212T200000Z
-UID:tag:localist.com\,2008:EventInstance_51818215462712
-DESCRIPTION:If a picture tells a thousand words then a data visualization 
- can convey a million! Join us to learn how to apply data visualization pri
- nciples and best practices to generate compelling plots with ggplot in R. 
- Through a series of case studies\, we'll make static plots and practice it
- erating to improve upon them and the data stories they tell. This workshop
-  is for current R users who want to expand their plotting skills\, and thu
- s is not an introduction to the R programming langauge. It is part of Data
- Lab's "Intermediate R" training series\, which you can learn more about on
-  our training website. After completing this workshop\, learners should be
-  able to: * write code to generate plots in R using the ggplot2 package * 
- develop various different plot types (dot plots\, histograms\, bar charts\
- , boxplots\, time series\, etc.) * employ ggplot's grammar of graphics syn
- tax to customize plots\, * effectively use layers and aesthetics to make p
- lots more informative and meaningful (including adding groupings\, scaling
- \, color\, faceting\, labels\, and trendlines) This workshop is offered in
-  person and as a virtual broadcast as part of UC Love Data Week. Local lea
- rners are encouraged to attend in person. All members of the University of
-  California system are welcome to register. Advance registration required.
-  Prerequisites This workshop is intended for motivated learners from all d
- omains at UC Davis and the other UCs who want to hone their existing R ski
- lls. Thus\, we won't cover introductory R questions during this session. P
- articipants should be comfortable with basic R syntax\, and have the lates
- t version of R and RStudio pre-installed and running on their laptops. If 
- you're new to R\, or want to brush up\, we suggest you start with our "R B
- asics" workshop curriculum. Can’t attend this event? Materials from prio
- r UC Davis DataLab workshops are available on DataLab's website. Check out
-  our workshop schedule for other upcoming trainings. Questions? Contact da
- talab-training@ucdavis.edu.
-LOCATION:Shields Library\, 360
-URL:https://events.library.ucdavis.edu/event/workshop-w2026-intermediate-r
- -ggplot
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Library Office Hours @ LGBTQIA Resource Center
-DTSTART;VALUE=DATE-TIME:20260212T213000Z
-DTEND;VALUE=DATE-TIME:20260212T230000Z
-UID:tag:localist.com\,2008:EventInstance_51994355134863
-DESCRIPTION:Our librarians Beth Tweedy and Nancy Wallace will be visiting 
- the LGBTQIA Resource Center on Thursday\, February 12 for Library Office H
- ours. Drop in between 1-3:00 p.m. and get help with: Finding references fo
- r a paperAccessing library resources off campusCiting and referencing sour
- cesDeveloping and refining research questionsAccessing free textbooks for 
- classes via Course Reserves Or just come by and say hi!
-LOCATION:LGBTQIA Resource Center
-URL:https://events.library.ucdavis.edu/event/library-office-hours-lgbtqia-
- resource-center
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Celebrate Your Environment! Shields Library 24-Hour Study Room Art
-  Opening (invite only)
-DTSTART;VALUE=DATE-TIME:20260213T010000Z
-DTEND;VALUE=DATE-TIME:20260213T020000Z
-UID:tag:localist.com\,2008:EventInstance_51969490852368
-DESCRIPTION:The Library\, ASUCD Aggie Arts Committee\, and family and frie
- nds will celebrate the five student winners of the "Celebrate Your Environ
- ment" 24-Hour Study Room Art Contest at an informal art opening on Februar
- y 12. This is an invite only event. Please contact the library's Head of S
- tudent Services\, Alesia McManus\, with questions at alemcmanus@ucdavis.ed
- u.
-LOCATION:Shields Library\, 24-Hour Study Room
-URL:https://events.library.ucdavis.edu/event/celebrate-your-environment-24
- -hour-study-room-art-opening
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emerging Topics: Pop-Up Talk
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260213
@@ -1278,6 +1182,78 @@ URL:https://events.library.ucdavis.edu/event/creative-writing-series-maria
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Publish Your Work: From Idea to Impact — Traditional and Alterna
+ tive Options
+DTSTART;VALUE=DATE-TIME:20260409T200000Z
+DTEND;VALUE=DATE-TIME:20260409T210000Z
+UID:tag:localist.com\,2008:EventInstance_52322769236438
+DESCRIPTION:Publish Your Work: From Idea to Impact\, Traditional and Alter
+ native Options is a Zoom workshop that will give you an overview of (1) tr
+ aditional publishing options\, such as peer-reviewed journals\, and (2) al
+ ternative publishing options\, such as preprints\, open methods\, and open
+  data. Whether you’re going to be publishing for the first time or you
+ ’ve published many times in the past\, join us to learn more about open 
+ research\, avoiding predatory publishers\, selecting an appropriate journa
+ l\, and how to publish your research outputs in ways that go beyond the tr
+ aditional journal article. No previous experience is required. All discipl
+ ines are welcome. Please register for the Zoom link. This six-workshop ser
+ ies is a collaboration between the library's Scholarly Communications Prog
+ ram\, the Researcher Services department\, and Blaisdell Medical Library. 
+ For any questions\, please contact the Scholarly Communication Officer Mic
+ hael Ladisch (mladisch@ucdavis.edu). Check our events calendar for more pu
+ blishing workshops.
+URL:https://events.library.ucdavis.edu/event/workshop-publish-your-work
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Literacy & Logic: 1-day intensive course
+DTSTART;VALUE=DATE-TIME:20260410T160000Z
+DTEND;VALUE=DATE-TIME:20260410T233000Z
+UID:tag:localist.com\,2008:EventInstance_52340792785132
+DESCRIPTION:A 198 course for College of Letters & Science majors. The land
+ scape of the academic and professional world is shifting. Whether you are 
+ an aspiring historian\, a budding chemist\, or a future sociologist\, AI i
+ s no longer a "tech" skill—it’s a foundational literacy. Developed thr
+ ough a collaboration between the UC Davis College of Letters & Science and
+  DataLab\, this 1-unit intensive course is designed to unveil Artificial I
+ ntelligence. We’ve stripped away the dense math and complex coding to gi
+ ve you a conceptual\, high-level understanding of how artificial intellige
+ nce systems work\, why they matter\, and how to make them work for you. Wh
+ y Enroll? In a single day\, you will move from being a passive AI user to 
+ a critical\, strategic collaborator. This training is specifically curated
+  for L&S students to ensure you graduate with the competitive edge needed 
+ for the rapidly evolving\, AI-driven workplace. No technical background? N
+ o problem. This course has no prerequisites. It is designed for thinkers\,
+  writers\, and researchers across all liberal arts and science disciplines
+ . The curriculum is divided into four deep-dive modules: How AI Thinks Und
+ erstand the "brain" of the machine. We’ll explore the theories of langua
+ ge and cognition that allow Large Language Models (LLMs) to function\, and
+  provide a framework for evaluating their potential and limits. How to Use
+  AI Responsibly AI isn't a magic wand—it’s a tool with a history and c
+ onsequences. We discuss the environmental and societal impacts\, how to en
+ sure the veracity of AI results\, and why reproducibility is the cornersto
+ ne of ethical tech. How to Talk with AI Master the art and science of prom
+ pt engineering. Learn what happens behind the scenes when you send a promp
+ t. Develop sophisticated strategies to get the exact results you need. Mod
+ ule 4: How AI Talks with You A look at the future of AI implementation. Fr
+ om simple chatbots to complex autonomous "Agents\," learn how AI is being 
+ embedded into systems and how to evaluate its activity. By the end of this
+  one-day course\, you will be able to: Define "AI" and distinguish it from
+  traditional statistics and data science. Identify whether a real-world pr
+ oblem is suitable for an AI solution. Develop advanced prompting strategie
+ s that produce reliable\, useful results. Critically interrogate your own 
+ engagement with AI and its impact on our society and environment. Register
+  Now This intensive\, one-day course will be offered five times during the
+  Spring Quarter 2026. You only need to register for one date. Time: 9:00 A
+ M – 4:30 PM (with a break for lunch) Credits: 1 Unit CRN: TBA Eligibilit
+ y: Open to all students with a major in the College of Letters & Science. 
+ Priority: Registration priority is given to Seniors (4th years) and studen
+ ts graduating in Spring or Summer 2026. Other students in the College are 
+ encouraged to enroll and will be admitted as space permits.
+URL:https://events.library.ucdavis.edu/event/ai-literacy-logic-spring-2026
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Collaborative Data Science Office Hours (virtual)
 DTSTART;VALUE=DATE-TIME:20260413T200000Z
 DTEND;VALUE=DATE-TIME:20260413T210000Z
@@ -1394,6 +1370,29 @@ DESCRIPTION:DataLab offers free in person drop-in office hours during whic
 LOCATION:Shields Library\, 360
 URL:https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-
  in-person
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Idea to Impact: Publishing Your Work — Demystifying the Man
+ uscript Submission Process
+DTSTART;VALUE=DATE-TIME:20260416T200000Z
+DTEND;VALUE=DATE-TIME:20260416T210000Z
+UID:tag:localist.com\,2008:EventInstance_52332214449432
+DESCRIPTION:Publishing research in an academic journal is a critical step 
+ in every scholar’s journey. However\, it can be a very complex and intim
+ idating landscape\, especially for those who have limited experience with 
+ the process. This workshop will provide an overview of the manuscript subm
+ ission process including\, manuscript preparation\, guidance on citing AI 
+ tools\, the peer review process\, and how to go about choosing copyright t
+ erms when uploading your paper. No previous experience is required. All di
+ sciplines are welcome. Please register for the Zoom link. This six-worksho
+ p series is a collaboration between the library's Scholarly Communications
+  Program\, the Researcher Services department\, and Blaisdell Medical Libr
+ ary. For any questions\, please contact the Scholarly Communication Office
+ r Michael Ladisch (mladisch@ucdavis.edu). Check our events calendar for mo
+ re publishing workshops.
+URL:https://events.library.ucdavis.edu/event/demystifying-the-manuscript-s
+ ubmission-process
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,6 +1532,27 @@ URL:https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From Idea to Impact: Publishing Your Work — Open Access Publishi
+ ng: Mandates\, Policies\, Support
+DTSTART;VALUE=DATE-TIME:20260423T200000Z
+DTEND;VALUE=DATE-TIME:20260423T210000Z
+UID:tag:localist.com\,2008:EventInstance_52332244113501
+DESCRIPTION:Maximize your research impact and global reach by publishing O
+ pen Access. In this workshop we will show you how to use UC’s transforma
+ tive agreements and other library initiatives to have the Library cover yo
+ ur publishing fees\, ensuring your work is freely available from day one. 
+ We will briefly address staying compliant with federal public access manda
+ tes\, and provide a short overview of the UC Open Access Policies. No prev
+ ious experience is required. All disciplines are welcome. Please register 
+ for the Zoom link. This six-workshop series is a collaboration between the
+  library's Scholarly Communications Program\, the Researcher Services depa
+ rtment\, and Blaisdell Medical Library. For any questions\, please contact
+  the Scholarly Communication Officer Michael Ladisch (mladisch@ucdavis.edu
+ ). Check our events calendar for more publishing workshops.
+URL:https://events.library.ucdavis.edu/event/open-access-publishing
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Emerging Topics: Pop-Up Talk
 DTSTART;VALUE=DATE-TIME:20260424T200000Z
 DTEND;VALUE=DATE-TIME:20260424T210000Z
@@ -1647,6 +1667,87 @@ URL:https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From Idea to Impact: Publishing Your Work — Navigating Data Mana
+ gement for Publication
+DTSTART;VALUE=DATE-TIME:20260430T200000Z
+DTEND;VALUE=DATE-TIME:20260430T210000Z
+UID:tag:localist.com\,2008:EventInstance_52332265055740
+DESCRIPTION:This workshop is targeted toward scholars\, researchers\, and 
+ graduate students who are interested in the role of data management during
+  the publication process. Managing your data effectively is a crucial part
+  of research and scholarly communication. This session will provide founda
+ tional skills for handling data throughout your project's lifecycle\, from
+  planning for funder requirements to ensuring long-term reproducibility. A
+ fter this workshop\, learners should be able to: Understand and navigate f
+ under requirements for data management and sharing.Use the Data Management
+  Planning (DMP) Tool to organize research projects.Apply fundamental data 
+ management strategies during the active execution phase of research.Protec
+ t sensitive or personal data if collected during researchDistinguish betwe
+ en working data storage and open data repositories (platforms used for sha
+ ring and archiving final data).Locate the appropriate data repository for 
+ your specific discipline or project.Explain the broader importance of data
+  reproducibility in the research ecosystem.Identify campus resources avail
+ able for data support\, including the DataLab\, Research Data Management (
+ RDM) Team\, and the Clinical and Translational Science Center (CTSC). No p
+ revious experience is required. All disciplines are welcome. Please regist
+ er for the Zoom link. This six-workshop series is a collaboration between 
+ the library's Scholarly Communications Program\, the Researcher Services d
+ epartment\, and Blaisdell Medical Library. For any questions\, please cont
+ act the Scholarly Communication Officer Michael Ladisch (mladisch@ucdavis.
+ edu). Check our events calendar for more publishing workshops.
+URL:https://events.library.ucdavis.edu/event/navigating-data-management-fo
+ r-publication
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Literacy & Logic: 1-day intensive course
+DTSTART;VALUE=DATE-TIME:20260502T160000Z
+DTEND;VALUE=DATE-TIME:20260502T233000Z
+UID:tag:localist.com\,2008:EventInstance_52340792786157
+DESCRIPTION:A 198 course for College of Letters & Science majors. The land
+ scape of the academic and professional world is shifting. Whether you are 
+ an aspiring historian\, a budding chemist\, or a future sociologist\, AI i
+ s no longer a "tech" skill—it’s a foundational literacy. Developed thr
+ ough a collaboration between the UC Davis College of Letters & Science and
+  DataLab\, this 1-unit intensive course is designed to unveil Artificial I
+ ntelligence. We’ve stripped away the dense math and complex coding to gi
+ ve you a conceptual\, high-level understanding of how artificial intellige
+ nce systems work\, why they matter\, and how to make them work for you. Wh
+ y Enroll? In a single day\, you will move from being a passive AI user to 
+ a critical\, strategic collaborator. This training is specifically curated
+  for L&S students to ensure you graduate with the competitive edge needed 
+ for the rapidly evolving\, AI-driven workplace. No technical background? N
+ o problem. This course has no prerequisites. It is designed for thinkers\,
+  writers\, and researchers across all liberal arts and science disciplines
+ . The curriculum is divided into four deep-dive modules: How AI Thinks Und
+ erstand the "brain" of the machine. We’ll explore the theories of langua
+ ge and cognition that allow Large Language Models (LLMs) to function\, and
+  provide a framework for evaluating their potential and limits. How to Use
+  AI Responsibly AI isn't a magic wand—it’s a tool with a history and c
+ onsequences. We discuss the environmental and societal impacts\, how to en
+ sure the veracity of AI results\, and why reproducibility is the cornersto
+ ne of ethical tech. How to Talk with AI Master the art and science of prom
+ pt engineering. Learn what happens behind the scenes when you send a promp
+ t. Develop sophisticated strategies to get the exact results you need. Mod
+ ule 4: How AI Talks with You A look at the future of AI implementation. Fr
+ om simple chatbots to complex autonomous "Agents\," learn how AI is being 
+ embedded into systems and how to evaluate its activity. By the end of this
+  one-day course\, you will be able to: Define "AI" and distinguish it from
+  traditional statistics and data science. Identify whether a real-world pr
+ oblem is suitable for an AI solution. Develop advanced prompting strategie
+ s that produce reliable\, useful results. Critically interrogate your own 
+ engagement with AI and its impact on our society and environment. Register
+  Now This intensive\, one-day course will be offered five times during the
+  Spring Quarter 2026. You only need to register for one date. Time: 9:00 A
+ M – 4:30 PM (with a break for lunch) Credits: 1 Unit CRN: TBA Eligibilit
+ y: Open to all students with a major in the College of Letters & Science. 
+ Priority: Registration priority is given to Seniors (4th years) and studen
+ ts graduating in Spring or Summer 2026. Other students in the College are 
+ encouraged to enroll and will be admitted as space permits.
+URL:https://events.library.ucdavis.edu/event/ai-literacy-logic-spring-2026
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Collaborative Data Science Office Hours (virtual)
 DTSTART;VALUE=DATE-TIME:20260504T200000Z
 DTEND;VALUE=DATE-TIME:20260504T210000Z
@@ -1738,6 +1839,76 @@ DESCRIPTION:DataLab offers free in person drop-in office hours during whic
 LOCATION:Shields Library\, 360
 URL:https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-
  in-person
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Idea to Impact: Publishing Your Work — Copyright and Other 
+ Legal Issues
+DTSTART;VALUE=DATE-TIME:20260507T200000Z
+DTEND;VALUE=DATE-TIME:20260507T210000Z
+UID:tag:localist.com\,2008:EventInstance_52332281607286
+DESCRIPTION:This workshop provides information on owning your work\, from 
+ understanding how to retain copyright in your first publications to naviga
+ ting the fine print of author agreements. We will explore how to safely in
+ corporate third-party copyrighted material into your publication and how t
+ o strategically use Creative Commons licenses to dictate how others cite a
+ nd share your findings. No previous experience is required. All discipline
+ s are welcome. Please register for the Zoom link. This six-workshop series
+  is a collaboration between the library's Scholarly Communications Program
+ \, the Researcher Services department\, and Blaisdell Medical Library. For
+  any questions\, please contact the Scholarly Communication Officer Michae
+ l Ladisch (mladisch@ucdavis.edu). Check our events calendar for more publi
+ shing workshops.
+URL:https://events.library.ucdavis.edu/event/copyright-and-other-legal-iss
+ ues
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Literacy & Logic: 1-day intensive course
+DTSTART;VALUE=DATE-TIME:20260509T160000Z
+DTEND;VALUE=DATE-TIME:20260509T233000Z
+UID:tag:localist.com\,2008:EventInstance_52340792787182
+DESCRIPTION:A 198 course for College of Letters & Science majors. The land
+ scape of the academic and professional world is shifting. Whether you are 
+ an aspiring historian\, a budding chemist\, or a future sociologist\, AI i
+ s no longer a "tech" skill—it’s a foundational literacy. Developed thr
+ ough a collaboration between the UC Davis College of Letters & Science and
+  DataLab\, this 1-unit intensive course is designed to unveil Artificial I
+ ntelligence. We’ve stripped away the dense math and complex coding to gi
+ ve you a conceptual\, high-level understanding of how artificial intellige
+ nce systems work\, why they matter\, and how to make them work for you. Wh
+ y Enroll? In a single day\, you will move from being a passive AI user to 
+ a critical\, strategic collaborator. This training is specifically curated
+  for L&S students to ensure you graduate with the competitive edge needed 
+ for the rapidly evolving\, AI-driven workplace. No technical background? N
+ o problem. This course has no prerequisites. It is designed for thinkers\,
+  writers\, and researchers across all liberal arts and science disciplines
+ . The curriculum is divided into four deep-dive modules: How AI Thinks Und
+ erstand the "brain" of the machine. We’ll explore the theories of langua
+ ge and cognition that allow Large Language Models (LLMs) to function\, and
+  provide a framework for evaluating their potential and limits. How to Use
+  AI Responsibly AI isn't a magic wand—it’s a tool with a history and c
+ onsequences. We discuss the environmental and societal impacts\, how to en
+ sure the veracity of AI results\, and why reproducibility is the cornersto
+ ne of ethical tech. How to Talk with AI Master the art and science of prom
+ pt engineering. Learn what happens behind the scenes when you send a promp
+ t. Develop sophisticated strategies to get the exact results you need. Mod
+ ule 4: How AI Talks with You A look at the future of AI implementation. Fr
+ om simple chatbots to complex autonomous "Agents\," learn how AI is being 
+ embedded into systems and how to evaluate its activity. By the end of this
+  one-day course\, you will be able to: Define "AI" and distinguish it from
+  traditional statistics and data science. Identify whether a real-world pr
+ oblem is suitable for an AI solution. Develop advanced prompting strategie
+ s that produce reliable\, useful results. Critically interrogate your own 
+ engagement with AI and its impact on our society and environment. Register
+  Now This intensive\, one-day course will be offered five times during the
+  Spring Quarter 2026. You only need to register for one date. Time: 9:00 A
+ M – 4:30 PM (with a break for lunch) Credits: 1 Unit CRN: TBA Eligibilit
+ y: Open to all students with a major in the College of Letters & Science. 
+ Priority: Registration priority is given to Seniors (4th years) and studen
+ ts graduating in Spring or Summer 2026. Other students in the College are 
+ encouraged to enroll and will be admitted as space permits.
+URL:https://events.library.ucdavis.edu/event/ai-literacy-logic-spring-2026
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT

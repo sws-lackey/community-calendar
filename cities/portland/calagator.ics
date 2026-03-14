@@ -22,59 +22,47 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED;VALUE=DATE-TIME:20260303T001541Z
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T130000
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T110000
-DTSTAMP;VALUE=DATE-TIME:20260303T001541Z
-LAST-MODIFIED;VALUE=DATE-TIME:20260303T001541Z
-UID:http://calagator.org/events/1250482489
-DESCRIPTION:Let’s get together for an informal BEAM PDX hangout: coffee\,
-  conversation\, and light co-working.&#13\;\n&#13\;\nThis is a low-key m
- onthly meetup for folks working with Elixir\, Erlang\, Gleam\, and other
-  BEAM languages\, aimed at reconnecting the local community and rebuildi
- ng momentum after a long quiet stretch. We'll holding this on the second
-  Thursday of each month.&#13\;\n&#13\;\nThere will be opportunities to:&
- #13\;\n&#13\;\nAsk questions about Elixir and other BEAM languages&#13\;
- \nShare what you’ve been working on (or stuck on)&#13\;\nGet help with p
- rogramming or design problems&#13\;\nCo-work: get things done with like-
- minded folks nearby&#13\;\nBrainstorm ideas for future talk-based meetup
- s and identify potential speakers&#13\;\nBring your laptop if you’d like
- . It's totally optional.&#13\;\n&#13\;\nNew to BEAM languages\, or just 
- curious? You’re very welcome.&#13\;\n&#13\;\nPlease RSVP so we know roug
- hly how many people to expect. If your plans change\, un-RSVP when you c
- an.&#13\;\n&#13\;\nThis meetup is also part of our transition away from 
- Meetup to a new home for the group\, where we’ll be organizing future ev
- ents.\n\nTags: elixir\, erlang\, functional programming\n\nImported from
- : http://calagator.org/events/1250482489
-URL:https://beam-pdx.groupflow.app/events/12259
-SUMMARY:Portland Monthly BEAM Meet & Chat
-LOCATION:Inner SE Portland: \, Portland Oregon  United States
-SEQUENCE:1
-END:VEVENT
-BEGIN:VEVENT
-CREATED;VALUE=DATE-TIME:20260312T235836Z
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T210000
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260312T180000
-DTSTAMP;VALUE=DATE-TIME:20260312T235836Z
-LAST-MODIFIED;VALUE=DATE-TIME:20260312T235836Z
-UID:http://calagator.org/events/1250482505
-DESCRIPTION:​Better Futures Club is a weekly event (alternating Tuesdays 
- and Thursdays) focused on imagining and making better futures.&#13\;\n&#
- 13\;\nImagine an artist community\, a think tank\, and a research center
-  in the same building. People in all of those fields working alongside e
- ach other imagining and creating different futures together. Cross polli
- nation and inspiration. Liberal Arts and STEM and R&amp\;D. Photographer
- s\, physicists\, authors\, astronomers\, musicians\, makers\, mathematic
- ians\, designers\, developers\, fashionistas\, climatologists and all ma
- nner of imaginative optimists.&#13\;\n&#13\;\nAll Better Futures Club ev
- ents are covered by the Contributor Covenant Code of Conduct (https://ww
- w.contributor-covenant.org)\n\nTags: ruby\, STEM\, liberal arts\, commun
- ity\, hacking\, AI\n\nImported from: http://calagator.org/events/1250482
- 505
-URL:https://betterfutures.club
-SUMMARY:Better Futures Club
-LOCATION:Ctrl-H / PDX Hackerspace: 7608 N Interstate Ave\, Portland OR 97
- 217 us
+CREATED;VALUE=DATE-TIME:20260313T154845Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260314T100000
+DTSTAMP;VALUE=DATE-TIME:20260313T154845Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260313T154845Z
+UID:http://calagator.org/events/1250482509
+DESCRIPTION:Registration required.&#13\;\n&#13\;\nThis event is open to a
+ ll.&#13\;\n&#13\;\n​Curious about building with Claude but not sure wher
+ e to start?&#13\;\n&#13\;\n​Join us for a hands-on Claude Code Workshop 
+ led by Todd Greco\, designed for beginners\, builders\, and anyone curio
+ us about using Claude inside a real coding environment.&#13\;\n&#13\;\n​
+ This session will walk through how to set up the Claude Code CLI and dev
+ elopment environment\, and how Claude can assist with everyday coding ta
+ sks like debugging\, file manipulation\, and feature building.&#13\;\n&#
+ 13\;\n​Claude Code allows developers to run Claude directly in the termi
+ nal\, making it a powerful companion for building software\, experimenti
+ ng with ideas\, and accelerating projects.&#13\;\n&#13\;\n​After the wor
+ kshop\, participants are welcome to stay\, experiment\, and work on idea
+ s together in an open build session.&#13\;\n&#13\;\n​Whether you’re a de
+ veloper\, hacker\, or simply curious about how AI can support your workf
+ low\, this session will help you get started.&#13\;\n&#13\;\n​What you'l
+ l learn&#13\;\n&#13\;\n​How to set up the Claude Code CLI&#13\;\n&#13\;\
+ n​How to authenticate and connect your Claude account&#13\;\n&#13\;\n​Us
+ ing Claude inside your terminal development workflow&#13\;\n&#13\;\n​Pra
+ ctical ways Claude can assist with coding tasks&#13\;\n&#13\;\n​Tips for
+  experimenting and building with Claude&#13\;\n&#13\;\n​Requirements&#13
+ \;\n&#13\;\n​Participants should have:&#13\;\n&#13\;\n​A laptop&#13\;\n&
+ #13\;\n​A Claude account (Claude Pro recommended)&#13\;\n&#13\;\n​Basic 
+ familiarity with using a terminal&#13\;\n&#13\;\n​Note: Claude Pro provi
+ des access to the Claude app and Claude Code. API access is separate and
+  billed based on usage.&#13\;\n&#13\;\n​Schedule&#13\;\n&#13\;\n​10:00 A
+ M – 11:00 AM&#13\;\nClaude Code Setup Workshop with Todd Greco&#13\;\n&#
+ 13\;\n​11:00 AM – 1:00 PM&#13\;\nOpen build session — experiment\, colla
+ borate\, and work on ideas.&#13\;\n&#13\;\n​Come learn something new\, b
+ uild something interesting\, and meet others exploring the Claude ecosys
+ tem in Portland.&#13\;\n\n\nTags: AI\, Claude\, Anthropic\n\nImported fr
+ om: http://calagator.org/events/1250482509
+URL:https://luma.com/workshopwithToddGreco
+SUMMARY:Claude Code workshop
+LOCATION:PSU - Metro Innovation Hub - 2130 SW 5th Ave.\, PDX\, OR 97201: 
+ false
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
@@ -634,6 +622,35 @@ URL:https://luma.com/ul04ns8a
 SUMMARY:UpStart Collective: Grand Opening Day @ Big Pink!
 LOCATION:U.S. Bancorp Tower (Big Pink): 111 Southwest 5th Avenue\, Portla
  nd OR 97204 US
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED;VALUE=DATE-TIME:20260313T214707Z
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260409T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260409T110000
+DTSTAMP;VALUE=DATE-TIME:20260313T214707Z
+LAST-MODIFIED;VALUE=DATE-TIME:20260313T214707Z
+UID:http://calagator.org/events/1250482510
+DESCRIPTION:Let’s get together for an informal BEAM PDX hangout: coffee\,
+  conversation\, and light co-working.&#13\;\n&#13\;\nThis is a low-key m
+ onthly meetup for folks working with Elixir\, Erlang\, Gleam\, and other
+  BEAM languages\, aimed at reconnecting the local community and rebuildi
+ ng momentum after a long quiet stretch. We'll holding this on the second
+  Thursday of each month.&#13\;\n&#13\;\nThere will be opportunities to:&
+ #13\;\n&#13\;\nAsk questions about Elixir and other BEAM languages&#13\;
+ \nShare what you’ve been working on (or stuck on)&#13\;\nGet help with p
+ rogramming or design problems&#13\;\nCo-work: get things done with like-
+ minded folks nearby&#13\;\nBrainstorm ideas for future talk-based meetup
+ s and identify potential speakers&#13\;\nBring your laptop if you’d like
+ . It's totally optional.&#13\;\n&#13\;\nNew to BEAM languages\, or just 
+ curious? You’re very welcome.&#13\;\n&#13\;\nPlease RSVP so we know roug
+ hly how many people to expect. If your plans change\, un-RSVP when you c
+ an.&#13\;\n&#13\;\nThis meetup is also part of our transition away from 
+ Meetup to a new home for the group\, where we’ll be organizing future ev
+ ents.\n\nTags: elixir\, functional programming\, erlang\, beam\n\nImport
+ ed from: http://calagator.org/events/1250482510
+URL:https://beam-pdx.groupflow.app/events/12293
+SUMMARY:Portland Monthly BEAM Meet & Chat
 SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT

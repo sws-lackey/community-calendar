@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313637928@meetup.com
-SEQUENCE:1
-DTSTAMP:20260313T023245Z
-DTSTART;TZID=America/Los_Angeles:20260313T130000
-DTEND;TZID=America/Los_Angeles:20260313T143000
-SUMMARY:Replay | Don’t Forget The Human: The Power of People in a Digital World
-DESCRIPTION:The Tech Academy\nMissed it the first time? Here’s your opportunity to watch the replay of this inspiring session with **Lindsay Wardell**\, Senior Software Engineer at Mangomint\, where she explores why people and soft skills remain central in a world driven by AI and automation.\n\nIn this Talk\, Lindsay highlights the importance of mentorship\, keeping the end user in mind\, and understanding the human side of technology. She also shares insights on the growing role of AI in coding and why it’s essential to know what AI is doing under the hood when it writes code for us.\n\nWhether you’re a seasoned developer or just starting out\, you’ll gain perspective on how human-centered thinking can shape better products and stronger careers.\n\nSave your spot now and join us on **Friday\\\, March 13 at 1 PM PT \\| 3 PM CT \\| 4 PM ET** to see why people are still at the heart of great tech.
-URL;VALUE=URI:https://www.meetup.com/techacademy/events/313637928/
-STATUS:CONFIRMED
-CREATED:20260304T203432Z
-LAST-MODIFIED:20260304T203432Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/5/5/f/600_533121855.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313761905@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T023245Z
+DTSTAMP:20260314T055557Z
 DTSTART;TZID=America/Los_Angeles:20260320T130000
 DTEND;TZID=America/Los_Angeles:20260320T143000
 SUMMARY:Replay | Accessible by Design: Web Accessibility Essentials for Developers
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313544163@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T023245Z
+DTSTAMP:20260314T055557Z
 DTSTART;TZID=America/Los_Angeles:20260327T130000
 DTEND;TZID=America/Los_Angeles:20260327T143000
 SUMMARY:Tech Talk | Code\, Content\, and Community: Life as a Developer Advocate

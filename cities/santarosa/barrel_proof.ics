@@ -3,48 +3,48 @@ VERSION:2.0
 PRODID:-//Community Calendar//Barrel Proof Lounge Scraper//EN
 X-WR-CALNAME:Barrel Proof Lounge
 BEGIN:VEVENT
-UID:barrelproof-202603121700-1041@barrelprooflounge.com
-DTSTART:20260312T170000
-DTEND:20260312T190000
-SUMMARY:Live Music Happy Hour – Skyhaven Band – Downtown Santa Rosa
-LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
-DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://barrelprooflounge.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:barrelproof-202603122000-20435@barrelprooflounge.com
-DTSTART:20260312T200000
-DTEND:20260312T220000
-SUMMARY:Naked Cat Comedy at Barrel Proof Lounge in Downtown Santa Rosa
-LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
-DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://www.eventbrite.com/e/1983833792276
-END:VEVENT
-BEGIN:VEVENT
-UID:barrelproof-202603131900-70012@barrelprooflounge.com
+UID:barrelproof-202603131900-10691@barrelprooflounge.com
 DTSTART:20260313T190000
 DTEND:20260313T210000
 SUMMARY:The After (DJ Dev)
 LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
 DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://www.eventbrite.com/e/1982736251502
+URL:https://barrelprooflounge.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:barrelproof-202603132000-22501@barrelprooflounge.com
+UID:barrelproof-202603132000-58454@barrelprooflounge.com
 DTSTART:20260313T200000
 DTEND:20260313T220000
 SUMMARY:Friday Night Comedy – Jalisa Robinson – Downtown Santa Rosa
 LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
 DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://www.eventbrite.com/e/1981872118858
+URL:https://barrelprooflounge.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:barrelproof-202603141500-26549@barrelprooflounge.com
+UID:barrelproof-202603141500-43810@barrelprooflounge.com
 DTSTART:20260314T150000
 DTEND:20260314T170000
 SUMMARY:Live Music Happy Hour – The Ukulele Ramblers – Open Uke Jam!
 LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
 DESCRIPTION:Source: Barrel Proof Lounge
 URL:https://www.eventbrite.com/e/1980126935969
+END:VEVENT
+BEGIN:VEVENT
+UID:barrelproof-202603141900-34538@barrelprooflounge.com
+DTSTART:20260314T190000
+DTEND:20260314T210000
+SUMMARY:Live Music with Doron & Friends
+LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
+DESCRIPTION:Source: Barrel Proof Lounge
+URL:https://www.eventbrite.com/e/1983638692728
+END:VEVENT
+BEGIN:VEVENT
+UID:barrelproof-202603142200-88529@barrelprooflounge.com
+DTSTART:20260314T220000
+DTEND:20260315T000000
+SUMMARY:The Lucky After: MTV Dance Party + Karaoke (St. Patrick’s Weekend)
+LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
+DESCRIPTION:Source: Barrel Proof Lounge
+URL:https://www.eventbrite.com/e/1985164934759
 END:VEVENT
 END:VCALENDAR
