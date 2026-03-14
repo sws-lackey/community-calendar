@@ -163,3 +163,17 @@ class PressDemocratScraper(CitySparkScraper):
     lng = -122.8540282
     distance = 40
     calendar_url = "https://www.pressdemocrat.com/events/"
+
+
+class EvanstonCitySparkScraper(CitySparkScraper):
+    """Scraper for Evanston events via CitySpark directly."""
+
+    name = "CitySpark Evanston"
+    domain = "cityspark.com"
+    api_slug = "CitySpark"
+    ppid = 0
+    lat = 42.0451
+    lng = -87.6877
+    distance = 5
+    timezone = "America/Chicago"
+    calendar_url = "https://cityspark.com/calendar/#!/show?location=Evanston,+IL&distance=5"

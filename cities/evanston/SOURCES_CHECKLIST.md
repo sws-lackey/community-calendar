@@ -16,6 +16,7 @@
 | City of Evanston (City Council) | `scrapers/revize.py` (City Council category) | Revize CMS JSON API; ~11 events |
 | Chicago Botanic Garden | `scrapers/chicagobotanic.py` | Drupal calendar scraper; ~157 events with images |
 | Enjoy Evanston | `tockify.com/api/feeds/ics/enjoyevanston` | Tockify ICS; ~68 events with images (X-TKF-FEATURED-IMAGE) |
+| CitySpark Evanston | `scrapers/cityspark/evanston.py` | CitySpark API direct; 5-mile radius; links to cityspark.com |
 | Northlight Theatre | `https://www.northlight.org/events/?ical=1` | WordPress + The Events Calendar; ~30 events; Skokie |
 | Evanston Made | `https://evanstonmade.org/community-calendar/?ical=1` | WordPress + The Events Calendar; ~30 events; community arts |
 | Eisenhower Public Library | `eisenhower.librarycalendar.com/events/feed/ical` | Communico ICS; ~402 events; Norwood Park |
@@ -107,7 +108,7 @@
 | Sketchbook Brewing | No events page found |
 | McGaw YMCA | No feed visible |
 
-| Evanston RoundTable | CitySpark aggregator — replaced with direct feeds from underlying sources |
+| Evanston RoundTable | CitySpark widget; same data now sourced directly from CitySpark API |
 | Wilmette Village | Redirects, 404 |
 | Evanston Art Center Eventbrite | Organizer page 404 |
 | Wilmette Public Library | Communico platform with ICS/RSS disabled |

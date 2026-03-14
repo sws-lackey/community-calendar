@@ -868,7 +868,9 @@ jobs:
         python scrapers/chicagobotanic.py --output cities/evanston/chicago_botanic.ics || true
         # Enjoy Evanston (Tockify)
         curl -sL "https://tockify.com/api/feeds/ics/enjoyevanston" -o cities/evanston/enjoy_evanston.ics || true
-        # Direct feeds replacing CitySpark aggregator
+        # CitySpark (direct, 5-mile radius around Evanston)
+        python scrapers/cityspark/evanston.py --output cities/evanston/cityspark_evanston.ics || true
+        # Additional direct feeds
         curl -sL "https://www.northlight.org/events/?ical=1" -o cities/evanston/northlight_theatre.ics || true
         curl -sL "https://evanstonmade.org/community-calendar/?ical=1" -o cities/evanston/evanston_made.ics || true
         curl -sL "https://eisenhower.librarycalendar.com/events/feed/ical?current_date=$(date +%Y-%m-%d)" -o cities/evanston/eisenhower_library.ics || true
