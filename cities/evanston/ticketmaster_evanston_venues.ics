@@ -4,19 +4,6 @@ PRODID:-//Ticketmaster/Evanston Venues//ticketmaster.com//
 X-WR-CALNAME:Ticketmaster/Evanston Venues
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:The Teddy Campbell Band presents a Night of Soul
-DTSTART;TZID=CDT;VALUE=DATE-TIME:20260312T193000
-DTEND;TZID=CDT;VALUE=DATE-TIME:20260312T193000
-UID:7cf1f79be91fff3d1f5d26f4ce813d53@ticketmaster.com
-ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/c/48b/2352e3b5-8496-4
- 96b-97a3-e605177e848b_105851_RETINA_PORTRAIT_16_9.jpg
-DESCRIPTION:
-LOCATION:SPACE\, 1245 Chicago Avenue\, Evanston\, IL
-URL:https://www.ticketweb.com/event/the-teddy-campbell-band-presents-space
- -tickets/14093644
-X-SOURCE:Ticketmaster/Evanston Venues
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Western Elstons
 DTSTART;TZID=CDT;VALUE=DATE-TIME:20260313T200000
 DTEND;TZID=CDT;VALUE=DATE-TIME:20260313T200000
@@ -882,6 +869,19 @@ ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4
 DESCRIPTION:
 LOCATION:SPACE\, 1245 Chicago Avenue\, Evanston\, IL
 URL:https://www.ticketweb.com/event/sold-out-carsie-space-tickets/14634093
+X-SOURCE:Ticketmaster/Evanston Venues
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenille Townes w. Corrina
+DTSTART;TZID=CDT;VALUE=DATE-TIME:20260514T193000
+DTEND;TZID=CDT;VALUE=DATE-TIME:20260514T193000
+UID:9d57052f5c11d90b3931eb5fec518b46@ticketmaster.com
+ATTACH;FMTTYPE=image/jpeg:https://s1.ticketm.net/dam/a/698/7c7dc7f6-d61f-4
+ ef8-b617-112f7c002698_RETINA_PORTRAIT_16_9.jpg
+DESCRIPTION:
+LOCATION:SPACE\, 1245 Chicago Avenue\, Evanston\, IL
+URL:https://www.ticketweb.com/event/tenille-townes-w-corrina-space-tickets
+ /14095714
 X-SOURCE:Ticketmaster/Evanston Venues
 END:VEVENT
 END:VCALENDAR

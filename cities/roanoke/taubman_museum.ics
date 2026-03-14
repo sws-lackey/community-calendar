@@ -275,71 +275,6 @@ URL:https://www.taubmanmuseum.org/event/david-ramey-a-gift-of-memory/
 X-SOURCE:Taubman Museum of Art
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:March Member Hour: 75th Anniversary and New Visions for the Perman
- ent Collection
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260313T090000
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260313T100000
-UID:10001954-1773392400-1773396000@www.taubmanmuseum.org
-ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
- /2026/02/Jerome-Myers-Evening-Glow-Detail.jpg
-DESCRIPTION:Join Laura K. Higgins\, Curator of 75th Anniversary Gifts to t
- he Permanent Collection\, for guided spotlights in the Museum’s newest e
- xhibition\, 75th Anniversary: New Visions for the Permanent Collection .\n
- \nFor 75 years\, the Museum’s Permanent Collection has been shaped by la
- ndmark gifts\, sustained generosity\, and careful stewardship. What began 
- as a regional commitment to art has grown into a collection defined by dep
- th\, continuity\, and evolving perspective.\n\nThis exhibition reflects bo
- th history and momentum. At its core are gifts made in honor of the Museum
- ’s 75th Anniversary — works that expand the Collection across media\, 
- cultures\, and time periods. Installed in dialogue with longstanding holdi
- ngs\, these new acquisitions illuminate established strengths while openin
- g new areas of inquiry.\n\nThroughout the galleries\, historical foundatio
- ns and contemporary voices are interwoven. Photography speaks across gener
- ations\; regional narratives sit alongside global traditions\; established
-  icons are reframed through present-day perspectives.\n\nA permanent colle
- ction is not static. It is built over time\, shaped by community support\,
-  guided by professional standards\, and entrusted to future generations. W
- ith these 152 gifts\, this anniversary marks both a milestone and a beginn
- ing — honoring the past while setting the course for what comes next.\n\
- nMembers are encouraged to bring up to two paying guests for this special 
- morning program.\n\nMembers: Free | Member Guests: $10\n\nSource: https://
- www.taubmanmuseum.org/march-member-hour-75th-anniversary
-LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
-  United States
-URL:https://www.taubmanmuseum.org/march-member-hour-75th-anniversary
-X-SOURCE:Taubman Museum of Art
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:START: Color Theory
-DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260313T130000
-DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260313T150000
-UID:10001955-1773406800-1773414000@www.taubmanmuseum.org
-ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
- /2026/03/color-wheel-mandala.png
-DESCRIPTION:Welcome to START\, a series designed for artists ages 10 and u
- p!\n\nWhether you’re a total beginner or looking for an artistic refresh
- er\, this class is for you.\n\nEach month\, we will explore a new topic to
-  help you build a strong foundation and expand your knowledge and skills i
- n the arts.\n\nThis month\, we’ll learn about color theory and why some 
- colors look great together and others don’t.\n\nYou’ll learn the basic
- s of the color wheel\, including primary\, secondary\, and tertiary colors
- . We’ll explore warm and cool colors\, and how different color combinati
- ons can change the mood of your art.\n\nAfter strolling through the galler
- ies to apply your new color knowledge to our collection\, you’ll put eve
- rything you learn into practice by creating a beautiful 6-point color whee
- l mandala!\n\nThis project is a fun\, creative way to master the fundament
- als of color theory while making a unique piece of art you can take home.\
- n\nRegistration is required.\n\nMembers: $16 | General Public: $20\n\nNot 
- a member? Join today to get benefits like discounts on classes\, Member-on
- ly exhibition previews\, and reciprocal membership to the Virginia Museum 
- of Fine Arts in Richmond! Click here for details and to become a member.\n
- \nSource: https://www.taubmanmuseum.org/start-color-theory
-LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
-  United States
-URL:https://www.taubmanmuseum.org/start-color-theory
-X-SOURCE:Taubman Museum of Art
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Happy HeARTs Community Session: Ages 10 and Under - March 14
 DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260314T100000
 DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260314T110000
@@ -872,6 +807,72 @@ LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
   United States
 URL:https://www.taubmanmuseum.org/happy-hearts-community-session-ages-10-a
  nd-under-june-13
+X-SOURCE:Taubman Museum of Art
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy HeARTs Community Session: Ages 10 and Older - June 27
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20260627T100000
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20260627T110000
+UID:10001931-1782554400-1782558000@www.taubmanmuseum.org
+ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
+ /2023/06/DSC00134-3-scaled.jpg
+DESCRIPTION:Join us as we explore the Taubman Museum of Art! This session 
+ is designed for participants 10 years and older and their families or care
+ takers with specific adaptations for those who identify as:\n\nIn each Hap
+ py HeARTs session\, participants focus on a particular work of art in the 
+ galleries and take part in an art activity that is accessible and sensory-
+ friendly. Participants also have the opportunity to explore the Museum’s
+  interactive gallery\, Art Venture.\n\nFree and welcoming\, though registr
+ ation is highly encouraged.\n\nContact Katrina King-Singh at kking@taubman
+ museum.org or 540-204-4131 with any questions and to learn more about this
+  free program.\n\nSource: https://www.taubmanmuseum.org/happy-hearts-commu
+ nity-session-ages-10-and-older-june-27
+LOCATION:Taubman Museum of Art\, 110 Salem Ave SE\, Roanoke\, VA\, 24011\,
+  United States
+URL:https://www.taubmanmuseum.org/happy-hearts-community-session-ages-10-a
+ nd-older-june-27
+X-SOURCE:Taubman Museum of Art
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Made: Paintings and Sculpture from the DeMell Jacobsen Co
+ llection
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20261015T000000
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20270124T235959
+UID:10001925-1792022400-1800835199@www.taubmanmuseum.org
+ATTACH;FMTTYPE=image/jpeg:https://www.taubmanmuseum.org/wp-content/uploads
+ /2026/01/web-John-Singer-Sargent_Portrait-of-Elsie-Wagg.jpg
+DESCRIPTION:American Made: Paintings and Sculpture from the DeMell Jacobse
+ n Collection features more than 100 works of art by renowned American arti
+ sts such as John Singer Sargent\, Elizabeth Catlett\, Mary Cassatt\, Rober
+ t Henri\, Sarah Miriam Peale\, Thomas Cole\, and Charles Alston\, among ot
+ hers.\n\nDrawn entirely from the DeMell Jacobsen Collection\, the exhibiti
+ on beautifully surveys the distinctive styles and thought-provoking art cr
+ eated by American artists over the past two centuries.\n\nThough many obje
+ cts from the DeMell Jacobsen Collection have been on view at other museums
+ \, ranging from the Metropolitan Museum of Art to the Smithsonian American
+  Art Museum\, this is the first exhibition to bring the best of the collec
+ tion together in one location.\n\nThe exhibition begins with portraits by 
+ masters including Rembrandt Peale and Thomas Sully before moving on to hig
+ hlight the development of mid-19th-century landscape painting with works b
+ y Asher B. Durand\, John Frederick Kensett\, and others.\n\nEnticing image
+ s of fruits\, flowers\, and other delights by Severin Roesen\, John Franci
+ s\, Ferdinand Richardt\, Elizabeth Williams\, and Adelaide Coburne Palmer 
+ are featured alongside trompe l’oeil examples by William Michael Harnett
+ \, John Haberle\, and John Peto.\n\nTwentieth-century modernism and realis
+ m can be seen in works by artists ranging from Patrick Henry Bruce and Mar
+ sden Hartley to Paul Cadmus\, Charmion von Wiegand\, Suzy Frelinghuysen\, 
+ Elizabeth Catlett\, and Ernie Barnes.\n\nThe mission of the Thomas H. and 
+ Diane DeMell Jacobsen Ph.D. Foundation to “carefully research and obtain
+  American masterpieces” is abundantly represented in American Made .\n\n
+ American Made was curated by Todd Herman\, PhD\, President and CEO of The 
+ Mint Museum\; Kevin Sharp\, Director of the Dixon Gallery and Gardens\; an
+ d Jonathan Stuhlman\, PhD\, Senior Curator of American Art at The Mint Mus
+ eum.\n\nThis exhibition is on view October 15\, 2026-January 24\, 2027\, w
+ ith an Opening Celebration on Saturday\, October 10\, and Member Preview D
+ ay October 11.\n\nCheck back soon for tickets!\n\nSource: https://www.taub
+ manmuseum.org/american-made
+LOCATION:VA
+URL:https://www.taubmanmuseum.org/american-made
 X-SOURCE:Taubman Museum of Art
 END:VEVENT
 END:VCALENDAR

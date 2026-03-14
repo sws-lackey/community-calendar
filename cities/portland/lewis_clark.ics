@@ -23,875 +23,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T190000
-DTEND;TZID=America/Los_Angeles:20260312T210000
-LOCATION:Legal Research Center Lounge
-GEO:45.45177;-122.677216
-SUMMARY:LAW: 2026 Animal Law Week Reception: Rescue\, Resistance\, and th
- e Rule of Law
-UID:20260313T020000Z-370005@www.lclark.edu
-DTSTAMP:20250818T111847Z
-URL:https://www.lclark.edu/calendars/events/event/370005-law-2026-animal-
- law-week-reception-rescue-resistance-
-LAST-MODIFIED:20260213T212708Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:370005
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>\n  Join LC ALDF for the annual Animal Law Week re
- ception featuring animal activist Zoe Rosenberg\, who was sentenced to 90
-  days in jail for rescuing 4 sick chickens from Perdue's Petaluma Poultry
-  slaughterhouse in Sonoma County\, California. Through discussion\, histo
- rical artifacts\, and community\, we'll explore how open rescue challenge
- s industrial animal agriculture and advances justice for animals. Refresh
- ments provided by Vtopian Artisan Cheeses. There will also be a silent Au
- ction benefiting Lighthouse Farm Sanctuary. RSVP <a href="https://engage.
- lclark.edu/register/AnimalLawWeekReception2026">here.</a>&#160\;\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:2026 Gender Studies Symposium - Day 3
-DESCRIPTION:March 13 highlights include the following events:Presentation
- s exploring literary and visual expression\, trans and nonbinary experien
- ce\, climate resistance\, reproductive justice\, attacks on higher educat
- ion\, and more&#160\;&#160\;  A workshop on kink and BDSM  A performance 
- by ClownBloc  Closing reception to celebrate Transgressors (https://www.l
- clark.edu/live/news/57383-transgressors)\, an exhibition of Indigiqueer a
- rt in the Hoffman Gallery    Times\, locations\, and additional details c
- an be found on the schedule (https://college.lclark.edu//departments/gend
- er_studies/symposium/45th-annual-gender-studies-symposium/schedule/).
-X-ALT-DESC;FMTTYPE=text/html:<p>  March 13 highlights include the followi
- ng events:</p><ul><li>Presentations exploring literary and visual express
- ion\, trans and nonbinary experience\, climate resistance\, reproductive 
- justice\, attacks on higher education\, and more&#160\;&#160\;  </li><li>
- A workshop on kink and BDSM  </li><li>A performance by ClownBloc  </li><l
- i>Closing reception to celebrate <em><a href="https://www.lclark.edu/live
- /news/57383-transgressors" target="_blank" rel="noopener">Transgressors</
- a></em>\, an exhibition of Indigiqueer art in the Hoffman Gallery  </li><
- /ul><p>  Times\, locations\, and additional details can be found on the <
- a href="https://college.lclark.edu//departments/gender_studies/symposium/
- 45th-annual-gender-studies-symposium/schedule/" target="_blank" rel="noop
- ener">schedule</a>.</p>
-UID:20260313T070000Z-382266@www.lclark.edu
-DTSTAMP:20260202T112330Z
-URL:https://www.lclark.edu/live/events/381613-2026-gender-studies-symposi
- um-day-3
-CATEGORIES:Dialogue in Action,Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382266
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Gender Studies Symposium cochairs at <a h
- ref="mailto:gendsymp@lclark.edu">gendsymp@lclark.edu</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Day 3 of the <a href="https://college.lclark.e
- du//departments/gender_studies/symposium/45th-annual-gender-studies-sympo
- sium/" target="_blank" rel="noopener">45th Annual Gender Studies Symposiu
- m</a>!<br />\n  <br />\n  This year's symposium explores dimensions of re
- sistance\, activism\, and solidarity in relation to gender and sexuality.
- &#160\;<br />\n  <br />\n  Join us for three days of keynote presentation
- s\, multidisciplinary panels\, workshops\, readings\, and other events\, 
- as well as an art exhibition. View the complete <a href="https://college.
- lclark.edu//departments/gender_studies/symposium/45th-annual-gender-studi
- es-symposium/schedule/" target="_blank" rel="noopener">event schedule</a>
-  for details. Events are open to the public.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-LOCATION:Watzek Library
-SUMMARY:2026 Gender Studies Symposium Art Show
-DESCRIPTION:For more information about this year's participating artists 
- and additional details about the physical and virtual art exhibit\, pleas
- e visit the website (https://college.lclark.edu/departments/gender_studie
- s/symposium/45th-annual-gender-studies-symposium/).
-X-ALT-DESC;FMTTYPE=text/html:<p>  For more information about this year's 
- participating artists and additional details about the physical and virtu
- al art exhibit\, please visit the <a href="https://college.lclark.edu/dep
- artments/gender_studies/symposium/45th-annual-gender-studies-symposium/" 
- target="_blank" rel="noopener">website</a>.</p>
-UID:20260313T070000Z-382263@www.lclark.edu
-DTSTAMP:20260202T112322Z
-URL:https://www.lclark.edu/live/events/381705-2026-gender-studies-symposi
- um-art-show
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382263
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  &#160\;<a href="mailto:gssart@lclark.edu"
- >gssart@lclark.edu</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  One important part of the symposium is an art 
- exhibit of work from community members from Lewis &amp\; Clark and beyond
- . The <a href="https://college.lclark.edu/departments/gender_studies/symp
- osium/45th-annual-gender-studies-symposium/" target="_blank" rel="noopene
- r">45th Annual Gender Studies Symposium</a>\, "RESIST NOW\," explores dim
- ensions of resistance\, activism\, and solidarity in relation to gender a
- nd sexuality<br />\n  <br />\n  This year's exhibit includes a gallery in
-  the Watzek Library atrium and an online gallery.\n</p>\n<p>\n  Curated b
- y L&amp\;C students <strong>Jamison Bane</strong> '27\, <strong>Finn Dwye
- r</strong> '28\, and <strong>Maria Martinez Decuir</strong> '27.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:Animal Law Week
-DESCRIPTION:*Events that are open to the public are shown with an asteris
- k.MONDAY\, MARCH 9 12:10-1:10 PM PST McCARTY ROOM 3 and ONLINE*  Join the
-  Center for Animal Law Studies for this special event to kick off Animal 
- Law Week. In 2024\, Lucy's Project convened a National Roundtable on Dome
- stic and Family Violence Perpetrated against People and Animals. This pre
- sentation will share the Roundtable findings and recommendations for legi
- slative\, policy and program reform to improve the safety and wellbeing o
- f people and animals across Australia. Vegan lunch provided! To join onli
- ne\, RSVP here (https://lclark-edu.zoom.us/webinar/register/WN_bQ-9uYo-S7
- GzynykmuTbVQ#/registration).TUESDAY\, MARCH 10 12:10-1 PM PST LRC LOUNGE 
-  Join LC ALDF for the annual MeatOut event. MeatOut celebrates Portland's
-  vegan food scene and encourages our campus community to consider plant-b
- ased options. Food will be available on a first-come\, first-served basis
- . To reduce waste\, please bring your own tupperware and serve yourself o
- nly as much food as you will eat.THURSDAY\, MARCH 12 12:10-1:10 PM PST Mc
- CARTY ROOM 3  Join LC ALDF for Taking Individual Action for Animals\, a m
- ultimedia exploration of the history of the animal liberation movement. T
- his talk will highlight key events to show how early activists demanded c
- hange and impacted the modern scope of animal advocacy. This event is a p
- relude to LC ALDF's evening reception.THURSDAY\, MARCH 12 7-9 PM PST LRC 
- LOUNGE*  Join LC ALDF for the annual Animal Law Week reception featuring 
- animal activist Zoe Rosenberg\, who was sentenced to 90 days in jail for 
- rescuing 4 sick chickens from a slaughterhouse. Through discussion\, hist
- orical artifacts\, and community\, explore how open rescue challenges ind
- ustrial animal agriculture and advances justice for animals. Refreshments
-  provided by Vtopian Artisan Cheeses. There will also be a silent auction
-  benefiting Lighthouse Farm Sanctuary. RSVP here. (https://engage.lclark.
- edu/register/AnimalLawWeekReception2026)&#160\;
-X-ALT-DESC;FMTTYPE=text/html:<p><strong>*Events that are open to the publ
- ic are shown with an asterisk.</strong></p><h4><strong>MONDAY\, MARCH 9 1
- 2:10-1:10 PM PST McCARTY ROOM 3 and ONLINE*</strong></h4><p>  Join the Ce
- nter for Animal Law Studies for this special event to kick off Animal Law
-  Week. In 2024\, Lucy's Project convened a National Roundtable on Domesti
- c and Family Violence Perpetrated against People and Animals. This presen
- tation will share the Roundtable findings and recommendations for legisla
- tive\, policy and program reform to improve the safety and wellbeing of p
- eople and animals across Australia. Vegan lunch provided! To join online\
- , RSVP <a href="https://lclark-edu.zoom.us/webinar/register/WN_bQ-9uYo-S7
- GzynykmuTbVQ#/registration">here</a>.</p><h4><br /><strong>TUESDAY\, MARC
- H 10 12:10-1 PM PST LRC LOUNGE</strong></h4><p>  Join LC ALDF for the ann
- ual MeatOut event. MeatOut celebrates Portland's vegan food scene and enc
- ourages our campus community to consider plant-based options. Food will b
- e available on a first-come\, first-served basis. To reduce waste\, pleas
- e bring your own tupperware and serve yourself only as much food as you w
- ill eat.</p><p><strong>THURSDAY\, MARCH 12 12:10-1:10 PM PST McCARTY ROOM
-  3</strong></p><p>  Join LC ALDF for Taking Individual Action for Animals
- \, a multimedia exploration of the history of the animal liberation movem
- ent. This talk will highlight key events to show how early activists dema
- nded change and impacted the modern scope of animal advocacy. This event 
- is a prelude to LC ALDF's evening reception.</p><h4><strong>THURSDAY\, MA
- RCH 12 7-9 PM PST LRC LOUNGE*</strong></h4><p>  Join LC ALDF for the annu
- al Animal Law Week reception featuring animal activist Zoe Rosenberg\, wh
- o was sentenced to 90 days in jail for rescuing 4 sick chickens from a sl
- aughterhouse. Through discussion\, historical artifacts\, and community\,
-  explore how open rescue challenges industrial animal agriculture and adv
- ances justice for animals. Refreshments provided by Vtopian Artisan Chees
- es. There will also be a silent auction benefiting Lighthouse Farm Sanctu
- ary. RSVP <a href="https://engage.lclark.edu/register/AnimalLawWeekRecept
- ion2026">here.</a>&#160\;</p>
-UID:20260313T070000Z-384715@www.lclark.edu
-DTSTAMP:20260223T121242Z
-URL:https://www.lclark.edu/calendars/events/event/384715-animal-law-week
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260303T141900Z
-ATTACH:https://www.lclark.edu/live/image/gid/41/width/80/height/80/crop/1
- /src_region/0,0,1080,1080/112118_AnimalLawWeek_2026_v1.rev.1771877518.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384715
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/41/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1080\,1080/112118_AnimalLawWeek_2026_v1.rev.
- 1771877518.jpg
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-SUMMARY:<p>\n  Join the Lewis &amp\; Clark Animal Legal Defen
- se Fund Student Chapter during this year's annual Animal Law Week as they
-  showcase dynamic speakers\, in-depth presentations\, and opportunities t
- o network with other professionals in animal law. Some events are open to
-  the public!\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-LOCATION:Lewis &amp\; Clark Graduate School of Education and Counseling
-SUMMARY:Balancing Life and Leadership: Courage to Lead in Challenging Tim
- es (In-Person)
-DESCRIPTION:Early spring a time of paradox. A season of balancing light a
- nd dark\, rest and activity\, tending to new sprouts\, and shedding what 
- no longer serves us.&#160\;This liminal space between the dormancy of win
- ter and the blossoming of spring offers opportunity to tend to the equili
- brium of our lives and our leadership.Are you seeking to find balance in 
- your life\, and make changes to better serve who you want to be in the wo
- rld and how you want to show up?  We invite you to join us in this opport
- unity to pause and disconnect from the fast pace and distractions of dail
- y life\, and join other change-makers who dare to engage in their work wi
- th presence and compassion.This Courage to Lead® retreat provides the ti
- me and space for deep reflection\, renewal\, and the opportunity to:     
-  Engage in self reflection\, invitational large and small group sharing\,
-  artistic expression\, and other contemplative practices designed to supp
- ort access to inner wisdom          Build a trustworthy space for accessi
- ng and speaking our truths\, and listening to the truths of others       
-    Explore our inner sources of leadership    Develop skills for holding 
- meaningful conversations and building relational trust        Learn pract
- ices for holding the complexities we encounter in our personal and profes
- sional communities      This retreat is open to people from diverse field
- s and is designed to help participants renew their passion and enthusiasm
-  and commitment toward their leadership and community. Past participants 
- have included school-based educators and administrators\, activists\, wri
- ters\, clergy\, coaches\, doulas\, mental health practitioners\, and lead
- ers from nonprofit and corporate sectors. Leadership can also be reflecte
- d in the ways that we show up in the world through our professional\, fam
- ily\, or community life.    Stay centered.    It is your greatest gift   
-  to the world\,    to those    you care about\,    to your own soul\,    
- in fact.      Whatever is required    for you to stay completely    cente
- red in your gifts–    to listen    to the silence    of the greater uni
- verse—    do that thing now\,    this very moment.      from Judy Brown
- \, November 3\, 2006\, The Art &amp\; Spirit of LeadershipDetails &amp\; 
- RegistrationRegistration for this retreat is now closedDates and Times: F
- riday-Sunday\, March 13-15\, 2026&#160\;Friday: 9:30 a.m.-5 p.m.Saturday:
-  9:30 a.m.-5 p.m.Sunday: 9:30 a.m.-12:30 p.m.Location: Lewis &amp\; Clark
-  Graduate School\, 615 S. Palatine Hill Road\, Portland\, ORFacilitators:
-  Kevin Bacon\; Dawn Montgomery\, EdD\; Matsya SiosalRegistration: $425. I
- ncludes 16 PDUs or CEUs\, materials and supplies\, and Friday and Saturda
- y lunch\, beverages\, and snacks.&#160\;Lodging: Please note that this is
-  not a residential retreat. The Lakeshore Inn (https://www.thelakeshorein
- n.com/) is the closest lodging option to campus\, and other options with 
- rates for L&amp\;C visitors can be found here (https://www.lclark.edu/vis
- it/places_to_stay/).Accessibility: We are committed to making our events 
- accessible to all needs and abilities. When registering\, please let us k
- now your access needs. Contact us at 503-768-6040 or cce@lclark.edu with 
- questions.Scholarship Fund: We strive to keep our Courage retreats access
- ible to all who wish to participate. Please consider making a tax-deducti
- ble donation (https://engage.lclark.edu/register/gsecgiving?sys:gift:fund
- =4dfb9f4e-7351-4d84-91fe-531631c248c7&amp\;sys:gift:notes=Courage%20and%2
- 0Renewal%20Retreats%20Scholarship%20Fund) to our scholarship fund.About t
- he Facilitators Kevin Bacon is a seasoned educator who has dedicated his 
- career to student outcomes&#160\;and community engagement. He is a retire
- d Portland Public Schools administrator that taught and administrated at 
- all three levels\, elementary\, middle and high.  In retirement\, he cont
- inues to support schools by substituting for principals and consulting as
-  needed. He recently completed a three year term as the president of the 
- nonprofit\, Oregon Alliance of Black School Educators and served two year
- s on the board of the nonprofit Reading Results. He is proud of his accum
- ulative 38 years of service to nearly every student demographic in most s
- ectors of Portland. He has been a teacher\, student management specialist
- \, biotech education coordinator\, coach\, vice principal\, and principal
- .  Kevin received his Courage to Lead training and certification from the
-  Center for Courage &amp\; Renewal in 2011. He has facilitated numerous r
- etreats since that time and brings energy\, insight\, and humility to eve
- ry gathering. Kevin has two adult children and loves spending his leisure
-  time golfing\, traveling\, hiking and cycling. Dawn Montgomery\, EdD is 
- a change facilitator and insightful thought partner. She supports leaders
-  from a wide variety of fields\, including educators\, nonprofit executiv
- es\, and community administrators as they find their way in challenging t
- imes. Assisting humans in their discovery and reconnection to their deepe
- st longings has been a passion for many years. Her commitment to environm
- ental and human health and healing resonates throughout her coaching prac
- tice and team facilitation. She believes transformation is born when a ci
- rcle of humans sit together to listen\, to speak their deepest truths and
-  to share their wildest imaginations for change. She is expert at holding
-  space for both individual leaders and teams as an executive coach\, conf
- lict mediator\, equity-focused professional developer and a certified Cou
- rage &amp\; Renewal facilitator. She is committed to making a difference 
- in the lives of individuals and their communities. Matsya Siosal has deve
- loped her skills in leadership and facilitation for over 25 years\, inclu
- ding roles with small and large for-profit corporations\, mission-driven 
- consumer goods companies\, higher education\, and as a consultant and ent
- repreneur. She has served as the director of the Center for Community Eng
- agement at Lewis &amp\; Clark since 2015\, after joining the department i
- n 2010 to work in marketing and program management. Matsya is also co-fou
- nder and managing partner of Sea-O-Salt Bath Company (http://www.seaosalt
- .com/). Matsya is an experienced certified facilitator of Courage &amp\; 
- Renewal programs. She has facilitated Circle of Trust\, Courage to Lead\,
-  and Leading Together workshops and retreats since 2019\, and is trained 
- as a SoulCollage® (https://soulcollage.com/) facilitator. As a facilitat
- or and coach\, Matsya supports mission-driven leaders in accessing their 
- authentic voice\, and finding clarity and self-trust so they can show up 
- with wholeheartedness and sustainability in their lives and work.New work
- shops and trainings are added to our calendar regularly. For the latest o
- n professional development related to your specific interests\, sign up f
- or our mailing list! (https://lclark.tfaforms.net/4735441)
-X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  Early spring
-  a time of paradox. A season of balancing light and dark\, rest and activ
- ity\, tending to new sprouts\, and shedding what no longer serves us.&#16
- 0\;This liminal space between the dormancy of winter and the blossoming o
- f spring offers opportunity to tend to the equilibrium of our lives and o
- ur leadership.</p><p style="line-height: 1.5\;"><strong>Are you seeking t
- o find balance in your life\, and make changes to better serve who you wa
- nt to be in the world and how you want to show up?</strong></p><p style="
- line-height: 1.5\;">  We invite you to join us in this opportunity to pau
- se and disconnect from the fast pace and distractions of daily life\, and
-  join other change-makers who dare to engage in their work with presence 
- and compassion.</p><h4 style="line-height: 1.5\;"><strong>This Courage to
-  Lead® retreat provides the time and space for deep reflection\, renewal
- \, and the opportunity to:</strong></h4><ul><li><p style="line-height: 1.
- 5\;">      Engage in self reflection\, invitational large and small group
-  sharing\, artistic expression\, and other contemplative practices design
- ed to support access to inner wisdom    </p></li><li><p style="line-heigh
- t: 1.5\;">      Build a trustworthy space for accessing and speaking our 
- truths\, and listening to the truths of others    </p></li><li><p style="
- line-height: 1.5\;">      Explore our inner sources of leadership    </p>
- </li><li>Develop skills for holding meaningful conversations and building
-  relational trust  </li><li><p style="line-height: 1.5\;">      Learn pra
- ctices for holding the complexities we encounter in our personal and prof
- essional communities    </p></li></ul><p style="line-height: 1.5\;">  Thi
- s retreat is open to people from diverse fields and is designed to help p
- articipants renew their passion and enthusiasm and commitment toward thei
- r leadership and community. Past participants have included school-based 
- educators and administrators\, activists\, writers\, clergy\, coaches\, d
- oulas\, mental health practitioners\, and leaders from nonprofit and corp
- orate sectors. Leadership can also be reflected in the ways that we show 
- up in the world through our professional\, family\, or community life.</p
- ><blockquote><p style="font-size: 2.2rem\;">    Stay centered.<br />    I
- t is your greatest gift<br />    to the world\,<br />    to those<br />  
-   you care about\,<br />    to your own soul\,<br />    in fact.  </p><p 
- style="font-size: 2.2rem\;">    Whatever is required<br />    for you to 
- stay completely<br />    centered in your gifts–<br />    to listen<br 
- />    to the silence<br />    of the greater universe—<br />    do that
-  thing now\,<br />    this very moment.  </p><p class="quote-author">    
- from <em>Judy Brown\, November 3\, 2006\, The Art &amp\; Spirit of Leader
- ship</em></p></blockquote><hr /><h2><strong>Details &amp\; Registration</
- strong></h2><h5 style="line-height: 1.5\;"><strong>Registration for this 
- retreat is now closed</strong></h5><p style="line-height: 1.5\;"><strong>
- Dates and Times:</strong> Friday-Sunday\, March 13-15\, 2026&#160\;</p><p
-  style="line-height: 1.5\; padding-left: 40px\;"><strong>Friday:</strong>
-  9:30 a.m.-5 p.m.<br /><strong>Saturday:</strong> 9:30 a.m.-5 p.m.<br /><
- strong>Sunday:</strong> 9:30 a.m.-12:30 p.m.</p><p style="line-height: 1.
- 5\;"><strong>Location:</strong> Lewis &amp\; Clark Graduate School\, 615 
- S. Palatine Hill Road\, Portland\, OR</p><p style="line-height: 1.5\;"><s
- trong>Facilitators:</strong> Kevin Bacon\; Dawn Montgomery\, EdD\; Matsya
-  Siosal</p><p style="line-height: 1.5\;"><strong>Registration:</strong> $
- 425. Includes 16 PDUs or CEUs\, materials and supplies\, and Friday and S
- aturday lunch\, beverages\, and snacks.&#160\;</p><p style="line-height: 
- 1.5\;"><strong>Lodging:</strong> Please note that this <span style="text-
- decoration: underline\;"><strong>is not</strong></span> a residential ret
- reat. <a href="https://www.thelakeshoreinn.com/">The Lakeshore Inn</a> is
-  the closest lodging option to campus\, and other options with rates for 
- L&amp\;C visitors can be <a href="https://www.lclark.edu/visit/places_to_
- stay/" target="_blank" rel="noopener">found here</a>.</p><p class="p1" st
- yle="font-size: 14px\; line-height: 1.5\;"><strong>Accessibility:</strong
- > We are committed to making our events accessible to all needs and abili
- ties. When registering\, please let us know your access needs. Contact us
-  at 503-768-6040 or cce@lclark.edu with questions<span style="font-weight
- : 400\;">.</span></p><p class="p1" style="font-size: 14px\; line-height: 
- 1.5\;"><strong>Scholarship Fund:</strong> We strive to keep our Courage r
- etreats accessible to all who wish to participate. Please consider making
-  a <a href="https://engage.lclark.edu/register/gsecgiving?sys:gift:fund=4
- dfb9f4e-7351-4d84-91fe-531631c248c7&amp\;sys:gift:notes=Courage%20and%20R
- enewal%20Retreats%20Scholarship%20Fund">tax-deductible donation</a> to ou
- r scholarship fund.</p><hr /><h2 style="line-height: 1.6\;"><strong>About
-  the Facilitators</strong></h2><p style="line-height: 1.5\;"><strong><pic
- ture class="lw_image lw_image104601 lw_align_right"><source type="image/w
- ebp" srcset="https://www.lclark.edu/live/image/scale/2x/gid/91/width/170/
- height/175/104601_image_123650291.webp 2x" data-origin="responsive"/><sou
- rce type="image/jpeg" srcset="https://www.lclark.edu/live/image/scale/2x/
- gid/91/width/170/height/175/104601_image_123650291.JPG 2x" data-origin="r
- esponsive"/>
-<picture>
-<img alt="" width="170" height="175" data-alt="" data-decorat
- ion="true" src="https://www.lclark.edu/live/image/gid/91/width/170/height
- /175/104601_image_123650291.JPG" title="image 123650291.JPG" srcset="http
- s://www.lclark.edu/live/image/scale/2x/gid/91/width/170/height/175/104601
- _image_123650291.JPG 2x" data-max-w="423" data-max-h="436" loading="lazy"
-  data-optimized="true"/>
-</picture></picture> Kevin Bacon</strong> is a seasoned edu
- cator who has dedicated his career to student outcomes&#160\;and communit
- y engagement. He is a retired Portland Public Schools administrator that 
- taught and administrated at all three levels\, elementary\, middle and hi
- gh.</p><p style="line-height: 1.5\;">  In retirement\, he continues to su
- pport schools by substituting for principals and consulting as needed. He
-  recently completed a three year term as the president of the nonprofit\,
-  Oregon Alliance of Black School Educators and served two years on the bo
- ard of the nonprofit Reading Results. He is proud of his accumulative 38 
- years of service to nearly every student demographic in most sectors of P
- ortland. He has been a teacher\, student management specialist\, biotech 
- education coordinator\, coach\, vice principal\, and principal.</p><p sty
- le="line-height: 1.5\;">  Kevin received his Courage to Lead training and
-  certification from the Center for Courage &amp\; Renewal in 2011. He has
-  facilitated numerous retreats since that time and brings energy\, insigh
- t\, and humility to every gathering. Kevin has two adult children and lov
- es spending his leisure time golfing\, traveling\, hiking and cycling.</p
- ><p style="line-height: 1.5\;"><strong><picture class="lw_image lw_image9
- 4721 lw_align_right"><source type="image/webp" srcset="https://www.lclark
- .edu/live/image/scale/2x/gid/91/width/170/height/170/crop/1/src_region/6\
- ,0\,765\,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM.webp 2x\, https:/
- /www.lclark.edu/live/image/scale/3x/gid/91/width/170/height/170/crop/1/sr
- c_region/6\,0\,765\,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM.webp 3
- x" data-origin="responsive"/><source type="image/png" srcset="https://www
- .lclark.edu/live/image/scale/2x/gid/91/width/170/height/170/crop/1/src_re
- gion/6\,0\,765\,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM.rev.165610
- 4803.png 2x\, https://www.lclark.edu/live/image/scale/3x/gid/91/width/170
- /height/170/crop/1/src_region/6\,0\,765\,760/94721_Screen_Shot_2022-06-24
- _at_2.15.41_PM.rev.1656104803.png 3x" data-origin="responsive"/><img alt=
- "" width="170" height="170" data-decoration="true" src="https://www.lclar
- k.edu/live/image/gid/91/width/170/height/170/crop/1/src_region/6\,0\,765\
- ,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM.rev.1656104803.png" title
- ="Screen Shot 2022-06-24 at 2.15.41 PM" srcset="https://www.lclark.edu/li
- ve/image/scale/2x/gid/91/width/170/height/170/crop/1/src_region/6\,0\,765
- \,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM.rev.1656104803.png 2x\, 
- https://www.lclark.edu/live/image/scale/3x/gid/91/width/170/height/170/cr
- op/1/src_region/6\,0\,765\,760/94721_Screen_Shot_2022-06-24_at_2.15.41_PM
- .rev.1656104803.png 3x" data-max-w="759" data-max-h="760" loading="lazy" 
- data-optimized="true"/></picture> Dawn Montgomery\, EdD</strong> is a cha
- nge facilitator and insightful thought partner. She supports leaders from
-  a wide variety of fields\, including educators\, nonprofit executives\, 
- and community administrators as they find their way in challenging times.
-  Assisting humans in their discovery and reconnection to their deepest lo
- ngings has been a passion for many years. Her commitment to environmental
-  and human health and healing resonates throughout her coaching practice 
- and team facilitation. She believes transformation is born when a circle 
- of humans sit together to listen\, to speak their deepest truths and to s
- hare their wildest imaginations for change. She is expert at holding spac
- e for both individual leaders and teams as an executive coach\, conflict 
- mediator\, equity-focused professional developer and a certified Courage 
- &amp\; Renewal facilitator. She is committed to making a difference in th
- e lives of individuals and their communities.</p><p style="line-height: 1
- .5\;"><strong><picture class="lw_image lw_image95419 lw_align_right"><sou
- rce type="image/webp" srcset="https://www.lclark.edu/live/image/scale/2x/
- gid/91/width/170/height/170/crop/1/src_region/0\,111\,1200\,1310/95419_si
- osalmatsya-mug.webp 2x\, https://www.lclark.edu/live/image/scale/3x/gid/9
- 1/width/170/height/170/crop/1/src_region/0\,111\,1200\,1310/95419_siosalm
- atsya-mug.webp 3x" data-origin="responsive"/><source type="image/jpeg" sr
- cset="https://www.lclark.edu/live/image/scale/2x/gid/91/width/170/height/
- 170/crop/1/src_region/0\,111\,1200\,1310/95419_siosalmatsya-mug.rev.16613
- 45780.jpg 2x\, https://www.lclark.edu/live/image/scale/3x/gid/91/width/17
- 0/height/170/crop/1/src_region/0\,111\,1200\,1310/95419_siosalmatsya-mug.
- rev.1661345780.jpg 3x" data-origin="responsive"/><img alt="" width="170" 
- height="170" data-decoration="true" src="https://www.lclark.edu/live/imag
- e/gid/91/width/170/height/170/crop/1/src_region/0\,111\,1200\,1310/95419_
- siosalmatsya-mug.rev.1661345780.jpg" srcset="https://www.lclark.edu/live/
- image/scale/2x/gid/91/width/170/height/170/crop/1/src_region/0\,111\,1200
- \,1310/95419_siosalmatsya-mug.rev.1661345780.jpg 2x\, https://www.lclark.
- edu/live/image/scale/3x/gid/91/width/170/height/170/crop/1/src_region/0\,
- 111\,1200\,1310/95419_siosalmatsya-mug.rev.1661345780.jpg 3x" data-max-w=
- "1200" data-max-h="1199" loading="lazy" data-optimized="true"/></picture>
-  Matsya Siosal</strong> has developed her skills in leadership and facili
- tation for over 25 years\, including roles with small and large for-profi
- t corporations\, mission-driven consumer goods companies\, higher educati
- on\, and as a consultant and entrepreneur. She has served as the director
-  of the Center for Community Engagement at Lewis &amp\; Clark since 2015\
- , after joining the department in 2010 to work in marketing and program m
- anagement. Matsya is also co-founder and managing partner of <a href="htt
- p://www.seaosalt.com/" target="_blank" rel="noopener" data-saferedirectur
- l="https://www.google.com/url?q=http://www.seaosalt.com&amp\;source=gmail
- &amp\;ust=1753383044078000&amp\;usg=AOvVaw1p78DjRJB9GSrWHhA6LGkP">Sea-O-S
- alt Bath Company</a>. Matsya is an experienced certified facilitator of C
- ourage &amp\; Renewal programs. She has facilitated Circle of Trust\, Cou
- rage to Lead\, and Leading Together workshops and retreats since 2019\, a
- nd is trained as a <a href="https://soulcollage.com/" target="_blank" rel
- ="noopener" data-saferedirecturl="https://www.google.com/url?q=https://so
- ulcollage.com/&amp\;source=gmail&amp\;ust=1753383044078000&amp\;usg=AOvVa
- w0R2GoVMeEDJcNYabHL8_ee">SoulCollage®</a> facilitator. As a facilitator 
- and coach\, Matsya supports mission-driven leaders in accessing their aut
- hentic voice\, and finding clarity and self-trust so they can show up wit
- h wholeheartedness and sustainability in their lives and work.</p><div id
- ="lw_widget_470b39ba" class="lw_widget lw_widget_type_blurbs lw_widget_bl
- urbs lw_widget_id_3994 lw_widget_opt_in lw_widget_pagination"><ul class="
- lw_widget_results lw_widget_results_blurbs"><li class="lw_item_1"><div cl
- ass="lw_blurbs_body"><p style="line-height: 1.5\;"><em><strong>New worksh
- ops and trainings are added to our calendar regularly.</strong> For the l
- atest on professional development related to your specific interests\, <a
-  href="https://lclark.tfaforms.net/4735441">sign up for our mailing list!
- </a></em></p></div></li></ul></div>
-UID:20260313T070000Z-371962@www.lclark.edu
-DTSTAMP:20251024T102258Z
-URL:https://www.lclark.edu/calendars/events/event/371962-balancing-life-a
- nd-leadership-courage-to-lead-in-chal
-LAST-MODIFIED:20260310T191008Z
-ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
- /src_region/0,0,2119,3199/101955_pexels-pixabay-51374.rev.1702068656.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:371962
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/91/width/80/heigh
- t/80/crop/1/src_region/0\,0\,2119\,3199/101955_pexels-pixabay-51374.rev.1
- 702068656.jpg
-X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-SUMMARY:<p>\n  Friday-Sunday\, March 13-15\, 2026&#160\; | 16
-  PDUs or CEUs&#160\;\n</p>
-X-LIVEWHALE-TAGS:All Courses Upcoming|Counselors Upcoming|CTL|Educators U
- pcoming|March
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T083000
-DTEND;TZID=America/Los_Angeles:20260313T163000
-LOCATION:Lewis &amp\; Clark Graduate School\, York 107
-SUMMARY:Applied Suicide Intervention Skills Training (ASIST) [In-Person]
-DESCRIPTION:The Applied Suicide Intervention Skills Training (ASIST) is a
- n intensive\, interactive and practice-dominated course for those who wan
- t to feel more comfortable\, confident and competent in providing an inte
- rvention with someone who is having thoughts of suicide.&#160\;This works
- hop will provide extensive opportunities for supported skills practice an
- d shared participant experiences that enrich learning.After this workshop
- \, participants will have an increased ability to:      Recognize when so
- meone may be thinking about suicide          Provide a skilled interventi
- on\, including connect the person to further support          Guide the d
- evelopment of a safety plan through a collaborative\, helping relationshi
- p          Consider how personal and community attitudes about suicide af
- fect someone's openness to seek help and the caregiver's ability to provi
- de it          Reduce suicide stigma and build confidence and capacity to
-  provide suicide first aidWho should attend? The training is for anyone i
- n a position of trust\, including mental health and addictions profession
- als\, school psychologists\, school counselors\, educators\, healthcare w
- orkers\, peer support and recovery specialists\, housing specialists\, la
- w enforcement\, faith leaders\, and community volunteers.  "Prior to part
- icipating in ASIST\, I was reluctant to get involved in conversations inv
- olving suicide because I felt uneasy about how to engage effectively. I w
- alked away from this training with clear and applicable tools to enter a 
- conversation with confidence and fearlessness\, equipped to support and c
- onverse openly about suicide. It was absolutely one of the most valuable 
- trainings I have experienced in my career."  - Counselor\, Roosevelt High
-  SchoolTraining credits are NASP and NASW-approved for Continuing Profess
- ional Development (CPD).Details &amp\; RegistrationRegistration for this 
- course is closed.Dates and Time: Friday &amp\; Saturday\, March 13-14\, 2
- 026\, 8:30 a.m.-4:30 p.m.&#160\;Location: Lewis &amp\; Clark Graduate Sch
- ool\, South ChapelInstructors: Leslie Rodgers\, and Kathy Wilson-FeyCost 
- and Credits: $325\, includes 15 NASP-Approved CEUs or PDUs (12.75 NASW Cr
- edits). Alumni\, Adjuncts\, and GSEC Clinical Mental Health Supervisors s
- ave 20%.&#160\;Accessibility: We are committed to making our events acces
- sible to all needs and abilities. When registering\, please let us know y
- our access needs. Contact us at 503-768-6040 or cce@lclark.edu (mailto:cc
- e@lclark.edu)&#160\;with questions.Please note: Discounted &#x2018\;Stude
- nt Rate&#x2019\; registrations are for current students only and do not i
- nclude continuing education credit (CEU/PDUs)About the InstructorsLeslie 
- Rodgers is a licensed clinical social worker and registered ASIST (Applie
- d Suicide Intervention Skills) trainer with over 20 years experience work
- ing with children and adults in various therapeutic settings\, including 
- group homes\, psychiatric hospitals\, and schools. Her current work has i
- nvolved implementing best practice procedures and providing staff develop
- ment in student threat assessment\, suicide prevention\, and crisis respo
- nse for school districts. She holds a BA from the University of Texas and
-  a Masters in Social Work from Portland State University.Kathy Wilson-Fey
-  is a registered ASIST Trainer and has clinical therapy and teaching expe
- rience in a variety of settings\, including community college\, community
-  mental health\, and an international university. She has 15 years of exp
- erience as a mental health specialist in public schools\, where she worke
- d with students and families\, trained school staff on suicide interventi
- on\, and coordinated school support during crises. Kathy is fluent in Spa
- nish and is committed to equity work and cultural competence. She holds a
-  BA from Whitman College and a Masters in Counseling Psychology from the 
- University of Oregon.New workshops and trainings are added to our calenda
- r regularly. For the latest on professional development related to your s
- pecific interests\, sign up for our mailing list! (https://lclark.tfaform
- s.net/4735441)
-X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  The Applied 
- Suicide Intervention Skills Training (ASIST) is an intensive\, interactiv
- e and practice-dominated course for those who want to feel more comfortab
- le\, confident and competent in providing <span style="background-color: 
- transparent\;">an intervention with someone who is having thoughts of sui
- cide.&#160\;</span></p><p style="line-height: 1.5\;"><span class="s1">Thi
- s workshop will provide extensive opportunities for supported skills prac
- tice and shared participant experiences that enrich learning.</span></p><
- p style="line-height: 1.5\;"><strong>After this workshop\, participants w
- ill have an increased ability to:</strong></p><ul><li><p style="line-heig
- ht: 1.5\;">      Recognize when someone may be thinking about suicide    
- </p></li><li><p style="line-height: 1.5\;">      Provide a skilled interv
- ention\, including connect the person to further support    </p></li><li>
- <p style="line-height: 1.5\;">      Guide the development of a safety pla
- n through a collaborative\, helping relationship    </p></li><li><p style
- ="line-height: 1.5\;">      Consider how personal and community attitudes
-  about suicide affect someone's openness to seek help and the caregiver's
-  ability to provide it    </p></li><li><p style="line-height: 1.5\;">    
-   Reduce suicide stigma and build confidence and capacity to provide suic
- ide first aid<br /><br /></p></li></ul><p style="line-height: 1.5\;"><str
- ong>Who should attend?</strong> The training is for anyone in a position 
- of trust\, including mental health and addictions professionals\, school 
- psychologists\, school counselors\, educators\, healthcare workers\, peer
-  support and recovery specialists\, housing specialists\, law enforcement
- \, faith leaders\, and community volunteers.</p><p style="line-height: 1.
- 5\;">  "<em>Prior to participating in ASIST\, I was reluctant to get invo
- lved in conversations involving suicide because I felt uneasy about how t
- o engage effectively. I walked away from this training with clear and app
- licable tools to enter a conversation with confidence and fearlessness\, 
- equipped to support and converse openly about suicide. It was absolutely 
- one of the most valuable trainings I have experienced in my career.</em>"
- </p><p>  - Counselor\, Roosevelt High School</p><p style="line-height: 1.
- 5\;"><strong>Training credits are NASP and NASW-approved for Continuing P
- rofessional Development (CPD).</strong></p><hr /><h2><strong>Details &amp
- \; Registration</strong></h2><h5 style="line-height: 1.5\;"><strong>Regis
- tration for this course is closed.</strong></h5><p style="line-height: 1.
- 5\;"><strong>Dates and Time:</strong> Friday &amp\; Saturday\, March 13-1
- 4\, 2026\, 8:30 a.m.-4:30 p.m.&#160\;</p><p style="line-height: 1.5\;"><s
- trong>Location:</strong> Lewis &amp\; Clark Graduate School\, South Chape
- l</p><p><strong>Instructors:</strong> Leslie Rodgers\, and Kathy Wilson-F
- ey</p><p style="line-height: 1.5\;"><strong>Cost and Credits:</strong> $3
- 25\, includes 15 NASP-Approved CEUs or PDUs (12.75 NASW Credits). Alumni\
- , Adjuncts\, and GSEC Clinical Mental Health Supervisors save 20%.&#160\;
- </p><div id="lw_widget_30f0017c" class="lw_widget lw_widget_type_blurbs l
- w_widget_blurbs lw_widget_id_7119 lw_widget_accessibility_statement lw_wi
- dget_pagination"><ul class="lw_widget_results lw_widget_results_blurbs"><
- li class="lw_item_1"><div class="lw_blurbs_body"><p class="p1" style="fon
- t-size: 15px\; line-height: 1.5\;"><em><strong>Accessibility:</strong> We
-  are committed to making our events accessible to all needs and abilities
- . When registering\, please let us know your access needs. Contact us at 
- 503-768-6040 or <a href="mailto:cce@lclark.edu">cce@lclark.edu</a>&#160\;
- with questions.<br/></em></p><p class="p1" style="font-size: 15px\; line-
- height: 1.5\;"><em><strong>Please note:</strong> Discounted &#x2018\;Stud
- ent Rate&#x2019\; registrations are for current students only and <strong
- >do not</strong> include continuing education credit (CEU/PDUs)</em></p><
- /div></li></ul></div><hr /><h2><strong>About the Instructors</strong></h2
- ><p style="line-height: 1.5\;"><strong>Leslie Rodgers</strong> is a licen
- sed clinical social worker and registered ASIST (Applied Suicide Interven
- tion Skills) trainer with over 20 years experience working with children 
- and adults in various therapeutic settings\, including group homes\, psyc
- hiatric hospitals\, and schools. Her current work has involved implementi
- ng best practice procedures and providing staff development in student th
- reat assessment\, suicide prevention\, and crisis response for school dis
- tricts. She holds a BA from the University of Texas and a Masters in Soci
- al Work from Portland State University.</p><p style="line-height: 1.5\;">
- <strong>Kathy Wilson-Fey</strong> is a registered ASIST Trainer and has c
- linical therapy and teaching experience in a variety of settings\, includ
- ing community college\, community mental health\, and an international un
- iversity. She has 15 years of experience as a mental health specialist in
-  public schools\, where she worked with students and families\, trained s
- chool staff on suicide intervention\, and coordinated school support duri
- ng crises. Kathy is fluent in Spanish and is committed to equity work and
-  cultural competence. She holds a BA from Whitman College and a Masters i
- n Counseling Psychology from the University of Oregon.</p><div id="lw_wid
- get_470b39ba" class="lw_widget lw_widget_type_blurbs lw_widget_blurbs lw_
- widget_id_3994 lw_widget_opt_in lw_widget_pagination"><ul class="lw_widge
- t_results lw_widget_results_blurbs"><li class="lw_item_1"><div class="lw_
- blurbs_body"><p style="line-height: 1.5\;"><em><strong>New workshops and 
- trainings are added to our calendar regularly.</strong> For the latest on
-  professional development related to your specific interests\, <a href="h
- ttps://lclark.tfaforms.net/4735441">sign up for our mailing list!</a></em
- ></p></div></li></ul></div>
-UID:20260313T153000Z-372122@www.lclark.edu
-DTSTAMP:20251030T145759Z
-URL:https://www.lclark.edu/calendars/events/event/372122-applied-suicide-
- intervention-skills-training-asist-in
-LAST-MODIFIED:20260309T174125Z
-ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
- /src_region/0,0,1280,854/110453_crocus-6089299_1280.rev.1761861882.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:372122
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/91/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1280\,854/110453_crocus-6089299_1280.rev.176
- 1861882.jpg
-X-LIVEWHALE-SUMMARY:<p>\n  Friday &amp\; Saturday\, March 13-14\, 2026\, 
- 8:30 a.m.-4:30 p.m. | 15 CEUs or PDUs (NASP-Approved)\n</p>
-X-LIVEWHALE-TAGS:All Courses Upcoming|Counselors Upcoming|cpsy|Educators 
- Upcoming|homepage|March|send-to-graduate|workshops
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T100000
-DTEND;TZID=America/Los_Angeles:20260313T110000
-LOCATION:Online
-SUMMARY:Mind Body Connections in the Treatment of Eating Disorders (Online)
-DESCRIPTION:This course will explore the use of somatic approaches—incl
- uding yoga\, somatic therapies\, and mindfulness—in the treatment of ea
- ting disorders. Participants will explore improving body image\, embodied
-  experience\, introspective awareness\, and the ability to identify\, fee
- l\, and regulate emotions - all critical components in the treatment of e
- ating disorders and negative body image.  Together\, we will also look at
-  eating disordered behavior\, and the relationship of those impacted thro
- ugh their bodies with an interpersonal neurobiology lens.Details &amp\; R
- egistrationRegistration for this course is now closed.Dates &amp\; Times:
-  Friday-Sunday\, March 13-15\, 2026\, 10 a.m.-4 p.m.Instructed by: Sarah 
- Alexander\, LCSWGraduate Continuing Education credit (current students an
- d certificate candidates): CECP 840-02\, 1 semester hour\, $375.&#160\;In
- dividual Class: We welcome students seeking to take individual courses wi
- thin the certificate program for continuing education credit. Admission t
- o the program is required. Click here for more information (https://gradu
- ate.lclark.edu/programs/continuing_education/certificates/eating_disorder
- s/#Admission)We are committed to making our events accessible to all need
- s and abilities. If you have a disability that may impact your academic p
- erformance\, you may request accommodations by meeting with the Office of
-  Student Accessibility staff and submitting documentation on the Office o
- f Student Accessibility website (/offices/student-accessibility/). Please
-  be aware that the process for evaluation and implementation of accommoda
- tions could take 2-3 weeks\, so please be in touch with the OSA as soon a
- s possible. Email access@lclark.edu (mailto:access@lclark.edu) with any a
- dditional questions or concerns.About the Instructor Sarah Alexander is t
- he owner and founder of Brave Acorn. She received her Bachelor of Arts de
- gree from the University of Virginia in 1995 with a double major in Psych
- ology and Women's Studies. Sarah began practicing full-time as a therapis
- t in 2001\, received her Master of Social Work degree from Portland State
-  University in 2005\, and has been a Licensed Clinical Social Worker (LCS
- W) in the state of Oregon since 2008. Sarah has worked in a community men
- tal health setting for substance abuse\, a day-treatment setting for eati
- ng disorders\, a university counseling center\, and an outpatient trauma 
- treatment center. Sarah teaches graduate counseling students in the Eatin
- g Disorder Certificate track at Lewis &amp\; Clark Graduate School and wa
- s president of the board for the Columbia River Eating Disorder Network f
- rom 2017 to 2019.New workshops and trainings are added to our calendar re
- gularly. For the latest on professional development related to your speci
- fic interests\, sign up for our mailing list! (https://lclark.tfaforms.ne
- t/4735441)
-X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.6\;">  This course 
- will explore the use of somatic approaches—including yoga\, somatic the
- rapies\, and mindfulness—in the treatment of eating disorders. Particip
- ants will explore improving body image\, embodied experience\, introspect
- ive awareness\, and the ability to identify\, feel\, and regulate emotion
- s - all critical components in the treatment of eating disorders and nega
- tive body image.</p><p style="line-height: 1.6\;">  Together\, we will al
- so look at eating disordered behavior\, and the relationship of those imp
- acted through their bodies with an interpersonal neurobiology lens.</p><h
- r /><h2 style="line-height: 1.6\;"><strong>Details &amp\; Registration</s
- trong></h2><h5 style="line-height: 1.6\;"><strong>Registration for this c
- ourse is now closed.</strong></h5><p style="line-height: 1.6\;"><strong>D
- ates &amp\; Times:</strong> Friday-Sunday\, March 13-15\, 2026\, 10 a.m.-
- 4 p.m.</p><p style="line-height: 1.6\;"><strong>Instructed by:</strong> S
- arah Alexander\, LCSW</p><p style="line-height: 1.6\;"><strong>Graduate C
- ontinuing Education credit <em>(current students and certificate candidat
- es)</em>:</strong> CECP 840-02\, 1 semester hour\, $375.&#160\;</p><p sty
- le="line-height: 1.6\;"><strong>Individual Class:</strong> We welcome stu
- dents seeking to take individual courses within the certificate program f
- or continuing education credit. Admission to the program is required. <st
- rong><a href="https://graduate.lclark.edu/programs/continuing_education/c
- ertificates/eating_disorders/#Admission">Click here for more information<
- /a></strong></p><div id="lw_widget_c96ec80c" class="lw_widget lw_widget_t
- ype_blurbs lw_widget_blurbs lw_widget_id_8625 lw_widget_accessibility_sta
- tement_ce_registration lw_widget_pagination"><ul class="lw_widget_results
-  lw_widget_results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_bo
- dy"><p class="p1" style="font-size: 15px\; line-height: 1.5\;"><strong>We
-  are committed to making our events accessible to all needs and abilities
- .</strong> If you have a disability that may impact your academic perform
- ance\, you may request accommodations by meeting with the Office of Stude
- nt Accessibility staff and submitting documentation on the <a href="https://www.lclark.edu/offi
- ces/student-accessibility/" target="_blank" rel="noopener">Office of Stud
- ent Accessibility website</a>. Please be aware that the process for evalu
- ation and implementation of accommodations could take 2-3 weeks\, so plea
- se be in touch with the OSA as soon as possible. Email <a href="mailto:ac
- cess@lclark.edu">access@lclark.edu</a> with any additional questions or c
- oncerns.</p></div></li></ul></div><hr /><h2 style="line-height: 1.6\;"><s
- trong>About the Instructor</strong></h2><p style="line-height: 1.6\;"><pi
- cture class="lw_image lw_image71619 lw_align_right"><source type="image/w
- ebp" srcset="https://www.lclark.edu/live/image/gid/91/width/160/height/16
- 0/crop/1/src_region/0\,14\,200\,214/71619_102015sarahalexander2-e14452724
- 91237.webp 1x" data-origin="responsive"/><source type="image/jpeg" srcset
- ="https://www.lclark.edu/live/image/gid/91/width/160/height/160/crop/1/sr
- c_region/0\,14\,200\,214/71619_102015sarahalexander2-e1445272491237.rev.1
- 522710269.jpg 1x" data-origin="responsive"/>
-<picture>
-<img width="160" height="160"
-  alt="" data-decoration="true" src="https://www.lclark.edu/live/image/gid
- /91/width/160/height/160/crop/1/src_region/0\,14\,200\,214/71619_102015sa
- rahalexander2-e1445272491237.rev.1522710269.jpg" title="10.2015.SarahAlex
- ander2-e1445272491237" data-max-w="200" data-max-h="200" loading="lazy" d
- ata-optimized="true"/>
-</picture></picture> Sarah Alexander is the owner and founder
-  of Brave Acorn. She received her Bachelor of Arts degree from the Univer
- sity of Virginia in 1995 with a double major in Psychology and Women's St
- udies. Sarah began practicing full-time as a therapist in 2001\, received
-  her Master of Social Work degree from Portland State University in 2005\
- , and has been a Licensed Clinical Social Worker (LCSW) in the state of O
- regon since 2008. Sarah has worked in a community mental health setting f
- or substance abuse\, a day-treatment setting for eating disorders\, a uni
- versity counseling center\, and an outpatient trauma treatment center. Sa
- rah teaches graduate counseling students in the Eating Disorder Certifica
- te track at Lewis &amp\; Clark Graduate School and was president of the b
- oard for the Columbia River Eating Disorder Network from 2017 to 2019.</p
- ><div id="lw_widget_470b39ba" class="lw_widget lw_widget_type_blurbs lw_w
- idget_blurbs lw_widget_id_3994 lw_widget_opt_in lw_widget_pagination"><ul
-  class="lw_widget_results lw_widget_results_blurbs"><li class="lw_item_1"
- ><div class="lw_blurbs_body"><p style="line-height: 1.5\;"><em><strong>Ne
- w workshops and trainings are added to our calendar regularly.</strong> F
- or the latest on professional development related to your specific intere
- sts\, <a href="https://lclark.tfaforms.net/4735441">sign up for our maili
- ng list!</a></em></p></div></li></ul></div>
-UID:20260313T170000Z-371355@www.lclark.edu
-DTSTAMP:20250930T143942Z
-URL:https://www.lclark.edu/calendars/events/event/371355-mind-body-connec
- tions-in-the-treatment-of-eating-diso
-LAST-MODIFIED:20260311T164622Z
-ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
- /src_region/582,0,2380,1800/96353_pexels-pixabay-39677.rev.1666804584.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:371355
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/91/width/80/heigh
- t/80/crop/1/src_region/582\,0\,2380\,1800/96353_pexels-pixabay-39677.rev.
- 1666804584.jpg
-X-LIVEWHALE-SUMMARY:<p>\n  Friday-Sunday\, March 13-15\, 2026\, 10 a.m.-4
-  p.m.\n</p>
-X-LIVEWHALE-TAGS:All Courses Upcoming|Counselors Upcoming|credit|Eating D
- isorders Certificate|send-to-graduate
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T130000
-DTEND;TZID=America/Los_Angeles:20260313T153000
-LOCATION:McCarty Classroom Complex\, Room 4
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Simulated MPRE by Helix Bar Review
-UID:20260313T200000Z-383421@www.lclark.edu
-DTSTAMP:20260211T090414Z
-URL:https://www.lclark.edu/calendars/events/event/383421-law-simulated-mp
- re-by-helix-bar-review
-LAST-MODIFIED:20260218T205812Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:383421
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>\n  <span data-sheets-root="1">If you plan to take
-  the MPRE in March\, here's an opportunity for you to take a simulated ex
- am. Helix Bar Review will provide the exams and create a testing environm
- ent for you right on campus. To participate\, in addition to registering 
- on this page\, you will need to do the following:</span>\n</p>\n<ol>\n  <
- li>Register <a href="https://go.helixbarreview.org/l/992142/2026-02-17/23
- 763y">HERE</a> by Wednesday\, March 11.\n  </li>\n  <li>Enroll in <a href
- ="https://enroll.helixbarreview.org/helix-mpre/">Helix MPRE 2025/2026</a>
-  (for free) no later than Thursday\, March 12.\n  </li>\n  <li>Show up on
-  Friday\, March 13 @ 1:00PM in McCarty Classroom 4 with your laptop and c
- harging cord to complete the Simulated exam within Helix MPRE. It will be
-  2 hours well spent!\n  </li>\n</ol>\n<p>\n  If you have any questions\, 
- or need assistance enrolling in the Helix MPRE course\, please do not hes
- itate to contact Kristine Browne (<a href="mailto:kbrowne@helixbarreview.
- org">kbrowne@helixbarreview.org</a>).\n</p>\n<p>\n  <span data-sheets-roo
- t="1">&#160\;</span>\n</p>
-X-LIVEWHALE-RSVP:1
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T134500
-DTEND;TZID=America/Los_Angeles:20260313T144500
-SUMMARY:French Office Hours with Titouan
-UID:20260313T204500Z-384930@www.lclark.edu
-DTSTAMP:20260224T164809Z
-URL:https://www.lclark.edu/calendars/events/event/384930-french-office-ho
- urs-with-titouan
-LAST-MODIFIED:20260225T004809Z
-RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,WE,FR
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384930
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T134500
-DTEND;TZID=America/Los_Angeles:20260313T144500
-SUMMARY:Spanish Office Hours with Cami!
-UID:20260313T204500Z-384960@www.lclark.edu
-DTSTAMP:20260224T164809Z
-URL:https://www.lclark.edu/calendars/events/event/384960-spanish-office-h
- ours-with-cami
-LAST-MODIFIED:20260225T004809Z
-RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,FR
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384960
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260313T150000
 DTEND;TZID=America/Los_Angeles:20260313T213000
 GEO:45.301909;-121.7732
@@ -917,152 +48,6 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Registration Opens:</strong> Wednesday
  p>
 X-LIVEWHALE-TAGS:ski bus
 X-LIVEWHALE-REPEATS-UNTIL:2026-03-13 22:00:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T170000
-DTEND;TZID=America/Los_Angeles:20260313T183000
-LOCATION:Hoffman Gallery
-GEO:45.45054;-122.668438
-SUMMARY:Transgressors Exhibit and Symposium Closing Reception
-DESCRIPTION:We will gather to honor forms of resistance that sustain us: 
- the everyday acts of refusal\, the radical creativity that nourishes move
- ments\, and the steadfast bravery of stories that need to be told. The co
- llaboration invites us to consider how Indigiqueer artists enact the very
-  coalitional solidarities the symposium calls us to cultivate and examine
- —reminding us that art can be an act of resistance\, a practice of endu
- rance\, and a way of imagining futures worth fighting for.  Come curious\
- , ready to celebrate the power we hold together\, and primed to make a ne
- w friend and eat a snack.
-X-ALT-DESC;FMTTYPE=text/html:<p>  We will gather to honor forms of resist
- ance that sustain us: the everyday acts of refusal\, the radical creativi
- ty that nourishes movements\, and the steadfast bravery of stories that n
- eed to be told. The collaboration invites us to consider how Indigiqueer 
- artists enact the very coalitional solidarities the symposium calls us to
-  cultivate and examine—reminding us that art can be an act of resistanc
- e\, a practice of endurance\, and a way of imagining futures worth fighti
- ng for.</p><p>  Come curious\, ready to celebrate the power we hold toget
- her\, and primed to make a new friend and eat a snack.</p>
-UID:20260314T000000Z-380743@www.lclark.edu
-DTSTAMP:20260121T123245Z
-URL:https://www.lclark.edu/calendars/events/event/380743-transgressors-ex
- hibit-and-symposium-closing
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260303T220601Z
-ATTACH:https://www.lclark.edu/live/image/gid/225/width/80/height/80/crop/
- 1/src_region/0,0,1440,480/111392_Transgressors.rev.1767042706.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:380743
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/225/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1440\,480/111392_Transgressors.rev.17670427
- 06.jpg
-X-LIVEWHALE-SUMMARY:<p>Join us for a closing reception to celebrate Lewis
-  &amp\; Clark's <strong><a href="https://college.lclark.edu/departments/g
- ender_studies/symposium/45th-annual-gender-studies-symposium/" target="_b
- lank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=h
- ttps://college.lclark.edu/departments/gender_studies/symposium/45th-annua
- l-gender-studies-symposium/&amp\;source=gmail&amp\;ust=1769113236297000&a
- mp\;usg=AOvVaw3ZAgKpBK3_rvxC6BEHNRDW">45th Annual Gender Studies Symposiu
- m</a></strong> and <em><a href="https://www.lclark.edu/live/news/57383-tr
- ansgressors?_gl=1*gafsq*_ga*MjEyNDAyNTAyOC4xNzY4MDc2MjI3*_ga_6MKT6LMD5S*c
- zE3NjkwMjUxNjAkbzEzJGcxJHQxNzY5MDI1MzUzJGo2MCRsMCRoMA.." target="_blank" 
- rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https:/
- /www.lclark.edu/live/news/57383-transgressors?_gl%3D1*gafsq*_ga*MjEyNDAyN
- TAyOC4xNzY4MDc2MjI3*_ga_6MKT6LMD5S*czE3NjkwMjUxNjAkbzEzJGcxJHQxNzY5MDI1Mz
- UzJGo2MCRsMCRoMA..&amp\;source=gmail&amp\;ust=1769113236297000&amp\;usg=A
- OvVaw0cKnq4w6_ttvmnGxrDq5YT">Transgressors</a></em>\, an exhibition of no
- w and future Indigiqueer ancestors who move beyond boundaries in life and
-  art.</p>
-X-LIVEWHALE-TAGS:ArtsLC|send-to-college|send-to-graduate|send-to-institut
- ional|send-to-undergraduate
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T170000
-DTEND;TZID=America/Los_Angeles:20260313T183000
-LOCATION:Stamm West
-SUMMARY:PCL Summit Kick-off Event
-UID:20260314T000000Z-385076@www.lclark.edu
-DTSTAMP:20260225T161602Z
-URL:https://www.lclark.edu/calendars/events/event/385076-pcl-summit-kick-
- off-event
-LAST-MODIFIED:20260226T001602Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385076
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T170000
-DTEND;TZID=America/Los_Angeles:20260313T183000
-LOCATION:Stamm West\, Fowler Student Center
-GEO:45.44918;-122.670969
-SUMMARY:Peer Collective Leadership Kick-off!
-DESCRIPTION:Before we dive into the strategy and heart of leadership on S
- aturday\, we're starting the weekend with style. Whether you are a season
- ed student organization leader or looking to step into your first campus 
- role\, this is your space to connect.  This isn't your typical campus mee
- ting. We're simulating a professional conference environment to give you 
- a low-stakes space to practice the "art of the ask\," the perfect elevato
- r pitch\, and the skill of making meaningful professional connections.Wha
- t to Expect:Connection &amp\; Community: Meet and mingle with fellow peer
-  leaders from across every corner of campus.    Campus Mentors: Connect w
- ith staff and faculty members who are eager to support your professional 
- growth and help you navigate your leadership journey.    Atmosphere: Enjo
- y a curated menu of heavy hors d'oeuvres and signature mocktails.    Dres
- s the Part: Feel free to "dress for the job you want!" While not required
- \, we encourage professional or business-casual attire to help get into t
- he summit spirit.      Come for the food\, stay for the connections\, and
-  leave with a head start on the skills we'll be building all weekend long
- . Let's build the future of leadership at L&amp\;C together.
-X-ALT-DESC;FMTTYPE=text/html:<p data-path-to-node="9">  Before we dive in
- to the strategy and heart of leadership on Saturday\, we're starting the 
- weekend with style. Whether you are a seasoned student organization leade
- r or looking to step into your first campus role\, this is your space to 
- connect.</p><p data-path-to-node="10">  This isn't your typical campus me
- eting. We're simulating a professional conference environment to give you
-  a low-stakes space to practice the "art of the ask\," the perfect elevat
- or pitch\, and the skill of making meaningful professional connections.</
- p><p data-path-to-node="11"><strong data-path-to-node="11" data-index-in-
- node="0">What to Expect:</strong></p><ul data-path-to-node="12"><li><p da
- ta-path-to-node="12\,0\,0"><strong data-path-to-node="12\,0\,0" data-inde
- x-in-node="0">Connection &amp\; Community:</strong> Meet and mingle with 
- fellow peer leaders from across every corner of campus.    </p></li><li><
- p data-path-to-node="12\,1\,0"><strong data-path-to-node="12\,1\,0" data-
- index-in-node="0">Campus Mentors:</strong> Connect with staff and faculty
-  members who are eager to support your professional growth and help you n
- avigate your leadership journey.    </p></li><li><p data-path-to-node="12
- \,2\,0"><strong data-path-to-node="12\,2\,0" data-index-in-node="0">Atmos
- phere:</strong> Enjoy a curated menu of heavy hors d'oeuvres and signatur
- e mocktails.    </p></li><li><p data-path-to-node="12\,3\,0"><strong data
- -path-to-node="12\,3\,0" data-index-in-node="0">Dress the Part:</strong> 
- Feel free to "dress for the job you want!" While not required\, we encour
- age professional or business-casual attire to help get into the summit sp
- irit.    </p></li></ul><p data-path-to-node="13">  Come for the food\, st
- ay for the connections\, and leave with a head start on the skills we'll 
- be building all weekend long. <strong data-path-to-node="13" data-index-i
- n-node="123">Let's build the future of leadership at L&amp\;C together.</
- strong></p>
-UID:20260314T000000Z-385209@www.lclark.edu
-DTSTAMP:20260226T161905Z
-URL:https://www.lclark.edu/live/events/385175-peer-collective-leadership-
- kick-off
-LAST-MODIFIED:20260227T001945Z
-ATTACH:https://www.lclark.edu/live/image/gid/707/width/80/height/80/crop/
- 1/src_region/0,0,500,500/102620_Wilson.rev.1707852928.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385209
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/707/width/80/heig
- ht/80/crop/1/src_region/0\,0\,500\,500/102620_Wilson.rev.1707852928.png
-X-LIVEWHALE-SUMMARY:<p>\n  <strong data-path-to-node="4" data-index-in-no
- de="0">Step into the Professional Spotlight!</strong> Kick off the Peer C
- ollective Leadership Summit with an evening of connection\, mocktails\, a
- nd heavy appetizers. Join fellow student leaders and campus mentors for a
-  high-energy networking mixer designed to sharpen your professional socia
- l skills before we dive into Saturday's workshops. <a href="https://docs.
- google.com/forms/d/e/1FAIpQLSddi2-rUYqkmsZlOJRCoXEMmxxaXN8vPj3WPZss5H-waj
- i2og/viewform?usp=header" target="_blank" rel="noopener">Register today!<
- /a>\n</p>
-X-LIVEWHALE-TAGS:events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260313T173000
@@ -1141,37 +126,6 @@ X-LIVEWHALE-SUMMARY:<p>\n  Please join us the evening of March 13th for a
   reception to connect with fellow L&amp\;C alumni and professors during t
  he 2026 Public Interest Environmental Law Conference!\n</p>
 X-LIVEWHALE-TAGS:alumni
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T180000
-DTEND;TZID=America/Los_Angeles:20260313T190000
-LOCATION:Legal Research Center- Student Lounge
-GEO:45.45177;-122.677216
-SUMMARY:Multicultural Fair
-UID:20260314T010000Z-382311@www.lclark.edu
-DTSTAMP:20260202T151941Z
-URL:https://www.lclark.edu/calendars/events/event/382311-multicultural-fair
-LAST-MODIFIED:20260213T162202Z
-ATTACH:https://www.lclark.edu/live/image/gid/32/width/80/height/80/crop/1
- /src_region/0,0,1545,1999/111746_Multicultural_Flyer_2026.rev.1770830825.
- png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382311
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/32/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1545\,1999/111746_Multicultural_Flyer_2026.r
- ev.1770830825.png
-X-LIVEWHALE-IMAGE-CAPTION:Multicultural
-X-LIVEWHALE-SUMMARY:<p>\n  <span data-sheets-root="1">Join SALSA (South A
- sian Law Student Association)\, BLSA (Black Law Student Association)\, LL
- S (Latinx Law Society)\, APALSA (Asian Pacific American Law Student Assoc
- iation)\, OAILSA (Oregon Arab Iranian Law Student Association)\, NALSA (N
- ative American Law Students Association)\, and Jewish Legal Society (JLS)
-  for a Multi-Cultural Fair with food\, art\, and performances to showcase
-  the different cultures represented at our campus!<br />\n  <br />\n  RSV
- P <a href="http://%20https://docs.google.com/forms/d/1kOhB9BGthYoNvH0GZ_-
- tNPsMK2abtuhD4E-66iFu90g/edit?usp=forms_home&amp\;ouid=104784907254425246
- 084&amp\;ths=true">here</a>.</span>\n</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260313T193000
@@ -2032,6 +986,36 @@ X-LIVEWHALE-SUMMARY:<p>\n  Join Justin Zieman from AccessLex for a compre
  the first 30 people!\n</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260316T134500
+DTEND;TZID=America/Los_Angeles:20260316T144500
+SUMMARY:French Office Hours with Titouan
+UID:20260316T204500Z-384931@www.lclark.edu
+DTSTAMP:20260224T164809Z
+URL:https://www.lclark.edu/calendars/events/event/384931-french-office-ho
+ urs-with-titouan
+LAST-MODIFIED:20260225T004809Z
+RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,WE,FR
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384931
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260316T134500
+DTEND;TZID=America/Los_Angeles:20260316T144500
+SUMMARY:Spanish Office Hours with Cami!
+UID:20260316T204500Z-384961@www.lclark.edu
+DTSTAMP:20260224T164809Z
+URL:https://www.lclark.edu/calendars/events/event/384961-spanish-office-h
+ ours-with-cami
+LAST-MODIFIED:20260225T004809Z
+RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,FR
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384961
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260316T170000
 DTEND;TZID=America/Los_Angeles:20260316T180000
 LOCATION:Miller Hall
@@ -2756,17 +1740,18 @@ X-ALT-DESC;FMTTYPE=text/html:<h2>  17th Annual Dorothy Berkson Writing Aw
  p>  &#160\;</p><p><strong><a href="https://www.lclark.edu/departments/gen
  der_studies/dorothy-berkson-writing-award/dorthy-berkson-award-archive/">
  Info about past awardees</a></strong></p>
-UID:20260318T070000Z-386651@www.lclark.edu
-DTSTAMP:20260311T131944Z
+UID:20260318T070000Z-386671@www.lclark.edu
+DTSTAMP:20260311T141715Z
 URL:https://college.lclark.edu/live/news/57473-call-for-papers-2026-dorot
  hy-berkson-writing-award-in-
-LAST-MODIFIED:20260311T202704Z
+LAST-MODIFIED:20260313T192737Z
 RRULE:FREQ=WEEKLY;UNTIL=20260403T000000Z;INTERVAL=1
+EXDATE:20260401T000000Z
 ATTACH:https://www.lclark.edu/live/image/gid/72/width/80/height/80/crop/1
  /src_region/0,0,429,383/112371_Berkson_QR_2-per-sheet__1.rev.1773260407.j
  pg
 X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:386651
+X-LIVEWHALE-ID:386671
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/72/width/80/heigh
  t/80/crop/1/src_region/0\,0\,429\,383/112371_Berkson_QR_2-per-sheet__1.re
@@ -2985,7 +1970,14 @@ DESCRIPTION:The forum will address the actions taken in advance of the FY
  resident Holmes-Sullivan said in an email sent March 6 to all employees. 
  "While this is a challenging time in CAS and Common Services\, it is vita
  l that we come together as a community and move forward with hope\, compa
- ssion and strength."
+ ssion and strength."  Staff and faculty are invited to submit questions i
+ n advance of the March 18 budget forum. Leadership will do their best to 
+ answer all questions at the in-person forum. There will also be an opport
+ unity to ask questions at the event. Name is not required to submit a que
+ stion in advance below.submit_your_questions_for_thetextarea fieldPlease 
+ submit your question(s) here:first_and_last_nametext fieldFirst and Last 
+ NameLink (required) &#160\;&#160\;&#160\;&#160\;&#160\;&#160\;&#160\;&#16
+ 0\;&#160\;&#160\;{&quot\;upload_max_filesize&quot\;:&quot\;50&quot\;}
 X-ALT-DESC;FMTTYPE=text/html:<p>  The forum will address the actions take
  n in advance of the FY27 fiscal year to reduce expenses in the College of
   Arts and Science and Common Services.</p><p>  "These decisions were guid
@@ -2995,11 +1987,64 @@ X-ALT-DESC;FMTTYPE=text/html:<p>  The forum will address the actions take
  agement and transparency\," President Holmes-Sullivan said in an email se
  nt March 6 to all employees. "While this is a challenging time in CAS and
   Common Services\, it is vital that we come together as a community and m
- ove forward with hope\, compassion and strength."</p>
+ ove forward with hope\, compassion and strength."</p><div id="lw_widget_1
+ 865" class="lw_widget lw_widget_type_forms_inline lw_widget_forms lw_widg
+ et_forms_gid_218"><form id="lw_form_1865" name="lw_form_1865" action="htt
+ ps://www.lclark.edu/live/ical/events" method="post" class="lw_forms_form"
+ ><div class="lw_forms_intro"><p>  Staff and faculty are invited to submit
+  questions in advance of the March 18 budget forum. Leadership will do th
+ eir best to answer all questions at the in-person forum. There will also 
+ be an opportunity to ask questions at the event. Name is not required to 
+ submit a question in advance below.</p></div><input name="lw_form_id" val
+ ue="1865" type="hidden"/><label style="display:none;" aria-hidden="true" for=
+ "lw_form_1865_177341975203452_custom">submit_your_questions_for_the</labe
+ l><textarea id="lw_form_1865_177341975203452_custom" name="submit_your_qu
+ estions_for_the" class="lw_forms_custom_name" aria-label="hidden custom n
+ ame" aria-hidden="true" style="display:none\;" cols="20" rows="2" tabinde
+ x="-1"></textarea><fieldset class="lw_forms_textarea lw_forms_fieldset lw
+ _forms_field_1865_177341975203452"><legend>textarea field</legend><div cl
+ ass="lw_forms_label"><label for="lw_form_1865_177341975203452">Please sub
+ mit your question(s) here:</label></div><div class="lw_forms_field"><text
+ area id="lw_form_1865_177341975203452" name="lw_form_1865_177341975203452
+ " cols="20" rows="2"></textarea></div></fieldset><label style="display:none;"
+  aria-hidden="true" for="lw_form_1865_17734197520359_custom">first_and_la
+ st_name</label><textarea id="lw_form_1865_17734197520359_custom" name="fi
+ rst_and_last_name" class="lw_forms_custom_name" aria-label="hidden custom
+  name" aria-hidden="true" style="display:none\;" cols="20" rows="2" tabin
+ dex="-1"></textarea><fieldset class="lw_forms_text lw_forms_fieldset lw_f
+ orms_field_1865_17734197520359"><legend>text field</legend><div class="lw
+ _forms_label"><label for="lw_form_1865_17734197520359">First and Last Nam
+ e</label></div><div class="lw_forms_field"><input id="lw_form_1865_177341
+ 97520359" name="lw_form_1865_17734197520359" value="" type="text"/></div>
+ </fieldset><div class="lw_captcha" data-sitekey="6LeP0mgUAAAAAEVWvdkGHzBM
+ 8e4WAfVSPRozeSQE" data-version="2"></div><div class="lw_form_error"></div
+ ><label style="display:none;">Link (required) <input name="lw_hp" value="" ti
+ tle="Link (required)" /></label><input value="Submit" class="lw_form_subm
+ it_1865" type="submit"/><div class="lw_widget_metadata lw_hidden" aria-hi
+ dden="true"><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/resourc
+ e/js/livewhale/thirdparty/jqueryui/jquery-ui.js">&#160\;</span><span clas
+ s="lw_widget_resources_js" data-href="https://www.lclark.edu/live/resource/js/livewhale/thirdpa
+ rty/lodash.min.js">&#160\;</span><span class="lw_widget_resources_js" dat
+ a-href="https://www.lclark.edu/live/resource/js/livewhale/scripts/lwui/jquery.lw-timepicker.js"
+ >&#160\;</span><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/reso
+ urce/js/livewhale/thirdparty/tinymce/jquery.tinymce.min.js">&#160\;</span
+ ><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/resource/js/livewh
+ ale/plugins/tinymce/wysiwyg.js">&#160\;</span><span class="lw_widget_reso
+ urces_js" data-href="https://www.lclark.edu/live/resource/js/livewhale/theme/core/scripts/forms
+ .js">&#160\;</span><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/
+ resource/js/livewhale/thirdparty/fileupload/jquery.iframe-transport.js">&
+ #160\;</span><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/resour
+ ce/js/livewhale/thirdparty/fileupload/jquery.fileupload.js">&#160\;</span
+ ><span class="lw_widget_resources_js" data-href="https://www.lclark.edu/live/resource/js/livewh
+ ale/plugins/jquery/jquery.uploader.js">&#160\;</span><span class="lw_widg
+ et_resources_css" data-href="https://www.lclark.edu/live/resource/js/livewhale/styles/lwui/lw-t
+ imepicker.css" rel="nofollow">&#160\;</span><span class="lw_widget_json">
+ {&quot\;upload_max_filesize&quot\;:&quot\;50&quot\;}</span></div></form><
+ /div>
 UID:20260318T210000Z-386456@www.lclark.edu
 DTSTAMP:20260310T093159Z
 URL:https://www.lclark.edu/live/events/386361-budget-forum
-LAST-MODIFIED:20260310T163159Z
+LAST-MODIFIED:20260313T165013Z
 ATTACH:https://www.lclark.edu/live/image/gid/367/width/80/height/80/crop/
  1/src_region/0,0,3200,2136/95156_EVNT-B6-0622-0355.rev.1659998626.jpg
 X-LIVEWHALE-TYPE:events
@@ -3139,16 +2184,16 @@ X-ALT-DESC;FMTTYPE=text/html:<p>  For more information about this year's
  isit the symposium <a href="https://college.lclark.edu/departments/gender
  _studies/symposium/45th-annual-gender-studies-symposium/" target="_blank"
   rel="noopener">website</a>.</p>
-UID:20260318T230000Z-382277@www.lclark.edu
-DTSTAMP:20260202T112645Z
+UID:20260318T230000Z-382264@www.lclark.edu
+DTSTAMP:20260202T112322Z
 URL:https://www.lclark.edu/live/events/381811-2026-gender-studies-symposi
  um-art-show-reception
 CATEGORIES:Open to the Public
-LAST-MODIFIED:20260203T231108Z
+LAST-MODIFIED:20260313T192737Z
 ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
  1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
 X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382277
+X-LIVEWHALE-ID:382264
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
  ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
@@ -3362,66 +2407,70 @@ DTEND;VALUE=DATE:20260320
 LOCATION:Alumni Gatehouse
 GEO:45.450507;-122.672263
 SUMMARY:Dedication of Oliver Milavetz's Memorial Bench
-DESCRIPTION:
-X-ALT-DESC;FMTTYPE=text/html:<p><picture class="lw_image lw_image112289  
- lw_align_left"><source media="(max-width: 500px)" type="image/webp" srcse
- t="https://www.lclark.edu/live/image/scale/2x/gid/45/width/500/height/375
- /112289_oliver.webp 2x\, https://www.lclark.edu/live/image/scale/3x/gid/4
- 5/width/500/height/375/112289_oliver.webp 3x" data-origin="responsive"/><
- source media="(max-width: 500px)" type="image/jpeg" srcset="https://www.l
- clark.edu/live/image/scale/2x/gid/45/width/500/height/375/112289_oliver.r
- ev.1772583673.jpg 2x\, https://www.lclark.edu/live/image/scale/3x/gid/45/
- width/500/height/375/112289_oliver.rev.1772583673.jpg 3x" data-origin="re
- sponsive"/><source media="(min-width: 501px)" type="image/webp" srcset="h
- ttps://www.lclark.edu/live/image/scale/2x/gid/45/width/609/height/457/112
- 289_oliver.webp 2x\, https://www.lclark.edu/live/image/scale/3x/gid/45/wi
- dth/609/height/457/112289_oliver.webp 3x" data-origin="responsive"/><sour
- ce media="(min-width: 501px)" type="image/jpeg" srcset="https://www.lclar
- k.edu/live/image/scale/2x/gid/45/width/609/height/457/112289_oliver.rev.1
- 772583673.jpg 2x\, https://www.lclark.edu/live/image/scale/3x/gid/45/widt
- h/609/height/457/112289_oliver.rev.1772583673.jpg 3x" data-origin="respon
- sive"/><img width="609" height="457" alt="Oliver and friends" data-alt="O
- liver and friends" data-caption="Oliver and friends" src="https://www.lcl
- ark.edu/live/image/gid/45/width/609/height/457/112289_oliver.rev.17725836
- 73.jpg" srcset="https://www.lclark.edu/live/image/scale/2x/gid/45/width/6
- 09/height/457/112289_oliver.rev.1772583673.jpg 2x\, https://www.lclark.ed
- u/live/image/scale/3x/gid/45/width/609/height/457/112289_oliver.rev.17725
- 83673.jpg 3x" data-max-w="2856" data-max-h="2142" loading="lazy" data-opt
- imized="true"/></picture></p>
+DESCRIPTION:While Oliver's birthday is March 20th\, we have chosen to gat
+ her on the 19th to better allow for his friends\, classmates\, and the L&
+ amp\;C community to attend and reflect together. Our hope is to establish
+  this as a lasting space for connection and "Oliverness" on our campus.  
+ This will be a casual\, open space to reflect and connect. We'll be honor
+ ing Oliver's birthday with cupcakes and wishes\, alongside a river rock p
+ ainting activity. Paint a stone to leave at the bench as a lasting tribut
+ e\, or take one home with you.  If you cannot make it at 10:00 AM\, we en
+ courage you to visit the bench at the Alumni Gatehouse Patio at any time 
+ during the day to share a quiet moment or leave a memory.RSVP: To help us
+  ensure we have enough supplies and refreshments for everyone\, please le
+ t us know if you plan to attend:RSVP via this link (https://engage.lclark
+ .edu/register/?id=fc19af12-c9ee-4b59-b0f9-65d2f5f7e3e8)  Sincerely\,  Alu
+ mni and Parent Engagement Office Team
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><picture cla
+ ss="lw_image lw_image112289 lw_align_center"><source type="image/webp" sr
+ cset="https://www.lclark.edu/live/image/scale/2x/gid/45/width/305/height/
+ 229/112289_oliver.webp 2x\, https://www.lclark.edu/live/image/scale/3x/gi
+ d/45/width/305/height/229/112289_oliver.webp 3x" data-origin="responsive"
+ /><source type="image/jpeg" srcset="https://www.lclark.edu/live/image/sca
+ le/2x/gid/45/width/305/height/229/112289_oliver.rev.1772583673.jpg 2x\, h
+ ttps://www.lclark.edu/live/image/scale/3x/gid/45/width/305/height/229/112
+ 289_oliver.rev.1772583673.jpg 3x" data-origin="responsive"/><img width="3
+ 05" height="229" alt="Oliver and friends" data-alt="Oliver and friends" d
+ ata-caption="Oliver and friends" src="https://www.lclark.edu/live/image/g
+ id/45/width/305/height/229/112289_oliver.rev.1772583673.jpg" srcset="http
+ s://www.lclark.edu/live/image/scale/2x/gid/45/width/305/height/229/112289
+ _oliver.rev.1772583673.jpg 2x\, https://www.lclark.edu/live/image/scale/3
+ x/gid/45/width/305/height/229/112289_oliver.rev.1772583673.jpg 3x" data-m
+ ax-w="2856" data-max-h="2142" loading="lazy" data-optimized="true"/></pic
+ ture></p><p data-path-to-node="6">  While Oliver's birthday is March 20th
+ \, we have chosen to gather on the 19th to better allow for his friends\,
+  classmates\, and the L&amp\;C community to attend and reflect together. 
+ Our hope is to establish this as a lasting space for connection and "Oliv
+ erness" on our campus.</p><p data-path-to-node="15">  This will be a casu
+ al\, open space to reflect and connect. We'll be honoring Oliver's birthd
+ ay with <strong data-index-in-node="99" data-path-to-node="15">cupcakes a
+ nd wishes</strong>\, alongside a <strong data-index-in-node="132" data-pa
+ th-to-node="15">river rock painting activity</strong>. Paint a stone to l
+ eave at the bench as a lasting tribute\, or take one home with you.</p><p
+  data-path-to-node="16">  If you cannot make it at 10:00 AM\, we encourag
+ e you to visit the bench at the Alumni Gatehouse Patio at any time during
+  the day to share a quiet moment or leave a memory.<br /><br /><strong da
+ ta-index-in-node="0" data-path-to-node="8">RSVP:</strong> To help us ensu
+ re we have enough supplies and refreshments for everyone\, please let us 
+ know if you plan to attend:<br /><a title="https://engage.lclark.edu/regi
+ ster/?id=fc19af12-c9ee-4b59-b0f9-65d2f5f7e3e8" href="https://engage.lclar
+ k.edu/register/?id=fc19af12-c9ee-4b59-b0f9-65d2f5f7e3e8" target="_blank" 
+ rel="noopener">RSVP via this link</a><br /><br />  Sincerely\,<br />  Alu
+ mni and Parent Engagement Office Team</p>
 UID:20260319T070000Z-384079@www.lclark.edu
 DTSTAMP:20260217T101454Z
 URL:https://www.lclark.edu/calendars/events/event/384079-dedication-of-ol
  iver-milavetzs-memorial-bench
-LAST-MODIFIED:20260304T191716Z
+LAST-MODIFIED:20260313T192625Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:384079
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-CONTACT-INFO:<p>alumni@lclark.edu</p>
+X-LIVEWHALE-CONTACT-INFO:<p>\n  alumni@lclark.edu\n</p>
 X-LIVEWHALE-SUMMARY:<p>\n  Please join us on <strong data-index-in-node="
  18" data-path-to-node="5">Thursday\, March 19th\, at 10:00 AM</strong> as
   we gather at the <strong>Alumni Gatehouse Patio</strong> to dedicate a m
- emorial bench in honor of Oliver Milavetz.\n</p>\n<p data-path-to-node="6
- ">\n  While Oliver's birthday is March 20th\, we have chosen to gather on
-  the 19th to better allow for his friends\, classmates\, and the L&amp\;C
-  community to attend and reflect together. Our hope is to establish this 
- as a lasting space for connection and "Oliverness" on our campus.\n</p>\n
- <p data-path-to-node="15">\n  This will be a casual\, open space to refle
- ct and connect. We'll be honoring Oliver's birthday with <strong data-ind
- ex-in-node="99" data-path-to-node="15">cupcakes and wishes</strong>\, alo
- ngside a <strong data-index-in-node="132" data-path-to-node="15">river ro
- ck painting activity</strong>. Paint a stone to leave at the bench as a l
- asting tribute\, or take one home with you.\n</p>\n<p data-path-to-node="
- 16">\n  If you cannot make it at 10:00 AM\, we encourage you to visit the
-  bench at the Alumni Gatehouse Patio at any time during the day to share 
- a quiet moment or leave a memory.<br />\n  <br />\n  <strong data-index-i
- n-node="0" data-path-to-node="8">RSVP:</strong> To help us ensure we have
-  enough supplies and refreshments for everyone\, please let us know if yo
- u plan to attend:<br />\n  <a title="https://engage.lclark.edu/register/?
- id=fc19af12-c9ee-4b59-b0f9-65d2f5f7e3e8" href="https://engage.lclark.edu/
- register/?id=fc19af12-c9ee-4b59-b0f9-65d2f5f7e3e8" target="_blank" rel="n
- oopener">RSVP via this link</a><br />\n  <br />\n  Sincerely\,<br />\n  A
- lumni and Parent Engagement Office Team\n</p>
+ emorial bench in honor of Oliver Milavetz.\n</p>
 X-LIVEWHALE-TAGS:alumni|In-person Event
 END:VEVENT
 BEGIN:VEVENT
@@ -5457,6 +4506,107 @@ X-LIVEWHALE-SUMMARY:<p><span data-sheets-root="1">Join CALS for an overvi
  ew of next year's animal law course offerings\, animal law certificate re
  quirements\, and developments\, as well as for advice on course planning 
  and more.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Call for Papers: 2026 Dorothy Berkson Writing Award in Gender Stu
+ dies
+DESCRIPTION:17th Annual Dorothy Berkson Writing Award in Gender Studies  
+ &#160\;  This award recognizes written achievement (e.g.\, scholarly essa
+ ys\, research projects\, creative non-fiction\, fiction\, poetry\, or pla
+ ywriting) focused on gender and authored by a senior.  A monetary prize a
+ ccompanies the award.  The award winners will present their papers at a r
+ eception on April 18\, 2025 (https://www.lclark.edu/calendars/events/even
+ t/354223-2024-reception-for-dorothy-berkson-writing-award) that celebrate
+ s their work. The presentation will be recorded for archival purposes. Th
+ ese awards are given in memory of Dorothy Berkson\, professor emerita of 
+ English who taught at Lewis &amp\; Clark from 1981 until her retirement i
+ n 2004.Submissions due by 5 p.m.Friday\, March 21\, 2025  &#160\;Submissi
+ ons may come from any field of study as long as gender is central to the 
+ work. The author must be a graduating senior in 24-25. Most often the wor
+ k will be produced in the senior year\, but outstanding work from one's j
+ unior year will also be considered.  Submissions (maximum 5\,000 words) m
+ ust be accompanied by a faculty recommendation that provides context for 
+ the work and speaks to its merits.  Awardees will be determined by a facu
+ lty committee  Student submissions use this link (https://forms.gle/SshBH
+ XoezQbmZS4R6) to a Google form  Faculty recommendations use this link (ht
+ tps://forms.gle/NtqhfPnCQJyuYam36) to a Google form    &#160\;Professor B
+ erkson was a presenter in Lewis &amp\; Clark's first Gender Studies Sympo
+ sium. For the gender studies minor\, she designed a course titled Gender 
+ and Aesthetic Expression\, which she continued to teach for many years.  
+ &#160\;Info about past awardees (https://www.lclark.edu/departments/gende
+ r_studies/dorothy-berkson-writing-award/dorthy-berkson-award-archive/)
+X-ALT-DESC;FMTTYPE=text/html:<h2>  17th Annual Dorothy Berkson Writing Aw
+ ard in Gender Studies</h2><p style="text-align: left\;">  &#160\;</p><p s
+ tyle="text-align: left\;">  This award recognizes written achievement (e.
+ g.\, scholarly essays\, research projects\, creative non-fiction\, fictio
+ n\, poetry\, or playwriting) focused on gender and authored by a senior.<
+ /p><p style="text-align: left\;">  A monetary prize accompanies the award
+ .</p><p>  The award winners will present their papers at a <strong><a hre
+ f="https://www.lclark.edu/calendars/events/event/354223-2024-reception-fo
+ r-dorothy-berkson-writing-award" target="_blank" rel="noopener">reception
+  on April 18\, 2025</a></strong> that celebrates their work. The presenta
+ tion will be recorded for archival purposes. These awards are given in me
+ mory of Dorothy Berkson\, professor emerita of English who taught at Lewi
+ s &amp\; Clark from 1981 until her retirement in 2004.</p><h4 style="text
+ -align: center\;"><strong>Submissions due by 5 p.m.</strong></h4><h4 styl
+ e="text-align: center\;"><strong>Friday\, March 21\, 2025</strong></h4><p
+ >  &#160\;</p><ul><li>Submissions may come from any field of study as lon
+ g as gender is central to the work. The author must be a graduating senio
+ r in 24-25. Most often the work will be produced in the senior year\, but
+  outstanding work from one's junior year will also be considered.  </li><
+ /ul><ul><li>Submissions (maximum 5\,000 words) must be accompanied by a f
+ aculty recommendation that provides context for the work and speaks to it
+ s merits.  </li></ul><ul><li>Awardees will be determined by a faculty com
+ mittee  </li></ul><ul><li><a href="https://forms.gle/SshBHXoezQbmZS4R6">S
+ tudent submissions use this link</a> to a Google form  </li></ul><ul><li>
+ <a href="https://forms.gle/NtqhfPnCQJyuYam36">Faculty recommendations use
+  this link</a> to a Google form  </li></ul><p>  &#160\;</p><p><em><pictur
+ e class="lw_image lw_image52922 lw_align_left"><source type="image/webp" 
+ srcset="https://www.lclark.edu/live/image/scale/2x/gid/72/width/150/heigh
+ t/214/52922_dorothy_berkson.webp 2x" data-origin="responsive"/><source ty
+ pe="image/jpeg" srcset="https://www.lclark.edu/live/image/scale/2x/gid/72
+ /width/150/height/214/52922_dorothy_berkson.rev.1429734859.jpg 2x" data-o
+ rigin="responsive"/>
+<picture>
+<img alt="" width="150" height="214" data-decoration=
+ "true" src="https://www.lclark.edu/live/image/gid/72/width/150/height/214
+ /52922_dorothy_berkson.rev.1429734859.jpg" title="Berkson photo 2" srcset
+ ="https://www.lclark.edu/live/image/scale/2x/gid/72/width/150/height/214/
+ 52922_dorothy_berkson.rev.1429734859.jpg 2x" data-max-w="394" data-max-h=
+ "562" loading="lazy" data-optimized="true"/>
+</picture></picture>Professor Berkson w
+ as a presenter in Lewis &amp\; Clark's first Gender Studies Symposium. Fo
+ r the gender studies minor\, she designed a course titled Gender and Aest
+ hetic Expression\, which she continued to teach for many years.</em></p><
+ p>  &#160\;</p><p><strong><a href="https://www.lclark.edu/departments/gen
+ der_studies/dorothy-berkson-writing-award/dorthy-berkson-award-archive/">
+ Info about past awardees</a></strong></p>
+UID:20260401T070000Z-386653@www.lclark.edu
+DTSTAMP:20260311T131944Z
+URL:https://college.lclark.edu/live/news/57473-call-for-papers-2026-dorot
+ hy-berkson-writing-award-in-
+LAST-MODIFIED:20260311T202704Z
+RRULE:FREQ=WEEKLY;UNTIL=20260403T000000Z;INTERVAL=1
+ATTACH:https://www.lclark.edu/live/image/gid/72/width/80/height/80/crop/1
+ /src_region/0,0,429,383/112371_Berkson_QR_2-per-sheet__1.rev.1773260407.j
+ pg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386653
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/72/width/80/heigh
+ t/80/crop/1/src_region/0\,0\,429\,383/112371_Berkson_QR_2-per-sheet__1.re
+ v.1773260407.jpg
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Rishona Zimring\, Director of Gender Stud
+ ies<br />\n  <a href="mailto:zimring@lclark.edu">zimring@lclark.edu</a>\n
+ </p>
+X-LIVEWHALE-SUMMARY:<p>\n  Submissions may be from <em>any</em> field of 
+ study so long as gender is central to the work.<br />\n  <br />\n  Self-s
+ ubmissions and faculty recommendations due by 5pm\, Friday\, April 3\, 20
+ 26.\n</p>
+X-LIVEWHALE-REPEATS-UNTIL:2026-04-03 07:00:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260401T173000
@@ -8217,7 +7367,7 @@ UID:20260415T010000Z-373028@www.lclark.edu
 DTSTAMP:20251109T143950Z
 URL:https://www.lclark.edu/calendars/events/event/373028-monthly-series-a
  sk-a-healthcare-student-copy
-LAST-MODIFIED:20251109T224119Z
+LAST-MODIFIED:20260313T202257Z
 ATTACH:https://www.lclark.edu/live/image/gid/660/width/80/height/80/crop/
  1/src_region/0,0,538,532/110380_Screenshot_2025-10-27_124117.rev.17615940
  99.png
@@ -8295,6 +7445,119 @@ X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-SUMMARY:<p>Stop by and relax with the animal law community be
  fore finals! Come for a vegan cupcake\, fizzy water\, and to reflect on t
  he spring semester with the Animal Law Program!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260416T160000
+DTEND;TZID=America/Los_Angeles:20260416T173000
+LOCATION:Watzek Library
+GEO:45.450919;-122.669177
+SUMMARY:River Poems: Stafford and Supinka
+DESCRIPTION:What the Water Knows: River Poems by William Stafford brings 
+ together 29 poems by internationally celebrated poet William Stafford on 
+ the theme of rivers\, including 10 previously unpublished poems from the 
+ William Stafford Archives (https://williamstaffordarchives.org/)\, held a
+ t Lewis &amp\; Clark. Featuring linocut art by artist Kristin Vantrease\,
+  this chapbook was lovingly designed and hand sewn by Sam Jordan '97. All
+  profit from sales will be donated to Rogue Riverkeeper (https://www.rogu
+ eriverkeeper.org/). You can view a short documentary about the book here.
+  (https://bit.ly/WTWKDoc)Sam Jordan is an educator and traveler who grew 
+ up along the Rogue River in Southern\, Oregon\, and currently lives on De
+ na'ina Ełnena/Ahtna Nenn' land in Palmer\, Alaska. He is a 1997 graduate
+  of Lewis &amp\; Clark College and worked as a volunteer in the initial d
+ ays of the William Stafford Archives from 1997-1998. What the Water Knows
+ : River Poems by William Stafford (published in 2025) is his first book.K
+ im Stafford (https://www.kimstaffordpoet.com/) is Emeritus Professor at L
+ ewis &amp\; Clark College. He writes\, teaches\, and travels to raise the
+  human spirit through poetry. In 1986\, he founded the Northwest Writing 
+ Institute\, and he has published a dozen books of poetry and prose\, incl
+ uding The Muses Among Us: Eloquent Listening and Other Pleasures of the W
+ riter's Craft and 100 Tricks Every Boy Can Do: How My Brother Disappeared
+ . His most recent book is the poetry collection As the Sky Begins to Chan
+ ge (Red Hen Press\, 2024). He has taught writing in dozens of schools and
+  community centers\, and in Scotland\, Italy\, Mexico\, and Bhutan. In 20
+ 18 he was named Oregon's 9th Poet Laureate for a two-year term. The Kim S
+ tafford's archive (https://archiveswest.orbiscascade.org/ark:80444/xv7287
+ 01) is also held at Lewis &amp\; Clark.Carolyn Supinka (https://carolyn-s
+ upinka.squarespace.com/) (she/her) is an interdisciplinary artist and wri
+ ter based in Portland\, primarily working in poetry and comics that synth
+ esize language\, print\, and sound. Her practice layers text and images\,
+  drawing on deep time\, geology\, climate change\, and identity. She has 
+ participated in residencies and workshops\, including the 2025-2026 Outer
+  Voice Alliance\, Tin House Writing Workshop\, Sou'wester Arts Week\, and
+  the Banff Centre for the Arts\, and is the recipient of a Fulbright Rese
+ arch Grant. She received her MFA from Oregon State University and BA from
+  Carnegie Mellon University. Her poetry comics have appeared in Gigantic 
+ Sequins\, Ecotone\, HAD and Redivider. Her poetry has appeared in DIAGRAM
+ \, The Boiler\, Sixth Finch\, and Passages North. Her first full-length b
+ ook of poetry and poetry comics\, Metamorphic Door\, is out now from Buck
+ man Publishing.
+X-ALT-DESC;FMTTYPE=text/html:<p><strong><em>What the Water Knows: River P
+ oems by William Stafford</em></strong> brings together 29 poems by intern
+ ationally celebrated poet William Stafford on the theme of rivers\, inclu
+ ding 10 previously unpublished poems from the <a href="https://williamsta
+ ffordarchives.org/">William Stafford Archives</a>\, held at Lewis &amp\; 
+ Clark. Featuring linocut art by artist Kristin Vantrease\, this chapbook 
+ was lovingly designed and hand sewn by Sam Jordan '97. All profit from sa
+ les will be donated to <a href="https://www.rogueriverkeeper.org/" target
+ ="_blank" rel="noopener">Rogue Riverkeeper</a>. You can view a short docu
+ mentary about the book <a href="https://bit.ly/WTWKDoc">here.</a></p><p><
+ strong>Sam Jordan</strong> is an educator and traveler who grew up along 
+ the Rogue River in Southern\, Oregon\, and currently lives on Dena'ina E�
+ �nena/Ahtna Nenn' land in Palmer\, Alaska. He is a 1997 graduate of Lewis
+  &amp\; Clark College and worked as a volunteer in the initial days of th
+ e William Stafford Archives from 1997-1998. <em><strong>What the Water Kn
+ ows: River Poems by William Stafford</strong></em> (published in 2025) is
+  his first book.</p><p><strong><a href="https://www.kimstaffordpoet.com/"
+ >Kim Stafford</a></strong> is Emeritus Professor at Lewis &amp\; Clark Co
+ llege. He writes\, teaches\, and travels to raise the human spirit throug
+ h poetry. In 1986\, he founded the Northwest Writing Institute\, and he h
+ as published a dozen books of poetry and prose\, including <strong><em><s
+ pan class="wixui-rich-text__text">The Muses Among Us: Eloquent Listening 
+ and Other Pleasures of the Writer's Craft</span></em></strong> and <em><s
+ trong><span class="wixui-rich-text__text">100 Tricks Every Boy Can Do: Ho
+ w My Brother Disappeared</span></strong></em>. His most recent book is th
+ e poetry collection <strong><em><span class="wixui-rich-text__text">As th
+ e Sky Begins to Change</span></em></strong> (Red Hen Press\, 2024). He ha
+ s taught writing in dozens of schools and community centers\, and in Scot
+ land\, Italy\, Mexico\, and Bhutan. In 2018 he was named Oregon's 9th Poe
+ t Laureate for a two-year term. The <a href="https://archiveswest.orbisca
+ scade.org/ark:80444/xv728701">Kim Stafford's archive</a> is also held at 
+ Lewis &amp\; Clark.</p><p><strong><a href="https://carolyn-supinka.square
+ space.com/">Carolyn Supinka</a></strong> (she/her) is an interdisciplinar
+ y artist and writer based in Portland\, primarily working in poetry and c
+ omics that synthesize language\, print\, and sound. Her practice layers t
+ ext and images\, drawing on deep time\, geology\, climate change\, and id
+ entity. She has participated in residencies and workshops\, including the
+  2025-2026 Outer Voice Alliance\, Tin House Writing Workshop\, Sou'wester
+  Arts Week\, and the Banff Centre for the Arts\, and is the recipient of 
+ a Fulbright Research Grant. She received her MFA from Oregon State Univer
+ sity and BA from Carnegie Mellon University. Her poetry comics have appea
+ red in Gigantic Sequins\, Ecotone\, HAD and Redivider. Her poetry has app
+ eared in DIAGRAM\, The Boiler\, Sixth Finch\, and Passages North. Her fir
+ st full-length book of poetry and poetry comics\, <em><strong>Metamorphic
+  Door\,</strong></em> is out now from Buckman Publishing.</p>
+UID:20260416T230000Z-386901@www.lclark.edu
+DTSTAMP:20260313T122707Z
+URL:https://www.lclark.edu/live/events/386897-river-poems-stafford-and-su
+ pinka
+CATEGORIES:Open to the Public
+LAST-MODIFIED:20260313T192737Z
+ATTACH:https://www.lclark.edu/live/image/gid/417/width/80/height/80/crop/
+ 1/src_region/0,0,1545,2000/112396_RiverPoemsFlyer.rev.1773423840.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386901
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/417/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1545\,2000/112396_RiverPoemsFlyer.rev.17734
+ 23840.png
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  archives@lclark.edu\n</p>
+X-LIVEWHALE-SUMMARY:<p class="cvGsUA direction-ltr align-end para-style-b
+ ody">\n  <span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">Pleas
+ e join Special Collections and Archives for a book talk and poetry readin
+ g with Sam Jordan '97\, Kim Stafford\, and Carolyn Supinka Thursday\, Apr
+ il 16th\, at 4pm in the Watzek Library Classroom 245.</span>\n</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260416T170000
@@ -8383,21 +7646,26 @@ DESCRIPTION:This experiential online workshop will introduce the fundamen
  ructor: Maru Serricchio-Joiner\, PhD\, LMFT\, ATR-BCDetails: $140 by 3/18
  \, $165 after\, Includes 6 CEUs. Alumni\, Adjuncts and GSEC Clinical Ment
  al Health Supervisors save 20%.&#160\;Register Online (https://lclark.tfa
- forms.net/wf1W4MQ?epid=a1aUY0000026wrN)About the InstructorMaru Serricchi
- o-Joiner\, PhD\, LMFT\, ATR-BC is an active clinical art psychotherapist\
- , marital and family therapist\, and full time professor at Loyola Marymo
- unt University in Los Angeles. Born in Buenos Aires\, Argentina and growi
- ng up in Mexico City\, Maru has a diverse background and multi- systemic 
- lens. Maru recently completed her PhD in International Psychology\, with 
- a concentration in Organization and Systems\, at The Chicago School of Pr
- ofessional Psychology\, where she researched bereavement support in Mexic
- an workplaces. Maru is very interested in helping organizations creativel
- y lead and function with intention and awareness\, in order to create an 
- environment for the BIPOC population\, and for all employees\, to be ackn
- owledged and valued.New workshops and trainings are added to our calendar
-  regularly. For the latest on professional development related to your sp
- ecific interests\, sign up for our mailing list! (https://lclark.tfaforms
- .net/4735441)
+ forms.net/wf1W4MQ?epid=a1aUY0000026wrN)Accessibility: We are committed to
+  making our events accessible to all needs and abilities. When registerin
+ g\, please let us know your access needs. Contact us at 503-768-6040 or c
+ ce@lclark.edu (mailto:cce@lclark.edu)&#160\;with questions.Please note: D
+ iscounted &#x2018\;Student Rate&#x2019\; registrations are for current st
+ udents only and do not include continuing education credit (CEU/PDUs)Abou
+ t the InstructorMaru Serricchio-Joiner\, PhD\, LMFT\, ATR-BC is an active
+  clinical art psychotherapist\, marital and family therapist\, and full t
+ ime professor at Loyola Marymount University in Los Angeles. Born in Buen
+ os Aires\, Argentina and growing up in Mexico City\, Maru has a diverse b
+ ackground and multi- systemic lens. Maru recently completed her PhD in In
+ ternational Psychology\, with a concentration in Organization and Systems
+ \, at The Chicago School of Professional Psychology\, where she researche
+ d bereavement support in Mexican workplaces. Maru is very interested in h
+ elping organizations creatively lead and function with intention and awar
+ eness\, in order to create an environment for the BIPOC population\, and 
+ for all employees\, to be acknowledged and valued.New workshops and train
+ ings are added to our calendar regularly. For the latest on professional 
+ development related to your specific interests\, sign up for our mailing 
+ list! (https://lclark.tfaforms.net/4735441)
 X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;"><span style="f
  ont-weight: 400\;">This experiential online workshop will introduce the f
  undamentals of using art explorations and activities in clinical practice
@@ -8444,32 +7712,45 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;"><span style="f
  ni\, Adjuncts and GSEC Clinical Mental Health Supervisors save 20%.&#160\
  ;</p><p style="line-height: 1.5\;"><strong><a class="btn-small-style-1" h
  ref="https://lclark.tfaforms.net/wf1W4MQ?epid=a1aUY0000026wrN" target="_b
- lank" rel="noopener">Register Online</a></strong></p><hr /><h3><strong>Ab
- out the Instructor</strong></h3><p style="line-height: 1.5\;"><strong>Mar
- u Serricchio-Joiner\, PhD\, LMFT\, ATR-BC</strong> is an active clinical 
- art psychotherapist\, marital and family therapist\, and full time profes
- sor at Loyola Marymount University in Los Angeles. Born in Buenos Aires\,
-  Argentina and growing up in Mexico City\, Maru has a diverse background 
- and multi- systemic lens. Maru recently completed her PhD in Internationa
- l Psychology\, with a concentration in Organization and Systems\, at The 
- Chicago School of Professional Psychology\, where she researched bereavem
- ent support in Mexican workplaces. Maru is very interested in helping org
- anizations creatively lead and function with intention and awareness\, in
-  order to create an environment for the BIPOC population\, and for all em
- ployees\, to be acknowledged and valued.</p><div id="lw_widget_470b39ba" 
- class="lw_widget lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_3994
-  lw_widget_opt_in lw_widget_pagination"><ul class="lw_widget_results lw_w
- idget_results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"><
- p style="line-height: 1.5\;"><em><strong>New workshops and trainings are 
- added to our calendar regularly.</strong> For the latest on professional 
- development related to your specific interests\, <a href="https://lclark.
- tfaforms.net/4735441">sign up for our mailing list!</a></em></p></div></l
- i></ul></div>
+ lank" rel="noopener">Register Online</a></strong></p><p style="line-heigh
+ t: 1.5\;"><strong><div id="lw_widget_30f0017c" class="lw_widget lw_widget
+ _type_blurbs lw_widget_blurbs lw_widget_id_7119 lw_widget_accessibility_s
+ tatement lw_widget_pagination"><ul class="lw_widget_results lw_widget_res
+ ults_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"><p class="
+ p1" style="font-size: 15px\; line-height: 1.5\;"><em><strong>Accessibilit
+ y:</strong> We are committed to making our events accessible to all needs
+  and abilities. When registering\, please let us know your access needs. 
+ Contact us at 503-768-6040 or <a href="mailto:cce@lclark.edu">cce@lclark.
+ edu</a>&#160\;with questions.<br/></em></p><p class="p1" style="font-size
+ : 15px\; line-height: 1.5\;"><em><strong>Please note:</strong> Discounted
+  &#x2018\;Student Rate&#x2019\; registrations are for current students on
+ ly and <strong>do not</strong> include continuing education credit (CEU/P
+ DUs)</em></p></div></li></ul></div></strong></p><hr /><h3><strong>About t
+ he Instructor</strong></h3><p style="line-height: 1.5\;"><strong>Maru Ser
+ ricchio-Joiner\, PhD\, LMFT\, ATR-BC</strong> is an active clinical art p
+ sychotherapist\, marital and family therapist\, and full time professor a
+ t Loyola Marymount University in Los Angeles. Born in Buenos Aires\, Arge
+ ntina and growing up in Mexico City\, Maru has a diverse background and m
+ ulti- systemic lens. Maru recently completed her PhD in International Psy
+ chology\, with a concentration in Organization and Systems\, at The Chica
+ go School of Professional Psychology\, where she researched bereavement s
+ upport in Mexican workplaces. Maru is very interested in helping organiza
+ tions creatively lead and function with intention and awareness\, in orde
+ r to create an environment for the BIPOC population\, and for all employe
+ es\, to be acknowledged and valued.</p><div id="lw_widget_470b39ba" class
+ ="lw_widget lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_3994 lw_w
+ idget_opt_in lw_widget_pagination"><ul class="lw_widget_results lw_widget
+ _results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"><p sty
+ le="line-height: 1.5\;"><em><strong>New workshops and trainings are added
+  to our calendar regularly.</strong> For the latest on professional devel
+ opment related to your specific interests\, <a href="https://lclark.tfafo
+ rms.net/4735441">sign up for our mailing list!</a></em></p></div></li></u
+ l></div>
 UID:20260417T160000Z-374200@www.lclark.edu
 DTSTAMP:20251120T104729Z
 URL:https://www.lclark.edu/calendars/events/event/374200-clinical-interve
  ntions-to-creatively-explore-and-tran
-LAST-MODIFIED:20260312T180418Z
+LAST-MODIFIED:20260313T181815Z
 ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
  /src_region/14,24,416,426/93373_headshot2_1.rev.1647900299.jpg
 X-LIVEWHALE-TYPE:events
@@ -10633,16 +9914,16 @@ DTSTAMP:20250821T152601Z
 URL:https://www.lclark.edu/calendars/events/event/370289-lewis-clark-orch
  estra-and-choirs
 CATEGORIES:Open to the Public
-LAST-MODIFIED:20260312T205559Z
+LAST-MODIFIED:20260313T200941Z
 ATTACH:https://www.lclark.edu/live/image/gid/76/width/80/height/80/crop/1
- /src_region/665,127,2483,1944/92322_Copy_of_Choral_Concert_12.3.21-56.rev
- .1643143170.jpg
+ /src_region/0,0,600,600/112398_Orchestra_and_Choirs_Stabat_Mater_SquareGr
+ aphic.rev.1773432569.jpg
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:370289
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/76/width/80/heigh
- t/80/crop/1/src_region/665\,127\,2483\,1944/92322_Copy_of_Choral_Concert_
- 12.3.21-56.rev.1643143170.jpg
+ t/80/crop/1/src_region/0\,0\,600\,600/112398_Orchestra_and_Choirs_Stabat_
+ Mater_SquareGraphic.rev.1773432569.jpg
 X-LIVEWHALE-IMAGE-CAPTION:&#160\;
 X-LIVEWHALE-COST:<p>\n  $20 General Admission<br />\n  $10 LC Faculty\, S
  taff\, Seniors\, Alumni and non-LC students<br />\n  FREE for LC Students
@@ -11502,7 +10783,7 @@ UID:20260513T010000Z-373029@www.lclark.edu
 DTSTAMP:20251109T144032Z
 URL:https://www.lclark.edu/calendars/events/event/373029-monthly-series-a
  sk-a-healthcare-student-copy
-LAST-MODIFIED:20251109T224119Z
+LAST-MODIFIED:20260313T202239Z
 ATTACH:https://www.lclark.edu/live/image/gid/660/width/80/height/80/crop/
  1/src_region/0,0,538,532/110380_Screenshot_2025-10-27_124117.rev.17615940
  99.png
@@ -13794,27 +13075,27 @@ DESCRIPTION:This online course is designed for current and future supervi
  ; 30-31\, 2026\, 8:30 a.m.-5 p.m. PST\, OnlineInstructor: James Gurule\, 
  MA\, LPCCost: $525\, includes 30 CEUs. Lewis &amp\; Clark Alumni save 20%
  GSEC Clinical Mental Health Supervisors: Please email cce@lclark.edu (mai
- lto:cce@lclark.edu) to request no-cost registrationOnline Registration Co
- ming SoonAccessibility: We are committed to making our events accessible 
- to all needs and abilities. When registering\, please let us know your ac
- cess needs. Contact us at 503-768-6040 or cce@lclark.edu (mailto:cce@lcla
- rk.edu)&#160\;with questions.Please note: Discounted &#x2018\;Student Rat
- e&#x2019\; registrations are for current students only and do not include
-  continuing education credit (CEU/PDUs)About the InstructorJames Gurule\,
-  MA\, LPC is a Licensed Professional Counselor with over four decades of 
- clinical experience working in community mental health settings. In addit
- ion to clinical work as a Child and Family Therapist\, James also provide
- d clinical supervision with agency staff and was designated as an agency 
- Lead Risk Manager at Lifeworks NW.  James also regularly provides profess
- ional trainings in ethics\, solution focused clinical supervision and oth
- er strength-based supervisory practices through the Center for Community 
- Engagement at Lewis &amp\; Clark Graduate School in Portland\, Oregon. Ja
- mes has provided additional courses at the Lewis &amp\; Clark Graduate Sc
- hool as part of their Professional Mental Health Counseling and School Ps
- ychology programs.New workshops and trainings are added to our calendar r
- egularly. For the latest on professional development related to your spec
- ific interests\, sign up for our mailing list! (https://lclark.tfaforms.n
- et/4735441)
+ lto:cce@lclark.edu) to request no-cost registrationRegister Online (https
+ ://lclark.tfaforms.net/wf1W4MQ?epid=a1aUY000002T6ld)Accessibility: We are
+  committed to making our events accessible to all needs and abilities. Wh
+ en registering\, please let us know your access needs. Contact us at 503-
+ 768-6040 or cce@lclark.edu (mailto:cce@lclark.edu)&#160\;with questions.P
+ lease note: Discounted &#x2018\;Student Rate&#x2019\; registrations are f
+ or current students only and do not include continuing education credit (
+ CEU/PDUs)About the InstructorJames Gurule\, MA\, LPC is a Licensed Profes
+ sional Counselor with over four decades of clinical experience working in
+  community mental health settings. In addition to clinical work as a Chil
+ d and Family Therapist\, James also provided clinical supervision with ag
+ ency staff and was designated as an agency Lead Risk Manager at Lifeworks
+  NW.  James also regularly provides professional trainings in ethics\, so
+ lution focused clinical supervision and other strength-based supervisory 
+ practices through the Center for Community Engagement at Lewis &amp\; Cla
+ rk Graduate School in Portland\, Oregon. James has provided additional co
+ urses at the Lewis &amp\; Clark Graduate School as part of their Professi
+ onal Mental Health Counseling and School Psychology programs.New workshop
+ s and trainings are added to our calendar regularly. For the latest on pr
+ ofessional development related to your specific interests\, sign up for o
+ ur mailing list! (https://lclark.tfaforms.net/4735441)
 X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  This online 
  course is designed for current and future supervisors of graduate interns
  \, clinical staff\, and licensure candidates\, and gives clinicians the i
@@ -13845,44 +13126,46 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  This online
   save 20%</p><p style="line-height: 1.5\;"><strong>GSEC Clinical Mental H
  ealth Supervisors:</strong> Please email <a href="mailto:cce@lclark.edu">
  cce@lclark.edu</a> to request no-cost registration</p><p style="line-heig
- ht: 1.5\;"><strong>Online Registration Coming Soon</strong></p><div id="l
- w_widget_30f0017c" class="lw_widget lw_widget_type_blurbs lw_widget_blurb
- s lw_widget_id_7119 lw_widget_accessibility_statement lw_widget_paginatio
- n"><ul class="lw_widget_results lw_widget_results_blurbs"><li class="lw_i
- tem_1"><div class="lw_blurbs_body"><p class="p1" style="font-size: 15px\;
-  line-height: 1.5\;"><em><strong>Accessibility:</strong> We are committed
-  to making our events accessible to all needs and abilities. When registe
- ring\, please let us know your access needs. Contact us at 503-768-6040 o
- r <a href="mailto:cce@lclark.edu">cce@lclark.edu</a>&#160\;with questions
- .<br/></em></p><p class="p1" style="font-size: 15px\; line-height: 1.5\;"
- ><em><strong>Please note:</strong> Discounted &#x2018\;Student Rate&#x201
- 9\; registrations are for current students only and <strong>do not</stron
- g> include continuing education credit (CEU/PDUs)</em></p></div></li></ul
- ></div><hr /><h3><strong>About the Instructor</strong></h3><p style="line
- -height: 1.5\;"><strong>James Gurule\, MA\, LPC</strong> is a Licensed Pr
- ofessional Counselor with over four decades of clinical experience workin
- g in community mental health settings. In addition to clinical work as a 
- Child and Family Therapist\, James also provided clinical supervision wit
- h agency staff and was designated as an agency Lead Risk Manager at Lifew
- orks NW.</p><p style="line-height: 1.5\;">  James also regularly provides
-  professional trainings in ethics\, solution focused clinical supervision
-  and other strength-based supervisory practices through the Center for Co
- mmunity Engagement at Lewis &amp\; Clark Graduate School in Portland\, Or
- egon. James has provided additional courses at the Lewis &amp\; Clark Gra
- duate School as part of their Professional Mental Health Counseling and S
- chool Psychology programs.</p><div id="lw_widget_470b39ba" class="lw_widg
- et lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_3994 lw_widget_opt
- _in lw_widget_pagination"><ul class="lw_widget_results lw_widget_results_
- blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"><p style="line-
- height: 1.5\;"><em><strong>New workshops and trainings are added to our c
- alendar regularly.</strong> For the latest on professional development re
- lated to your specific interests\, <a href="https://lclark.tfaforms.net/4
- 735441">sign up for our mailing list!</a></em></p></div></li></ul></div>
+ ht: 1.5\;"><strong><a class="btn-small-style-1" href="https://lclark.tfaf
+ orms.net/wf1W4MQ?epid=a1aUY000002T6ld" target="_blank" rel="noopener">Reg
+ ister Online</a></strong></p><div id="lw_widget_30f0017c" class="lw_widge
+ t lw_widget_type_blurbs lw_widget_blurbs lw_widget_id_7119 lw_widget_acce
+ ssibility_statement lw_widget_pagination"><ul class="lw_widget_results lw
+ _widget_results_blurbs"><li class="lw_item_1"><div class="lw_blurbs_body"
+ ><p class="p1" style="font-size: 15px\; line-height: 1.5\;"><em><strong>A
+ ccessibility:</strong> We are committed to making our events accessible t
+ o all needs and abilities. When registering\, please let us know your acc
+ ess needs. Contact us at 503-768-6040 or <a href="mailto:cce@lclark.edu">
+ cce@lclark.edu</a>&#160\;with questions.<br/></em></p><p class="p1" style
+ ="font-size: 15px\; line-height: 1.5\;"><em><strong>Please note:</strong>
+  Discounted &#x2018\;Student Rate&#x2019\; registrations are for current 
+ students only and <strong>do not</strong> include continuing education cr
+ edit (CEU/PDUs)</em></p></div></li></ul></div><hr /><h3><strong>About the
+  Instructor</strong></h3><p style="line-height: 1.5\;"><strong>James Guru
+ le\, MA\, LPC</strong> is a Licensed Professional Counselor with over fou
+ r decades of clinical experience working in community mental health setti
+ ngs. In addition to clinical work as a Child and Family Therapist\, James
+  also provided clinical supervision with agency staff and was designated 
+ as an agency Lead Risk Manager at Lifeworks NW.</p><p style="line-height:
+  1.5\;">  James also regularly provides professional trainings in ethics\
+ , solution focused clinical supervision and other strength-based supervis
+ ory practices through the Center for Community Engagement at Lewis &amp\;
+  Clark Graduate School in Portland\, Oregon. James has provided additiona
+ l courses at the Lewis &amp\; Clark Graduate School as part of their Prof
+ essional Mental Health Counseling and School Psychology programs.</p><div
+  id="lw_widget_470b39ba" class="lw_widget lw_widget_type_blurbs lw_widget
+ _blurbs lw_widget_id_3994 lw_widget_opt_in lw_widget_pagination"><ul clas
+ s="lw_widget_results lw_widget_results_blurbs"><li class="lw_item_1"><div
+  class="lw_blurbs_body"><p style="line-height: 1.5\;"><em><strong>New wor
+ kshops and trainings are added to our calendar regularly.</strong> For th
+ e latest on professional development related to your specific interests\,
+  <a href="https://lclark.tfaforms.net/4735441">sign up for our mailing li
+ st!</a></em></p></div></li></ul></div>
 UID:20260723T153000Z-386674@www.lclark.edu
 DTSTAMP:20260311T150457Z
 URL:https://www.lclark.edu/calendars/events/event/386674-clinical-supervi
  sion-online
-LAST-MODIFIED:20260311T221136Z
+LAST-MODIFIED:20260313T180310Z
 ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
  /src_region/273,153,975,854/112372_emkanicepic-dahlias-5578683_1280.rev.1
  773267073.jpg

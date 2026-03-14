@@ -72,7 +72,7 @@ WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
 
 **portland** (9): crystal_ballroom, lan_su_garden, literary_arts, oc_farmers_market, pdx_parent, pioneer_square, portland_art_museum, portland_farmers_market, washington_park
 
-**publisher-resources** (5): ahcj, inn, nlgja, poynter, sabew
+**publisher-resources** (6): ahcj, inn, nahj, nlgja, poynter, sabew
 
 **raleighdurham** (15): ackland_art, downtown_durham, duke_gardens, gardens, hope_animal_rescue, morehead_planetarium, nasher_museum, nc_botanical_garden, nc_humanities, nc_natural_sciences, nc_wildlife_federation, resilient_durham, transitions_lifecare, triangle_land, united_arts_wake
 
@@ -80,7 +80,7 @@ WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
 
 **santarosa** (7): golocal_coop, luther_burbank_center, schulz_museum, sonoma_com, sonoma_county_aa, srsymphony, uptowntheatrenapa
 
-**toronto** (23): bata_shoe_museum, bloor_west_village, boulderzclimbing, culturelink, factory_theatre, gardiner_museum, golatindance, grossmans_tavern, indigenous, jazz_bistro, knitters_guild, now_toronto, ontario_historical_society, ontario_nature, site3, sunshinecentres, textile_museum, toronto_botanical, union_station, uoft_engineering, uoft_indigenous, uoft_philosophy, uoft_socialwork
+**toronto** (22): bata_shoe_museum, bloor_west_village, boulderzclimbing, culturelink, factory_theatre, gardiner_museum, grossmans_tavern, indigenous, jazz_bistro, knitters_guild, now_toronto, ontario_historical_society, ontario_nature, site3, sunshinecentres, textile_museum, toronto_botanical, union_station, uoft_engineering, uoft_indigenous, uoft_philosophy, uoft_socialwork
 
 ### Google Calendar (55 feeds)
 
@@ -247,7 +247,6 @@ own scrapers, add a pattern to `OUR_SCRAPERS`.
 | `-//Ticketmaster/Evanston//ticketmaster.com//` | evanston | ticketmaster_evanston |
 | `-//Trumba Corporation//Trumba Calendar Services 0.11.25510//EN` | boston | tufts_tdps |
 | `-//YWCA Evanston/North Shore//eventbrite.com//` | evanston | eb_ywca |
-| `-//calendar.spjnetwork.org` | publisher-resources | spj |
 | `X-RICAL-TZSOURCE=TZINFO:-//Calagator//EN` | portland | calagator |
 | `icalendar-ruby` | matsu | matsuk12 |
 | `www.maak-agenda.nl` | raleighdurham | nc_courage |

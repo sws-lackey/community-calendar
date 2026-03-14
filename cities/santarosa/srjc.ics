@@ -23,115 +23,6 @@ TZOFFSETTO:-0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260312T193000
-DTEND;TZID=America/Los_Angeles:20260312T220000
-LOCATION:Burbank Auditorium - Santa Rosa Campus
-SUMMARY:SRJC Band & Choir: From Fortune to Fury (Show 2 of 2)
-DESCRIPTION:SRJC Band &amp\; Choir presents FROM FURTUNE TO FURY feat. Ca
- rmina Burana!Only this concert also features saxophonist VINCENT HERRING.
-   The SRJC Symphonic Band and Symphonic Chorus join forces for a one-of-a
- -kind concert with the electrifying power of Carl Orff's Carmina Burana! 
- Over 170 performers will take the stage for this epic collaboration and e
- xplore the full range of human emotion - from triumph and joy to fate and
-  fury.  The program also features the SRJC Chamber Singers in five select
- ions\, along with the Symphonic Band performing the colorful Spanish paso
- doble Andrés Contrabandista and Ralph Vaughan Williams' radiant Flourish
-  for Wind Band.  For tickets and more information\, visit: https://music.
- santarosa.edu/events (https://music.santarosa.edu/events)&#160\;
-X-ALT-DESC;FMTTYPE=text/html:<p>  SRJC Band &amp\; Choir presents FROM FU
- RTUNE TO FURY feat. Carmina Burana!<br /><strong>Only this concert also f
- eatures saxophonist VINCENT HERRING.</strong><br />  The SRJC Symphonic B
- and and Symphonic Chorus join forces for a one-of-a-kind concert with the
-  electrifying power of Carl Orff's <em>Carmina Burana</em>! Over 170 perf
- ormers will take the stage for this epic collaboration and explore the fu
- ll range of human emotion - from triumph and joy to fate and fury.<br /> 
-  The program also features the SRJC Chamber Singers in five selections\, 
- along with the Symphonic Band performing the colorful Spanish pasodoble <
- em>Andrés Contrabandista</em> and Ralph Vaughan Williams' radiant <em>Fl
- ourish for Wind Band</em>.</p><p>  For tickets and more information\, vis
- it: <a href="https://music.santarosa.edu/events" target="_blank" rel="noo
- pener">https://music.santarosa.edu/events</a>&#160\;</p>
-UID:20260313T023000Z-14564@calendar.santarosa.edu
-DTSTAMP:20260206T102128Z
-URL:https://calendar.santarosa.edu/event/14564-srjc-band-choir-from-fortu
- ne-to-fury-show-2-of-2
-CATEGORIES:Music
-LAST-MODIFIED:20260206T182615Z
-ATTACH:https://calendar.santarosa.edu/live/image/gid/3/width/80/height/80
- /crop/1/src_region/0,0,3200,3200/546_calendar_square_-_Symphonic_Band_202
- 5_05_JS_048.rev.1770402136.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:14564
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://calendar.santarosa.edu/live/image/gid/3/width/8
- 0/height/80/crop/1/src_region/0\,0\,3200\,3200/546_calendar_square_-_Symp
- honic_Band_2025_05_JS_048.rev.1770402136.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T100000
-DTEND;TZID=America/Los_Angeles:20260313T130000
-LOCATION:American River College\, Sacramento\, CA
-SUMMARY:(Men's Swimming & Diving) Big 8 Invite
-DESCRIPTION:(Men's Swimming &amp\; Diving) Big 8 Invite
-UID:20260313T170000Z-15973@calendar.santarosa.edu
-DTSTAMP:20260304T123415Z
-URL:https://calendar.santarosa.edu/event/15973-mens-swimming-diving-big-8
- -invite
-CATEGORIES:Athletics
-LAST-MODIFIED:20260304T203415Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:15973
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T100000
-DTEND;TZID=America/Los_Angeles:20260313T130000
-LOCATION:American River College\, Sacramento\, CA
-SUMMARY:(Women's Swimming & Diving) Big 8 Invite
-DESCRIPTION:(Women's Swimming &amp\; Diving) Big 8 Invite
-UID:20260313T170000Z-16143@calendar.santarosa.edu
-DTSTAMP:20260304T123613Z
-URL:https://calendar.santarosa.edu/event/16143-womens-swimming-diving-big
- -8-invite
-CATEGORIES:Athletics
-LAST-MODIFIED:20260304T203613Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:16143
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T130000
-DTEND;TZID=America/Los_Angeles:20260313T160000
-SUMMARY:(Baseball) Sierra vs. Santa Rosa
-DESCRIPTION:Baseball: (Baseball) Sierra vs. Santa Rosa
-UID:20260313T200000Z-15868@calendar.santarosa.edu
-DTSTAMP:20260304T123102Z
-URL:https://calendar.santarosa.edu/event/15868-baseball-sierra-vs-santa-r
- osa
-CATEGORIES:Athletics
-LAST-MODIFIED:20260313T000143Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:15868
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260313T150000
-DTEND;TZID=America/Los_Angeles:20260313T180000
-LOCATION:College of the Sequoias
-SUMMARY:(Men's Basketball) Cerritos vs. Santa Rosa
-DESCRIPTION:Men's Basketball: (Men's Basketball) Cerritos vs. Santa Rosa\
- , 3C2A State Championship Quarterfinals
-UID:20260313T220000Z-16346@calendar.santarosa.edu
-DTSTAMP:20260307T204739Z
-URL:https://calendar.santarosa.edu/event/16346-mens-basketball-cerritos-v
- s-santa-rosa
-CATEGORIES:Athletics
-LAST-MODIFIED:20260311T180135Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:16346
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260313T193000
 DTEND;TZID=America/Los_Angeles:20260313T210000
 LOCATION:Burbank Auditorium - Santa Rosa Campus
@@ -3114,14 +3005,20 @@ DTSTART;TZID=America/Los_Angeles:20260422T140000
 DTEND;TZID=America/Los_Angeles:20260422T150000
 SUMMARY:Preparing to TAG
 DESCRIPTION:Are you applying to a UC? Come to this workshop to learn abou
- t the program that guarantees admission to certain UC campuses.Zoom Link
+ t the program that guarantees admission to certain UC campuses.Zoom Link 
+ (https://santarosa-edu.zoom.us/meeting/register/CKy0sdKiS7OOF1TKIKIdfQ?_x
+ _zm_rtaid=IdFNrW9MT8CXuJn9FYP1IQ.1773422099811.f6abf03bf04ce4e8529adf9959
+ 46ec64&amp\;_x_zm_rhtaid=241#/registration)
 X-ALT-DESC;FMTTYPE=text/html:Are you applying to a UC? Come to this works
  hop to learn about the program that guarantees admission to certain UC ca
- mpuses.<br />Zoom Link
+ mpuses.<br /><br /><a href="https://santarosa-edu.zoom.us/meeting/registe
+ r/CKy0sdKiS7OOF1TKIKIdfQ?_x_zm_rtaid=IdFNrW9MT8CXuJn9FYP1IQ.1773422099811
+ .f6abf03bf04ce4e8529adf995946ec64&amp\;_x_zm_rhtaid=241#/registration">Zo
+ om Link</a>
 UID:20260422T210000Z-13697@calendar.santarosa.edu
 DTSTAMP:20260120T094144Z
 URL:https://calendar.santarosa.edu/event/13697-preparing-to-tag
-LAST-MODIFIED:20260219T170701Z
+LAST-MODIFIED:20260313T181127Z
 ATTACH:https://calendar.santarosa.edu/live/image/gid/3/width/80/height/80
  /crop/1/src_region/0,0,500,500/33_Transfer_Graphic_Tile.rev.1722891740.pn
  g
@@ -3812,14 +3709,17 @@ DTEND;TZID=America/Los_Angeles:20260429T150000
 SUMMARY:You're admitted\, now what?
 DESCRIPTION:You've applied to transfer\, now what? This workshop will exp
  lore the steps you need to take to ensure a smooth transition to a 4-year
-  institution.Zoom Link
+  institution.Zoom Link (https://santarosa-edu.zoom.us/meeting/register/h3
+ gtFqJaTV6K0WppBghyMg#/registration)
 X-ALT-DESC;FMTTYPE=text/html:You've applied to transfer\, now what? This 
  workshop will explore the steps you need to take to ensure a smooth trans
- ition to a 4-year institution.<br />Zoom Link
+ ition to a 4-year institution.<br /><br /><a href="https://santarosa-edu.
+ zoom.us/meeting/register/h3gtFqJaTV6K0WppBghyMg#/registration">Zoom Link<
+ /a>
 UID:20260429T210000Z-13696@calendar.santarosa.edu
 DTSTAMP:20260120T094144Z
 URL:https://calendar.santarosa.edu/event/13696-youre-admitted-now-what
-LAST-MODIFIED:20260219T170701Z
+LAST-MODIFIED:20260313T181127Z
 ATTACH:https://calendar.santarosa.edu/live/image/gid/3/width/80/height/80
  /crop/1/src_region/0,0,500,500/33_Transfer_Graphic_Tile.rev.1722891740.pn
  g

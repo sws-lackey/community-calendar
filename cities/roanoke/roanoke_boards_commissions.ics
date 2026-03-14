@@ -1866,11 +1866,11 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8867
 DTEND;TZID=America/New_York:20260317T190000
-DTSTAMP;TZID=America/New_York:20260312T101400
+DTSTAMP;TZID=America/New_York:20260313T092515
 DTSTART;TZID=America/New_York:20260317T173000
-LAST-MODIFIED;TZID=America/New_York:20260312T101400
-LOCATION:<p><span style="font-family: Arial\,Helvetica\,sans-serif\;">Melr
- ose Branch Library</span></p> -   Roanoke VA 24011
+LAST-MODIFIED;TZID=America/New_York:20260313T092515
+LOCATION:<p>Unitarian Universalist Church of Roanoke</p> - 2015 Grandin Ro
+ ad SW  Roanoke VA 24015
 SEQUENCE:0
 SUMMARY:Gun Violence Prevention Commission
 UID:8867
@@ -1887,19 +1887,6 @@ LOCATION:<p id="isPasted">Human Resources Learning Center</p><p>Municipal
 SEQUENCE:0
 SUMMARY:Greater Roanoke Transit Company Board of Directors
 UID:8420
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: https://www.roanokeva.gov/calendar.aspx?EID=8666
-DTEND;TZID=America/New_York;VALUE=DATE:20260313
-DTSTAMP;TZID=America/New_York:20260108T101746
-DTSTART;TZID=America/New_York;VALUE=DATE:20260312
-LAST-MODIFIED;TZID=America/New_York:20260108T101746
-LOCATION:Noel C. Taylor Municipal Building > City Council Chambers - 215 C
- hurch Ave. SW  Roanoke VA 24011
-SEQUENCE:0
-SUMMARY:Architectural Review Board
-UID:8666
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT

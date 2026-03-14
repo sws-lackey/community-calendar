@@ -595,4 +595,17 @@ LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
 URL:https://brewstersbeergarden.com/calendar1/2026/5/10/maddy-the-mayors
 X-SOURCE:Brewsters Beer Garden
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Dirt Ramblers
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T030000Z
+UID:418eedc4d048f0e1bff556af68d2084c@brewstersbeergarden.com
+ATTACH;FMTTYPE=image/jpeg:https://images.squarespace-cdn.com/content/v1/57
+ fd49e6d1758ebf902df81c/1772658459980-GT9OQ35OZ4TRUSWOBUZG/new_dirt_rambler
+ s.png
+DESCRIPTION:
+LOCATION:Brewsters Beer Garden\, 229 Water Street\, Petaluma\, CA\, 94952
+URL:https://brewstersbeergarden.com/calendar1/2026/5/14/big-rocking-chair
+X-SOURCE:Brewsters Beer Garden
+END:VEVENT
 END:VCALENDAR

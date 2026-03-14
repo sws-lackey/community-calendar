@@ -4,37 +4,6 @@ PRODID:-//Portland Volunteer Events//portland.gov//
 X-WR-CALNAME:Portland Volunteer Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Columbia Nature Patch Stewardship Event
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260313T080000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260313T080000
-UID:a4cbc47f37bf4f74528ffaf942690f65@portland.gov
-ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
- les/facebook/public/2024/columbia-park-nature-patch-2023.jpg?itok=z5Mz2ETV
-DESCRIPTION:JOIN A SECOND-FRIDAY MONTHLY WORK PARTY TO KEEP THIS GARDEN LO
- OKING BEAUTIFUL.
-LOCATION:Columbia Park and Annex
-URL:https://www.portland.gov/parks/nature/events/2026/3/13/columbia-nature
- -patch-stewardship-event
-X-SOURCE:Portland Volunteer Events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Columbia Park Pollinator Planting Day
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260313T080000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260313T080000
-UID:9eb193baa605ea93d2b1fa92a6d55bff@portland.gov
-ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
- les/facebook/public/2026/Columbia-Park-Play-Area-Entrance.jpg?itok=Rovz4Qn
- O
-DESCRIPTION:Join us at Columbia Park this Friday to care for the nature pa
- tch and install pollinator-friendly plants!
-LOCATION:Columbia Park main entrance N Lombard Street and Woolsey Avenue P
- ortland\n                          \, OR\n                           97203
-  Get Directions More about this location
-URL:https://www.portland.gov/parks/events/2026/3/13/columbia-park-pollinat
- or-planting-day
-X-SOURCE:Portland Volunteer Events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Forest Park Stewardship Event
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260314T090000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260314T090000
@@ -59,7 +28,7 @@ DESCRIPTION:Join Portland Parks & Recreation\, Marshall Park Neighborhood
  Association and Tryon Creek Watershed Council for the annual Tryon Creek W
  atershed Wide Event to plant native plants in Marshall Park!
 LOCATION:Marshall Park main entrance 9700 SW 12th Dr Portland\n           
-                \, OR\n                           97219 Get Directions More
+                \, OR\n                           97219 Get directions More
   about this location
 URL:https://www.portland.gov/parks/nature/events/2026/3/14/marshall-park-s
  tewardship-event
@@ -155,6 +124,22 @@ DESCRIPTION:Join Friends of Trees\, Rosemary Anderson Highschool POIC and
  teway Green!
 URL:https://www.portland.gov/parks/nature/events/2026/3/20/gateway-green-n
  atural-area-planting-event-friends-trees
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260320T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260320T100000
+UID:04618b19cb5d4315ec8b8e5098ab784b@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/3/20/cloud-forest-washingto
+ n-park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -261,6 +246,22 @@ DESCRIPTION:Join Portland Parks & Recreation to enhance habitat for plants
   and wildlife in Forest Park!
 URL:https://www.portland.gov/parks/nature/events/2026/3/25/forest-park-ste
  wardship-event
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260327T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260327T100000
+UID:105dad395a1d5aa12fd085be5b8d807a@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/3/27/cloud-forest-washingto
+ n-park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -377,10 +378,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2026/Yarrow.jpg?itok=naLtXx1v
 DESCRIPTION:Join us for Earth Month at the Garden of Weedin' to help us ke
  ep Parklane Park in bloom!
-LOCATION:Parklane Park Label: Park Park Location or Entrance SE 155th Aven
- ue and Main Street Portland\, OR 97233 Get Directions Parklane Park main e
+LOCATION:Parklane Park Label: Park Park location or entrance SE 155th Aven
+ ue and Main Street Portland\, OR 97233 Get directions Parklane Park main e
  ntrance SE 155th Avenue and Main Street Portland\n                        
-   \, OR\n                           97233 Get Directions More about this l
+   \, OR\n                           97233 Get directions More about this l
  ocation
 URL:https://www.portland.gov/parks/events/2026/4/1/earth-month-parklane-pa
  rk-garden-weedin
@@ -395,10 +396,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2025/Mill-Park-summer-2025--34-.JPG?itok=Dt9AT1j3
 DESCRIPTION:Join us to celebrate Earth Month with gardening and land care 
  activities at Mill Park!
-LOCATION:Mill Park Label: Park Park Location or Entrance 1949 SE 122nd Ave
-  Portland\, OR 97216 Get Directions Mill Park main entrance 1949 SE 122nd 
+LOCATION:Mill Park Label: Park Park location or entrance 1949 SE 122nd Ave
+  Portland\, OR 97216 Get directions Mill Park main entrance 1949 SE 122nd 
  Ave Portland\n                          \, OR\n                           
- 97216 Get Directions More about this location
+ 97216 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/4/2/earth-month-volunteer-d
  ay-mill-park
 X-SOURCE:Portland Volunteer Events
@@ -412,10 +413,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2026/2025-Argay-Park-Volunteers.jpg?itok=BoiqcykF
 DESCRIPTION:Join us for Earth Month to help prepare the Argay Park sign be
  d for spring blooms!
-LOCATION:Argay Park Label: Park Park Location or Entrance NE 141st Avenue 
- and Failing Street Portland\, OR 97230 Get Directions Argay Park main entr
+LOCATION:Argay Park Label: Park Park location or entrance NE 141st Avenue 
+ and Failing Street Portland\, OR 97230 Get directions Argay Park main entr
  ance NE 141st Avenue and Failing Street Portland\n                        
-   \, OR\n                           97230 Get Directions More about this l
+   \, OR\n                           97230 Get directions More about this l
  ocation
 URL:https://www.portland.gov/parks/events/2026/4/2/earth-month-volunteer-d
  ay-argay-park
@@ -430,13 +431,29 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2026/Pier-Park-Pollinator-Patch.jpg?itok=brvpxFO_
 DESCRIPTION:Be a pal to plants and join us for Earth Month at Pier Park to
   help the local flora thrive!
-LOCATION:Pier Park Label: Park Park Location or Entrance N Lombard Street 
- and Bruce Avenue Portland\, OR 97203 Get Directions Pier Park main entranc
+LOCATION:Pier Park Label: Park Park location or entrance N Lombard Street 
+ and Bruce Avenue Portland\, OR 97203 Get directions Pier Park main entranc
  e N Lombard Street and Bruce Avenue Portland\n                          \,
-  OR\n                           97203 Get Directions More about this locat
+  OR\n                           97203 Get directions More about this locat
  ion
 URL:https://www.portland.gov/parks/events/2026/4/3/pier-park-plant-pals-ea
  rth-month-event
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260403T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260403T100000
+UID:1d47b8230a107eca89a4a7fa5e7276a2@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/4/3/cloud-forest-washington
+ -park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -503,7 +520,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join Johnson Creek Watershed Council in the Back 5 at Leach Bo
  tanical Garden for a morning of land tending and appreciation.
 LOCATION:Leach Botanical Garden main entrance 6704 SE 122nd Avenue Portlan
- d\n                          \, OR\n                           97236 Get D
+ d\n                          \, OR\n                           97236 Get d
  irections More about this location
 URL:https://www.portland.gov/parks/nas/events/2026/4/8/leach-botanical-gar
  den-stewardship-event
@@ -533,7 +550,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join the Friends of Laurelhurst Park and PP&R to celebrate Ear
  th Month with gardening and land care activities!
 LOCATION:Laurelhurst Park\, north entrance 3600 SE Ankeny St Portland\n   
-                        \, OR\n                           97214 Get Directi
+                        \, OR\n                           97214 Get directi
  ons More about this location
 URL:https://www.portland.gov/parks/events/2026/4/8/earth-month-volunteer-d
  ay-laurelhurst-park
@@ -551,6 +568,22 @@ DESCRIPTION:Help spruce up Portland's original nature patch\, completed in
 LOCATION:Alberta Park
 URL:https://www.portland.gov/parks/nature/events/2026/4/10/alberta-nature-
  patch-stewardship-party
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260410T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260410T100000
+UID:73f5b8031e4bfb2cee2d2ed2fa536a05@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/4/10/cloud-forest-washingto
+ n-park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -590,10 +623,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2025/Wilkes-Pollinator-Patch.jpg?itok=kgvrcqz7
 DESCRIPTION:Join us for Earth Month to help revive the pollinator patch an
  d increase biodiversity at Wilkes Park!
-LOCATION:Wilkes Park Label: Park Park Location or Entrance 3655 NE 154th A
- venue Portland\, OR 97230 Get Directions Wilkes Park main entrance 3655 NE
+LOCATION:Wilkes Park Label: Park Park location or entrance 3655 NE 154th A
+ venue Portland\, OR 97230 Get directions Wilkes Park main entrance 3655 NE
   154th Avenue Portland\n                          \, OR\n                 
-           97230 Get Directions More about this location
+           97230 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/4/14/earth-month-wilkes-par
  k-pollinator-patch
 X-SOURCE:Portland Volunteer Events
@@ -619,10 +652,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2020-04/north-powellhurst-park.jpg?itok=MSaFxxlR
 DESCRIPTION:Join PP&R for a spring stewardship event to help with invasive
   weed removal!
-LOCATION:North Powellhurst Park Label: Park Park Location or Entrance SE 1
- 35th Avenue and Main Street Portland\, OR 97266 Get Directions North Powel
+LOCATION:North Powellhurst Park Label: Park Park location or entrance SE 1
+ 35th Avenue and Main Street Portland\, OR 97266 Get directions North Powel
  lhurst Park main entrance SE 135th Avenue and Main Street Portland\n      
-                     \, OR\n                           97266 Get Directions
+                     \, OR\n                           97266 Get directions
   More about this location
 URL:https://www.portland.gov/parks/events/2026/4/15/north-powellhurst-park
  -what-worlds-weeds
@@ -651,13 +684,29 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2024/luuwitview_planningforparks.jpg?itok=b48iOXsx
 DESCRIPTION:Join us for Earth Month to help with gardening tasks at Luuwit
   View Park!
-LOCATION:Luuwit View Park Label: Park Park Location or Entrance NE 127th A
- venue and NE Fremont Street Portland\, OR 97230 Get Directions Luuwit View
+LOCATION:Luuwit View Park Label: Park Park location or entrance NE 127th A
+ venue and NE Fremont Street Portland\, OR 97230 Get directions Luuwit View
   Park main entrance NE 127th Avenue and NE Fremont Street Portland\n      
-                     \, OR\n                           97230 Get Directions
+                     \, OR\n                           97230 Get directions
   More about this location
 URL:https://www.portland.gov/parks/events/2026/4/16/earth-month-volunteer-
  day-luuwit-view-park
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260417T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260417T100000
+UID:3ca9bb2d61e1353e1866281326196741@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/4/17/cloud-forest-washingto
+ n-park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -752,10 +801,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  EjUI
 DESCRIPTION:Join us for Earth Month to help care for native plants and pol
  linator habitat at Hazeltine Park!
-LOCATION:Hazeltine Park Label: Park Park Location or Entrance 5416 SE Flav
- el Drive Portland\, OR 97206 Get Directions Hazeltine Park main entrance 5
+LOCATION:Hazeltine Park Label: Park Park location or entrance 5416 SE Flav
+ el Drive Portland\, OR 97206 Get directions Hazeltine Park main entrance 5
  416 SE Flavel Drive Portland\n                          \, OR\n           
-                 97206 Get Directions More about this location
+                 97206 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/4/22/nurture-nature-hazelti
  ne-park-earth-day-event
 X-SOURCE:Portland Volunteer Events
@@ -771,13 +820,29 @@ DESCRIPTION:Join us for Earth Month at Errol Heights Park to help prepare
  garden beds for spring blooms!
 LOCATION:Errol Heights Community Garden main entrance 4841 SE Tenino Court
   Portland\n                          \, OR\n                           972
- 06 Get Directions More about this location Errol Heights Park Label: Park 
- Park Location or Entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
- 7206 Get Directions Errol Heights Park main entrance SE 52nd Avenue and Te
+ 06 Get directions More about this location Errol Heights Park Label: Park 
+ Park location or entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
+ 7206 Get directions Errol Heights Park main entrance SE 52nd Avenue and Te
  nino Street Portland\n                          \, OR\n                   
-         97206 Get Directions More about this location
+         97206 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/4/22/earth-day-tending-time
  -errol-heights-park
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260424T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260424T100000
+UID:ba17f49ce6f9a7a5796f6a6b894bfc1e@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/4/24/cloud-forest-washingto
+ n-park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -804,7 +869,7 @@ DESCRIPTION:Please join Portland Parks & Recreation\, Friends of Trees\, a
  s!
 LOCATION:Wilkes Headwaters Property main entrance NE 154th Street and NE F
  remont Street Portland\n                          \, OR\n                 
-           97230 Get Directions More about this location
+           97230 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/4/25/wilkes-creek-headwater
  s-mulching-event
 X-SOURCE:Portland Volunteer Events
@@ -840,13 +905,29 @@ DTSTART;TZID=PDT;VALUE=DATE-TIME:20260501T100000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260501T100000
 UID:c433887bca6880a74852a1ac9f03d7b0@portland.gov
 DESCRIPTION:Join us to keep Pier Park vibrant!
-LOCATION:Pier Park Label: Park Park Location or Entrance N Lombard Street 
- and Bruce Avenue Portland\, OR 97203 Get Directions Pier Park main entranc
+LOCATION:Pier Park Label: Park Park location or entrance N Lombard Street 
+ and Bruce Avenue Portland\, OR 97203 Get directions Pier Park main entranc
  e N Lombard Street and Bruce Avenue Portland\n                          \,
-  OR\n                           97203 Get Directions More about this locat
+  OR\n                           97203 Get directions More about this locat
  ion
 URL:https://www.portland.gov/parks/events/2026/5/1/pier-park-stewardship-d
  ay
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260501T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260501T100000
+UID:124a38ac8a324c0ec22d50fda88887bc@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/5/1/cloud-forest-washington
+ -park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -897,10 +978,10 @@ DTEND;TZID=PDT;VALUE=DATE-TIME:20260506T090000
 UID:5199f1f36b8f4a2836948be84666a9d9@portland.gov
 DESCRIPTION:Join the Garden of Weedin' and help us keep Parklane Park in b
  loom!
-LOCATION:Parklane Park Label: Park Park Location or Entrance SE 155th Aven
- ue and Main Street Portland\, OR 97233 Get Directions Parklane Park main e
+LOCATION:Parklane Park Label: Park Park location or entrance SE 155th Aven
+ ue and Main Street Portland\, OR 97233 Get directions Parklane Park main e
  ntrance SE 155th Avenue and Main Street Portland\n                        
-   \, OR\n                           97233 Get Directions More about this l
+   \, OR\n                           97233 Get directions More about this l
  ocation
 URL:https://www.portland.gov/parks/events/2026/5/6/parklane-park-garden-we
  edin
@@ -917,11 +998,11 @@ DESCRIPTION:Join us for gardening activities and projects to help keep Err
  ol Heights Park vibrant and in bloom!
 LOCATION:Errol Heights Community Garden main entrance 4841 SE Tenino Court
   Portland\n                          \, OR\n                           972
- 06 Get Directions More about this location Errol Heights Park Label: Park 
- Park Location or Entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
- 7206 Get Directions Errol Heights Park main entrance SE 52nd Avenue and Te
+ 06 Get directions More about this location Errol Heights Park Label: Park 
+ Park location or entrance SE 52nd Avenue and Tenino Street Portland\, OR 9
+ 7206 Get directions Errol Heights Park main entrance SE 52nd Avenue and Te
  nino Street Portland\n                          \, OR\n                   
-         97206 Get Directions More about this location
+         97206 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/5/6/errol-heights-park-tend
  ing-time
 X-SOURCE:Portland Volunteer Events
@@ -935,10 +1016,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2025/Mill-Park-summer-2025--34-.JPG?itok=Dt9AT1j3
 DESCRIPTION:Join us for gardening activities and to help keep Mill Park in
   bloom!
-LOCATION:Mill Park Label: Park Park Location or Entrance 1949 SE 122nd Ave
-  Portland\, OR 97216 Get Directions Mill Park main entrance 1949 SE 122nd 
+LOCATION:Mill Park Label: Park Park location or entrance 1949 SE 122nd Ave
+  Portland\, OR 97216 Get directions Mill Park main entrance 1949 SE 122nd 
  Ave Portland\n                          \, OR\n                           
- 97216 Get Directions More about this location
+ 97216 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/5/7/mill-park-volunteer-day
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
@@ -951,13 +1032,29 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2026/Kinnikinnick.jpg?itok=5TYGBCGw
 DESCRIPTION:Join us to help maintain the park sign garden bed and keep pol
  linator-friendly plants blooming!
-LOCATION:Argay Park Label: Park Park Location or Entrance NE 141st Avenue 
- and Failing Street Portland\, OR 97230 Get Directions Argay Park main entr
+LOCATION:Argay Park Label: Park Park location or entrance NE 141st Avenue 
+ and Failing Street Portland\, OR 97230 Get directions Argay Park main entr
  ance NE 141st Avenue and Failing Street Portland\n                        
-   \, OR\n                           97230 Get Directions More about this l
+   \, OR\n                           97230 Get directions More about this l
  ocation
 URL:https://www.portland.gov/parks/events/2026/5/7/argay-park-volunteer-da
  y
+X-SOURCE:Portland Volunteer Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Forest Washington Park Volunteer Event
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260508T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260508T100000
+UID:0b4a5eadfb963c5f34bb3c7dabd2e6cd@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2025/Spring25A.jpg?itok=1G31bBX0
+DESCRIPTION:Join Portland Parks & Recreation in the Cloud Forest at Washin
+ gton Park!
+LOCATION:Oregon Holocaust Memorial main entrance SW Washington Way and Wri
+ ght Avenue Portland\n                          \, OR\n                    
+        97204 Get directions More about this location Washington Park
+URL:https://www.portland.gov/parks/events/2026/5/8/cloud-forest-washington
+ -park-volunteer-event
 X-SOURCE:Portland Volunteer Events
 END:VEVENT
 BEGIN:VEVENT
@@ -982,10 +1079,10 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
  les/facebook/public/2025/Wilkes-Pollinator-Patch.jpg?itok=kgvrcqz7
 DESCRIPTION:Join us to help revive the pollinator patch and increase biodi
  versity at Wilkes Park!
-LOCATION:Wilkes Park Label: Park Park Location or Entrance 3655 NE 154th A
- venue Portland\, OR 97230 Get Directions Wilkes Park main entrance 3655 NE
+LOCATION:Wilkes Park Label: Park Park location or entrance 3655 NE 154th A
+ venue Portland\, OR 97230 Get directions Wilkes Park main entrance 3655 NE
   154th Avenue Portland\n                          \, OR\n                 
-           97230 Get Directions More about this location
+           97230 Get directions More about this location
 URL:https://www.portland.gov/parks/events/2026/5/12/wilkes-park-pollinator
  -patch-volunteer-day
 X-SOURCE:Portland Volunteer Events
@@ -1013,7 +1110,7 @@ ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
 DESCRIPTION:Join Johnson Creek Watershed Council in the Back 5 at Leach Bo
  tanical Garden for a morning of land tending and appreciation.
 LOCATION:Leach Botanical Garden main entrance 6704 SE 122nd Avenue Portlan
- d\n                          \, OR\n                           97236 Get D
+ d\n                          \, OR\n                           97236 Get d
  irections More about this location
 URL:https://www.portland.gov/parks/nas/events/2026/5/13/leach-botanical-ga
  rden-stewardship-event

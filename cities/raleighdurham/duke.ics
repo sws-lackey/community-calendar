@@ -341,569 +341,6 @@ X-BEDEWORK-THUMB-IMAGE:/public/Images/Pratt March Madness pools flyer resi
 END:VEVENT
 BEGIN:VEVENT
 
-RECURRENCE-ID;TZID=America/New_York:20260312T130000Z
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Workshop/Short Course
-CATEGORIES:Research
-CATEGORIES:Open House
-CATEGORIES:Main
-CATEGORIES:Student
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260127T165306Z
-DESCRIPTION:We're hosting URS office hour sessions where you can feel free
-  to drop in with any questions regarding undergraduate research\, our awa
- rds\, resources\, etc. No appointment necessary! We'll see you then.\n\nH
- ere are the event details:\nLocation: Bostock\, Project Room 8\n\nMondays
-  12:00-2:00 pm (URS Staff Office Hours)\nTuesdays 5:00-7:00 pm (T-STAR Am
- bassador Office Hours)\nWednesdays 7:00-9:00 pm (T-STAR Ambassador Office
-  Hours)\nThursdays 9:00-11:00 am (URS Staff Office Hours)
-DURATION:PT2H
-DTSTAMP:20260127T165610Z
-DTSTART;TZID=America/New_York:20260312T090000
-LAST-MODIFIED:20260127T165610Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:URS Staff Office Hours
-UID:CAL-8a00eca5-9af98aae-019c-005f88e1-0000591bdemobedework@mysite.edu
-URL:https://undergraduateresearch.duke.edu/events
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
- ilities/Student
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Open House:/user/public-user
- /Other/Open House
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
- public-user/Other/Workshop_Short_Course
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=ursoffice@duke.edu:URS O
- ffice
-X-BEDEWORK-LOCATION:Bostock Library\; Project Room 8
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:URS Office Hours\; Project Room 8 in Bostock
-X-BEDEWORK-SUBMITTEDBY:sek59 for Undergraduate Research Support Office (ag
- rp__ArtsandSciences_UndergraduateResearchSupportOffice)
-X-BEDEWORK-IMAGE:/public/Images/OH_duke calendar_20260127045306PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/OH_duke calendar_20260127045306PM-th
- umb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260312T140000Z
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20241218T210432Z
-DESCRIPTION:Every Thursday at 10 a.m.\, add some movement to your mindfuln
- ess practice with Mindful Movement. The 15-minute Zoom sessions will comb
- ine movement\, breathwork\, visualization and intention to create a movin
- g meditation practice that enhances relaxation and improves well-being. D
- rop in for an enhanced mindfulness experience through a focus on mobiliza
- tion.
-DURATION:PT15M
-DTSTAMP:20260114T025325Z
-DTSTART;TZID=America/New_York:20260312T100000
-LAST-MODIFIED:20260114T025325Z
-LOCATION;X-BEDEWORK-UID=18832e99-1f059a59-011f-1577b9bf-000000a3:Webcast
-STATUS:CONFIRMED
-SUMMARY:Mindful Movement
-UID:CAL-8a000483-92c3adf6-0193-db962eeb-00005130demobedework@mysite.edu
-URL:https://hr.duke.edu/wellness/webinars/mindfulness/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=anna.batsakes@duke.edu:A
- nna Batsakes
-X-BEDEWORK-SPEAKER:Anna Batsakes
-X-BEDEWORK-DUKE-SERIES:Mindful Movement
-X-BEDEWORK-DUKE-WEBCAST:https://duke.zoom.us/j/3606067139
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Mindful Movement Logo
-X-BEDEWORK-SUBMITTEDBY:asr71 for Live for Life (LFL) (agrp_HumanResources_
- LiveforLife)
-X-BEDEWORK-IMAGE:/public/Images/Mindful Movement Calendar Image_2024121809
- 0432PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Mindful Movement Calendar Image_2024
- 1218090432PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260312T140000Z
-CATEGORIES:Utilities
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251217T185058Z
-DESCRIPTION:The myRESEARCHnavigators team provides voluntary\, group-based
-  research staff onboardings as an introduction to the research enterprise
-  at Duke. It is intended for all University research and laboratory staff
-  in non-clinical research positions.\n\nThe Navigators will provide a tai
- lored overview of Duke resources and services related to planning\, manag
- ing\, and conducting research. Some sessions are geared to those working 
- in bench/basic sciences\, and others are geared to those working with hum
- an participants and their data.\n\nClick the "More Event Information" but
- ton below to register.
-DURATION:PT2H
-DTSTAMP:20251217T202109Z
-DTSTART;TZID=America/New_York:20260312T100000
-LAST-MODIFIED:20251217T202109Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Research Staff Onboarding
-UID:CAL-8a00eca5-9af98aae-019b-2da6b442-00005c60demobedework@mysite.edu
-URL:https://redcap.duke.edu/redcap/surveys/?s=34AP4HKPMTKWHJPA&service_off
- ering=5
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=myresearchnavigators@duk
- e.edu:myRESEARCHnavigators
-X-BEDEWORK-LOCATION:Zoom (link to be provided upon registration)
-X-BEDEWORK-SUBMITTEDBY:np81 for Office for Research and Innovation (agrp_o
- fficeresearch)
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20241217T184624Z
-DESCRIPTION:Health Assessment is a free\, confidential health screening pr
- ovided through Duke benefits. It includes total cholesterol\, blood press
- ure\, blood glucose\, BMI\, waist circumference height\, weight and body 
- mass index measurements. Additionally\, there is a goal setting and refer
- ral session with a nurse\, dietitian\, or fitness specialist. Many partic
- ipants find the coaching session helps them get started making lifestyle 
- changes and connects them to LIVE FOR LIFE and community resources to sup
- port them. Health Assessments are available to all active Duke employees.
- 
-DURATION:PT6H
-DTSTAMP:20260116T214521Z
-DTSTART;TZID=America/New_York:20260312T100000
-LAST-MODIFIED:20260116T214521Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Mobile Health Assessment
-UID:CAL-8a00eca5-9af98aae-019b-c8c52529-00000ea2demobedework@mysite.edu
-URL:https://hr.duke.edu/wellness/health-assessments/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=jessica.covington@duke.e
- du:Jessica Bailey
-X-BEDEWORK-SPEAKER:LIVE FOR LIFE
-X-BEDEWORK-DUKE-SERIES:Health Assessments
-X-BEDEWORK-LOCATION:DRH 2nd Floor Auditorium Hallway
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:LIVE FOR LIFE Logo
-X-BEDEWORK-SUBMITTEDBY:asr71 for Live for Life (LFL) (agrp_HumanResources_
- LiveforLife)
-X-BEDEWORK-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064625PM.
- png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064
- 625PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Ethics
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Training
-CATEGORIES:Workshop/Short Course
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20220207T141650Z
-DESCRIPTION:<b>REGISTRATION</b>: <a href="https://duke.libcal.com/calendar
- /events/faculty-citational-justice" target="_blank">Click Here</a>\n\n<i>
- NOTE: Please register ahead of the event! There are 25 seats available. <
- /i>\n\nAttending this event fulfills the <b>RCR-200</b> requirement for F
- aculty and Staff. \n<b>This event is intended for FACULTY ONLY and does n
- ot fulfill any GS requirements</b>\n\nCitations are the currency of tenur
- e in most academic disciplines\, but there are demonstrated inequities an
- d biases within the practices and rates of citation. Women and people of 
- color are historically underrepresented in academia\, and their published
-  work is cited at lower rates than white men. Publications from the globa
- l south are generally cited less than those from western nations. In this
-  session\, we'll discuss the common biases reflected in citation practice
- s\, what efforts are being made to address them\, and how faculty can str
- ive to be more equitable and inclusive in their citational practice.\n\nW
- e invite <b>faculty and research staff</b> to join Duke librarians for an
-  interactive introduction to citational justice and discussion of concept
- s and practice for Responsible Conduct of Research credit. Breakout room 
- discussions of a citation diversity statement will be facilitated by a li
- brarian.\n\n___\nAre you a <b>graduate student</b> interested in learning
-  about citational justice and getting graduate student RCR credit? Sign u
- p for one of the graduate student sessions!\n\n<b>February 26\, 2026 1-3p
- m</b>: <a href="https://duke.libcal.com/calendar/events/grad-citational-j
- ustice-1" target="_blank">Click Here</a>\n<b>March 13\, 2026 1-3pm</b>: <
- a href="https://duke.libcal.com/calendar/events/grad-citational-justice-2
- " target="_blank">Click Here</a>
-DURATION:PT1H30M
-DTSTAMP:20260127T192227Z
-DTSTART;TZID=America/New_York:20260312T100000
-LAST-MODIFIED:20260127T192227Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Citational Justice and Challenging Citation Bias in Scholarly Publ
- ishing [Faculty RCR Forum]
-UID:CAL-8a00eca5-9af98aae-019c-00e40ead-00006cc5demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ethics:/user/public-user/Top
- ics/Ethics
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Training:/user/public-user/O
- ther/Training
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
- public-user/Other/Workshop_Short_Course
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=danettep@duke.edu:Danett
- e Pachtner
-X-BEDEWORK-LOCATION:Zoom
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
- Sciences,/principals/users/agrp_Libraries,/principals/users/agrp_officere
- search,/principals/users/agrp_Agrp_OfficeofResearchAdministration,/princi
- pals/users/agrp_OfficeofResearchSupport,/principals/users/agrp_SchoolofMe
- dicine,/principals/users/agrp_SchoolofNursing,":Arts &amp\;amp\;amp\;amp\
- ; Sciences (A&amp\;amp\;amp\;amp\;S)\,Libraries\,Office for Research and 
- Innovation\,Office of Research Administration (ORA)\,Office of Research S
- upport (ORS)\,School of Medicine (SOM)\,School of Nursing (SON)
-X-BEDEWORK-SUBMITTEDBY:ec141 for Duke Office of Scientific Integrity (DOSI
- ) (agrp_provost_DOSI)
-X-BEDEWORK-SPEAKER:Duke Libraries Staff
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Artificial Intelligence
-CATEGORIES:Engineering
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Technology
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a009144-7fb64372-017f-f2fa77e0-000007ea:Runton\, R
- ajashi
-CREATED:20260303T170304Z
-DESCRIPTION:The NSF AI Institute for Edge Computing (Athena) is pleased to
-  present the next in the Seminar Series by Inhee Lee\, titled "The World'
- s Smallest Computer and Its Applications" on Thursday\, March 12\, 2026\,
-  from 10-11am EST at Duke University Wilkinson 419 and via Zoom. Refreshm
- ents will be served.
-DURATION:PT1H
-DTSTAMP:20260303T170304Z
-DTSTART;TZID=America/New_York:20260312T100000
-LAST-MODIFIED:20260303T170304Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:The World’s Smallest Computer and Its Applications
-UID:CAL-8a003294-9c52b03d-019c-b4a73cf2-0000221ademobedework@mysite.edu
-URL:https://duke.zoom.us/meeting/register/zVucQKHDRqC_kOgmM77kRg
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
- r/public-user/Topics/Artificial Intelligence
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
- r/Topics/Engineering
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
- /Topics/Technology
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_PrattSc
- hool_ECE,":Electrical and Computer Engineering (ECE)
-X-BEDEWORK-SPEAKER:Inhee Lee
-X-BEDEWORK-DUKE-SERIES:Athena Seminar Series
-X-BEDEWORK-LOCATION:wilkinson 419
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:51
-X-BEDEWORK-IMAGE-X2:530
-X-BEDEWORK-IMAGE-Y2:404.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:Inhee Lee
-X-BEDEWORK-SUBMITTEDBY:rr315 for Pratt School of Engineering (agrp_PrattSc
- hool)
-X-BEDEWORK-IMAGE:/public/Images/Picture1_20260303050304PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Picture1_20260303050304PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Lecture/Talk
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a018f4d-7cccaec8-017d-0b36953b-00003f47:Lefebvre\,
-  Cathy
-X-BEDEWORK-COST:No cost\, but if you are interested in attending this even
- t contact Cathy Lefebvre for password
-CREATED:20260226T183204Z
-DESCRIPTION:Sponsored by the Hans Lowenbach\, MD Memorial Endowment Fund\n
- \nMatthew K. Nock\, Ph.D. is the Edgar Pierce Professor of Psychology at 
- Harvard University\, serving as the Chair of the Department of Psychology
-  from 2019-2025. He also holds appointments as a Professor of Epidemiolog
- y at the Harvard T.H. Chan School of Public Health and as a Research Scie
- ntist at Mass General Hospital and Boston Children's Hospital. Professor 
- Nock received his Ph.D. in psychology from Yale University (2003) and com
- pleted his clinical internship at Bellevue Hospital and the New York Univ
- ersity Child Study Center (2003)\, joining Harvard's faculty that same ye
- ar. His research is aimed at advancing the understanding why people behav
- e in ways that are harmful to themselves\, with an emphasis on suicide an
- d other forms of self-harm. His research is multi-disciplinary in nature 
- and uses a range of methodological approaches (e.g.\, epidemiologic surve
- ys\, laboratory-based experiments\, clinic-based studies\, digital monito
- ring via smartphones and biosensors\, and web- and social-media-based stu
- dies) to better understand how these behaviors develop\, how to predict t
- hem\, and how to prevent their occurrence. This work is funded by grants 
- from the US National Institutes of Health\, US Department of Defense\, US
-  Army\, and private foundations and has been published in over 400 scient
- ific papers. Nock's work has been cited by other researchers >100\,000 ti
- mes\, placing him on Clarivate's list of the most highly cited researcher
- s in the fields of psychology and psychiatry (top 0.1%) each year since 2
- 016. The impact of Nock's work has been recognized through the receipt of
-  a MacArthur Fellowship (aka\, "Genius Award") as well as via career awar
- ds from the American Psychological Association\, the Association for Beha
- vioral and Cognitive Therapies\, and the American Association of Suicidol
- ogy. At Harvard\, Professor Nock has taught courses on statistics\, resea
- rch methods\, self-destructive behaviors\, and developmental psychopathol
- ogy-for which he has received teaching and mentoring awards including the
-  Roslyn Abramson Teaching Award\, the Petra Shattuck Prize\, and the Lawr
- ence H. Cohen Outstanding Mentor Award.
-DURATION:PT1H
-DTSTAMP:20260226T183341Z
-DTSTART;TZID=America/New_York:20260312T120000
-LAST-MODIFIED:20260226T183341Z
-LOCATION;X-BEDEWORK-UID=18832e99-2baa176e-012b-ac91767b-000004ea:Online
-STATUS:CONFIRMED
-SUMMARY:Using New Technologies to Improve the Understanding\, Prediction\,
-  and Prevention of Suicidal Behavior
-UID:CAL-8a003294-9c52b03d-019c-9b38ebd0-000027bcdemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Cli
- nDep_Neurology,/principals/users/agrp_SchoolofMedicine,":Department of Ne
- urology\,School of Medicine (SOM)
-X-BEDEWORK-SPEAKER:Matthew K. Nock\, PhD
-X-BEDEWORK-DUKE-SERIES:Department of Psychiatry & Behavioral Sciences Gran
- d Rounds
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Matthew K. Nock\, PhD
-X-BEDEWORK-SUBMITTEDBY:lefeb002 for Department of Psychiatry and Behaviora
- l Sciences (agrp_ClinDep_Psychiatry)
-X-BEDEWORK-IMAGE:/public/Images/Calendar photo_Nock_3.12.26_20260226063204
- PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Calendar photo_Nock_3.12.26_20260226
- 063204PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260312T120000
-CATEGORIES:Medicine
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Lecture/Talk
-CATEGORIES:Meeting
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251217T212933Z
-DESCRIPTION:Critical Care Grand Rounds occurs via Zoom on Thursdays from 1
- 2:00 pm - 1:00 pm EST\, and is led by Drs. Vijay Krishnamoorthy and Nazis
- h Hashmi.
-DURATION:PT1H
-DTSTAMP:20260310T193855Z
-DTSTART;TZID=America/New_York:20260312T120000
-LAST-MODIFIED:20260310T193855Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Critical Care Grand Rounds - Cancelled
-UID:CAL-8a00eca5-9af98aae-019b-2e37e4f6-0000259cdemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
- her/Meeting
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
- opics/Medicine
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-DUKE-SERIES:Critical Care Grand Rounds
-X-BEDEWORK-LOCATION:Via Zoom
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:600
-X-BEDEWORK-IMAGE-Y2:400
-X-BEDEWORK-IMAGE-CROP-WIDTH:600
-X-BEDEWORK-IMAGE-CROP-HEIGHT:400
-X-BEDEWORK-IMAGE-ALT-TEXT:Critial Care Grand Rounds
-X-BEDEWORK-SUBMITTEDBY:cgkeith for Department of Anesthesiology (agrp_SOM_
- ClinDep_Anesthesiology)
-X-BEDEWORK-IMAGE:/public/Images/CCM Grand Rounds Calendar Graphic_20251217
- 092933PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/CCM Grand Rounds Calendar Graphic_20
- 251217092933PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a008fe4-7eb28668-017e-ed1a0778-00001353:Adkins\, J
- udy
-CREATED:20260211T160322Z
-DESCRIPTION:Abstract: Influenza and other directly transmitted pathogens e
- xist on a landscape that is defined by the immune status of human hosts a
- nd the contact patterns that allow the pathogen to move between those hos
- ts. The Fluscape study\, which ran between 2009-2020\, was an ambitious e
- ffort to understand the immune landscape of influenza in Southern China. 
- In this talk I will cover key results from the Fluscape study that reveal
-  the rich and dynamics nature of the landscapes on which flu transmits\, 
- and the complex changes in immunity and behavior that drive them over a l
- ifecourse.\n\nBio: Justin Lessler is a faculty in the Department of Epide
- miology at UNC Chapel Hill. He specializes in researching the dynamics an
- d control of infectious disease\, with particular interest in SARS-CoV-2\
- , influenza\, cholera and dengue. Justin works on the development and app
- lication of statistics\, dynamic models and novel study designs to better
-  understand and control infectious disease.\n\nZoom: https://duke.zoom.us
- /j/98728618239?jst=1\nMeeting ID: 987 2861 8239\n\nThis seminar series is
-  organized by the Multiscale Immune Systems Modeling (MISM) Center of Exc
- ellence\, funded by NIAID/NIH (U54AI191253).
-DURATION:PT1H
-DTSTAMP:20260211T190508Z
-DTSTART;TZID=America/New_York:20260312T140000
-LAST-MODIFIED:20260211T190508Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Probing Immune Landscapes Across Scales: Insights from the Fluscap
- e Study
-UID:CAL-8a00eca5-9af98aae-019c-4d7162b6-00002c13demobedework@mysite.edu
-URL:https://immunescale.org/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Ban
- dB_BERD,/principals/users/agrp_SchoolofMedicine_BiostatisticsandBioinform
- atics,/principals/users/agrp_CenterforAIDSResearch,/principals/users/agrp
- _SOM_ClinDep_Surgery,/principals/users/agrp_SchoolofMedicine,":BERD Core\
- ,Biostatistics and Bioinformatics\,Center for AIDS Research (CFAR)\,Depar
- tment of Surgery\,School of Medicine (SOM)
-X-BEDEWORK-SPEAKER:Justin Lessler
-X-BEDEWORK-DUKE-SERIES:MISM Seminar Series
-X-BEDEWORK-LOCATION:Hock Plaza- Room #214 CRTP Classroom
-X-BEDEWORK-IMAGE-X1:7
-X-BEDEWORK-IMAGE-Y1:65
-X-BEDEWORK-IMAGE-X2:537
-X-BEDEWORK-IMAGE-Y2:418.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:Justin Lessler
-X-BEDEWORK-SUBMITTEDBY:jaa94 for Multiscale Immune Systems Modeling (MISM)
-  (agrp_Multiscale Immune Systems Modeling (MISM))
-X-BEDEWORK-IMAGE:/public/Images/Lessler.Justin MISM Seminar 2026.03.12_202
- 60211040322PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Lessler.Justin MISM Seminar 2026.03.
- 12_20260211040322PM-thumb.png
-X-BEDEWORK-DUKE-WEBCAST:https://duke.zoom.us/j/98728618239?jst=1
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260312T210000Z
-CATEGORIES:Arts
-CATEGORIES:Utilities
-CATEGORIES:Concert/Music
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20250815T144936Z
-DESCRIPTION:Each weekday at 5:00 p.m.\, a Duke Chapel carillonneur plays a
-  fifteen-minute recital on the bells in the Duke Chapel tower. The recita
- l begins with an opening excerpt of music\, then a bell tolls five times 
- to mark the hour\, and then the carillonneur plays a selection of hymns a
- nd other songs appropriate for the day. \n\nListen to the recital anywher
- e outside on West Campus or online via the livestream on the Duke Chapel 
- Facebook page: https://www.facebook.com/DukeChapel.
-DURATION:PT15M
-DTSTAMP:20250815T144936Z
-DTSTART;TZID=America/New_York:20260312T170000
-LAST-MODIFIED:20250815T144936Z
-LOCATION;X-BEDEWORK-UID=8a08708a-3a0814e2-013a-9334d38d-00000f2f:Duke Chap
- el Quad
-STATUS:CONFIRMED
-SUMMARY:Weekday Carillon Recital
-UID:CAL-8a00ec8b-979413b9-0198-ae3529db-00004d83demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
- ser/Arts/Concert_Music
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-SPEAKER:Duke Chapel Carillonneurs
-X-BEDEWORK-DUKE-WEBCAST:https://www.facebook.com/DukeChapel
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
-  Chapel
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:2000
-X-BEDEWORK-IMAGE-Y2:1333.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:2000
-X-BEDEWORK-IMAGE-CROP-HEIGHT:1333.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
- the right. The image shows a close-up\, eye-level shot of the top of Duke
-  Chapel's tower surrounded by green trees against a blue\, cloudy sky. Th
- e text on the right side of the image reads: "Weekday Carillon Recital" a
- nd "Duke University Chapel." Below the text is the Duke University Chapel
-  logo.
-X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
-X-BEDEWORK-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081502493
- 6PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081
- 5024936PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
 CATEGORIES:Medicine
 CATEGORIES:Lectures/Conferences
 CATEGORIES:Utilities
@@ -2280,17 +1717,18 @@ CATEGORIES:Main
 CONTACT;X-BEDEWORK-UID=8a0292fd-8d13410f-018e-af7971e0-00003842:Riddle\, H
  aley
 CREATED:20260223T174048Z
-DESCRIPTION:Global Learning Objectives:  \nReview and discuss diagnostic a
- nd treatment plans for diseases seen in Infectious Diseases.  Discuss cli
- nical research findings and advances in therapy as appropriate for the pr
- actice of Infectious Diseases.  Present and discuss case studies\, protoc
- ols\, and diagnostic and treatment guidelines as appropriate to the pract
- ice of Infectious Diseases.\nhttps://duke.zoom.us/j/92640504548?pwd=nRQFL
- dXBaAUNYava3VgmzUWEJHbh0w.1\nWebinar ID 926 4050 4548\nPasscode 909276
+DESCRIPTION:NO CME OR MOC credit awarded for today's session\n\nGlobal Lea
+ rning Objectives:  \nReview and discuss diagnostic and treatment plans fo
+ r diseases seen in Infectious Diseases.  Discuss clinical research findin
+ gs and advances in therapy as appropriate for the practice of Infectious 
+ Diseases.  Present and discuss case studies\, protocols\, and diagnostic 
+ and treatment guidelines as appropriate to the practice of Infectious Dis
+ eases.\nhttps://duke.zoom.us/j/92640504548?pwd=nRQFLdXBaAUNYava3VgmzUWEJH
+ bh0w.1\nWebinar ID 926 4050 4548\nPasscode 909276
 DURATION:PT1H
-DTSTAMP:20260223T174048Z
+DTSTAMP:20260313T160529Z
 DTSTART;TZID=America/New_York:20260316T160000
-LAST-MODIFIED:20260223T174048Z
+LAST-MODIFIED:20260313T160529Z
 LOCATION;X-BEDEWORK-UID=18832e99-289149bc-0128-b5bad07b-000000a4:Hanes Hou
  se 131
 STATUS:CONFIRMED
@@ -2309,11 +1747,11 @@ X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Cli
 X-BEDEWORK-SPEAKER:Dr. Jacqueline Hodges
 X-BEDEWORK-DUKE-SERIES:ID Grand Rounds 2026 - 2027
 X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
-X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
 X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
 X-BEDEWORK-IMAGE-ALT-TEXT:Dr. Jacqueline Hodges presents ID Grand Rounds o
  n 3/16 at 4pm
 X-BEDEWORK-SUBMITTEDBY:hr15 for Division of Infectious Diseases (agrp_SOM_
@@ -2375,6 +1813,523 @@ X-BEDEWORK-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081502452
  2PM.jpg
 X-BEDEWORK-THUMB-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081
  5024522PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Meeting
+CATEGORIES:Research
+CATEGORIES:Technology
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20231206T165852Z
+DESCRIPTION:Title of Presentation: "Bifidobacterium Longum Subspecies Infa
+ ntis\; The Bacterium That Wasn't There" \n\nThe Duke Department of Pediat
+ rics holds its weekly Grand Rounds lecture on Tuesday mornings from 8 to 
+ 9 a.m. | Lectures are delivered to an in-person audience in Conference Ro
+ om DHN 2002 as well as virtually via Zoom. Physicians who attend Grand Ro
+ unds are eligible to receive CME credit.
+DURATION:PT1H
+DTSTAMP:20260303T162100Z
+DTSTART;TZID=America/New_York:20260317T080000
+LAST-MODIFIED:20260303T162100Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Duke Pediatrics Grand Rounds – "Bifidobacterium Longum Subspecies 
+ Infantis\; The Bacterium That Wasn’t There"
+UID:CAL-8a003294-9c52b03d-019c-b480ba18-000020efdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
+ her/Meeting
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=christina.e.wilson@duke.
+ edu:Christina Wilson
+X-BEDEWORK-DUKE-SERIES:Duke Pediatrics Grand Rounds
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-ALT-TEXT:Grand Rounds Graphic
+X-BEDEWORK-SUBMITTEDBY:ccs87 for Department of Pediatrics (agrp_SOM_ClinDe
+ p_Pediatrics)
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-LOCATION:Conference Room DHN 2002
+X-BEDEWORK-IMAGE:/public/Images/Peds grand rounds-3_20250328034103PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Peds grand rounds-3_20250328034103PM
+ -thumb.png
+X-BEDEWORK-SPEAKER:J. Bruce German\, PhD
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260317T080000
+CATEGORIES:Medicine
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Conference/Symposium
+CATEGORIES:Meeting
+CATEGORIES:Research
+CATEGORIES:Main
+CATEGORIES:Webcast
+CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0185-31d0e0ba-0000106f:Ivey\, Jon
+ athan
+CREATED:20251218T001442Z
+DESCRIPTION:This weekly conference is held each Tuesday from 8-9 a.m. and 
+ includes case-based presentations on a wide variety of topics in hematolo
+ gy.\nIn general\, discussion will cover inpatient and outpatient problems
+ \, with an emphasis on including primary radiographic data\, clinical lab
+ oratory results and pathology specimens for review. Several recent articl
+ es relevant to the discussion will be presented with each case\, with an 
+ emphasis on recent research (clinical\, translational and basic).
+DURATION:PT1H
+DTSTAMP:20260305T220804Z
+DTSTART;TZID=America/New_York:20260317T080000
+LAST-MODIFIED:20260305T220804Z
+LOCATION;X-BEDEWORK-UID=c31fd1b0-2eef28ee-012f-3049ffc8-00001717:Duke Sout
+ h\, Room M224
+STATUS:CONFIRMED
+SUMMARY:Hematology Case Conference: “Meeting the Massive Demand for Benign
+  Heme Consults by Expanding Telemedicine”
+UID:CAL-8a00eca5-9af98aae-019b-2ecf1963-00003ba3demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Conference_Symposium:/user/p
+ ublic-user/Lectures_Conferences/Conference_Symposium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Webcast:/user/public-user/Ot
+ her/Webcast
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
+ her/Meeting
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Cli
+ nDep_Medicine,/principals/users/agrp_SchoolofMedicine,":Department of Med
+ icine\,School of Medicine (SOM)
+X-BEDEWORK-DUKE-SERIES:Duke Hematology Case Conference
+X-BEDEWORK-SUBMITTEDBY:ji12 for Division of Hematology (agrp_SOM_ClinDep_M
+ edicine_Div_Hematology)
+X-BEDEWORK-SPEAKER:Steven Fein\, MD\, MPH (HemeOnCall and Fem Infusion Cen
+ ters\, Founder CEO\; University of Pittsburgh Medical Center/ Weill Corne
+ l Medical Center\, Medical Director\, Hematologist\, Hematologist/Oncolog
+ ist)
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:1654.5
+X-BEDEWORK-IMAGE-Y2:1103
+X-BEDEWORK-IMAGE-CROP-WIDTH:1654.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1103
+X-BEDEWORK-IMAGE-ALT-TEXT:Heme Conference_3.17.26
+X-BEDEWORK-IMAGE:/public/Images/20260317 S Fein Guest Speaker Hematology C
+ ase Conference _20260305100804PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/20260317 S Fein Guest Speaker Hemato
+ logy Case Conference _20260305100804PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0182b3-870a191e-0187-75a628b9-00005530:Fabean\, B
+ rooke
+CREATED:20251204T204619Z
+DESCRIPTION:Benjamin Segal\, MD\n\nChair of Neurology \nDirector\, Neurosc
+ ience Research Institute \nCo-director\, Neurological Institute\n\n"Innat
+ e immune cell specialization in neuroinflammation: pathogenic IgM⁺ B cell
+ s and pro-regenerative neutrophils"\n\nThe Ohio State University Wexner M
+ edical Center\n\nHost: Mari Shinohara\, PhD
+DURATION:PT1H
+DTSTAMP:20260218T164147Z
+DTSTART;TZID=America/New_York:20260317T090000
+LAST-MODIFIED:20260218T164147Z
+LOCATION;X-BEDEWORK-UID=18832e99-2356b579-0123-579c10fa-00000054:Jones 143
+ 
+STATUS:CONFIRMED
+SUMMARY:Immunology Seminar Series - Benjamin Segal\, MD: "Innate immune ce
+ ll specialization in neuroinflammation: pathogenic IgM⁺ B cells and pro-r
+ egenerative neutrophils"
+UID:CAL-8a00ec9e-9a83ce7f-019a-eb1da357-00004fdddemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-SPEAKER:Benjamin Segal\, MD
+X-BEDEWORK-DUKE-SERIES:Immunology Seminar Series
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:1225.5
+X-BEDEWORK-IMAGE-Y2:817
+X-BEDEWORK-IMAGE-CROP-WIDTH:1225.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:817
+X-BEDEWORK-IMAGE-ALT-TEXT:immseminarseries
+X-BEDEWORK-SUBMITTEDBY:bnf13 for Duke Integrative Immunobiology (agrp_Duke
+  Integrative Immunobiology)
+X-BEDEWORK-IMAGE:/public/Images/IMMSeminarSeries.pic_20251204084619PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/IMMSeminarSeries.pic_20251204084619P
+ M-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Research
+CATEGORIES:Technology
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20251219T174657Z
+DESCRIPTION:In this workshop you will learn the basics of using Adobe Illu
+ strator\, the professional standard in vector graphics software for creat
+ ing diagrams and infographics. Many people avoid using it because of its 
+ steep learning curve\, but you will see that it is quite easy to combine 
+ simple shapes to create interesting and clear diagrams\, and to give all 
+ your work that professional edge. There are no prerequisites. This event 
+ is open to non-Duke participants.
+DURATION:PT2H
+DTSTAMP:20251219T174657Z
+DTSTART;TZID=America/New_York:20260317T100000
+LAST-MODIFIED:20251219T174657Z
+LOCATION;X-BEDEWORK-UID=18832e99-2baa176e-012b-ac91767b-000004ea:Online
+STATUS:CONFIRMED
+SUMMARY:CDVS Workshop: Adobe Illustrator for Diagrams
+UID:CAL-8a00eca5-9af98aae-019b-37b8d0d8-00005daddemobedework@mysite.edu
+URL:https://duke.libcal.com/event/15871034
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Officeo
+ fInformationTechnology_ResearchComputing,/principals/users/agrp_SSRI,":Re
+ search Computing\,Social Science Research Institute (SSRI)
+X-BEDEWORK-SPEAKER:Eric Monson
+X-BEDEWORK-DUKE-SERIES:Center for Data and Visualization Sciences Workshop
+  Series
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=askdata@duke.edu:Center 
+ for Data and Visualization Sciences
+X-BEDEWORK-SUBMITTEDBY:snl18 for Libraries (agrp_Libraries)
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260317T140000Z
+CATEGORIES:Utilities
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20251217T201249Z
+DESCRIPTION:The myRESEARCHnavigators team provides voluntary\, group-based
+  research staff onboardings as an introduction to the research enterprise
+  at Duke. It is intended for all University research and laboratory staff
+  in non-clinical research positions.\n\nThe Navigators will provide a tai
+ lored overview of Duke resources and services related to planning\, manag
+ ing\, and conducting research. Some sessions are geared to those working 
+ in bench/basic sciences\, and others are geared to those working with hum
+ an participants and their data.\n\nClick the "More Event Information" but
+ ton below to register.
+DURATION:PT2H
+DTSTAMP:20251217T201651Z
+DTSTART;TZID=America/New_York:20260317T100000
+LAST-MODIFIED:20251217T201651Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Research Staff Onboarding
+UID:CAL-8a00eca5-9af98aae-019b-2df1a39d-00001362demobedework@mysite.edu
+URL:https://redcap.duke.edu/redcap/surveys/?s=34AP4HKPMTKWHJPA&service_off
+ ering=5
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=myresearchnavigators@duk
+ e.edu:myRESEARCHnavigators
+X-BEDEWORK-LOCATION:Zoom (link to be provided upon registration)
+X-BEDEWORK-SUBMITTEDBY:np81 for Office for Research and Innovation (agrp_o
+ fficeresearch)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a087089-35e3fb8e-0136-59bd57dc-0000557a:Schreiber\
+ , Tanya
+CREATED:20250610T173038Z
+DESCRIPTION:Steve Chang is Associate Professor of Psychology and of Neuros
+ cience at Yale.
+DURATION:PT1H
+DTSTAMP:20260120T202435Z
+DTSTART;TZID=America/New_York:20260317T100000
+LAST-MODIFIED:20260120T202435Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b31c518-011b-3d9bcda0-00000001:Bryan Res
+ earch 103
+STATUS:CONFIRMED
+SUMMARY:Neurobiology Seminar: Steve Chang: Behavioral and neural mechanism
+ s of cooperative decision-making in marmoset dyads
+UID:CAL-8a00f888-97512113-0197-5ae4e0b7-0000139edemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-SPEAKER:Steve Chang
+X-BEDEWORK-SUBMITTEDBY:ts168 for Neurobiology (agrp_SchoolofMedicine_Neuro
+ biology)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Utilities
+CATEGORIES:Health/Wellness
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20241217T184624Z
+DESCRIPTION:Health Assessment is a free\, confidential health screening pr
+ ovided through Duke benefits. It includes total cholesterol\, blood press
+ ure\, blood glucose\, BMI\, waist circumference height\, weight and body 
+ mass index measurements. Additionally\, there is a goal setting and refer
+ ral session with a nurse\, dietitian\, or fitness specialist. Many partic
+ ipants find the coaching session helps them get started making lifestyle 
+ changes and connects them to LIVE FOR LIFE and community resources to sup
+ port them. Health Assessments are available to all active Duke employees.
+ 
+DURATION:PT6H30M
+DTSTAMP:20260302T145043Z
+DTSTART;TZID=America/New_York:20260317T100000
+LAST-MODIFIED:20260302T145043Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Mobile Health Assessment
+UID:CAL-8a003294-9c52b03d-019c-af07b3af-00005ff8demobedework@mysite.edu
+URL:https://hr.duke.edu/wellness/health-assessments/
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
+ -user/Topics/Health_Wellness
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=jessica.covington@duke.e
+ du:Jessica Bailey
+X-BEDEWORK-SPEAKER:LIVE FOR LIFE
+X-BEDEWORK-DUKE-SERIES:Health Assessments
+X-BEDEWORK-LOCATION:705 Broad St. - Conference Room 03
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-IMAGE-ALT-TEXT:LIVE FOR LIFE Logo
+X-BEDEWORK-SUBMITTEDBY:asr71 for Live for Life (LFL) (agrp_HumanResources_
+ LiveforLife)
+X-BEDEWORK-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064625PM.
+ png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064
+ 625PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Engineering
+CATEGORIES:Natural Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0184-f88b4dd1-00001a24:Franklin\,
+  Monica
+CREATED:20251105T133825Z
+DESCRIPTION:Dissertation Title: The Role of Biological Sex in Modulating H
+ uman Gene Expression and Immune Responses to Infection and Autoimmune Ris
+ k
+DURATION:PT2H
+DTSTAMP:20260304T171811Z
+DTSTART;TZID=America/New_York:20260317T110000
+LAST-MODIFIED:20260304T171811Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Dissertation Announcement: Angela Jones
+UID:CAL-8a003294-9c52b03d-019c-b9db4b44-00004891demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
+ c-user/Topics/Natural Sciences
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Schoolo
+ fMedicine_CBB,/principals/users/agrp_SchoolofMedicine_MolecularGenetics,/
+ principals/users/agrp_SchoolofMedicine,":Computational Biology and Bioinf
+ ormatics (CBB)\,Molecular Genetics and Microbiology (MGM)\,School of Medi
+ cine (SOM)
+X-BEDEWORK-SPEAKER:Angela Jones
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-IMAGE-ALT-TEXT:Angela Jones
+X-BEDEWORK-SUBMITTEDBY:monicaf for University Program in Genetics &amp\;am
+ p\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\; Geno
+ mics (UPGG) (agrp_SchoolofMedicine_UPGG)
+X-BEDEWORK-LOCATION:Nanaline Duke 147
+X-BEDEWORK-IMAGE:/public/Images/Angela Jones canva photo_20260304051802PM.
+ png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Angela Jones canva photo_20260304051
+ 802PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Natural Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260302T190359Z
+DESCRIPTION:Structurally Homogeneous Hybrid Carbon Superstructures Enable 
+ Nanoscale Control of Energy\, Charge\, and Spin\n\nThe rapid expansion of
+  computationally demanding technologies\, such as artificial intelligence
+ \, has created unprecedented demand for miniaturized\, lightweight\, high
+  performance\, and low-power electronic systems. Such technologies increa
+ singly rely on electrical architectures capable of precisely controlling 
+ particles and quasiparticles that bear energy\, charge\, and spin at the 
+ nanoscale. Rigorous nanoscale control of such carriers\, and their dynami
+ c trajectories\, however\, is fundamentally hindered by quantum uncertain
+ ty\, tunneling phenomena\, and scattering processes that randomize transp
+ ort and induce decoherence. \nThis dissertation presents structurally hom
+ ogeneous and electronically tunable hybrid carbon superstructures based o
+ n (i) single walled carbon nanotubes (SWNTs) and (ii) twisted multilayer 
+ graphene (tMLG)\, as next-generation platforms for controlling energy\, c
+ harge\, and spin at the nanoscale. Specifically\, this work explores (i) 
+ the use of polymer wrapped SWNTs as light harvesting systems: unveiling p
+ reviously unresolved excited state reaction trajectories involving multib
+ ody mediated charge transfer reactions and defect localized trap states\,
+  (ii) the development of SWNT inks to fabricate semiconducting channels i
+ n thin film transistors: displaying compatibility with environmentally fr
+ iendly\, printing-based fabrication and exhibiting high on/off ratios wit
+ h large on currents\, and (iii) the generation of highly homogeneous and 
+ morphologically controlled SWNTs and tMLG as conductive quantum phase-coh
+ erent spin channels: demonstrating long coherence lengths and molecularly
+  tunable quantum interference phenomena.
+DURATION:PT1H
+DTSTAMP:20260302T190359Z
+DTSTART;TZID=America/New_York:20260317T111500
+LAST-MODIFIED:20260302T190359Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Chemistry Defense: Riley Stephenson: Structurally Homogeneous Hybr
+ id Carbon Superstructures Enable Nanoscale Control of Energy\, Charge\, a
+ nd Spin
+UID:CAL-8a003294-9c52b03d-019c-afef94a2-000079d3demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
+ c-user/Topics/Natural Sciences
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
+ m Admin Office
+X-BEDEWORK-LOCATION:Biological Sciences Building Room 113
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:16
+X-BEDEWORK-IMAGE-X2:586
+X-BEDEWORK-IMAGE-Y2:406.6666666666667
+X-BEDEWORK-IMAGE-CROP-WIDTH:586
+X-BEDEWORK-IMAGE-CROP-HEIGHT:390.6666666666667
+X-BEDEWORK-IMAGE-ALT-TEXT:RS
+X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
+ )
+X-BEDEWORK-IMAGE:/public/Images/Stephenson_20260302070359PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Stephenson_20260302070359PM-thumb.pn
+ g
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Natural Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a00048d-91324965-0191-a3b9f64b-0000517b:Grissom\, 
+ Brisa
+CREATED:20251212T204419Z
+DESCRIPTION:The Department of Chemistry is excited to  Prof. Caryn Outten 
+ (U. South Carolina)on Tuesday\, March 17\, 2025 for a departmental semina
+ r. \n\nTo learn more about Prof. Caryn Outten (U. South Carolina) researc
+ h\, please visit: https://www.sc.edu/study/colleges_schools/chemistry_and
+ _biochemistry/internal/research_groups/caryn_e_outten/research/index.php\
+ n\nSeminar hosted by Prof. Katherine Franz
+DURATION:PT1H
+DTSTAMP:20260211T183100Z
+DTSTART;TZID=America/New_York:20260317T114000
+LAST-MODIFIED:20260211T183100Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-28282e22-00000037:French Fa
+ mily Science Center 2237
+STATUS:CONFIRMED
+SUMMARY:Chemistry Seminar Presented by  Prof. Caryn Outten (U. South Carol
+ ina) Iron\, Sulfur\, and Survival: A New Role for Metallothioneins in Fun
+ gal Pathogens
+UID:CAL-8a00eca5-9af98aae-019b-144eb0fb-00006ef7demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
+ c-user/Topics/Natural Sciences
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-SPEAKER: Prof. Caryn Outten (U. South Carolina)
+X-BEDEWORK-DUKE-SERIES:Chemistry Seminar Series
+X-BEDEWORK-IMAGE-X1:202
+X-BEDEWORK-IMAGE-Y1:52
+X-BEDEWORK-IMAGE-X2:1744
+X-BEDEWORK-IMAGE-Y2:1080
+X-BEDEWORK-IMAGE-CROP-WIDTH:1542
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1028
+X-BEDEWORK-IMAGE-ALT-TEXT:CO
+X-BEDEWORK-SUBMITTEDBY:bsg25 for Chemistry (agrp_ArtsandSciences_Chemistry
+ )
+X-BEDEWORK-IMAGE:/public/Images/Admin Office Slides  (21)_20251212084419PM
+ .png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Admin Office Slides  (21)_2025121208
+ 4419PM-thumb.png
 END:VEVENT
 END:VCALENDAR
 
