@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-14T21:11:46.675478",
+  "generated": "2026-03-14T21:47:59.050611",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -42275,7 +42275,7 @@
             },
             {
               "date": "2026-03-14",
-              "count": 224
+              "count": 222
             }
           ]
         },
@@ -43166,68 +43166,100 @@
               "count": 35
             }
           ]
+        },
+        "cityspark_evanston": {
+          "history": [
+            {
+              "date": "2026-03-14",
+              "count": 1217
+            }
+          ]
+        },
+        "eisenhower_library": {
+          "history": [
+            {
+              "date": "2026-03-14",
+              "count": 400
+            }
+          ]
+        },
+        "evanston_made": {
+          "history": [
+            {
+              "date": "2026-03-14",
+              "count": 27
+            }
+          ]
+        },
+        "northlight_theatre": {
+          "history": [
+            {
+              "date": "2026-03-14",
+              "count": 30
+            }
+          ]
         }
       },
       "categories": [
         {
           "category": "Family / Kids",
-          "count": 639
+          "count": 700
         },
         {
           "category": "Music / Concerts",
-          "count": 595
+          "count": 648
         },
         {
           "category": "Education / Workshops",
-          "count": 513
+          "count": 535
         },
         {
           "category": "Arts / Culture",
-          "count": 391
+          "count": 464
         },
         {
           "category": "Community / Social",
-          "count": 355
+          "count": 423
         },
         {
           "category": "Food / Drink",
-          "count": 235
+          "count": 290
         },
         {
           "category": "Sports / Fitness",
-          "count": 208
+          "count": 236
         },
         {
           "category": "Dance / Performance",
-          "count": 161
+          "count": 200
         },
         {
           "category": "Comedy / Improv",
-          "count": 151
+          "count": 163
         },
         {
           "category": "Health / Wellness",
-          "count": 138
+          "count": 153
         },
         {
           "category": "Books / Literature / Poetry",
-          "count": 137
+          "count": 146
         },
         {
           "category": "Government / Civic",
-          "count": 124
+          "count": 128
         },
         {
           "category": "History / Heritage",
-          "count": 98
+          "count": 94
         },
         {
           "category": "Film / Cinema",
-          "count": 75
+          "count": 82
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 63
+          "count": 72
         },
         {
           "category": "Religion / Spirituality",
@@ -43235,17 +43267,22 @@
         },
         {
           "category": "(uncategorized)",
-          "count": 7
+          "count": 19
         }
       ],
       "images": {
-        "total": 3921,
-        "with_image": 2368,
+        "total": 4384,
+        "with_image": 2762,
         "by_source": [
           {
             "source": "Evanston Roundtable",
-            "total": 1968,
-            "with_image": 1841
+            "total": 1303,
+            "with_image": 1252
+          },
+          {
+            "source": "CitySpark Evanston",
+            "total": 984,
+            "with_image": 868
           },
           {
             "source": "Chicago Botanic Garden",
@@ -43254,23 +43291,23 @@
           },
           {
             "source": "Winnetka Northfield Library",
-            "total": 241,
+            "total": 239,
             "with_image": 114
           },
           {
+            "source": "CitySpark Evanston, Evanston Roundtable",
+            "total": 82,
+            "with_image": 82
+          },
+          {
             "source": "Morton Grove Library",
-            "total": 201,
+            "total": 199,
             "with_image": 67
           },
           {
-            "source": "Evanston Roundtable, Ticketmaster/Evanston Venues",
-            "total": 34,
-            "with_image": 34
-          },
-          {
-            "source": "Ticketmaster/Evanston Venues",
-            "total": 32,
-            "with_image": 32
+            "source": "CitySpark Evanston, Ticketmaster/Evanston Venues",
+            "total": 56,
+            "with_image": 56
           },
           {
             "source": "Beth Emet",
@@ -43279,8 +43316,8 @@
           },
           {
             "source": "Enjoy Evanston",
-            "total": 22,
-            "with_image": 21
+            "total": 20,
+            "with_image": 19
           },
           {
             "source": "Meetup Evanston Writers",
@@ -43298,14 +43335,29 @@
             "with_image": 10
           },
           {
-            "source": "Goldfish Swim School Evanston",
+            "source": "Ticketmaster/Evanston Venues",
+            "total": 9,
+            "with_image": 9
+          },
+          {
+            "source": "CitySpark Evanston, Northwestern University",
+            "total": 10,
+            "with_image": 8
+          },
+          {
+            "source": "CitySpark Evanston, Enjoy Evanston",
+            "total": 8,
+            "with_image": 8
+          },
+          {
+            "source": "Evanston Made",
             "total": 7,
             "with_image": 7
           },
           {
-            "source": "Enjoy Evanston, Evanston Roundtable",
-            "total": 6,
-            "with_image": 6
+            "source": "Goldfish Swim School Evanston",
+            "total": 7,
+            "with_image": 7
           },
           {
             "source": "Block Museum of Art",
@@ -43313,17 +43365,22 @@
             "with_image": 6
           },
           {
+            "source": "Eisenhower Library, Evanston Roundtable",
+            "total": 5,
+            "with_image": 5
+          },
+          {
             "source": "The Wine Goddess",
             "total": 5,
             "with_image": 5
           },
           {
-            "source": "Evanston Roundtable, Northwestern University",
+            "source": "CitySpark Evanston, Lincolnwood Library, Winnetka Northfield Library",
             "total": 5,
-            "with_image": 4
+            "with_image": 5
           },
           {
-            "source": "Evanston Roundtable, North Shore Center",
+            "source": "CitySpark Evanston, North Shore Center",
             "total": 4,
             "with_image": 4
           },
@@ -43333,7 +43390,22 @@
             "with_image": 3
           },
           {
+            "source": "CitySpark Evanston, Evanston Made",
+            "total": 3,
+            "with_image": 3
+          },
+          {
+            "source": "Evanston Made, Evanston Roundtable",
+            "total": 3,
+            "with_image": 3
+          },
+          {
             "source": "Meetup: Yolo Board Game Gathering",
+            "total": 3,
+            "with_image": 3
+          },
+          {
+            "source": "CitySpark Evanston, Winnetka Northfield Library",
             "total": 3,
             "with_image": 3
           },
@@ -43353,7 +43425,17 @@
             "with_image": 3
           },
           {
-            "source": "Evanston Roundtable, Lincolnwood Library",
+            "source": "CitySpark Evanston, Skokie Library, Winnetka Northfield Library",
+            "total": 3,
+            "with_image": 3
+          },
+          {
+            "source": "CitySpark Evanston, Lincolnwood Library",
+            "total": 2,
+            "with_image": 2
+          },
+          {
+            "source": "Eisenhower Library, Skokie Library",
             "total": 2,
             "with_image": 2
           },
@@ -43378,6 +43460,11 @@
             "with_image": 1
           },
           {
+            "source": "CitySpark Evanston, Evanston Roundtable, Northwestern University",
+            "total": 1,
+            "with_image": 1
+          },
+          {
             "source": "Lincolnwood Library",
             "total": 142,
             "with_image": 1
@@ -43388,12 +43475,7 @@
             "with_image": 1
           },
           {
-            "source": "Evanston Roundtable, Winnetka Northfield Library",
-            "total": 1,
-            "with_image": 1
-          },
-          {
-            "source": "Bookends & Beginnings, Enjoy Evanston, Evanston Roundtable",
+            "source": "Bookends & Beginnings, CitySpark Evanston, Enjoy Evanston",
             "total": 1,
             "with_image": 1
           },
@@ -43408,12 +43490,17 @@
             "with_image": 1
           },
           {
-            "source": "Enjoy Evanston, Evanston Roundtable, YWCA Evanston/North Shore",
+            "source": "CitySpark Evanston, Enjoy Evanston, Evanston Roundtable, YWCA Evanston/North Shore",
             "total": 1,
             "with_image": 1
           },
           {
-            "source": "Bookends & Beginnings, Evanston Roundtable",
+            "source": "Bookends & Beginnings, CitySpark Evanston",
+            "total": 1,
+            "with_image": 1
+          },
+          {
+            "source": "CitySpark Evanston, Evanston Roundtable, Ticketmaster/Evanston Venues",
             "total": 1,
             "with_image": 1
           },
@@ -43423,7 +43510,7 @@
             "with_image": 1
           },
           {
-            "source": "Evanston Roundtable, Skokie Library",
+            "source": "CitySpark Evanston, Skokie Library",
             "total": 1,
             "with_image": 1
           },
@@ -43448,16 +43535,6 @@
             "with_image": 1
           },
           {
-            "source": "Evanston Roundtable, Lincolnwood Library, Winnetka Northfield Library",
-            "total": 1,
-            "with_image": 1
-          },
-          {
-            "source": "Evanston Roundtable, Skokie Library, Winnetka Northfield Library",
-            "total": 1,
-            "with_image": 1
-          },
-          {
             "source": "Block Museum of Art, Northwestern University",
             "total": 1,
             "with_image": 1
@@ -43468,27 +43545,37 @@
             "with_image": 1
           },
           {
-            "source": "The Main-Dempster Mile",
+            "source": "CitySpark Evanston, The Main-Dempster Mile",
             "total": 1,
             "with_image": 1
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 3904,
-        "total_events": 3921,
-        "unique_urls": 3145,
-        "generic_count": 425,
+        "total_with_url": 4367,
+        "total_events": 4384,
+        "unique_urls": 3437,
+        "generic_count": 601,
         "generic_domains": [
+          {
+            "domain": "wilmette.libnet.info",
+            "events": 135,
+            "url": "https://wilmette.libnet.info/events"
+          },
           {
             "domain": "glenviewpl.org",
             "events": 81,
             "url": "http://glenviewpl.org"
           },
           {
-            "domain": "wilmette.libnet.info",
-            "events": 61,
-            "url": "https://wilmette.libnet.info/events"
+            "domain": "www.hhevanston.com",
+            "events": 54,
+            "url": "https://www.hhevanston.com/events"
+          },
+          {
+            "domain": "www.puttshack.com",
+            "events": 47,
+            "url": "https://www.puttshack.com/locations/skokie"
           },
           {
             "domain": "www.nssc.org",
@@ -43496,9 +43583,9 @@
             "url": "http://www.nssc.org"
           },
           {
-            "domain": "www.puttshack.com",
-            "events": 33,
-            "url": "https://www.puttshack.com/locations/skokie"
+            "domain": "www.eths.k12.il.us",
+            "events": 34,
+            "url": "https://www.eths.k12.il.us/"
           },
           {
             "domain": "www.macswoodgrilled.com",
@@ -43506,9 +43593,9 @@
             "url": "https://www.macswoodgrilled.com/"
           },
           {
-            "domain": "www.hhevanston.com",
-            "events": 28,
-            "url": "https://www.hhevanston.com/events"
+            "domain": "www.northwestern.edu",
+            "events": 27,
+            "url": "https://www.northwestern.edu/norris/arts/dittmar-gallery/exhibition-submissions.html"
           },
           {
             "domain": "magazine.rotary.org",
@@ -43516,14 +43603,14 @@
             "url": "https://magazine.rotary.org/rotary/october_2025/MobilePagedArticle.action?articleId=2085663#articleId2085663"
           },
           {
+            "domain": "artscircle.northwestern.edu",
+            "events": 19,
+            "url": "https://artscircle.northwestern.edu/"
+          },
+          {
             "domain": "www.chopintheatre.com",
             "events": 18,
             "url": "https://www.chopintheatre.com/event.php?id=3000&pageId=soon"
-          },
-          {
-            "domain": "www.eths.k12.il.us",
-            "events": 17,
-            "url": "https://www.eths.k12.il.us/"
           },
           {
             "domain": "andersonville.org",
@@ -43561,9 +43648,9 @@
             "url": "https://www.sgtheatre.org/season-35/morning-noon-night"
           },
           {
-            "domain": "artscircle.northwestern.edu",
-            "events": 8,
-            "url": "https://artscircle.northwestern.edu/"
+            "domain": "bookendsandbeginnings.com",
+            "events": 7,
+            "url": "https://bookendsandbeginnings.com/event/2025-05-10/saturday-storytime"
           }
         ],
         "http_count": 167,
@@ -43571,20 +43658,26 @@
         "source_specificity": [
           {
             "source": "Evanston Roundtable",
-            "events": 1968,
-            "unique_urls": 1397,
-            "specificity_pct": 71
+            "events": 1303,
+            "unique_urls": 973,
+            "specificity_pct": 75
+          },
+          {
+            "source": "CitySpark Evanston",
+            "events": 984,
+            "unique_urls": 607,
+            "specificity_pct": 62
           },
           {
             "source": "Skokie Library",
-            "events": 411,
-            "unique_urls": 411,
+            "events": 409,
+            "unique_urls": 409,
             "specificity_pct": 100
           },
           {
             "source": "Winnetka Northfield Library",
-            "events": 241,
-            "unique_urls": 241,
+            "events": 239,
+            "unique_urls": 239,
             "specificity_pct": 100
           },
           {
@@ -43595,15 +43688,15 @@
           },
           {
             "source": "Morton Grove Library",
-            "events": 201,
-            "unique_urls": 201,
+            "events": 199,
+            "unique_urls": 199,
             "specificity_pct": 100
           },
           {
             "source": "Northwestern University",
-            "events": 196,
-            "unique_urls": 76,
-            "specificity_pct": 39
+            "events": 189,
+            "unique_urls": 72,
+            "specificity_pct": 38
           },
           {
             "source": "Lincolnwood Library",
@@ -43618,21 +43711,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "CitySpark Evanston, Evanston Roundtable",
+            "events": 82,
+            "unique_urls": 73,
+            "specificity_pct": 89
+          },
+          {
+            "source": "CitySpark Evanston, Ticketmaster/Evanston Venues",
+            "events": 56,
+            "unique_urls": 56,
+            "specificity_pct": 100
+          },
+          {
             "source": "Nw Baseball",
             "events": 37,
             "unique_urls": 37,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Evanston Roundtable, Ticketmaster/Evanston Venues",
-            "events": 34,
-            "unique_urls": 34,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Ticketmaster/Evanston Venues",
-            "events": 32,
-            "unique_urls": 32,
             "specificity_pct": 100
           },
           {
@@ -43648,15 +43741,9 @@
             "specificity_pct": 100
           },
           {
-            "source": "Enjoy Evanston",
-            "events": 22,
-            "unique_urls": 22,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Evanston History Center",
-            "events": 21,
-            "unique_urls": 21,
+            "source": "Eisenhower Library",
+            "events": 24,
+            "unique_urls": 24,
             "specificity_pct": 100
           }
         ]
