@@ -71,6 +71,15 @@
 | Prairie Moon | `eventbrite.com/o/prairie-moon-51597641783` | ~1 event; jazz, music |
 | Downtown Evanston | `eventbrite.com/o/downtown-evanston-6767069203` | Art receptions, community events |
 | The Backyard Barbecue Store | `eventbrite.com/o/dan-marguerite-16757593742` | ~9 events; BBQ classes |
+| Booked | `eventbrite.com/o/booked-76549470443` | ~2 upcoming, 25 total; indie bookstore, author events |
+| Creative Coworking | `eventbrite.com/o/creative-coworking-23232786009` | ~6 upcoming, 416 total; gallery nights, concerts, dinners; 922 Davis St + Colvin House |
+| The Main-Dempster Mile | `eventbrite.com/o/the-main-dempster-mile-13695320840` | ~1 upcoming, 43 total; community crawls, wine walks |
+| Northshore Concert Band | `eventbrite.com/o/41593942663` | ~2 upcoming; concerts at Pick-Staiger Hall |
+| Stewpendous Productions | `eventbrite.com/o/120935657951` | ~7 upcoming; trivia nights, music bingo at Double Clutch + others |
+| Rhythm Revolution | `eventbrite.com/o/33380339107` | ~1 upcoming; drum circles at Double Clutch Brewing |
+| Mezcla Media Collective | `eventbrite.com/o/mezcla-media-collective-54754536433` | ~1 upcoming, 41 total; experimental video/art at Evanston Art Center |
+| Homeschool + Hue | `eventbrite.com/o/121090594971` | Family meetups for children of color; Zora's Place |
+| BLAST Northwestern | `eventbrite.com/o/121097824224` | Dance performances at Ryan Auditorium |
 
 ### Ticketmaster (via Discovery API)
 | Source | Query | Notes |
