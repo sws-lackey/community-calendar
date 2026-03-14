@@ -866,6 +866,8 @@ jobs:
         python scrapers/revize.py --webspace evanstonil --host cityofevanston.org --name "City of Evanston City Council" --categories "City Council" --output cities/evanston/city_of_evanston_council.ics || true
         python scrapers/planitpurple.py --categories 2 --days 60 --name "Northwestern University" --output cities/evanston/northwestern.ics || true
         python scrapers/chicagobotanic.py --output cities/evanston/chicago_botanic.ics || true
+        # Enjoy Evanston (Tockify)
+        curl -sL "https://tockify.com/api/feeds/ics/enjoyevanston" -o cities/evanston/enjoy_evanston.ics || true
         # CitySpark (Evanston Roundtable)
         python scrapers/cityspark/evanstonroundtable.py --output cities/evanston/cityspark_roundtable.ics || true
         # Eventbrite organizers

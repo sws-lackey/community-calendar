@@ -15,6 +15,7 @@
 | City of Evanston (Meetings) | `scrapers/revize.py` (Meetings category) | Revize CMS JSON API; ~103 events |
 | City of Evanston (City Council) | `scrapers/revize.py` (City Council category) | Revize CMS JSON API; ~11 events |
 | Chicago Botanic Garden | `scrapers/chicagobotanic.py` | Drupal calendar scraper; ~157 events with images |
+| Enjoy Evanston | `tockify.com/api/feeds/ics/enjoyevanston` | Tockify ICS; ~68 events with images (X-TKF-FEATURED-IMAGE) |
 | Evanston Roundtable | `scrapers/cityspark/evanstonroundtable.py` | CitySpark API; ~2,100 events with images; 10-mile radius |
 
 ### Libraries
