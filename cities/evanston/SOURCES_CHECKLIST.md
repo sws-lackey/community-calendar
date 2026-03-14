@@ -15,6 +15,7 @@
 | City of Evanston (Meetings) | `scrapers/revize.py` (Meetings category) | Revize CMS JSON API; ~103 events |
 | City of Evanston (City Council) | `scrapers/revize.py` (City Council category) | Revize CMS JSON API; ~11 events |
 | Chicago Botanic Garden | `scrapers/chicagobotanic.py` | Drupal calendar scraper; ~157 events with images |
+| Evanston Roundtable | `scrapers/cityspark/evanstonroundtable.py` | CitySpark API; ~2,100 events with images; 10-mile radius |
 
 ### Libraries
 | Source | Feed URL | Notes |
@@ -103,7 +104,7 @@
 | Sketchbook Brewing | No events page found |
 | McGaw YMCA | No feed visible |
 
-| Evanston RoundTable | Embedded calendar, no ICS at ?ical=1 |
+| ~~Evanston RoundTable~~ | ~~Embedded calendar, no ICS at ?ical=1~~ → **Now implemented via CitySpark API** |
 | Wilmette Village | Redirects, 404 |
 | Evanston Art Center Eventbrite | Organizer page 404 |
 | Wilmette Public Library | Communico platform with ICS/RSS disabled |
