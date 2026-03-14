@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-14T22:57:17.883672",
+  "generated": "2026-03-14T23:32:53.576276",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -43079,14 +43079,6 @@
             }
           ]
         },
-        "cityspark_roundtable": {
-          "history": [
-            {
-              "date": "2026-03-14",
-              "count": 2100
-            }
-          ]
-        },
         "eb_blast_northwestern": {
           "history": [
             {
@@ -43163,7 +43155,7 @@
           "history": [
             {
               "date": "2026-03-14",
-              "count": 35
+              "count": 34
             }
           ]
         },
@@ -43187,7 +43179,7 @@
           "history": [
             {
               "date": "2026-03-14",
-              "count": 0
+              "count": 27
             }
           ]
         },
@@ -43219,101 +43211,91 @@
       "categories": [
         {
           "category": "Family / Kids",
-          "count": 700
-        },
-        {
-          "category": "Music / Concerts",
-          "count": 652
+          "count": 589
         },
         {
           "category": "Education / Workshops",
-          "count": 533
+          "count": 458
         },
         {
           "category": "Arts / Culture",
-          "count": 460
+          "count": 362
         },
         {
           "category": "Community / Social",
-          "count": 437
+          "count": 321
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 269
         },
         {
           "category": "Food / Drink",
-          "count": 305
+          "count": 220
         },
         {
           "category": "Sports / Fitness",
-          "count": 241
-        },
-        {
-          "category": "Dance / Performance",
-          "count": 195
-        },
-        {
-          "category": "Comedy / Improv",
-          "count": 164
-        },
-        {
-          "category": "Health / Wellness",
-          "count": 153
+          "count": 145
         },
         {
           "category": "Books / Literature / Poetry",
-          "count": 146
+          "count": 131
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 124
         },
         {
           "category": "Government / Civic",
-          "count": 130
+          "count": 121
         },
         {
-          "category": "History / Heritage",
-          "count": 96
+          "category": "Health / Wellness",
+          "count": 117
         },
         {
           "category": "Film / Cinema",
-          "count": 84
+          "count": 69
+        },
+        {
+          "category": "History / Heritage",
+          "count": 67
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 74
+          "count": 58
+        },
+        {
+          "category": "Comedy / Improv",
+          "count": 32
         },
         {
           "category": "Religion / Spirituality",
-          "count": 30
+          "count": 27
         },
         {
           "category": "(uncategorized)",
-          "count": 15
+          "count": 11
         }
       ],
       "images": {
-        "total": 4415,
-        "with_image": 2744,
+        "total": 3121,
+        "with_image": 1495,
         "by_source": [
           {
-            "source": "Evanston Roundtable",
-            "total": 1304,
-            "with_image": 1253
-          },
-          {
             "source": "CitySpark Evanston",
-            "total": 968,
-            "with_image": 852
+            "total": 1046,
+            "with_image": 930
           },
           {
             "source": "Chicago Botanic Garden",
-            "total": 129,
-            "with_image": 129
+            "total": 132,
+            "with_image": 132
           },
           {
             "source": "Winnetka Northfield Library",
             "total": 239,
             "with_image": 114
-          },
-          {
-            "source": "CitySpark Evanston, Evanston Roundtable",
-            "total": 82,
-            "with_image": 82
           },
           {
             "source": "Morton Grove Library",
@@ -43322,8 +43304,8 @@
           },
           {
             "source": "CitySpark Evanston, Ticketmaster/Evanston Venues",
-            "total": 56,
-            "with_image": 56
+            "total": 57,
+            "with_image": 57
           },
           {
             "source": "Beth Emet",
@@ -43332,8 +43314,8 @@
           },
           {
             "source": "Visit Chicago North Shore",
-            "total": 22,
-            "with_image": 22
+            "total": 24,
+            "with_image": 24
           },
           {
             "source": "Enjoy Evanston",
@@ -43344,6 +43326,11 @@
             "source": "CitySpark Evanston, Visit Chicago North Shore",
             "total": 12,
             "with_image": 12
+          },
+          {
+            "source": "Evanston Made",
+            "total": 10,
+            "with_image": 10
           },
           {
             "source": "Meetup Evanston Writers",
@@ -43381,19 +43368,14 @@
             "with_image": 6
           },
           {
-            "source": "Eisenhower Library, Evanston Roundtable",
-            "total": 5,
-            "with_image": 5
-          },
-          {
             "source": "The Wine Goddess",
             "total": 5,
             "with_image": 5
           },
           {
-            "source": "Chicago Botanic Garden, Evanston Roundtable",
-            "total": 3,
-            "with_image": 3
+            "source": "CitySpark Evanston, Evanston Made",
+            "total": 4,
+            "with_image": 4
           },
           {
             "source": "Meetup: Yolo Board Game Gathering",
@@ -43414,11 +43396,6 @@
             "source": "YWCA Evanston/North Shore",
             "total": 3,
             "with_image": 3
-          },
-          {
-            "source": "Evanston Roundtable, Visit Chicago North Shore",
-            "total": 2,
-            "with_image": 2
           },
           {
             "source": "Eisenhower Library, Skokie Library",
@@ -43451,11 +43428,6 @@
             "with_image": 1
           },
           {
-            "source": "CitySpark Evanston, Evanston Roundtable, Northwestern University",
-            "total": 2,
-            "with_image": 1
-          },
-          {
             "source": "Lincolnwood Library",
             "total": 142,
             "with_image": 1
@@ -43481,17 +43453,12 @@
             "with_image": 1
           },
           {
-            "source": "CitySpark Evanston, Enjoy Evanston, Evanston Roundtable, YWCA Evanston/North Shore",
+            "source": "CitySpark Evanston, Enjoy Evanston, YWCA Evanston/North Shore",
             "total": 1,
             "with_image": 1
           },
           {
             "source": "Bookends & Beginnings, CitySpark Evanston",
-            "total": 1,
-            "with_image": 1
-          },
-          {
-            "source": "CitySpark Evanston, Evanston Roundtable, Ticketmaster/Evanston Venues",
             "total": 1,
             "with_image": 1
           },
@@ -43538,20 +43505,15 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 4350,
-        "total_events": 4415,
-        "unique_urls": 3429,
-        "generic_count": 552,
+        "total_with_url": 3054,
+        "total_events": 3121,
+        "unique_urls": 2486,
+        "generic_count": 299,
         "generic_domains": [
           {
             "domain": "wilmette.libnet.info",
             "events": 121,
             "url": "https://wilmette.libnet.info/events"
-          },
-          {
-            "domain": "glenviewpl.org",
-            "events": 81,
-            "url": "http://glenviewpl.org"
           },
           {
             "domain": "www.hhevanston.com",
@@ -43564,29 +43526,9 @@
             "url": "https://www.puttshack.com/locations/skokie"
           },
           {
-            "domain": "www.nssc.org",
-            "events": 44,
-            "url": "http://www.nssc.org"
-          },
-          {
             "domain": "www.eths.k12.il.us",
             "events": 34,
             "url": "https://www.eths.k12.il.us/"
-          },
-          {
-            "domain": "www.macswoodgrilled.com",
-            "events": 31,
-            "url": "https://www.macswoodgrilled.com/"
-          },
-          {
-            "domain": "magazine.rotary.org",
-            "events": 23,
-            "url": "https://magazine.rotary.org/rotary/october_2025/MobilePagedArticle.action?articleId=2085663#articleId2085663"
-          },
-          {
-            "domain": "www.chopintheatre.com",
-            "events": 18,
-            "url": "https://www.chopintheatre.com/event.php?id=3000&pageId=soon"
           },
           {
             "domain": "andersonville.org",
@@ -43594,29 +43536,9 @@
             "url": "https://andersonville.org/events/restaurant-week/"
           },
           {
-            "domain": "calendar.google.com",
-            "events": 13,
-            "url": "https://calendar.google.com/calendar/embed?src=gduu5rgbg50f560toe9grqjo1g@group.calendar.google.com&ctz=America/Chicago"
-          },
-          {
-            "domain": "www.lizardsliquidlounge.com",
-            "events": 12,
-            "url": "http://www.lizardsliquidlounge.com"
-          },
-          {
             "domain": "artscircle.northwestern.edu",
             "events": 11,
             "url": "https://artscircle.northwestern.edu/"
-          },
-          {
-            "domain": "www.herstorytheater.org",
-            "events": 11,
-            "url": "https://www.HerStoryTheater.org"
-          },
-          {
-            "domain": "www.theartitsichome.org",
-            "events": 11,
-            "url": "https://www.theartitsichome.org"
           },
           {
             "domain": "www.eths202.org",
@@ -43624,30 +43546,19 @@
             "url": "https://www.eths202.org/calendar"
           },
           {
-            "domain": "www.sgtheatre.org",
-            "events": 9,
-            "url": "https://www.sgtheatre.org/season-35/morning-noon-night"
-          },
-          {
             "domain": "bookendsandbeginnings.com",
             "events": 7,
             "url": "https://bookendsandbeginnings.com/event/2025-05-10/saturday-storytime"
           }
         ],
-        "http_count": 167,
-        "http_domains": 13,
+        "http_count": 6,
+        "http_domains": 6,
         "source_specificity": [
           {
-            "source": "Evanston Roundtable",
-            "events": 1304,
-            "unique_urls": 971,
-            "specificity_pct": 74
-          },
-          {
             "source": "CitySpark Evanston",
-            "events": 968,
-            "unique_urls": 594,
-            "specificity_pct": 61
+            "events": 1046,
+            "unique_urls": 660,
+            "specificity_pct": 63
           },
           {
             "source": "Skokie Library",
@@ -43687,26 +43598,26 @@
           },
           {
             "source": "Chicago Botanic Garden",
-            "events": 129,
-            "unique_urls": 129,
+            "events": 132,
+            "unique_urls": 132,
             "specificity_pct": 100
           },
           {
-            "source": "CitySpark Evanston, Evanston Roundtable",
-            "events": 82,
-            "unique_urls": 56,
-            "specificity_pct": 68
-          },
-          {
             "source": "CitySpark Evanston, Ticketmaster/Evanston Venues",
-            "events": 56,
-            "unique_urls": 56,
+            "events": 57,
+            "unique_urls": 57,
             "specificity_pct": 100
           },
           {
             "source": "Nw Baseball",
             "events": 37,
             "unique_urls": 37,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Eisenhower Library",
+            "events": 29,
+            "unique_urls": 29,
             "specificity_pct": 100
           },
           {
@@ -43722,9 +43633,15 @@
             "specificity_pct": 100
           },
           {
-            "source": "Eisenhower Library",
-            "events": 24,
-            "unique_urls": 24,
+            "source": "Northlight Theatre",
+            "events": 22,
+            "unique_urls": 22,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Evanston History Center",
+            "events": 21,
+            "unique_urls": 21,
             "specificity_pct": 100
           }
         ]
@@ -47635,7 +47552,7 @@
   "errors": [
     {
       "date": "2026-03-14",
-      "line": "2026-03-14 22:55:14,894 - VisitChicagoNorthShoreScraper - ERROR - Failed to fetch https://www.visitchicagonorthshore.com/events/ensemble-espa%C3%B1ol-spanish-dance-theater-2026-06-13: HTTP Error 404: Not Found",
+      "line": "2026-03-14 23:30:35,651 - VisitChicagoNorthShoreScraper - ERROR - Failed to fetch https://www.visitchicagonorthshore.com/events/ensemble-espa%C3%B1ol-spanish-dance-theater-2026-06-13: HTTP Error 404: Not Found",
       "source": null
     }
   ]
