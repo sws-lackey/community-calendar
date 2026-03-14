@@ -152,6 +152,40 @@ URL:https://docs.google.com/forms/d/e/1FAIpQLSfQg9S9lq9c0AdTLqtHS4JkSkX0ni
 X-SOURCE:City of Evanston
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Main-Dempster Mile: Evanston Arts & Craft Beverage Crawl
+DTSTART;VALUE=DATE-TIME:20260514T170000
+DTEND;VALUE=DATE-TIME:20260514T200000
+UID:3df473d4e26a81c0ca2c540e2f46625c@cityofevanston.org
+DESCRIPTION:<div class="text-base my-auto mx-auto pb-10 [--thread-content-
+ margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-
+ lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margi
+ n)">\n<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-
+ content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1
+  group/turn-messages focus-visible:outline-hidden relative flex w-full min
+ -w-0 flex-col agent-turn" tabindex="-1">\n<div class="flex max-w-full flex
+ -col grow">\n<div class="min-h-8 text-message relative flex w-full flex-co
+ l items-end gap-2 text-start break-words whitespace-normal [.text-message+
+ &amp\;]:mt-1" dir="auto" data-message-author-role="assistant" data-message
+ -id="11283277-05c1-4445-8763-ab4554549d5e" data-message-model-slug="gpt-5-
+ 2">\n<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">\
+ n<div class="streaming-animation markdown prose dark:prose-invert w-full w
+ rap-break-word light markdown-new-styling">\n<p data-start="0" data-end="5
+ 96" data-is-last-node="" data-is-only-node="">The Main-Dempster Mile will 
+ host the Evanston Arts &amp\; Craft Beverage Crawl on Thursday\, May 14\, 
+ from 5 p.m. to 8 p.m.\, offering a one-night experience that blends local 
+ art\, craft beverages\, and neighborhood businesses. The event will featur
+ e pop-up art exhibits inside shops along Main Street\, Dempster Street\, a
+ nd Chicago Avenue\, with tastings from Evanston-based craft beverage maker
+ s\, including Sketchbook Brewing\, FEW Spirits\, and Kombucha Brava. All p
+ roceeds from the crawl will benefit Evanston Made. Online ticket pre-sales
+  begin February 2 and are available through May 12.</p>\n</div>\n</div>\n<
+ /div>\n</div>\n</div>\n</div>
+LOCATION:The Main-Dempster Mile
+URL:https://www.eventbrite.com/e/pre-sale-starts-february-2-evanston-arts-
+ craft-beverage-crawl-tickets-1980144943831?aff=oddtdtcreator
+X-SOURCE:City of Evanston
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Central Street: Spring's Alive
 DTSTART;VALUE=DATE-TIME:20260502T100000
 DTEND;VALUE=DATE-TIME:20260502T170000

@@ -749,6 +749,30 @@ LOCATION:City Hall\, 909 Davis St\, Evanston\, IL\, 60201
 X-SOURCE:City of Evanston Meetings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Social Services Committee
+DTSTART;VALUE=DATE-TIME:20260514T190000
+DTEND;VALUE=DATE-TIME:20260514T220000
+UID:3c8b57ced4c770ff5c5c5a2b640a3326@cityofevanston.org
+DESCRIPTION:<p><em><span style="font-weight: 400\;">Meeting Format: This e
+ vent is in-person (virtual options to watch the meeting are available).&nb
+ sp\;</span></em></p>\n<p><em><span style="font-weight: 400\;">Online Meeti
+ ng Link: </span></em><a rel="noopener" href="https://us06web.zoom.us/j/839
+ 61283626?pwd=STdURlNmaGxsY0RId3FhVmJNYVVPZz09" target="_blank"><em><span s
+ tyle="font-weight: 400\;">https://us06web.zoom.us/j/83961283626?pwd=STdURl
+ NmaGxsY0RId3FhVmJNYVVPZz09</span></em></a></p>\n<p><em><span style="font-w
+ eight: 400\;">Public Comment: To sign up for public comment\, please click
+  </span></em><a rel="noopener" href="https://forms.gle/FceLNqhxaok28HM27" 
+ target="_blank"><em><span style="font-weight: 400\;">here</span></em></a><
+ em><span style="font-weight: 400\;">.&nbsp\;</span></em></p>\n<em><span st
+ yle="font-weight: 400\;">Meeting materials are available on the </span></e
+ m><a rel="noopener" href="https://cityofevanston.civicweb.net/Portal/Meeti
+ ngInformation.aspx?Id=23760" target="_blank"><em><span style="font-weight:
+  400\;">Social Services Committee</span></em></a><em><span style="font-wei
+ ght: 400\;"> page.</span></em>
+LOCATION:City Hall\, 909 Davis St\, Evanston\, IL\, 60201
+X-SOURCE:City of Evanston Meetings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Finance & Budget Committee Meeting
 DTSTART;VALUE=DATE-TIME:20260204T170000
 DTEND;VALUE=DATE-TIME:20260204T183000
@@ -885,10 +909,10 @@ URL:https://cityofevanston.civicweb.net/portal/members.aspx?id=45
 X-SOURCE:City of Evanston Meetings
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Economic Development Committee
+SUMMARY:Economic Development Committee - CANCELED
 DTSTART;VALUE=DATE-TIME:20260325T170000
 DTEND;VALUE=DATE-TIME:20260325T183000
-UID:8dab726263971460276540961b2b6f85@cityofevanston.org
+UID:62d682efb3301a835ecd68420d96ff04@cityofevanston.org
 DESCRIPTION:<h2 id="modal-event-title" class="modal-title"><span style="co
  lor: #100f24\; font-family: 'DM Sans'\, sans-serif\; font-size: 16px\; fon
  t-weight: 400\;">Agendas and meeting packets will be posted at least 48 ho

@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_313163900@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260314T190000
 DTEND;TZID=America/New_York:20260314T223000
 SUMMARY:Ballroom Dance with Stardusters!
@@ -40,9 +40,24 @@ CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/e/f/1/600_504076113.jpeg
 END:VEVENT
 BEGIN:VEVENT
+UID:event_313766606@meetup.com
+SEQUENCE:1
+DTSTAMP:20260314T053208Z
+DTSTART;TZID=America/New_York:20260315T110000
+DTEND;TZID=America/New_York:20260315T130000
+SUMMARY:Stop Struggling to Survive\, How to Expect Miracles to Thrive
+DESCRIPTION:Raleigh & Triangle Activities Meetup Group\nLife is unnecessarily difficult when we hold onto something that isn’t right for us. Instead of just letting go what doesn’t work\, we may think that life itself is the problem and it’s just too hard. But the Universe isn’t broken and the divine Source is always with us. In fact\, the entire system of existence is designed to give everyone whatever they need to thrive in joy forever. So\, if all Creation is built for healthy happiness\, why is there so much struggle and suffering in the human world? Join us this Sunday March 15\, 2026\, for a free empowering talk on the origins of suffering and why miraculous gifts of life are the default that we need to be expecting.\n\nIt’s vital to realize that everything can be used for positive or negative outcomes. Positive is the direction of more love\, with all the help you need to make life easy\, fun and wonderful. Negative is the direction of less love\, with non-solutions that will cause you to fail followed by lies that say it's all your fault\, you're so bad\, it's hopeless\, give up. The goal of negativity is simple: hurt you any way it can so that you will stop functioning. There are many ways to break something\, and often only one best way to do it right. Life is direct and efficient this way\, while negativity is obvious in its failings.\n\nA negative society doesn't want strong individuals\, it wants weak followers and slaves. That's because negativity is so weak that it doesn't trust any higher power than itself. In the Bible story\, Lucifer wanted to be God\, so God gave him a pit of hell to rule. Many suckers followed Lucifer down into the endless suffering that comes from refusing higher assistance. Religion is just early psychology\, so Lucifer shows the personality disorders that drive cruel narcissistic behaviors. This usually comes from childhood abuse that causes a person to shut down their feelings and go into a survival mode of opportunistic controlling and bullying\, all within a continual victimhood. In a negative society there are many roles to play for who is the weak victim of violence and who looks powerful. To forgive with compassion\, we can see through the dramas to realize everyone is suffering inside.\n\nSince the negativity on Earth is so advanced these days\, with many layers of war\, pollution\, deprivation and corruption\, it is easy to think that life itself is bad and must be fixed somehow. There are many well-intentioned people who exhaust themselves in dramatic battles for justice and struggles to make the world a better place. Justice warriors might succeed if it were true that life is broken\, but it's not. All the divine guidance we will ever need to live well is always offered to us. The real villain behind suffering is false negative beliefs. When you misuse what you have due to wrong ideas\, you fail with increasing pain and suffering. It's like having a fabulous car and not driving it correctly. Some people never get out of the driveway of life\, others just keep crashing on the highway. The solution is simple. Learn how life really works so you can drive yourself to paradise!\n\nTo prepare for this meetup\, recall where you struggle and suffer in your life. Pain is separation from what we need to be happy. Problems cause temporary pain until a solution is found. But false beliefs make us blind to solutions\, causing endless pain which is suffering. Human beings automatically adapt to suffering and find ways to survive\, including addictions to numb the pain and toxic relationships to stay distracted and have someone to blame. Negative society makes many rules and judgments for who is bad to be punished and who is good to be rewarded.\n\nStruggle is unnatural\, since the true nature of the Universe is to freely give us miracles of divine guidance and solutions. Miracles would come to us all the time\, but usually people only allow them when they’re desperate enough. Can you recall a time when you felt hopeless\, ready to smash things in frustration or collapse in despair\, and then suddenly a miracle appeared? Celebrate that feeling\, let it grow in the truth of your own life!\n\nAfter check-ins to share and relate\, I’ll explain where problems come from and how to handle the emotions like self-pity and shame that keep us stuck in suffering. We’ll learn to identify false negative beliefs and take steps to release them for the truths of an easy love-filled life. We’ll conclude with a guided meditation to meet with our higher self and exchange gifts of the love that makes life truly wonderful.\n\nWelcome! Our Inner Selves Mastery spiritual support group is free online every Sunday 11am-130pm EDT\, with the last 30 minutes for a guided meditation. If you can’t stay you can get the recording. You can signup here for this meeting and visit www.signupISM.com for all events\, newsletter\, videos\, and more.\n\nBest wishes\,\nCarl Johann Schroeder\nInner Selves Mastery\nspiritual teaching and coaching\nquick-links at [www.signupISM.com](http://www.signupISM.com)
+URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/313766606/
+STATUS:CONFIRMED
+CREATED:20260313T101900Z
+LAST-MODIFIED:20260313T101900Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/4/8/c/600_533173452.jpeg
+END:VEVENT
+BEGIN:VEVENT
 UID:event_313565708@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260319T180000
 DTEND;TZID=America/New_York:20260319T200000
 SUMMARY:Free Medieval Combat Training (Hillsborough\, NC) - Broadsword - Armor - Rapier
@@ -57,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313641771@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260324T190000
 DTEND;TZID=America/New_York:20260324T200000
 SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
@@ -72,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313673854@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260326T180000
 DTEND;TZID=America/New_York:20260326T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -87,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260402T180000
 DTEND;TZID=America/New_York:20260402T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -102,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260409T180000
 DTEND;TZID=America/New_York:20260409T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -117,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_mtchftyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260411T190000
 DTEND;TZID=America/New_York:20260411T223000
 SUMMARY:Ballroom Dance with Stardusters!
@@ -132,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260416T180000
 DTEND;TZID=America/New_York:20260416T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -147,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T020917Z
+DTSTAMP:20260314T053208Z
 DTSTART;TZID=America/New_York:20260423T180000
 DTEND;TZID=America/New_York:20260423T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -158,21 +173,6 @@ CREATED:20260307T143329Z
 LAST-MODIFIED:20260307T143329Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/e/9/f/600_521548319.jpeg
-END:VEVENT
-BEGIN:VEVENT
-UID:event_hgxmltyjcgblc@meetup.com
-SEQUENCE:1
-DTSTAMP:20260313T020917Z
-DTSTART;TZID=America/New_York:20260428T190000
-DTEND;TZID=America/New_York:20260428T200000
-SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
-DESCRIPTION:Raleigh & Triangle Activities Meetup Group\nPutting out feelers for curious\, cooperative 'comrades' to explore quiet corners of Old Cathay! Trip date TBD - waiting for airfares to come down.\n\nThis will happen on Google Meet.\n\n**CHECK THE COMMENTS FOR MEETING LINK!**\n\n[Comment if you are able to log onto the link but don't see me - in the past Google has let two meetings with the same link open\, each person thinking the other didn't show up. So comment here and we'll see if we can fix it. :-) ]\n\nI've been traveling to China for 27 years. Join me for a unique\, off the beaten track culture immersion adventure!\n\nComfort NOT guaranteed! LOTS of walking! This trip is NOT for everyone but everyone who has come with me so far has LOVED it!\n\nItinerary NOT guaranteed so as to maximize experience! Spontaneous private zheng concert in a riverside pavilion? Let's stop and enjoy! Weather is forecast to be rain in the mountains? Let's go to the ancient village instead.\n\nCosts currently unknown but should be under $100/day for ALL in-country necessities: food\, lodging\, entrance fees\, ground transport. Whatever price I end up quoting will NOT include transport to/from China\, alcohol\, upgrades to lodging\\*\, upgrades to in-country transport\\*.\n\nYou can do it cheaper with a big box tour. If strict time schedules\, overpriced shopping\, industrial restaurant food\, and being kept away from locals is good enough for you than that's your best bet. If unique\, real China\, great food\, insider knowledge with eye for western comforts\\*\\*\, and turn on a dime\\*\\*\\* [a mao?] escapades are for you than come with me!\n\nOnly seven people! Small and 'nimble'\\*\\*\\*!\n\nHave you already been to China? Already have seen the Forbidden City and Great Wall? No worries! Big box tours do NOT go where I go!\n\nHave you never been to China and NEED to see the big sights? No problem! I can create an optional 3 day add-on for the Great Wall\, Forbidden City\, Temple of Heaven\, and other Beijing highlights. AND I can take you to hidden gems few big tours touch.\n\nLet's dialog! Looking for like minded people so everyone's on the same page. Don't want to put hard-core shoppers with shop-hating history buffs\, or long distance hikers with casual strollers. Just a more practical way to go. If enough interest I can lead TWO trips\, each with its own emphasis. I reserve the right to group/accept/deny as I see fit. [I only want happiness! Sometimes that means saying 'maybe next time'.]\n\nGo to Jan Tu Tours on FB and browse the photo albums to get a hint of what one might see. No guarantees of ANYTHING! China changes very quickly.\n\n\\*Where available - LOTS of things NOT available off the beaten track. I said 'adventure'!\n\n\\*\\*Sometimes western comforts are just not there. Deep in the countryside villages rarely have western toilets.\n\n\\*\\*\\*Quick change of plans is relative in China\; western expectations are best set aside and an embrace the new/unknown/surprise attitude is highly recommended. But that's what a cultural adventure is all about!
-URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/hgxmltyjcgblc/
-STATUS:CONFIRMED
-CREATED:20240423T004605Z
-LAST-MODIFIED:20240423T004605Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/c/7/c/600_494667772.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/raleigh-triangle-activities/events/ical/
 X-WR-CALNAME:Raleigh & Triangle Activities Meetup Group

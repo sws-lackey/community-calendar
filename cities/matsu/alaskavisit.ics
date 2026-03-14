@@ -4,33 +4,6 @@ PRODID:-//Mat-Su Convention & Visitors Bureau//alaskavisit.com//
 X-WR-CALNAME:Mat-Su Convention & Visitors Bureau
 X-WR-TIMEZONE:America/Anchorage
 BEGIN:VEVENT
-SUMMARY:Elks Annual 9 hole Golf on Ice Fundraiser/Tournament on Finger Lak
- e
-DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260314T000000
-DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260314T000000
-UID:23fe41c9f0ed2ca2fe1bacb9e51f15c0@alaskavisit.com
-DESCRIPTION:Spring Fever? Come join us for the Elks Annual 9 hole Golf on 
- Ice Fundraiser/Tournament on Finger Lake!! Saturday\, March 14th - Registr
- ation starts at...
-LOCATION:Elks Lodge at Finger Lake\, 2600 N Barry's Resort Drive\, Wasilla
- \, AK\, 99654
-URL:https://www.alaskavisit.com/event/elks-annual-9-hole-golf-on-ice-fundr
- aiser-tournament-on-finger-lake/4791/
-X-SOURCE:Mat-Su Convention & Visitors Bureau
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weekend Ramble: Hike Matanuska Greenbelt Farm Trails
-DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260314T000000
-DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260314T000000
-UID:3e1a1dfaa652337c5a1660e875c00574@alaskavisit.com
-DESCRIPTION:Ready to ramble? These weekend outings include a range of acti
- vities and vary in length and difficulty level. Some are shorter and easie
- r\, some are...
-URL:https://www.alaskavisit.com/event/weekend-ramble%3a-hike-matanuska-gre
- enbelt-farm-trails/4782/
-X-SOURCE:Mat-Su Convention & Visitors Bureau
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A St. Patrick's Day Celebration
 DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260315T000000
 DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260315T000000

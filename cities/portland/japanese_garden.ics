@@ -23513,6 +23513,16 @@ GEO:45.51862;-122.70843109999998
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=611 SW Kingston Ave.\, Portland\, OR\, 97205\, United States;X-APPLE-RADIUS=100;X-TITLE=Portland Japanese Garden:geo:45.51862;-122.70843109999998
 END:VEVENT
 BEGIN:VEVENT
+UID:5308@japanesegarden.org
+DTSTART:20260421T170000Z
+DTEND:20260421T190000Z
+DTSTAMP:20260313T202333Z
+URL:https://japanesegarden.org/events/exclusive-studio-tour-with-exhibiting-artist-aya-morton/
+SUMMARY:Exclusive Studio Tour with Exhibiting Artist\, Aya Morton
+DESCRIPTION:\n\n\n\n\nThis special tour of the beautiful art studio of Aya Morton is an invitation-only event for Golden Crane Recognition Society members at the President’s Circle Level ($2\,500) and above.&nbsp\;\n\n\n\nTuesday\, April 21\, from 10:00 am to noon\, offsite\, at a&nbsp\;Sauvie&nbsp\;Island location.&nbsp\;\n\n\n\nAya Morton is an illustrator\, printmaker\, and fine artist whose work is currently being shown in Portland Japanese Garden’s new art exhibition\,&nbsp\;Enduring Impressions: Contemporary Woodblock Prints.&nbsp\;\n\n\n\nThis is a special opportunity for Golden Crane Recognition Society members at the President’s Circle and above to learn about Morton’s projects\, including her mokuhanga-inspired prints that merge silkscreen with relief printing processes to produce beautifully rendered scenes of the Pacific Northwest.&nbsp\;&nbsp\;\n\n\n\nTo learn more about Aya Morton’s work you can visit her website and view her work in the Pavilion Gallery between now and June 15. \n\n\n\nSpace is limited so please RSVP by April 1 by either emailing the Garden’s Development Department at developmentrsvp@japanesegarden.org or by calling (503) 542-9374. As this event is for Golden Crane Recognition Society Members only\, we unfortunately cannot accommodate additional guests.  \n\n\n\n\n\n\n\n\n
+CATEGORIES:Golden Crane Society,Member Only
+END:VEVENT
+BEGIN:VEVENT
 UID:5044@japanesegarden.org
 DTSTART:20260425T170000Z
 DTEND:20260427T000000Z

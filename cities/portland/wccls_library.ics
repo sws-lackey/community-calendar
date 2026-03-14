@@ -493,6 +493,17 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Storytime
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T193000Z
+UID:698a6ff41e64afd01e5a5605@wccls.bibliocommons.com
+DESCRIPTION:This storytime includes books\, action songs\, rhymes\, and ot
+ her fun activities that encourage a love of reading! Ages 2-3.
+LOCATION:Beaverton City Library\, Storytime Room
+URL:https://wccls.bibliocommons.com/v2/events/698a6ff41e64afd01e5a5605
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toddler Storytime
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T193000Z
 UID:698a6ff41e64afd01e5a5604@wccls.bibliocommons.com
@@ -1169,6 +1180,18 @@ DESCRIPTION:Join two-time Guinness World Record holder and all-around hila
  ion required.\nHeld in the Community Room
 LOCATION:Tualatin Public Library\, Community Room
 URL:https://wccls.bibliocommons.com/v2/events/69824f4c491b809c6f1750d9
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Vietnamese Portland Exhibit
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T070000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T065959Z
+UID:699f3cf85506be0745fef7cd@wccls.bibliocommons.com
+DESCRIPTION:Come visit Brookwood and explore This is Vietnamese Portland\,
+  a traveling exhibit that examines how the Vietnamese community has shaped
+  and contributed to the City of Portland.
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/699f3cf85506be0745fef7cd
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -1863,7 +1886,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Financial Planning Business Development Incubator
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260424T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260424T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260424T020000Z
 UID:69b2049d491b809c6f1fc5ad@wccls.bibliocommons.com
 DESCRIPTION:Having a million dollar idea is one thing\, turning it into a 
  profitable business is an entirely different matter. We’ll help you get 
@@ -1899,7 +1922,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Financial Planning Business Development Incubator
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260417T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260417T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260417T020000Z
 UID:69b2049d491b809c6f1fc5ac@wccls.bibliocommons.com
 DESCRIPTION:Having a million dollar idea is one thing\, turning it into a 
  profitable business is an entirely different matter. We’ll help you get 
@@ -2405,20 +2428,6 @@ URL:https://wccls.bibliocommons.com/v2/events/699e6989491b809c6f1c4a19
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DAM Open Lab
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T000000Z
-UID:6983e535a5d80ac492705b14@wccls.bibliocommons.com
-DESCRIPTION:Welcome to our makerspace\, DAM (Design And Make)! During Open
-  Lab hours\, the makerspace is open for all ages. Drop in to explore and u
- se any equipment available. A staff member is stationed in the space to an
- swer questions and assist when needed. Note: A signed waiver is required a
- nnually:\nhttps://www.beavertonlibrary.o...
-LOCATION:Beaverton City Library\, DAM Makerspace
-URL:https://wccls.bibliocommons.com/v2/events/6983e535a5d80ac492705b14
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fun for Ones Storytime
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260401T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260401T183000Z
@@ -2557,25 +2566,6 @@ DESCRIPTION:Need help installing an app on your new phone\, configuring a
   the Washington County Broadband Action Team.
 LOCATION:Forest Grove City Library
 URL:https://wccls.bibliocommons.com/v2/events/697a404ed2bbe265eb2a7b3e
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Navigator: One-On-One Tech Assistance
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T210000Z
-UID:697a404ed2bbe265eb2a7b39@wccls.bibliocommons.com
-DESCRIPTION:Need help installing an app on your new phone\, configuring a 
- webcam for Zoom\, borrowing and downloading an e-book\, or filling out an 
- online job application? You can make an appointment to speak to our friend
- ly and knowledgeable Digital Navigator\nevery Friday between 10:00 and 12:
- 30\n(follow the link below to sign up for a spot)\, or you can\ndrop in be
- tween 12:45 and 2:00\nto get assistance for these and other tech-related i
- ssues. Bring your own device or use one of our computers.\nClick\nhere\nto
-  make a 30-minute appointment with our Digital Navigator.\nThe Digital Nav
- igator program has been made possible by a partnership with AmeriCorps and
-  the Washington County Broadband Action Team.
-LOCATION:Forest Grove City Library
-URL:https://wccls.bibliocommons.com/v2/events/697a404ed2bbe265eb2a7b39
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -2749,6 +2739,19 @@ DESCRIPTION:Come visit Brookwood and explore This is Vietnamese Portland\,
   and contributed to the City of Portland.
 LOCATION:Hillsboro Public Library\, Brookwood
 URL:https://wccls.bibliocommons.com/v2/events/699f3cf85506be0745fef7c6
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator 1:1 Tech Help with Chuck
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+UID:68e015086df9ca153ebe55c6@wccls.bibliocommons.com
+DESCRIPTION:Get a one-on-one appointment with a friendly\, knowledgeable D
+ igital Navigator who will help you find answers to your questions about yo
+ ur mobile devices\, personal computer\, websites\, getting started with 
+ tech\, and more!
+LOCATION:West Slope Community Library
+URL:https://wccls.bibliocommons.com/v2/events/68e015086df9ca153ebe55c6
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -2956,7 +2959,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260402T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260402T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260402T030000Z
 UID:69b3565f8089f23c6761bcc9@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -3336,6 +3339,17 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toddler Storytime [at Bethany Library Annex]
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T180000Z
+UID:6984e23a834cbb3dea2bcb4f@wccls.bibliocommons.com
+DESCRIPTION:Join us for storytime filled with songs\, rhymes and stories t
+ hat are just right for your active toddler! Ages 12 to 36 months.
+LOCATION:Bethany Library
+URL:https://wccls.bibliocommons.com/v2/events/6984e23a834cbb3dea2bcb4f
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toddler Storytime [at Bethany Library Annex]
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260428T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260428T180000Z
 UID:6984e23a834cbb3dea2bcb4a@wccls.bibliocommons.com
@@ -3621,17 +3635,6 @@ URL:https://wccls.bibliocommons.com/v2/events/6983db092a787a47a5e66ad7
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Art Fun at 4 @ Murray Scholls
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T000000Z
-UID:6983dd21cbf6405d35665f37@wccls.bibliocommons.com
-DESCRIPTION:Join us as we learn about art and make beautiful creations! No
-  Friday Art Fun March 20 and March 27. Ages 2-8 with family.
-LOCATION:Beaverton Murray Scholls
-URL:https://wccls.bibliocommons.com/v2/events/6983dd21cbf6405d35665f37
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Discovery Grocery Store
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260319T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260320T010000Z
@@ -3845,17 +3848,6 @@ DESCRIPTION:Join us for books\, songs\, rhymes\, and play! Ages 12-24 mon
  ths.
 LOCATION:Beaverton City Library\, Storytime Room
 URL:https://wccls.bibliocommons.com/v2/events/698a598b94297d3600ab23c2
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mandarin Chinese Storytime
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T190000Z
-UID:69409d577ed7c62f00aaa210@wccls.bibliocommons.com
-DESCRIPTION:Join us for stories\, songs\, and more in this storytime prese
- nted in Mandarin Chinese. Ages 6 & under with family.
-LOCATION:Beaverton City Library\, Storytime Room
-URL:https://wccls.bibliocommons.com/v2/events/69409d577ed7c62f00aaa210
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -4189,29 +4181,6 @@ URL:https://wccls.bibliocommons.com/v2/events/698fa87c81b67dfe32a6515b
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual Program: Paintings of the American Revolution
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260318T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260318T020000Z
-UID:697116a16724c63d00ed735a@wccls.bibliocommons.com
-DESCRIPTION:Virtual event - Registration required. Details will be emailed
-  the day of the event.\nGarden Home Community Library is excited to be hos
- ting a presentation by art historian and educator Mallory Mortillaro. In c
- elebration of America's Semiquincentennial\, we present "Paintings of the 
- American Revolution".\nWe all know the story of the Revolutionary War\, bu
- t how much of our understanding is colored by the way the war\nwas depicte
- d by artists? Paintings of the American Revolution have been essential in 
- the way that the war was\nunderstood\, both at the time of the conflict an
- d for generations after. This lecture will explore well-known paintings\ns
- uch as Emanuel Leutze’s Washington Crossing the Delaware\, John Trumbull
- ’s Declaration of Independence\, and\nAsher Durand’s The Capture of Ma
- jor André.\nMortillaro is an art historian and educator. She has ten year
- s of teaching experience and has worked on various art research projects f
- or museums and organizations in the New York metropolitan area. She studie
- d at Drew University.
-URL:https://wccls.bibliocommons.com/v2/events/697116a16724c63d00ed735a
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Family Storytime - Evening edition
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260327T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260327T004500Z
@@ -4237,17 +4206,6 @@ LOCATION:Garden Home Community Library\, This event will be held in Room #
  7\, the library's event space. This is next to the Rec Center Locker Rooms
  .
 URL:https://wccls.bibliocommons.com/v2/events/693cb5c61e64afd01e4ecc5c
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babies & Ones Playgroup
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T171500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T181500Z
-UID:693cb4d2c967cb41207c9df8@wccls.bibliocommons.com
-DESCRIPTION:A casual play and socialization time for you and your little o
- ne! We provide toys\, music\, and fun. Ages 24 months & under.
-LOCATION:Beaverton City Library\, Storytime Room
-URL:https://wccls.bibliocommons.com/v2/events/693cb4d2c967cb41207c9df8
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -4604,6 +4562,18 @@ URL:https://wccls.bibliocommons.com/v2/events/69826ca6491b809c6f175cec
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Family Storytime - Evening edition
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T004500Z
+UID:69b33993403a4e5652df010b@wccls.bibliocommons.com
+DESCRIPTION:30 to 40 minutes of age-appropriate stories\, songs\, and Yoga
+  movements.\nPajamas welcome!\nOur books\, songs\, and activities are idea
+ l for kids ages 0-5\, but all are welcome!
+LOCATION:Garden Home Community Library\, Room 7
+URL:https://wccls.bibliocommons.com/v2/events/69b33993403a4e5652df010b
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Club
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260328T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260328T220000Z
@@ -4783,6 +4753,22 @@ DESCRIPTION:Learn essential computer skills in this beginner-friendly clas
  those looking to improve their everyday computer use.
 LOCATION:Hillsboro Public Library\, Shute Park
 URL:https://wccls.bibliocommons.com/v2/events/6994ecc04a9fd98b7f7eab30
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canta Con Amigos
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T174500Z
+UID:69546e838b29ea2800c6b7a6@wccls.bibliocommons.com
+DESCRIPTION:Canta con Amigos (Sing with Friends) is a sing-along based pro
+ gram that allows participants to dance and sing songs en español. Attende
+ es will be given a song book and littles will be handed musical instrument
+ s. For ages 1-5!\nCanta con Amigos es un programa basado en cantos que per
+ mite a los participantes bailar y cantar canciones en español. Los asiste
+ ntes recibirán un cancionero y los pequeños recibirán instrumentos musi
+ cales. Para niños de 1 a 5 años.
+LOCATION:Forest Grove City Library
+URL:https://wccls.bibliocommons.com/v2/events/69546e838b29ea2800c6b7a6
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -5736,6 +5722,18 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preschool Storytime
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T180000Z
+UID:6927585ef8747e3e002445b8@wccls.bibliocommons.com
+DESCRIPTION:Finger plays\, singing\, and movement activities accompany the
+  reading of various picture books for 30 minutes. For ages 3-6 years.\nWee
+ kly on Thursdays
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6927585ef8747e3e002445b8
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preschool Storytime
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T171500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T180000Z
 UID:6927585ef8747e3e002445b7@wccls.bibliocommons.com
@@ -6090,20 +6088,6 @@ DESCRIPTION:While storytime is on break this week\, enjoy a play-based pro
  8\nNo registration required.\nEveryone welcome.
 LOCATION:Sherwood Public Library\, Community Room
 URL:https://wccls.bibliocommons.com/v2/events/697a8e6d377f55c8ec163706
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teen Council
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T233000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T003000Z
-UID:697a980a4dacf581ff7771a4@wccls.bibliocommons.com
-DESCRIPTION:Teen Council 2nd Friday of each month in the library\nDo you 
- want to connect with other teens? Are you a teen who wants to make a diffe
- rence in our community? Do you have ideas on how the North Plains Public L
- ibrary could better serve teens? We want YOU to join! Drop in\, no registr
- ation required.
-LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/697a980a4dacf581ff7771a4
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -6482,6 +6466,16 @@ URL:https://wccls.bibliocommons.com/v2/events/68e015086df9ca153ebe55c0
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mah Jongg
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T213000Z
+UID:689bb14369d27551e18c0b02@wccls.bibliocommons.com
+DESCRIPTION:Beginning to experienced players welcome.
+LOCATION:Banks Public Library\, Jane Moore Community Room
+URL:https://wccls.bibliocommons.com/v2/events/689bb14369d27551e18c0b02
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crochet 101: Getting Started
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260325T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260325T020000Z
@@ -6618,24 +6612,6 @@ DESCRIPTION:Goodwill Industries is offering free English classes at the Fo
  críbanos a\nfgl-reference@wccls.org\n.
 LOCATION:Forest Grove City Library
 URL:https://wccls.bibliocommons.com/v2/events/697a5b8a4a9fd98b7f7a60af
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free ESL Class (Beginning level) | Clase de inglés gratis (Nivel 
- principiante)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T210000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T223000Z
-UID:697a5b8a4a9fd98b7f7a60aa@wccls.bibliocommons.com
-DESCRIPTION:Goodwill Industries is offering free English classes at the Fo
- rest Grove Library. Fridays from 2:00-3:30pm in the Rogers Room. Registrat
- ion is not required. Students at the beginning level are welcome!\nFor mor
- e information\, email us at\nfgl-reference@wccls.org\n.\nGoodwill ofrece c
- lases de inglés gratis a la biblioteca de Forest Grove. Todos los viernes
- \, 2:00-3:30pm en la sala Rogers. No es necesario registrarse. Estudiantes
-  de nivel principiante son bienvenidos!\nPara obtener mas informacion\, es
- críbanos a\nfgl-reference@wccls.org\n.
-LOCATION:Forest Grove City Library
-URL:https://wccls.bibliocommons.com/v2/events/697a5b8a4a9fd98b7f7a60aa
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -6989,6 +6965,22 @@ URL:https://wccls.bibliocommons.com/v2/events/698a59311e64afd01e5a4e24
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digital Navigator – One-on-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+UID:6996715d6724c63d00f3ab1e@wccls.bibliocommons.com
+DESCRIPTION:Do you have questions about how to use a mobile phone or a com
+ puter? Do you need help setting up a social media account? Schedule a 45-m
+ inute appointment to receive technology assistance with a Digital Navigato
+ r at the Shute Park Library or the Brookwood Library!\nSpanish-language su
+ pport available only at the Shute Park Library.\nVisit our website at\nLib
+ rary Bookings - Hillsboro Public Library\nor call\n503-615-6500\nto check 
+ appointment availability.
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6996715d6724c63d00f3ab1e
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teen Poetry Contest: Haiku (Virtual)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260430T070000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260501T065959Z
@@ -7037,6 +7029,20 @@ DESCRIPTION:Come visit Brookwood and explore This is Vietnamese Portland\,
   and contributed to the City of Portland.
 LOCATION:Hillsboro Public Library\, Brookwood
 URL:https://wccls.bibliocommons.com/v2/events/699f3cf85506be0745fef7c5
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garb & Gab
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260425T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260425T220000Z
+UID:69b4a62981b67dfe32ac78a7@wccls.bibliocommons.com
+DESCRIPTION:Are you more productive when working alongside others? Do you 
+ have personal garments that need repairs but are unsure how to fix them? A
+ re you working on sewing projects for historical\, theatrical\, or cultura
+ l events?  Join us! We are here to help and support one another in creatin
+ g and repairing clothing.\nThis program is for ages 13 and up.
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b4a62981b67dfe32ac78a7
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -7834,6 +7840,17 @@ URL:https://wccls.bibliocommons.com/v2/events/698f73ec3cc3e0c9ecb91699
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teen Drop-In Table Top Gaming
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T221500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T233000Z
+UID:68a37ea5709d27410037bb24@wccls.bibliocommons.com
+DESCRIPTION:Drop in and play tabletop RPG\, card\, and board games. Materi
+ als provided.
+LOCATION:Banks Public Library\, Jane Moore Community Room
+URL:https://wccls.bibliocommons.com/v2/events/68a37ea5709d27410037bb24
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play and Learn [at Bethany Library Annex]
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260325T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260325T220000Z
@@ -8189,19 +8206,6 @@ URL:https://wccls.bibliocommons.com/v2/events/698e49d6491b809c6f196da5
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coping and Resilience in Times of Stress: Protecting Your Heart Wh
- ile Staying Engaged
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T223000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T000000Z
-UID:698e496d491b809c6f196d89@wccls.bibliocommons.com
-DESCRIPTION:Learn practical tools to prevent burnout and compassion fatigu
- e\, set boundaries\, manage stress\, and recharge in this workshop with Dr
- . Deanna Cor.\nThis program is part of Hillsboro Reads.
-LOCATION:Hillsboro Public Library\, Brookwood
-URL:https://wccls.bibliocommons.com/v2/events/698e496d491b809c6f196d89
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teen Drop-In Table Top Gaming
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260409T221500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260409T233000Z
@@ -8387,6 +8391,20 @@ DESCRIPTION:This class focuses on more advanced grammar and vocabulary for
  . Provided by Goodwill Industries.
 LOCATION:Cedar Mill Library\, Oak Room
 URL:https://wccls.bibliocommons.com/v2/events/694f0cf18b29ea2800c61012
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English for Speakers of Other Languages - Advanced (ESL)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T220000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+UID:694f0cf18b29ea2800c61013@wccls.bibliocommons.com
+DESCRIPTION:This class focuses on more advanced grammar and vocabulary for
+  those who are looking to improve their spoken and written English skills.
+  We will explore and discuss the themes in each unit of the provided textb
+ ook while applying the lesson’s grammar and vocabulary to our discussion
+ . Provided by Goodwill Industries.
+LOCATION:Cedar Mill Library\, Oak Room
+URL:https://wccls.bibliocommons.com/v2/events/694f0cf18b29ea2800c61013
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -8616,7 +8634,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260423T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260423T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260423T030000Z
 UID:69b3565f8089f23c6761bccc@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -8655,7 +8673,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260409T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260409T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260409T030000Z
 UID:69b3565f8089f23c6761bcca@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -9418,7 +9436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260416T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260416T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260416T030000Z
 UID:69b3565f8089f23c6761bccb@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -9433,7 +9451,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T030000Z
 UID:69b3565f8089f23c6761bcce@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -9448,7 +9466,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260430T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260430T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260430T030000Z
 UID:69b3565f8089f23c6761bccd@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -9463,7 +9481,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class | Clase de Ciudadanía
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T030000Z
 UID:69b3565f8089f23c6761bccf@wccls.bibliocommons.com
 DESCRIPTION:Want to prepare for the citizenship test? Come practice with a
   tutor\, one-on-one or in small groups. Drop in any Wednesday from 6-8pm A
@@ -9561,6 +9579,21 @@ DESCRIPTION:A time for babies and their caregivers to hang out\, play\, ch
  at\, and make friends at the library. Ages 12 months & under.
 LOCATION:Beaverton Murray Scholls
 URL:https://wccls.bibliocommons.com/v2/events/698ceb9b81b67dfe32a5cdf3
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toddler Fun | Diversión para Chiquitos
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T173000Z
+UID:6998db44b0595799c09e4819@wccls.bibliocommons.com
+DESCRIPTION:Calling all toddlers (ages 1-3)! Get ready to test out your gr
+ oss motor skills at the library. Crawl through tunnels\, jump over things\
+ , and dance your wiggles away!\nNiños entre las edades de 1 y 3 años pre
+ párense para poner a prueba sus habilidades motores gruesas en la bibliot
+ eca. Gatea a través del túnel\, salta por encima de los obstáculos\, ¡
+ y baila hasta no poder más!
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/6998db44b0595799c09e4819
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -10082,6 +10115,17 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baby Bugs Storytime @ Murray Scholls
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T190000Z
+UID:698ceb7781b67dfe32a5cdee@wccls.bibliocommons.com
+DESCRIPTION:Join us for stories\, songs\, rhymes\, and playtime for babies
+  and their grownups! Ages 12 months & under.
+LOCATION:Beaverton Murray Scholls
+URL:https://wccls.bibliocommons.com/v2/events/698ceb7781b67dfe32a5cdee
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baby Bugs Storytime @ Murray Scholls
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T190000Z
 UID:698ceb7781b67dfe32a5cded@wccls.bibliocommons.com
@@ -10155,6 +10199,17 @@ DESCRIPTION:Join us for books\, songs\, rhymes\, and play! Ages 12-24 mon
  ths.
 LOCATION:Beaverton Murray Scholls
 URL:https://wccls.bibliocommons.com/v2/events/698ceb598d5e2d09335e93c0
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun for Ones Storytime @ Murray Scholls
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T174500Z
+UID:698ceb598d5e2d09335e93c1@wccls.bibliocommons.com
+DESCRIPTION:Join us for books\, songs\, rhymes\, and play! Ages 12-24 mon
+ ths.
+LOCATION:Beaverton Murray Scholls
+URL:https://wccls.bibliocommons.com/v2/events/698ceb598d5e2d09335e93c1
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -10845,6 +10900,17 @@ URL:https://wccls.bibliocommons.com/v2/events/698cebbc8d5e2d09335e93c6
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baby Stay & Play @ Murray Scholls
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T193000Z
+UID:698ceb9b81b67dfe32a5cdf9@wccls.bibliocommons.com
+DESCRIPTION:A time for babies and their caregivers to hang out\, play\, ch
+ at\, and make friends at the library. Ages 12 months & under.
+LOCATION:Beaverton Murray Scholls
+URL:https://wccls.bibliocommons.com/v2/events/698ceb9b81b67dfe32a5cdf9
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260324T210000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260324T230000Z
@@ -11215,6 +11281,24 @@ URL:https://wccls.bibliocommons.com/v2/events/699781b1b48451fc3c03d2b7
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medieval Dance Class | Clase de Danza Medieval
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260508T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260508T040000Z
+UID:69b492d0b48451fc3c08c48f@wccls.bibliocommons.com
+DESCRIPTION:If you're fascinated by history and love to dance\, join us fo
+ r a Medieval Dance Class! Learn authentic dances from the time period and 
+ immerse yourself in the rhythm and culture of yesteryear. No experience ne
+ cessary—just bring your enthusiasm and get ready to have fun! This progr
+ am is for teens and adults.\nSi te fascina la historia y te encanta bailar
+ \, ¡ven a nuestra clase de danza medieval! Aprende bailes auténticos de 
+ la época y sumérgete en el ritmo y la cultura de antaño. No se necesita
+  experiencia\, ¡solo traiga su entusiasmo y prepárese para divertirse! E
+ ste programa es para adolescentes y adultos.
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b492d0b48451fc3c08c48f
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mah Jongg
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T193000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T213000Z
@@ -11346,20 +11430,6 @@ DESCRIPTION:Bored? In need of fun? Come hang out at the library Friday eve
  the library at 8:00PM.
 LOCATION:Tualatin Public Library
 URL:https://wccls.bibliocommons.com/v2/events/6973ba48377f55c8ec151495
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teen Movie Night
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260314T010000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T030000Z
-UID:6973ba48377f55c8ec151494@wccls.bibliocommons.com
-DESCRIPTION:Bored? In need of fun? Come hang out at the library Friday eve
- nings with other teens! There will be movie choices\, board games\, and ot
- her possibilities for fun!\nYou must be in the Teen Room by 6:00PM to atte
- nd. No late entry. Parents will pick up teens from the parking lot behind 
- the library at 8:00PM.
-LOCATION:Tualatin Public Library
-URL:https://wccls.bibliocommons.com/v2/events/6973ba48377f55c8ec151494
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -11786,21 +11856,6 @@ URL:https://wccls.bibliocommons.com/v2/events/6994ea444a9fd98b7f7eaac2
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:West Slope Genre Book Group
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260314T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T030000Z
-UID:69a0ae2481b67dfe32a91fda@wccls.bibliocommons.com
-DESCRIPTION:This group focuses on genre fiction such as sci-fi\, romance\,
-  fantasy\, mystery\, & horror. Come every month or just for your favorite 
- genres. Meets the second Friday of each month at West Slope Community Libr
- ary.\nNote: The library closes at 5:00. Please ring the bell at the door t
- o the right of the main entrance.\nSee 2026 book selections
-LOCATION:West Slope Community Library\, Library closes at 5pm. Ring bell t
- o the right of main entrance.
-URL:https://wccls.bibliocommons.com/v2/events/69a0ae2481b67dfe32a91fda
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Garden Home Family Storytime
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260429T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260429T174500Z
@@ -11870,6 +11925,18 @@ DESCRIPTION:Preschool Storytime is filled with interactive books\, flannel
  ills they need to get ready to read! Ages 3-6.
 LOCATION:Beaverton City Library\, Storytime Room
 URL:https://wccls.bibliocommons.com/v2/events/698a6e794dacf581ff7a3af4
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preschool Storytime
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T171500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T174500Z
+UID:698a6e794dacf581ff7a3af5@wccls.bibliocommons.com
+DESCRIPTION:Preschool Storytime is filled with interactive books\, flannel
+ board stories\, music\, and songs that will help your child develop the sk
+ ills they need to get ready to read! Ages 3-6.
+LOCATION:Beaverton City Library\, Storytime Room
+URL:https://wccls.bibliocommons.com/v2/events/698a6e794dacf581ff7a3af5
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -11957,6 +12024,18 @@ DESCRIPTION:Join us for stories\, songs\, and more in this storytime prese
  nted in Arabic. Ages 6 & under with family.
 LOCATION:Beaverton City Library\, Storytime Room
 URL:https://wccls.bibliocommons.com/v2/events/698bb01481b67dfe32a59e7b
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bethany Village Spring Market [Bethany Village Plaza]
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T020000Z
+UID:698e59a881b67dfe32a60f61@wccls.bibliocommons.com
+DESCRIPTION:The Bethany Village Spring Market features food\, product vend
+ ors and live music. Stop by the library booth to learn about our summer ev
+ ents.
+LOCATION:Bethany Library
+URL:https://wccls.bibliocommons.com/v2/events/698e59a881b67dfe32a60f61
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -12119,6 +12198,17 @@ DESCRIPTION:Join us for stories\, music and rhymes that focus on pre-readi
  ng skills. Enjoy participating along with your child! Ages 3+.
 LOCATION:Cedar Mill Library
 URL:https://wccls.bibliocommons.com/v2/events/697a7328d2bbe265eb2a902a
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toddler Storytime
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T180000Z
+UID:697a7297d2bbe265eb2a8fc3@wccls.bibliocommons.com
+DESCRIPTION:Join us for storytime filled with songs\, rhymes and stories t
+ hat are just right for your active toddler! Ages 12 to 36 months.
+LOCATION:Cedar Mill Library
+URL:https://wccls.bibliocommons.com/v2/events/697a7297d2bbe265eb2a8fc3
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -12876,6 +12966,19 @@ URL:https://wccls.bibliocommons.com/v2/events/6994ea244a9fd98b7f7eaaae
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digital Navigator 1:1 Tech Help with Chuck
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+UID:68e015086df9ca153ebe55c7@wccls.bibliocommons.com
+DESCRIPTION:Get a one-on-one appointment with a friendly\, knowledgeable D
+ igital Navigator who will help you find answers to your questions about yo
+ ur mobile devices\, personal computer\, websites\, getting started with 
+ tech\, and more!
+LOCATION:West Slope Community Library
+URL:https://wccls.bibliocommons.com/v2/events/68e015086df9ca153ebe55c7
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bethany Village Egg Hunt
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260404T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260404T230000Z
@@ -13056,21 +13159,6 @@ DESCRIPTION:Join us every Tuesday at the West Slope Community Library for
  egistration required.
 LOCATION:West Slope Community Library
 URL:https://wccls.bibliocommons.com/v2/events/696829051f01fb76cec5b320
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sewing Skills | Habilidades de Costura
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260314T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260314T013000Z
-UID:697286956724c63d00edb674@wccls.bibliocommons.com
-DESCRIPTION:Ever wish you could make your own stuff? Try picking up a crea
- tive yet practical skill like needlework and learn to sew while designing 
- your own original piece of artwork! This program is for teens aged 13 to 1
- 8.\n¿Alguna vez has deseado crear tus propias cosas? ¡Anímate a aprende
- r una habilidad creativa y práctica como la costura y diseña tu propia o
- bra de arte original! Este programa es para adolescentes de 13 a 18 años.
-LOCATION:Cornelius Public Library
-URL:https://wccls.bibliocommons.com/v2/events/697286956724c63d00edb674
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -13348,21 +13436,6 @@ DESCRIPTION:In a one-on-one session\, Digital Navigators can answer questi
  alling the library at 503-644-2197.
 LOCATION:Beaverton City Library
 URL:https://wccls.bibliocommons.com/v2/events/6983d66bcbf6405d35665ee3
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Navigator: One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T210000Z
-UID:6983d66bcbf6405d35665ee0@wccls.bibliocommons.com
-DESCRIPTION:In a one-on-one session\, Digital Navigators can answer questi
- ons about devices\, navigating websites\, getting started with tech\, and 
- more. Digital Navigation is available in English\, Spanish\, and Arabic.\n
- Appointments are on Fridays from 10 a.m. to 2 p.m. Schedule online (\nhtt
- ps://beavertonlibrary.libcal.com/appointments?lid=3627&g=25012\n) or by c
- alling the library at 503-644-2197.
-LOCATION:Beaverton City Library
-URL:https://wccls.bibliocommons.com/v2/events/6983d66bcbf6405d35665ee0
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -13734,6 +13807,20 @@ DESCRIPTION:This storytime program engages our early and pre-readers with
  s\, and confidence.
 LOCATION:Banks Public Library\, Jane Moore Community Room
 URL:https://wccls.bibliocommons.com/v2/events/68a37e10d61fc9ddfaebea8a
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teen Council
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260410T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260411T003000Z
+UID:69b45f7b8d5e2d0933651784@wccls.bibliocommons.com
+DESCRIPTION:Teen Council 2nd Friday of each month in the library\nDo you 
+ want to connect with other teens? Are you a teen who wants to make a diffe
+ rence in our community? Do you have ideas on how the North Plains Public L
+ ibrary could better serve teens? We want YOU to join! Drop in\, no registr
+ ation required.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b45f7b8d5e2d0933651784
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -15230,6 +15317,19 @@ URL:https://wccls.bibliocommons.com/v2/events/6994ef474a9fd98b7f7eac09
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Google Slides & Google Sheets
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T210000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+UID:6994f54d8b29ea2800d0b2cb@wccls.bibliocommons.com
+DESCRIPTION:Boost your digital skills with Google Slides and Sheets. Learn
+  to create presentations and build spreadsheet skills\, including formatti
+ ng\, functions\, and graphs. Perfect for beginners looking to enhance thei
+ r professional toolkit.
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6994f54d8b29ea2800d0b2cb
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Google Docs & Online Job Seeking
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260325T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260325T200000Z
@@ -16258,6 +16358,22 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Read to the Dogs/Lee a los perros
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T003000Z
+UID:6940a09bd875af6300d0e060@wccls.bibliocommons.com
+DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
+ ned therapy dog (accompanied by their handler) in a private 20-minute sess
+ ion. Grades K – 12.\n¿Quieres mejorar tus habilidades y tu confianza? I
+ nscríbete para leer en voz alta a perros de terapia (acompañados por un 
+ entrenador) en una sesión privada de 20 minutos. K – 12o grado.\nYou ma
+ y sign up for one(1) Read to the Dogs session within a one(1) month period
+ .
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6940a09bd875af6300d0e060
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read to the Dogs/Lee a los perros
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260501T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260501T003000Z
 UID:6940a09bd875af6300d0e05e@wccls.bibliocommons.com
@@ -16430,6 +16546,27 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator: One-on-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T174500Z
+UID:698fa60a8d5e2d09335f11e8@wccls.bibliocommons.com
+DESCRIPTION:Get answers to your technology questions! Schedule a 45-minute
+  appointment with our friendly Digital Navigator to build your digital ski
+ lls. The Digital Navigator can help with installing new apps\, navigating 
+ websites\, filling out online job applications\, and more.\nAppointments a
+ re on Thursdays at 10am and 11am in the Bethany Library. Register online 
+ or by calling 503-617-7323.\nPlease bring your own computer\, tablet\, ce
+ llphone\, or e-reader with you to get assistance. Be sure to have any user
+ names and passwords available for accounts you need help navigating.\nThe 
+ Digital Navigator program is made possible by a partnership between Washin
+ gton County Cooperative Library Services and American Connections Corps\,
+  an AmeriCorps program dedicated to advancing economic prosperity by bridg
+ ing the digital divide.
+LOCATION:Bethany Library
+URL:https://wccls.bibliocommons.com/v2/events/698fa60a8d5e2d09335f11e8
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator: One-on-One Tech Help
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T184500Z
 UID:698fa60a8d5e2d09335f11e7@wccls.bibliocommons.com
@@ -16447,6 +16584,27 @@ DESCRIPTION:Get answers to your technology questions! Schedule a 45-minute
  ing the digital divide.
 LOCATION:Bethany Library
 URL:https://wccls.bibliocommons.com/v2/events/698fa60a8d5e2d09335f11e7
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator: One-on-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T184500Z
+UID:698fa60a8d5e2d09335f11e9@wccls.bibliocommons.com
+DESCRIPTION:Get answers to your technology questions! Schedule a 45-minute
+  appointment with our friendly Digital Navigator to build your digital ski
+ lls. The Digital Navigator can help with installing new apps\, navigating 
+ websites\, filling out online job applications\, and more.\nAppointments a
+ re on Thursdays at 10am and 11am in the Bethany Library. Register online 
+ or by calling 503-617-7323.\nPlease bring your own computer\, tablet\, ce
+ llphone\, or e-reader with you to get assistance. Be sure to have any user
+ names and passwords available for accounts you need help navigating.\nThe 
+ Digital Navigator program is made possible by a partnership between Washin
+ gton County Cooperative Library Services and American Connections Corps\,
+  an AmeriCorps program dedicated to advancing economic prosperity by bridg
+ ing the digital divide.
+LOCATION:Bethany Library
+URL:https://wccls.bibliocommons.com/v2/events/698fa60a8d5e2d09335f11e9
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -16859,9 +17017,9 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260507T180000Z
-UID:69af50da4a9fd98b7f833655@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260407T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260407T180000Z
+UID:69b45f242866a5b48841dcab@wccls.bibliocommons.com
 DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
  b searches? This free program is in partnership with American Connection C
@@ -16876,14 +17034,14 @@ DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
  unty by the U.S. Department of the Treasury.
 LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69af50da4a9fd98b7f833655
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcab
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260430T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260430T180000Z
-UID:69af50da4a9fd98b7f833654@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260505T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260505T180000Z
+UID:69b45f242866a5b48841dcb0@wccls.bibliocommons.com
 DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
  b searches? This free program is in partnership with American Connection C
@@ -16898,14 +17056,14 @@ DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
  unty by the U.S. Department of the Treasury.
 LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69af50da4a9fd98b7f833654
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcb0
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260423T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260423T180000Z
-UID:69af50da4a9fd98b7f833653@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260407T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260407T190000Z
+UID:69b45f242866a5b48841dcac@wccls.bibliocommons.com
 DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
  b searches? This free program is in partnership with American Connection C
@@ -16920,14 +17078,14 @@ DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
  unty by the U.S. Department of the Treasury.
 LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69af50da4a9fd98b7f833653
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcac
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260416T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260416T180000Z
-UID:69af50da4a9fd98b7f833652@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260414T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260414T180000Z
+UID:69b45f242866a5b48841dcad@wccls.bibliocommons.com
 DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
  b searches? This free program is in partnership with American Connection C
@@ -16942,14 +17100,14 @@ DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
  unty by the U.S. Department of the Treasury.
 LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69af50da4a9fd98b7f833652
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcad
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator One-On-One Tech Help
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260409T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260409T180000Z
-UID:69af50da4a9fd98b7f833651@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260421T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260421T180000Z
+UID:69b45f242866a5b48841dcae@wccls.bibliocommons.com
 DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
  b searches? This free program is in partnership with American Connection C
@@ -16964,7 +17122,51 @@ DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
  ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
  unty by the U.S. Department of the Treasury.
 LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69af50da4a9fd98b7f833651
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcae
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator One-On-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260428T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260428T180000Z
+UID:69b45f242866a5b48841dcaf@wccls.bibliocommons.com
+DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
+ 0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
+ b searches? This free program is in partnership with American Connection C
+ orps & The Washington County Broadband Action Team. Bring your own device 
+ or use library computers.\nSign up for a 1 hour appointment.\nIf no appoin
+ tments are scheduled drop in tech help will be available.\nThe Digital Nav
+ igator Program (DNP) is a free service made possible by a partnership\nbet
+ ween Washington County Cooperative Library Services (WCCLS) and the Washin
+ gton\nCounty Broadband Action Team. The DNP is funded in part by American 
+ Connections\nCorps\, an AmeriCorps program dedicated to advancing economic
+  prosperity by bridging\nthe digital divide. This project is being support
+ ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
+ unty by the U.S. Department of the Treasury.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcaf
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator One-On-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260512T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260512T180000Z
+UID:69b45f242866a5b48841dcb1@wccls.bibliocommons.com
+DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
+ 0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
+ b searches? This free program is in partnership with American Connection C
+ orps & The Washington County Broadband Action Team. Bring your own device 
+ or use library computers.\nSign up for a 1 hour appointment.\nIf no appoin
+ tments are scheduled drop in tech help will be available.\nThe Digital Nav
+ igator Program (DNP) is a free service made possible by a partnership\nbet
+ ween Washington County Cooperative Library Services (WCCLS) and the Washin
+ gton\nCounty Broadband Action Team. The DNP is funded in part by American 
+ Connections\nCorps\, an AmeriCorps program dedicated to advancing economic
+  prosperity by bridging\nthe digital divide. This project is being support
+ ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
+ unty by the U.S. Department of the Treasury.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b45f242866a5b48841dcb1
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -17047,22 +17249,6 @@ URL:https://wccls.bibliocommons.com/v2/events/699f9fb58b29ea2800d28bc6
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inclusive Storytime
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T171500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T180000Z
-UID:691d0231a64b7d0d61f7dd8e@wccls.bibliocommons.com
-DESCRIPTION:Limited to 15 children\, ages 3-5\, and their parents and care
- givers. Kids with varying learning styles and abilities come together in a
-  safe and supportive environment. Children who may need visual/communicati
- on supports\, a more predictable routine\, or adapted materials due to a m
- otor impairment are welcome. Pre-register at\nmpebly@pdx.edu\n\; we can se
- nd materials home ahead of time.\nBilingual sessions are held at Shute Par
- k Library on 1st and 3rd Fridays.
-LOCATION:Hillsboro Public Library\, Brookwood
-URL:https://wccls.bibliocommons.com/v2/events/691d0231a64b7d0d61f7dd8e
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Technology Open Lab
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260326T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260326T220000Z
@@ -17082,6 +17268,28 @@ URL:https://wccls.bibliocommons.com/v2/events/69308f4a2bee0c3700641cd3
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digital Navigator One-On-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260421T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260421T190000Z
+UID:69b460c9b48451fc3c08b611@wccls.bibliocommons.com
+DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
+ 0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
+ b searches? This free program is in partnership with American Connection C
+ orps & The Washington County Broadband Action Team. Bring your own device 
+ or use library computers.\nSign up for a 1 hour appointment.\nIf no appoin
+ tments are scheduled drop in tech help will be available.\nThe Digital Nav
+ igator Program (DNP) is a free service made possible by a partnership\nbet
+ ween Washington County Cooperative Library Services (WCCLS) and the Washin
+ gton\nCounty Broadband Action Team. The DNP is funded in part by American 
+ Connections\nCorps\, an AmeriCorps program dedicated to advancing economic
+  prosperity by bridging\nthe digital divide. This project is being support
+ ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
+ unty by the U.S. Department of the Treasury.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b460c9b48451fc3c08b611
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Read to the Dogs/Lee a los perros
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260402T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260403T000000Z
@@ -17095,6 +17303,28 @@ DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
  .
 LOCATION:Hillsboro Public Library\, Brookwood
 URL:https://wccls.bibliocommons.com/v2/events/6932400076261f28005d8d8e
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator One-On-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260414T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260414T190000Z
+UID:69b4608b81b67dfe32ac63f4@wccls.bibliocommons.com
+DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
+ 0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
+ b searches? This free program is in partnership with American Connection C
+ orps & The Washington County Broadband Action Team. Bring your own device 
+ or use library computers.\nSign up for a 1 hour appointment.\nIf no appoin
+ tments are scheduled drop in tech help will be available.\nThe Digital Nav
+ igator Program (DNP) is a free service made possible by a partnership\nbet
+ ween Washington County Cooperative Library Services (WCCLS) and the Washin
+ gton\nCounty Broadband Action Team. The DNP is funded in part by American 
+ Connections\nCorps\, an AmeriCorps program dedicated to advancing economic
+  prosperity by bridging\nthe digital divide. This project is being support
+ ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
+ unty by the U.S. Department of the Treasury.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b4608b81b67dfe32ac63f4
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -17124,6 +17354,43 @@ DESCRIPTION:The\nAARP Tax-Aide program\n\, administered by the AARP Founda
  770-1520\n.
 LOCATION:Forest Grove City Library\, Rogers Room
 URL:https://wccls.bibliocommons.com/v2/events/6983b401d2bbe265eb2c3bda
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Library Birthday Party
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260430T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260430T033000Z
+UID:69b46844b48451fc3c08b848@wccls.bibliocommons.com
+DESCRIPTION:North Plains Public Library Birthday Party- Wednesday\, April
+  29\nth\n7:00-8:30 p.m.\nJoin us as we celebrate North Plains Public Libra
+ ry's 20th birthday! For twenty years\, the North Plains Public Library has
+  been a beacon of light\, illuminating the path of learning and discovery 
+ for our community. We invite you to step into the glow of our shared histo
+ ry as we celebrate this milestone birthday. Please join us on: Wednesday\,
+  April 29th 7:00-8:30 pm\, Where: The North Plains Library\nSweet      Tre
+ ats: Enjoy celebratory cupcakes.\nShared      History: A look back at the 
+ stories and journeys that shaped us.\nA      Sparkling Surprise: You won
+ ’t want to miss what we have in store!
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b46844b48451fc3c08b848
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medieval Dance Class | Clase de Danza Medieval
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260403T020000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260403T040000Z
+UID:69b492d0b48451fc3c08c48e@wccls.bibliocommons.com
+DESCRIPTION:If you're fascinated by history and love to dance\, join us fo
+ r a Medieval Dance Class! Learn authentic dances from the time period and 
+ immerse yourself in the rhythm and culture of yesteryear. No experience ne
+ cessary—just bring your enthusiasm and get ready to have fun! This progr
+ am is for teens and adults.\nSi te fascina la historia y te encanta bailar
+ \, ¡ven a nuestra clase de danza medieval! Aprende bailes auténticos de 
+ la época y sumérgete en el ritmo y la cultura de antaño. No se necesita
+  experiencia\, ¡solo traiga su entusiasmo y prepárese para divertirse! E
+ ste programa es para adolescentes y adultos.
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b492d0b48451fc3c08c48e
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -17549,6 +17816,25 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technology Open Lab
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T220000Z
+UID:698fa0b93cc3e0c9ecb92e10@wccls.bibliocommons.com
+DESCRIPTION:Need help getting started with e-books\, adding an app to your
+  smartphone\, or updating your email contacts? Volunteers will be availabl
+ e at Open Lab to answer questions. Bring your own computer\, tablet\, cell
+ phone\, or e-reader with you to get assistance or use one of our laptops t
+ o practice. Be sure to have any usernames and passwords available for acc
+ ounts you need help navigating.\nOur spring session of Technology Open Lab
+  meets 1-3 pm on Thursdays\, 3/12\, 3/26\, 4/9\, 4/23\, 5/14\, and 5/28.\n
+ Drop-in sessions\, no registration is required\, but there is limited spac
+ e each session.\nFor more information please call 503-644-0043 or ask staf
+ f at any service desk.
+LOCATION:Cedar Mill Library\, Main Library Floor
+URL:https://wccls.bibliocommons.com/v2/events/698fa0b93cc3e0c9ecb92e10
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Technology Open Lab
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260423T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260423T220000Z
 UID:698fa0b93cc3e0c9ecb92e0f@wccls.bibliocommons.com
@@ -17777,6 +18063,22 @@ DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
  .
 LOCATION:Hillsboro Public Library\, Brookwood
 URL:https://wccls.bibliocommons.com/v2/events/6932400b94297d36009e5b11
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read to the Dogs/Lee a los perros
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260514T233000Z
+UID:6932400b94297d36009e5b12@wccls.bibliocommons.com
+DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
+ ned therapy dog (accompanied by their handler) in a private 20-minute sess
+ ion. Grades K – 12.\n¿Quieres mejorar tus habilidades y tu confianza? I
+ nscríbete para leer en voz alta a perros de terapia (acompañados por un 
+ entrenador) en una sesión privada de 20 minutos. K – 12o grado.\nYou ma
+ y sign up for one(1) Read to the Dogs session within a one(1) month period
+ .
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6932400b94297d36009e5b12
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -18069,6 +18371,24 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class Provided by SOAR
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260515T003000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T023000Z
+UID:698e3bba4dacf581ff7ae198@wccls.bibliocommons.com
+DESCRIPTION:Thursdays\, April 9 - June 25\nThese free Citizenship classes 
+ are designed to prepare learners for the U.S. naturalization interview and
+  exam\, which includes an assessment of English reading and writing abilit
+ ies\, U.S. history\, and government. Study ONLINE or IN-PERSON.\nParticipa
+ nts will:\nStudy U.S. history and civics lessons (100 questions on citizen
+ ship exam)\nImprove your English speaking\, listening\, writing\, and read
+ ing\nPractice for the naturalization interview\nSign up at:\nhttps://soarl
+ egal.org/our-services/citizenship-classes/\nFor more information\, call (5
+ 03) 379-1598 or email\njstephenson@emoregon.org
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/698e3bba4dacf581ff7ae198
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class Provided by SOAR
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260508T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260508T023000Z
 UID:698e3bba4dacf581ff7ae197@wccls.bibliocommons.com
@@ -18200,6 +18520,44 @@ X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Read to the Dogs/Lee a los perros
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T233000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+UID:6932400076261f28005d8d94@wccls.bibliocommons.com
+DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
+ ned therapy dog (accompanied by their handler) in a private 20-minute sess
+ ion. Grades K – 12.\n¿Quieres mejorar tus habilidades y tu confianza? I
+ nscríbete para leer en voz alta a perros de terapia (acompañados por un 
+ entrenador) en una sesión privada de 20 minutos. K – 12o grado.\nYou ma
+ y sign up for one(1) Read to the Dogs session within a one(1) month period
+ .
+LOCATION:Hillsboro Public Library\, Brookwood
+URL:https://wccls.bibliocommons.com/v2/events/6932400076261f28005d8d94
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Navigator One-On-One Tech Help
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260428T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260428T190000Z
+UID:69b461042866a5b48841de51@wccls.bibliocommons.com
+DESCRIPTION:Digital Navigator One-On-One Tech Help each Tuesday from 10:0
+ 0 a.m. -12:00 p.m. in the library.\nNeed help with digital questions or jo
+ b searches? This free program is in partnership with American Connection C
+ orps & The Washington County Broadband Action Team. Bring your own device 
+ or use library computers.\nSign up for a 1 hour appointment.\nIf no appoin
+ tments are scheduled drop in tech help will be available.\nThe Digital Nav
+ igator Program (DNP) is a free service made possible by a partnership\nbet
+ ween Washington County Cooperative Library Services (WCCLS) and the Washin
+ gton\nCounty Broadband Action Team. The DNP is funded in part by American 
+ Connections\nCorps\, an AmeriCorps program dedicated to advancing economic
+  prosperity by bridging\nthe digital divide. This project is being support
+ ed\, in part\, by federal award number\nSLFRP0228 awarded to Washington Co
+ unty by the U.S. Department of the Treasury.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b461042866a5b48841de51
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read to the Dogs/Lee a los perros
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260416T233000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260417T000000Z
 UID:6932400076261f28005d8d90@wccls.bibliocommons.com
@@ -18244,20 +18602,6 @@ DESCRIPTION:Want to build your skills and confidence? Read aloud to a trai
  .
 LOCATION:Hillsboro Public Library\, Brookwood
 URL:https://wccls.bibliocommons.com/v2/events/6932400076261f28005d8d8d
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clase de computación: Conceptos básicos de las computadoras
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T004500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T024500Z
-UID:6994fdc24a9fd98b7f7eb113@wccls.bibliocommons.com
-DESCRIPTION:Si sabe algo sobre el uso del ratón y el teclado\, pero todav
- ía no sabe cómo usar una computadora\, esta es la clase para usted. Apre
- nder cómo usar una Chromebook y buscar en internet. La biblioteca proporc
- ionará Chromebooks para uso de los estudiantes durante las clases.\n*Requ
- iere registrarse
-LOCATION:Hillsboro Public Library\, Shute Park
-URL:https://wccls.bibliocommons.com/v2/events/6994fdc24a9fd98b7f7eb113
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -18457,6 +18801,30 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English for Speakers of Other Languages / Inglés para hablantes d
  e otros idiomas
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T000000Z
+UID:69af502e4a9fd98b7f8335d0@wccls.bibliocommons.com
+DESCRIPTION:Inglés para hablantes de otros idiomas\, clase de nivel inici
+ al\, los jueves de 4:00 a 5:00 p. m. en la biblioteca\nGoodwill Industries
+  está ofreciendo clases de inglés gratuitas para personas que hablan otr
+ os idiomas. Esta clase es una introducción a habilidades básicas de gram
+ ática\, lectura\, escritura\, comprensión y expresión oral para estudia
+ ntes que pueden leer y escribir en su idioma materno. Trabajaremos juntos 
+ para aprender nuevo vocabulario y patrones oracionales\, así también com
+ o a comunicarse utilizando un inglés sencillo. No es necesario inscribirs
+ e.\nEnglish for Speakers of Other Languages Beginning Level Class Thursday
+ s from 4:00-5:00p.m. in the library\nGoodwill Industries is offering free 
+ English classes for speakers of other languages. This class is an introduc
+ tion to basic grammar\, reading\, writing\, listening\, and speaking skill
+ s. We will work together to learn new vocabulary\, sentence patterns\, and
+  communication using simple English. Registration is not required.
+LOCATION:North Plains Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69af502e4a9fd98b7f8335d0
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English for Speakers of Other Languages / Inglés para hablantes d
+ e otros idiomas
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260507T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260508T000000Z
 UID:69af502e4a9fd98b7f8335cf@wccls.bibliocommons.com
@@ -18648,6 +19016,22 @@ URL:https://wccls.bibliocommons.com/v2/events/698d0a391e64afd01e5ace63
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red Cross Blood Drive
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260316T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260317T000000Z
+UID:69b4a59f8d5e2d09336527d0@wccls.bibliocommons.com
+DESCRIPTION:The Cornelius Public Library will be hosting another Red Cross
+  blood drive this Monday\, March 16 from 12 to 5pm. Every donation makes a
+  difference.\nRegister ahead of time at:\nhttps://www.redcrossblood.org/gi
+ ve.html/donation-time...\nLa Biblioteca Pública de Cornelius organizará 
+ otra jornada de donación de sangre de la Cruz Roja este lunes 16 de marzo
+ \, de 12:00 a 17:00.Cada donación cuenta.\nRegístrese con anticipación 
+ en:\nhttps://www.redcrossblood.org/give.html/donation-time...
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/69b4a59f8d5e2d09336527d0
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260505T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260505T210000Z
@@ -18772,6 +19156,29 @@ URL:https://wccls.bibliocommons.com/v2/events/697a9235834cbb3dea2a0765
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual Program: Paintings of the American Revolution
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260318T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260318T020000Z
+UID:697116a16724c63d00ed735a@wccls.bibliocommons.com
+DESCRIPTION:Virtual event - Registration required. Details will be emailed
+  the day of the event.\nGarden Home Community Library is excited to be hos
+ ting a presentation by art historian and educator Mallory Mortillaro. In c
+ elebration of America's Semiquincentennial\, we present "Paintings of the 
+ American Revolution".\nWe all know the story of the Revolutionary War\, bu
+ t how much of our understanding is colored by the way the war\nwas depicte
+ d by artists? Paintings of the American Revolution have been essential in 
+ the way that the war was\nunderstood\, both at the time of the conflict an
+ d for generations after. This lecture will explore well-known paintings\ns
+ uch as Emanuel Leutze’s Washington Crossing the Delaware\, John Trumbull
+ ’s Declaration of Independence\, and\nAsher Durand’s The Capture of Ma
+ jor André.\nMortillaro is an art historian and educator. She has ten year
+ s of teaching experience and has worked on various art research projects f
+ or museums and organizations in the New York metropolitan area. She studie
+ d at Drew University.
+URL:https://wccls.bibliocommons.com/v2/events/697116a16724c63d00ed735a
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Truth and AI: Misinformation\, Deepfakes\, and the Digital World
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260403T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260403T020000Z
@@ -18792,29 +19199,6 @@ DESCRIPTION:AI can create photos\, videos\, and stories that look real but
  ticky notes and colorful pens.
 LOCATION:Sherwood Public Library
 URL:https://wccls.bibliocommons.com/v2/events/69adfdd34dacf581ff80841b
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solve Problems\, Lead Teams\, Drive Results: Why Project Managemen
- t?
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T020000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T030000Z
-UID:696febb530cbd582eff59438@wccls.bibliocommons.com
-DESCRIPTION:Interested in a career in project management? Join the Portlan
- d Chapter of the Project Management Institute for a hands-on exploration o
- f what project management is\, why it’s essential across industries\, an
- d share real-world case studies that highlight the impact of great project
-  leadership. You’ll also learn practical steps to start your journey - a
- nd there will be plenty of time to ask questions and talk about your own p
- rojects. Take the first step toward a rewarding new path!\nOpen to teens a
- nd adults.  Pizza and beverages will be provided.  Please register using 
- the link at the top of this page.\nPresented by Elizabeth Cychosz Johnson
- \, MA\, PMP\, Director of Community Outreach for the Project Management In
- stitute - Portland Chapter\, which promotes the profession of project mana
- gement by creating a culture and community that facilitates professional g
- rowth through education and volunteerism.
-LOCATION:Aloha Community Library
-URL:https://wccls.bibliocommons.com/v2/events/696febb530cbd582eff59438
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -19192,22 +19576,6 @@ DESCRIPTION:Inglés para hablantes de otros idiomas\, clase de nivel inici
   communication using simple English. Registration is not required.
 LOCATION:North Plains Public Library
 URL:https://wccls.bibliocommons.com/v2/events/69409f2d76261f28005f5755
-X-SOURCE:WCCLS Libraries
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bookbabies
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T180000Z
-UID:69409f784be11d3d00d84e6a@wccls.bibliocommons.com
-DESCRIPTION:Bookbabies Fridays at 10:00 a.m.\nMiss Chris guides parents an
- d caregivers through some inspirational early development activities for b
- abies and toddlers. Adults learn techniques that help expand learning expe
- riences at home with their child. Bonus: Visit with other parents and care
- givers while entertaining and educating your little one. Drop in\, no regi
- stration required.\nIf accommodations would help you attend one of our lib
- rary events or classes\, please ask. Our library events are always free!
-LOCATION:North Plains Public Library
-URL:https://wccls.bibliocommons.com/v2/events/69409f784be11d3d00d84e6a
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
@@ -20021,6 +20389,22 @@ URL:https://wccls.bibliocommons.com/v2/events/6998e4728b29ea2800d17379
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Basic Technology Class | Clase de Tecnología Básica
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260515T010000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T020000Z
+UID:6998e4728b29ea2800d1737a@wccls.bibliocommons.com
+DESCRIPTION:Take the first step towards mastering technology! Our class is
+  designed to teach the basics and help you become proficient in using comp
+ uters\, office software\, browsing the internet\, sending emails\, and mor
+ e.\n¡Ven y da el primer paso para dominar la tecnología! Nuestra clase e
+ stá diseñada para aprender los conceptos básicos y ayudarte a dominar e
+ l uso de computadoras\, software de oficina\, navegar por Internet\, envia
+ r correos electrónicos y más.
+LOCATION:Cornelius Public Library
+URL:https://wccls.bibliocommons.com/v2/events/6998e4728b29ea2800d1737a
+X-SOURCE:WCCLS Libraries
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DIY Craftshop: Felted Portraits
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20260321T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20260321T190000Z
@@ -20122,9 +20506,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Navigator – One-on-One Tech Help/ Navegador Digital – 
  Apoyo Uno a Uno
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20260313T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20260313T233000Z
-UID:699ce8f24a9fd98b7f801465@wccls.bibliocommons.com
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20260514T173000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20260515T010000Z
+UID:699ce8ca8b29ea2800d206ae@wccls.bibliocommons.com
 DESCRIPTION:Do you have questions about how to use a mobile phone or a com
  puter? Do you need help setting up a social media account? Schedule a 45-m
  inute appointment to receive technology assistance with a Digital Navigato
@@ -20140,7 +20524,7 @@ DESCRIPTION:Do you have questions about how to use a mobile phone or a com
  bilidad de citas. Soporte en español disponible sólo en la Biblioteca de
   Shute Park.
 LOCATION:Hillsboro Public Library\, Shute Park
-URL:https://wccls.bibliocommons.com/v2/events/699ce8f24a9fd98b7f801465
+URL:https://wccls.bibliocommons.com/v2/events/699ce8ca8b29ea2800d206ae
 X-SOURCE:WCCLS Libraries
 END:VEVENT
 BEGIN:VEVENT

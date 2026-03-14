@@ -4,20 +4,6 @@ PRODID:-//Portland Classes & Activities//portland.gov//
 X-WR-CALNAME:Portland Classes & Activities
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Renaissance Winds Recital
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260312T193000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260312T193000
-UID:fbefedf807e8ac905aeff2d5d5a05a83@portland.gov
-ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
- les/facebook/public/2023/cmc-event-image.2_0.jpg?itok=p-mqy3TG
-DESCRIPTION:Community Music Center's recorder ensembles play their newly d
- iscovered and polished musical gems.
-LOCATION:Community Music Center
-URL:https://www.portland.gov/parks/arts-culture/events/2026/3/12/renaissan
- ce-winds-recital
-X-SOURCE:Portland Classes & Activities
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SAP Ariba Supplier Registration- March 16\, 2026\, 1:00 PM- 3:00 P
  M
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260316T130000
@@ -43,6 +29,23 @@ DESCRIPTION:This workshop is for tree care professionals who work in Portl
  e included on the City's Local Tree Care Providers web page.
 URL:https://www.portland.gov/trees/events/2026/3/20/local-tree-care-provid
  ers-workshop
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Break Play Swim
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260323T000000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260329T000000
+UID:82526782f2aa312698b8f77c21b431b1@portland.gov
+ATTACH;FMTTYPE=image/jpeg:https://www.portland.gov/sites/default/files/sty
+ les/facebook/public/2026/DSC_0015.JPG?itok=l4FB12k8
+DESCRIPTION:During school breaks\, Portland Parks & Recreation community c
+ enters adjust their Play Swim schedules to give families more opportunitie
+ s to enjoy the pool during the day. Check this page for updated swim times
+  at each location during school holidays and breaks.
+LOCATION:East Portland Community Center 740 SE 106th Ave Portland\n       
+                    \, OR\n                           97216 Get directions 
+ More about this location Matt Dishman Community Center
+URL:https://www.portland.gov/parks/events/2026/3/23/school-break-play-swim
 X-SOURCE:Portland Classes & Activities
 END:VEVENT
 BEGIN:VEVENT
@@ -182,6 +185,17 @@ DESCRIPTION:CMC Suzuki students play through many favorite compositions fr
 LOCATION:Community Music Center
 URL:https://www.portland.gov/parks/arts-culture/events/2026/4/25/suzuki-al
  l-play
+X-SOURCE:Portland Classes & Activities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music recital for the students of Abby Grush
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260502T130000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260502T130000
+UID:1feb09a101c48e157f65090199acc6a5@portland.gov
+DESCRIPTION:Featuring performances on piano and guitar.
+LOCATION:Community Music Center
+URL:https://www.portland.gov/parks/arts-culture/events/2026/5/2/music-reci
+ tal-students-abby-grush
 X-SOURCE:Portland Classes & Activities
 END:VEVENT
 BEGIN:VEVENT

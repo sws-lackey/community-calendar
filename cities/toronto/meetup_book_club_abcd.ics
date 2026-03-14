@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_312885146@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T015954Z
+DTSTAMP:20260314T052355Z
 DTSTART;TZID=America/Toronto:20260331T190000
 DTEND;TZID=America/Toronto:20260331T210000
 SUMMARY:ABCD Reads "The Age of Innocence" by Edith Wharton
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313229064@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T015954Z
+DTSTAMP:20260314T052355Z
 DTSTART;TZID=America/Toronto:20260414T190000
 DTEND;TZID=America/Toronto:20260414T210000
 SUMMARY:ABCD Reads "Interpreter of Maladies" by Jhumpa Lahiri
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313415250@meetup.com
 SEQUENCE:1
-DTSTAMP:20260313T015954Z
+DTSTAMP:20260314T052355Z
 DTSTART;TZID=America/Toronto:20260505T190000
 DTEND;TZID=America/Toronto:20260505T210000
 SUMMARY:ABCD Reads "What We Can Know" by Ian McEwan
@@ -68,6 +68,21 @@ CREATED:20260218T171725Z
 LAST-MODIFIED:20260218T171725Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/8/8/6/600_532802182.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313763982@meetup.com
+SEQUENCE:1
+DTSTAMP:20260314T052355Z
+DTSTART;TZID=America/Toronto:20260526T190000
+DTEND;TZID=America/Toronto:20260526T210000
+SUMMARY:ABCD Reads AND Watches "Train Dreams"
+DESCRIPTION:A Book Club\, Downtown (ABCD)\n[[RESULTS](https://opavote.com/results/4829900303499264) of the poll for this event]\n\nABCD Reads AND Watches "**Train Dreams**"\, a [novella](https://tpl.bibliocommons.com/v2/record/S234C2792355) written by Denis Johnson\, and a [film](https://www.justwatch.com/ca/movie/train-dreams) directed by Clint Bentley.\n\n**:: ABOUT THE BOOK ::**\n"Suffused with the history and landscapes of the American West—its otherworldly flora and fauna\, its rugged loggers and bridge builders—this extraordinary novella poignantly captures the disappearance of a distinctly American way of life.\nTrain Dreams tells the story of Robert Grainer\, a day laborer in the American West at the start of the twentieth century—an ordinary man in extraordinary times. Buffeted by the loss of his family\, Grainer struggles to make sense of this strange new world. As his story unfolds\, we witness both his shocking personal defeats and the radical changes that transform America in his lifetime." (from [Goodreads](https://www.goodreads.com/book/show/12991188-train-dreams))\n\n**:: ABOUT THE MOVIE ::**\n"Train Dreams is the moving portrait of Robert Grainier (Golden Globe-nominee Joel Edgerton)\, whose life unfolds during an era of unprecedented change in early 20th century America. Orphaned at a young age\, Robert grows into adulthood among the towering forests of the Pacific Northwest\, where he helps expand the nation's railroad empire alongside men as unforgettable as the landscapes they inhabit. After a tender courtship\, he marries Gladys (Academy Award-nominee Felicity Jones) and they build a home together\, though his work often takes him far from her and their young daughter. When his life takes an unexpected turn\, Robert finds beauty\, brutality and newfound meaning for the forests and trees he has felled." (from [Rotten Tomatoes](https://www.rottentomatoes.com/m/train_dreams))\n\n**:: ABOUT THE EVENT ::**\nInstead of just reading the book as usual\, this time we're asking that you also watch the movie adaptation. During our discussion\, we'll explore the strengths of both the book and the movie\, evaluate the adaptation's effectiveness\, and touch on any other topics that arise.\n\nYou are welcome to arrive 30 minutes before the event and stay 30 minutes or longer afterward to connect with other attendees outside the book talk.\n\nPlease ensure you have read the book and watched the movie before attending (though finishing either is not a barrier to participating\, as long as you don't mind spoilers).\n\nFirst-time attendees can join for free. If the event is full\, we maintain an unofficial waitlist. Please send [Michael](https://www.meetup.com/members/55295192/) a direct message for more information\, in either case.\n\nWe request a $3 contribution from regular attendees to help cover our monthly meetup costs.\n\n**:: ABOUT OUR NEXT READ&WATCH ::**\nAt the end of each event\, we will ask for nominees for our next Read & Watch (date TBA). If you have a good pairing in mind\, please ensure that the book is between 200-400 pages long\, available from the Toronto Public Library\, and counts as contemporary literary fiction (though these are not hard and fast rules)\, and that the movie or TV-series is readily available. When enough nominees are collected\, Michael will send the members a direct message with a link where you can vote.
+URL;VALUE=URI:https://www.meetup.com/a-book-club-downtown-abcd/events/313763982/
+STATUS:CONFIRMED
+CREATED:20260313T005848Z
+LAST-MODIFIED:20260313T005848Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/2/6/4/e/600_533169806.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/a-book-club-downtown-abcd/events/ical/
 X-WR-CALNAME:A Book Club\, Downtown (ABCD)

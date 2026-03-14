@@ -347,6 +347,21 @@ UID:8856
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Non-race bike ride from Cardinal Bicycles on Winborne Street i
+ n Grandin\, down Memorial Ave to the Greenway\, on the Greenway and back 
+ to Cardinal Bicycles.  https://www.roanokeva.gov/calendar.aspx?EID=8890
+DTEND;TZID=America/New_York:20260606T120000
+DTSTAMP;TZID=America/New_York:20260313T110101
+DTSTART;TZID=America/New_York:20260606T083000
+LAST-MODIFIED;TZID=America/New_York:20260313T110101
+LOCATION:<p>Cardinal Bicycles and Roanoke River Greenway</p> - 1312 Winbor
+ ne St SW  Roanoke VA 24015
+SEQUENCE:0
+SUMMARY:20K for the Greenway
+UID:8890
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Beer and bands to raise money for local charities. https://www
  .roanokeva.gov/calendar.aspx?EID=8698
 DTEND;TZID=America/New_York:20260605T213000
@@ -618,6 +633,27 @@ UID:8853
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Paws for Mental Health is a FREE community event designed for 
+ youth and families to promote mental wellness and resilience. The event w
+ ill feature trained therapy dogs from Therapets\, a nationally recognized
+  Pet Partners of America group\, as the main attraction. Anyone attending
+  will be able to interact with the dogs. In addition to the therapy dogs\
+ , the event will include various mental health and wellness resources\, e
+ ducational activities\, interactive activities\, and food trucks. https:/
+ /www.roanokeva.gov/calendar.aspx?EID=8889
+DTEND;TZID=America/New_York:20260516T130000
+DTSTAMP;TZID=America/New_York:20260313T103909
+DTSTART;TZID=America/New_York:20260516T100000
+LAST-MODIFIED;TZID=America/New_York:20260313T103909
+LOCATION:<p>River&apos\;s Edge Sports Complex - North</p> -   Roanoke VA 2
+ 4011
+SEQUENCE:0
+SUMMARY:Paws for Mental Health\, presented by Teen Ambassadors of Tudor Ho
+ use
+UID:8889
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Wednesday Night Disco is a mountain bike race series that will
   happen on the on May 13th and the 27th. The race starts at the bottom of
   Mill Mountain and races to the top of the mountain\, finishing at the Di
@@ -720,6 +756,22 @@ LOCATION:<p>Upper Washington Park</p> -   Roanoke VA 24011
 SEQUENCE:0
 SUMMARY:Youth Mountain Bike Race
 UID:8823
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As last year\, we'll have about 25 vendors offering education 
+ about ways to reuse and repair things thereby diverting them from the lan
+ dfill.  Some will offer workshops and demonstrations\; some will sell thi
+ ngs made out of recycled or repurposed materials https://www.roanokeva.go
+ v/calendar.aspx?EID=8892
+DTEND;TZID=America/New_York:20260502T150000
+DTSTAMP;TZID=America/New_York:20260313T134854
+DTSTART;TZID=America/New_York:20260502T100000
+LAST-MODIFIED;TZID=America/New_York:20260313T134854
+LOCATION:<p>River&apos\;s Edge Park North</p> -   Roanoke VA 24011
+SEQUENCE:0
+SUMMARY:Rethink Reuse Repair Fair
+UID:8892
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
@@ -886,6 +938,19 @@ LOCATION:<p data-pasted="true">Black Dog Salvage (assembly area and start/
 SEQUENCE:0
 SUMMARY:Sunday Slow-K presented by Altra
 UID:8607
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Behind the screams event lights on tour of Haunt with music in
+  midway holding lot https://www.roanokeva.gov/calendar.aspx?EID=8891
+DTEND;TZID=America/New_York:20260418T230000
+DTSTAMP;TZID=America/New_York:20260313T132835
+DTSTART;TZID=America/New_York:20260418T180000
+LAST-MODIFIED;TZID=America/New_York:20260313T132835
+LOCATION:<p>Terror Manor</p> - 805 Norfolk Ave SW  Roanoke VA 24016
+SEQUENCE:0
+SUMMARY:Screamiverse Behind the Screams Tour
+UID:8891
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
