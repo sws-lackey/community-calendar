@@ -14,6 +14,8 @@
 | First Presbyterian Church | `https://firstpresevanston.org/events/?ical=1` | WordPress + The Events Calendar; ~30 events |
 | Garrett-Evangelical Seminary | `https://www.garrett.edu/events/?ical=1` | WordPress + The Events Calendar; ~30 events; lectures, workshops |
 | Village of Skokie Community Calendar | `https://www.skokie.org/common/modules/iCalendar/iCalendar.aspx?catID=22&feed=calendar` | CivicPlus; 25 events |
+| Village of Skokie Public Meetings | `https://www.skokie.org/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar` | CivicPlus; ~373 events; boards, commissions |
+| Evanston Bicycle Club | `https://ics.teamup.com/feed/ks4f2ityp82zqj3zsh/0.ics` | TeamUp ICS; ~282 events; rides & cycling events |
 | City of Evanston (Events) | `scrapers/revize.py` (Events category) | Revize CMS JSON API; ~51 events |
 | City of Evanston (Meetings) | `scrapers/revize.py` (Meetings category) | Revize CMS JSON API; ~103 events |
 | City of Evanston (City Council) | `scrapers/revize.py` (City Council category) | Revize CMS JSON API; ~11 events |
@@ -134,8 +136,12 @@
 | First Congregational Church | Squarespace, per-event ICS only, no master feed |
 | First Church of Christ, Scientist | WordPress, no events page |
 
+| Celtic Knot Public House | Squarespace, under construction |
+| Evanston Chamber of Commerce | 403 Forbidden on events page |
+| Rotary Club of Evanston | SSL expired, site down |
+| Woman's Club of Evanston | No working website found |
+| Canal Shores Golf Course | WordPress + TEC, but dormant since 2023 |
+
 ## To Investigate
 
-- [ ] Evanston Farmers Market
-- [ ] Celtic Knot Public House events
-- [ ] Skokie Village other calendar categories (Health/Human Services, Public Meetings, Sustainability, Storefront)
+- [ ] Evanston Farmers Market (city page 404, may be seasonal)
