@@ -30,6 +30,7 @@
 | Gichigamiin Indigenous Nations Museum | `https://gichigamiin-museum.org/events/?ical=1` | WordPress + The Events Calendar; ~19 events; fka Mitchell Museum |
 | Skokie Storefront (cultural events) | `skokie.org/...iCalendar.aspx?catID=40` | CivicPlus; ~17 events; art, sound baths, markets |
 | Wilmette Park District | `https://www.wilmettepark.org/events/?ical=1` | WordPress + The Events Calendar; ~8 events |
+| SPACE (Songkick) | `songkick.com/venues/34741-space` | Artist-sourced music events; ~5 events; supplements Ticketmaster |
 
 ### Libraries
 | Source | Feed URL | Notes |
