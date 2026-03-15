@@ -46,7 +46,8 @@
 | Source | Feed URL | Notes |
 |--------|----------|-------|
 | Oakton Community College | `https://events.oakton.edu/calendar/1.ics` | Localist; ~200 calendar resources |
-| Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~20 arts/humanities events |
+| Northwestern University (Arts) | `scrapers/planitpurple.py` (category 2) | PlanIt Purple XML feed; ~283 arts/humanities events |
+| Northwestern University (Community) | `scrapers/planitpurple.py` (categories 1,4,10,11,14,17,19-23) | PlanIt Purple; ~94 public Evanston events; lectures, seminars, community |
 | District 65 | `scrapers/finalsite.py` | Finalsite CMS; ~18 events (K-8 school calendar) |
 | ETHS District 202 | `scrapers/finalsite.py` | Finalsite CMS; ~18 events (high school calendar) |
 
@@ -99,6 +100,7 @@
 | Homeschool + Hue | `eventbrite.com/o/121090594971` | Family meetups for children of color; Zora's Place |
 | BLAST Northwestern | `eventbrite.com/o/121097824224` | Dance performances at Ryan Auditorium |
 | Evanston Art Center | `eventbrite.com/o/evanston-art-center-30064651634` | ~1 upcoming, 205 total; workshops, classes |
+| Buffett Institute for Global Affairs | `eventbrite.com/o/16945016582` | ~8 events; free public lectures, symposia |
 
 ### Ticketmaster (via Discovery API)
 | Source | Query | Notes |

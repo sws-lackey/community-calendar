@@ -865,6 +865,7 @@ jobs:
         python scrapers/revize.py --webspace evanstonil --host cityofevanston.org --name "City of Evanston Meetings" --categories "Meetings" --output cities/evanston/city_of_evanston_meetings.ics || true
         python scrapers/revize.py --webspace evanstonil --host cityofevanston.org --name "City of Evanston City Council" --categories "City Council" --output cities/evanston/city_of_evanston_council.ics || true
         python scrapers/planitpurple.py --categories 2 --days 60 --name "Northwestern University" --output cities/evanston/northwestern.ics || true
+        python scrapers/planitpurple.py --categories 1,4,10,11,14,17,19,20,21,22,23 --days 60 --audience 3 --location 1 --name "Northwestern University (Community)" --output cities/evanston/northwestern_community.ics || true
         python scrapers/chicagobotanic.py --output cities/evanston/chicago_botanic.ics || true
         # Enjoy Evanston (Tockify)
         curl -sL "https://tockify.com/api/feeds/ics/enjoyevanston" -o cities/evanston/enjoy_evanston.ics || true
@@ -917,6 +918,7 @@ jobs:
         python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/121090594971" --name "Homeschool + Hue" -o cities/evanston/eb_homeschool_hue.ics || true
         python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/121097824224" --name "BLAST Northwestern" -o cities/evanston/eb_blast_northwestern.ics || true
         python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/evanston-art-center-30064651634" --name "Evanston Art Center" -o cities/evanston/eb_evanston_art_center.ics || true
+        python scrapers/eventbrite.py --url "https://www.eventbrite.com/o/16945016582" --name "Buffett Institute" -o cities/evanston/eb_buffett_institute.ics || true
         # Ticketmaster (requires TICKETMASTER_API_KEY secret)
         if [ -n "$TICKETMASTER_API_KEY" ]; then
           python scrapers/ticketmaster.py --promoter-id 6085 --name "Ticketmaster/Evanston" --timezone America/Chicago -o cities/evanston/ticketmaster_evanston.ics || true
