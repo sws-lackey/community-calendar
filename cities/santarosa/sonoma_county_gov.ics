@@ -299,40 +299,6 @@ URL:http://sonomacounty.gov/holiday-closure-cesar-chavez-day-2026
 X-SOURCE:Sonoma County Government
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Science Saturdays: Craft a Habitat 1-2pm
-DTSTART;VALUE=DATE-TIME:20260314T130000
-DTEND;VALUE=DATE-TIME:20260314T140000
-UID:107dea71887430588822c9715ee93cbf@sonomacounty.gov
-DESCRIPTION:Bring your junior scientist over to the EDC to enjoy a KIDS-ON
- LY\, interactive science and art hour.
-LOCATION:Sonoma County\, CA
-URL:https://secure.sonomacountyparks.org/registration/science-saturdays-cr
- aft-a-habitat-12pm
-X-SOURCE:Sonoma County Government
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Science Saturdays: Craft a Habitat 11am-12pm
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T120000
-UID:b86e3779baea5cb9e9e71ca645dd19aa@sonomacounty.gov
-DESCRIPTION:Bring your junior scientist over to the EDC to enjoy a KIDS-ON
- LY\, interactive science and art hour.
-LOCATION:Sonoma County\, CA
-URL:https://secure.sonomacountyparks.org/registration/science-saturdays-cr
- aft-a-habitat-11am12pm-Sp26-2
-X-SOURCE:Sonoma County Government
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feelin' Crabby
-DTSTART;VALUE=DATE-TIME:20260315T100000
-DTEND;VALUE=DATE-TIME:20260315T120000
-UID:2d3d233a158d02d6164a16602b1c7b53@sonomacounty.gov
-DESCRIPTION:Develop hands-on crabbing skills and knowledge.
-LOCATION:Sonoma County\, CA
-URL:https://secure.sonomacountyparks.org/registration/feelin-crabby-Sp26-1
-X-SOURCE:Sonoma County Government
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Volunteer: Ice Plant Removal
 DTSTART;VALUE=DATE-TIME:20260318T093000
 DTEND;VALUE=DATE-TIME:20260318T123000
@@ -1272,6 +1238,31 @@ DESCRIPTION:Learn the basics of Sit-on-Top kayaking!
 LOCATION:Sonoma County\, CA
 URL:https://secure.sonomacountyparks.org/registration/kayak-introductory-s
  kills-Sp26-2
+X-SOURCE:Sonoma County Government
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parks After Dark: Adapting to Darkness
+DTSTART;VALUE=DATE-TIME:20260516T193000
+DTEND;VALUE=DATE-TIME:20260516T213000
+UID:6e879e92dac0d007012e0fecea44fc72@sonomacounty.gov
+DESCRIPTION:Engage with the beautiful and often unseen world of parks afte
+ r dark!
+LOCATION:Sonoma County\, CA
+URL:https://secure.sonomacountyparks.org/registration/parks-after-dark-ada
+ pting-to-darkness-Sp26
+X-SOURCE:Sonoma County Government
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vamos a Nadar: Petaluma Swim Center
+DTSTART;VALUE=DATE-TIME:20260516T110000
+DTEND;VALUE=DATE-TIME:20260516T133000
+UID:c0cda03fe8571f5fff6fd0a4ff9371e6@sonomacounty.gov
+DESCRIPTION:Aprendan lecciones de seguridad en el agua para todas y obteng
+ an una lección de natación para los niños. Reciben un cupón para lecci
+ ones de natación a un costo reducido.
+LOCATION:Sonoma County\, CA
+URL:https://secure.sonomacountyparks.org/registration/vamos-a-nadar-26.05.
+ 16
 X-SOURCE:Sonoma County Government
 END:VEVENT
 BEGIN:VEVENT

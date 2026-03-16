@@ -8,48 +8,6 @@ X-WR-CALDESC:\n
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260215T180000Z
-DTEND:20260215T230000Z
-DTSTAMP:20260215T000000Z
-SUMMARY:[Outside Org]  Imani
-DESCRIPTION:
-LOCATION:Montclair Main - Conference Room
-ORGANIZER;CN="Montclair Library":MAILTO:events@montclairlibrary.org
-CATEGORIES:
-UID:LibCal-10306-15581139
-URL:https://bccls.libcal.com/event/15581139
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T200000Z
-DTEND:20260215T210000Z
-DTSTAMP:20260215T000000Z
-SUMMARY:Celebrate Galileo's Birthday with author Ted Samara (recommended for ages 4-8)
-DESCRIPTION:Join us to celebrate Galileo's 462nd Birthday! Did you know 
- Galileo was born on Feb 15 in 1564? Enjoy some games and meet author Ted 
- Samaras who will be joining us to read from his book\, I'll Visit Space 
- From Here! \n\nRegistration is recommended but not required.\n\n \n\n
-LOCATION:Montclair Main - Green Room\, Montclair Public Library
-ORGANIZER;CN="Montclair Library":MAILTO:events@montclairlibrary.org
-CATEGORIES:Author Talk, Children's Programs
-UID:LibCal-10306-15131604
-URL:https://bccls.libcal.com/event/15131604
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260215T213000Z
-DTEND:20260215T223000Z
-DTSTAMP:20260215T000000Z
-SUMMARY:Family Board Game Hour
-DESCRIPTION:Join Ms. Jenny and her daughter Sally as they share their love 
- for board games with families like yours! We’ll have games available for 
- a wide range of ages\, or you can bring your own.\n\nHave fun with other 
- local families and you’ve already won!
-LOCATION:Montclair Main - Green Room
-ORGANIZER;CN="Montclair Library":MAILTO:events@montclairlibrary.org
-CATEGORIES:Children's Programs
-UID:LibCal-10306-16241632
-URL:https://bccls.libcal.com/event/16241632
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260217T153000Z
 DTEND:20260217T161500Z
 DTSTAMP:20260217T000000Z
@@ -8784,6 +8742,53 @@ ORGANIZER;CN="Montclair Adult School":MAILTO:adultschool@montclairlibrary.org
 CATEGORIES:Adult School, Books, Film & Theater
 UID:LibCal-10306-16007102
 URL:https://bccls.libcal.com/event/16007102
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T140000Z
+DTEND:20260402T180000Z
+DTSTAMP:20260402T000000Z
+SUMMARY:Social Worker Office Hours
+DESCRIPTION:Margarette (they/them) can assist you with a variety of 
+ services. See below for details. \n\nAppointments 11:15 a.m.\, 12:15 p.m.\, 
+ 1:15 p.m.\n\nSome of the services Margarette provides to the 
+ community:\n\n\n	Connecting you with supportive services such as\, 
+ housing\, healthcare\, mental health\, legal aid\, & food 
+ support.\n	Assisting you in accessing unemployment\, Social Security\, 
+ Medicare\, & other government assistance programs.\n	Equipping you with 
+ tools and guidance for job searches\, resume building\, and navigating 
+ college & job applications.\n
+LOCATION:Montclair Main - Staff Instruction Room\, Montclair Public Library
+ORGANIZER;CN="Montclair Library":MAILTO:events@montclairlibrary.org
+CATEGORIES:Health & Wellness
+UID:LibCal-10306-15557483
+URL:https://bccls.libcal.com/event/15557483
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T140000Z
+DTEND:20260402T200000Z
+DTSTAMP:20260402T000000Z
+SUMMARY:[Outside Org]  AARP Tax Prep
+DESCRIPTION:
+LOCATION:Montclair Main - Auditorium
+ORGANIZER;CN="Montclair Library":MAILTO:events@montclairlibrary.org
+CATEGORIES:Finances, Outside Organization
+UID:LibCal-10306-14882588
+URL:https://bccls.libcal.com/event/14882588
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T143000Z
+DTEND:20260402T150000Z
+DTSTAMP:20260402T000000Z
+SUMMARY:Estimulación Musical para la Primera Infancia (Para bebés hasta 3 años)
+DESCRIPTION:\n\nAprende\, canta y muévete al tierno ritmo de la música 
+ mientras aprendes con tu bebé. \n\nLearn\, sing and move with your baby in 
+ this Immersive Spanish lapsit. \n\n\n\n \n\nTo stay informed\, sign up for 
+ one or all of our eNewsletters\, click here.
+LOCATION:Montclair Bellevue Ave Branch - Kids Place\, Montclair Bellevue Avenue Branch
+ORGANIZER;CN="Montclair Bellevue Avenue Branch":MAILTO:branch-events@montclairlibrary.org
+CATEGORIES:Bellevue Avenue Branch, Children's Programs, Storytime
+UID:LibCal-10306-16526694
+URL:https://bccls.libcal.com/event/16526694
 END:VEVENT
 
 END:VCALENDAR

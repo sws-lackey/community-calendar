@@ -4,43 +4,6 @@ PRODID:-//Sonoma County Parks//parks.sonomacounty.ca.gov//
 X-WR-CALNAME:Sonoma County Parks
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Science Saturdays: Craft a Habitat 1-2pm
-DTSTART;VALUE=DATE-TIME:20260314T130000
-DTEND;VALUE=DATE-TIME:20260314T140000
-UID:107dea71887430588822c9715ee93cbf@parks.sonomacounty.ca.gov
-DESCRIPTION:March 14\, 2026|1:00 pm - 2:00 pm|Environmental Discovery Cent
- er Spring Lake Regional Park
-LOCATION:Environmental Discovery Center Spring Lake Regional Park Bring yo
- ur junior scientist over to the EDC to enjoy a KIDS-ONLY\, interactive sci
- ence and art hour.
-URL:https://secure.sonomacountyparks.org/registration/science-saturdays-cr
- aft-a-habitat-12pm
-X-SOURCE:Sonoma County Parks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Science Saturdays: Craft a Habitat 11am-12pm
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T120000
-UID:b86e3779baea5cb9e9e71ca645dd19aa@parks.sonomacounty.ca.gov
-DESCRIPTION:March 14\, 2026|11:00 am - 12:00 pm|Environmental Discovery Ce
- nter Spring Lake Regional Park
-LOCATION:Environmental Discovery Center Spring Lake Regional Park Bring yo
- ur junior scientist over to the EDC to enjoy a KIDS-ONLY\, interactive sci
- ence and art hour.
-URL:https://secure.sonomacountyparks.org/registration/science-saturdays-cr
- aft-a-habitat-11am12pm-Sp26-2
-X-SOURCE:Sonoma County Parks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feelin' Crabby
-DTSTART;VALUE=DATE-TIME:20260315T100000
-DTEND;VALUE=DATE-TIME:20260315T120000
-UID:2d3d233a158d02d6164a16602b1c7b53@parks.sonomacounty.ca.gov
-DESCRIPTION:March 15\, 2026|10:00 am - 12:00 pm|Spud Point Marina
-URL:https://secure.sonomacountyparks.org/registration/feelin-crabby-Sp26-1
-X-SOURCE:Sonoma County Parks
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Volunteer: Ice Plant Removal
 DTSTART;VALUE=DATE-TIME:20260318T093000
 DTEND;VALUE=DATE-TIME:20260318T123000
@@ -1005,6 +968,28 @@ LOCATION:Spring Lake Regional Park Learn the basics of Sit-on-Top kayaking
  !
 URL:https://secure.sonomacountyparks.org/registration/kayak-introductory-s
  kills-Sp26-2
+X-SOURCE:Sonoma County Parks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parks After Dark: Adapting to Darkness
+DTSTART;VALUE=DATE-TIME:20260516T193000
+DTEND;VALUE=DATE-TIME:20260516T213000
+UID:6e879e92dac0d007012e0fecea44fc72@parks.sonomacounty.ca.gov
+DESCRIPTION:May 16\, 2026|7:30 pm - 9:30 pm|Helen Putnam Regional Park
+LOCATION:Helen Putnam Regional Park Engage with the beautiful and often un
+ seen world of parks after dark!
+URL:https://secure.sonomacountyparks.org/registration/parks-after-dark-ada
+ pting-to-darkness-Sp26
+X-SOURCE:Sonoma County Parks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vamos a Nadar: Petaluma Swim Center
+DTSTART;VALUE=DATE-TIME:20260516T110000
+DTEND;VALUE=DATE-TIME:20260516T133000
+UID:c0cda03fe8571f5fff6fd0a4ff9371e6@parks.sonomacounty.ca.gov
+DESCRIPTION:May 16\, 2026|11:00 am - 1:30 pm
+URL:https://secure.sonomacountyparks.org/registration/vamos-a-nadar-26.05.
+ 16
 X-SOURCE:Sonoma County Parks
 END:VEVENT
 END:VCALENDAR

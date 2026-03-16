@@ -341,175 +341,6 @@ X-BEDEWORK-THUMB-IMAGE:/public/Images/Pratt March Madness pools flyer resi
 END:VEVENT
 BEGIN:VEVENT
 
-RECURRENCE-ID;TZID=America/New_York:20260315T110000
-CATEGORIES:Utilities
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20250520T150237Z
-DESCRIPTION:Join us in worship that offers stirring preaching\, inspiring 
- sacred music\, and faithful prayer. Held year-round amid the beautiful\, 
- soaring architecture of Duke Chapel\, this interdenominational Christian 
- service is characterized by vibrant faith\, intellectual depth\, diverse 
- cultural expressions\, and a welcoming community.\n\nTo attend a service\
- , navigate to 125 Science Drive\, Durham\, NC. Parking is available at th
- at address in the Bryan Center Garage with ADA parking in the adjacent su
- rface lot. Parking in the garage is free on Sunday until 2:00 p.m. when u
- sing the standard ticket issued upon entering the garage. Regular attende
- es of the service are encouraged to receive a pass for free parking on Su
- nday mornings at the visitor desk inside the Chapel.\n\nResources for the
-  service:\n* Make an offering online: https://chapel.duke.edu/offering \n
- * View an online version of the hymnal here: https://hymnary.org/hymnal/U
- MH\n\nA national leader in the theological study of the art of preaching\
- , Chapel Dean Luke A. Powery preaches regularly at this service\, along w
- ith a rotation of other Chapel ministers and renowned guest preachers. Th
- e acclaimed Duke Chapel Choir and Chapel organists lead the music\, suppl
- emented by student chamber groups\, professional instrumentalists\, and v
- isiting artists.\n\nServices are streamed live on YouTube and broadcast l
- ive on channel 12 of the Duke Hospital TV system and on the radio on 620 
- AM WDNC. Subscribe to the Duke Chapel Sermons podcast on Spotify or Apple
-  Podcasts. Find an archive of Chapel sermons on our website and a more ex
- tensive digital archive in the Duke Chapel Recordings collection on the D
- uke Libraries website.\n\nFor a listing of Christian education offerings 
- held before the service\, see the Duke Chapel website calendar.
-DURATION:PT1H15M
-DTSTAMP:20250912T142028Z
-DTSTART;TZID=America/New_York:20260315T110000
-LAST-MODIFIED:20250912T142028Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-281ad92b-00000024:Duke Chap
- el
-STATUS:CONFIRMED
-SUMMARY:University Worship
-UID:CAL-8a00048b-968cb292-0196-ee37d02d-00004ee0demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Congreg
- ationatDukeUniversityChapel,":Congregation at Duke University Chapel
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
-  Chapel
-X-BEDEWORK-DUKE-WEBCAST:https://www.youtube.com/DukeChapel
-X-BEDEWORK-IMAGE-X1:2
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:1000
-X-BEDEWORK-IMAGE-Y2:665.3333333333334
-X-BEDEWORK-IMAGE-CROP-WIDTH:998
-X-BEDEWORK-IMAGE-CROP-HEIGHT:665.3333333333334
-X-BEDEWORK-IMAGE-ALT-TEXT:A wide shot of the interior of Duke University C
- hapel during a Sunday morning worship service. On the left\, the congrega
- tion is visible from behind\, seated in pews facing the ornate altar and 
- a large\, vibrant stained-glass window. The high vaulted ceilings and sto
- ne architecture of the chapel are prominent. On the right\, a dark blue o
- verlay contains white text that reads &amp\;amp\;quot\;SUNDAY MORNING WOR
- SHIP SERVICE&amp\;amp\;quot\; in a large\, bold\, sans-serif font.
-X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
-X-BEDEWORK-IMAGE:/public/Images/Sunday-Service-Calendar-2025_2025081307245
- 0PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Sunday-Service-Calendar-2025_2025081
- 3072450PM-thumb.png
-X-BEDEWORK-SPEAKER:The Rev. Dr. Lauren Winner\, Associate Professor of Chr
- istian Spirituality\, Duke Divinity School
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260315T161500Z
-CATEGORIES:Humanities
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Tour
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251201T214657Z
-DESCRIPTION:Learn about the history\, architecture\, and life of Duke Chap
- el on this tour\, which is free and open to the public.\n\nThe tour begin
- s at 12:15 p.m.\, or immediately following the conclusion of the Sunday m
- orning service\, and lasts approximately forty-five minutes. No reservati
- on is required\, but if you plan to bring a large group\, please notify u
- s in advance. Meet the docent on the front steps of the Chapel.\n\nPaid p
- arking is available on a first-come\, first-served basis in the Bryan Cen
- ter Parking Lot at 125 Science Drive. ADA parking is available in the Bry
- an Center Surface Lot at the same address.
-DURATION:PT1H
-DTSTAMP:20251201T222128Z
-DTSTART;TZID=America/New_York:20260315T121500
-LAST-MODIFIED:20251201T222128Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-281ad92b-00000024:Duke Chap
- el
-STATUS:CONFIRMED
-SUMMARY:Public Tour of Duke Chapel
-UID:CAL-8a00ec9e-9a83ce7f-019a-dbe21372-000052f1demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Tour:/user/public-user/Other
- /Tour
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
- /Topics/Humanities
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
-  Chapel
-X-BEDEWORK-SPEAKER:Duke Chapel Docents
-X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:2000
-X-BEDEWORK-IMAGE-Y2:1333.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:2000
-X-BEDEWORK-IMAGE-CROP-HEIGHT:1333.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT: A graphic divided vertically into two parts. Th
- e left side is a photograph showing the interior of a Gothic-style chapel
- \, with a docent in a white shirt standing near the front of a small grou
- p of people seated in wooden pews\, seemingly giving a tour. Stained-glas
- s windows are visible in the background. The right side is a solid dark b
- lue block containing white text that reads "Public Tour." Below this text
-  is the logo for Duke University Chapel.
-X-BEDEWORK-IMAGE:/public/Images/Docent Tour Calendar 2025 copy_20251201102
- 128PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Docent Tour Calendar 2025 copy_20251
- 201102128PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Visual and Creative Arts
-CATEGORIES:Humanities
-CATEGORIES:Arts
-CATEGORIES:Utilities
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260310T152736Z
-DESCRIPTION:<p>Impermanent is multimedia ritual environment combining vide
- o\, sound\, field recordings\, interaction\, zines\, and sensors. Please 
- bring clean trash (soft wrappers\, plastic bags\, compostables\, etc) if 
- you wish to contribute to an interactive artwork.</p>\n<p>Presented by th
- e Critcal Making Working Group\, an FHI graduate working group.</p>
-DURATION:PT3H
-DTSTAMP:20260310T152736Z
-DTSTART;TZID=America/New_York:20260315T190000
-LAST-MODIFIED:20260310T152736Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Impermanent
-UID:CAL-8a003384-9cc4d1fe-019c-d85c5a08-00002cdademobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Visual and Creative Arts:/us
- er/public-user/Arts/Visual and Creative Arts
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
- /Topics/Humanities
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=sangchi.liu@duke.edu:san
- gchi liu
-X-BEDEWORK-LOCATION;X-BEDEWORK-PARAM-URL="https://www.perfectlovers.org/":
- Perfect Lovers
-X-BEDEWORK-SUBMITTEDBY:map157 for Franklin Humanities Institute (FHI) (agr
- p_JHFC_FranklinHumanitiesInstitute)
-END:VEVENT
-BEGIN:VEVENT
-
 CATEGORIES:Other
 CATEGORIES:Utilities
 CATEGORIES:Academic Calendar Dates
@@ -2295,6 +2126,158 @@ X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
 X-BEDEWORK-LOCATION:FFSC 3232
 X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
  )
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260317T200000Z
+CATEGORIES:Multicultural/Identity
+CATEGORIES:Global
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Social
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20251216T174330Z
+DESCRIPTION:Join our weekly conversation gatherings on Tuesday afternoons.
+  We chat about life\, culture\, and current events in a supportive atmosp
+ here. No pre-registration or preparation needed.
+DURATION:PT1H
+DTSTAMP:20251216T174924Z
+DTSTART;TZID=America/New_York:20260317T160000
+LAST-MODIFIED:20251216T174924Z
+LOCATION;X-BEDEWORK-UID=2c918083-5f8fbbda-015f-925c9a71-000010e8:Wellness 
+ Center\, Room 147
+STATUS:CONFIRMED
+SUMMARY:Global Conversations in the Wellness Center
+UID:CAL-8a00eca5-9af98aae-019b-2842967f-00004a69demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
+ er/Social
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Multicultural_Identity:/user
+ /public-user/Other/Multicultural_Identity
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Global:/user/public-user/Top
+ ic of Event Focused on a Country or Continent (if applicable)/Global
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Student
+ Affairs_DukeStudentWellnessCenter,":Duke Student Wellness
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=r.caputo@duke.edu:Rene C
+ aputo
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:Three seated college-aged students smiling at ea
+ ch other\, as if they&#39\;d just heard good news or something funny
+X-BEDEWORK-SUBMITTEDBY:rc72 for Thompson Writing Program (agrp__ArtsandSci
+ ences_ThompsonWritingProgram)
+X-BEDEWORK-IMAGE:/public/Images/Global Conversations DukeEvents photo of 4
+  people_20251216054330PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Global Conversations DukeEvents phot
+ o of 4 people_20251216054330PM-thumb.png
+EXDATE:20260310T200000Z
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Ceremony
+CATEGORIES:Main
+CATEGORIES:Student
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260223T175116Z
+DESCRIPTION:Organized by the Office of the President in partnership with D
+ uke Human Resources\, the Presidential Awards are among Duke's highest ho
+ nors for staff and faculty\, honoring those who demonstrate Duke's core v
+ alues of respect\, trust\, inclusion\, discovery and excellence.\n\nDoors
+  will open at 3:30 p.m.
+DURATION:PT1H
+DTSTAMP:20260223T182328Z
+DTSTART;TZID=America/New_York:20260317T160000
+LAST-MODIFIED:20260223T182328Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-28371677-00000070:Page Audi
+ torium
+STATUS:CONFIRMED
+SUMMARY:Presidential Awards Ceremony
+UID:CAL-8a003294-9c52b03d-019c-8ba07b83-0000384fdemobedework@mysite.edu
+URL:https://today.duke.edu/2026/01/2025-26-presidential-awards-winners-uph
+ old-commitment-dukes-values
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
+ ilities/Student
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ceremony:/user/public-user/O
+ ther/Ceremony
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_HumanRe
+ sources,":Human Resources (HR)
+X-BEDEWORK-IMAGE-X1:686
+X-BEDEWORK-IMAGE-Y1:114
+X-BEDEWORK-IMAGE-X2:1891
+X-BEDEWORK-IMAGE-Y2:917.3333333333334
+X-BEDEWORK-IMAGE-CROP-WIDTH:1205
+X-BEDEWORK-IMAGE-CROP-HEIGHT:803.3333333333334
+X-BEDEWORK-IMAGE-ALT-TEXT:Duke Presidential Awards Ceremony
+X-BEDEWORK-SUBMITTEDBY:mkc63 for Office of the University President (agrp_
+ OfficeoftheUniversityPresident)
+X-BEDEWORK-IMAGE:/public/Images/Presidential award BO_20260223055116PM.jpg
+ 
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Presidential award BO_20260223055116
+ PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260317T210000Z
+CATEGORIES:Arts
+CATEGORIES:Utilities
+CATEGORIES:Concert/Music
+CATEGORIES:Religious/Spiritual
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20250815T144658Z
+DESCRIPTION:Each weekday at 5:00 p.m.\, a Duke Chapel carillonneur plays a
+  fifteen-minute recital on the bells in the Duke Chapel tower. The recita
+ l begins with an opening excerpt of music\, then a bell tolls five times 
+ to mark the hour\, and then the carillonneur plays a selection of hymns a
+ nd other songs appropriate for the day. \n\nListen to the recital anywher
+ e outside on West Campus or online via the livestream on the Duke Chapel 
+ Facebook page: https://www.facebook.com/DukeChapel.
+DURATION:PT15M
+DTSTAMP:20250815T144658Z
+DTSTART;TZID=America/New_York:20260317T170000
+LAST-MODIFIED:20250815T144658Z
+LOCATION;X-BEDEWORK-UID=8a08708a-3a0814e2-013a-9334d38d-00000f2f:Duke Chap
+ el Quad
+STATUS:CONFIRMED
+SUMMARY:Weekday Carillon Recital
+UID:CAL-8a00ec8b-979413b9-0198-ae32c3cc-00004c69demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
+ ser/Arts/Concert_Music
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
+ blic-user/Topics/Religious_Spiritual
+X-BEDEWORK-SPEAKER:Duke Chapel Carillonneurs
+X-BEDEWORK-DUKE-WEBCAST:https://www.facebook.com/DukeChapel
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
+  Chapel
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:2000
+X-BEDEWORK-IMAGE-Y2:1333.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:2000
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1333.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
+ the right. The image shows a close-up\, eye-level shot of the top of Duke
+  Chapel's tower surrounded by green trees against a blue\, cloudy sky. Th
+ e text on the right side of the image reads: "Weekday Carillon Recital" a
+ nd "Duke University Chapel." Below the text is the Duke University Chapel
+  logo.
+X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
+X-BEDEWORK-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081502465
+ 8PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081
+ 5024658PM-thumb.png
 END:VEVENT
 END:VCALENDAR
 

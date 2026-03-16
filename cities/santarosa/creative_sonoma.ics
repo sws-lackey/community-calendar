@@ -4,69 +4,6 @@ PRODID:-//Creative Sonoma//creativesonoma.org//
 X-WR-CALNAME:Creative Sonoma
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Outback Presents Whitney Cummings: The Big Baby Tour
-DTSTART;VALUE=DATE-TIME:20260314T190000
-DTEND;VALUE=DATE-TIME:20260314T210000
-UID:6d9dd771b2cdcf6b680d9cd3ba7a3cad@creativesonoma.org
-DESCRIPTION:Presented by Luther Burbank Center for the Arts
-LOCATION:Luther Burbank Center for the Arts
-URL:https://creativesonoma.org/event/outback-presents-whitney-cummings-the
- -big-baby-tour/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday in the Museum with Sondheim
-DTSTART;VALUE=DATE-TIME:20260314T160000
-DTEND;VALUE=DATE-TIME:20260314T180000
-UID:c0902a99363d242f53f24790209e9581@creativesonoma.org
-DESCRIPTION:Presented by Music in Place
-LOCATION:Sonoma Valley Museum of Art
-URL:https://creativesonoma.org/event/saturday-in-the-museum-with-sondheim/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Second Saturday: Free Family Day at MSC
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T130000
-UID:27b608232c82ea80e85a1921ea0ce48b@creativesonoma.org
-DESCRIPTION:Presented by Museum of Sonoma County
-LOCATION:Museum of Sonoma County
-URL:https://creativesonoma.org/event/second-saturday-free-family-day-at-ms
- c/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NORTH BAY LITERARY ARTS SUMMIT
-DTSTART;VALUE=DATE-TIME:20260314T100000
-DTEND;VALUE=DATE-TIME:20260314T180000
-UID:bb96249fa0c3129f1d0281b3228afb67@creativesonoma.org
-DESCRIPTION:Presented by Sebastopol Center for the Arts
-LOCATION:Unknown
-URL:https://creativesonoma.org/event/north-bay-literary-arts-summit/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zine Workshop in preparation for The Earthly Procession
-DTSTART;VALUE=DATE-TIME:20260314T103000
-DTEND;VALUE=DATE-TIME:20260314T123000
-UID:0e6313e32dd358da3f4dff8a4bf72a47@creativesonoma.org
-DESCRIPTION:Presented by Santa Rosa Urban Arts Partnership
-LOCATION:Santa Rosa Central Library
-URL:https://creativesonoma.org/event/zine-workshop-in-preparation-for-the-
- earthly-procession/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Vivo: Within the Living
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T160000
-UID:eef37f56b0a9b72d23378cff5cb695ed@creativesonoma.org
-DESCRIPTION:
-LOCATION:Sonoma State University Art Gallery
-URL:https://creativesonoma.org/event/in-vivo-within-the-living/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ralph Barbosa: The Red 40 Tour
 DTSTART;VALUE=DATE-TIME:20260315T190000
 DTEND;VALUE=DATE-TIME:20260315T210000
@@ -88,6 +25,16 @@ URL:https://creativesonoma.org/event/art-lounge-at-the-santa-rosa-arts-cen
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Artistry in Wood Tour with Don Jereb
+DTSTART;VALUE=DATE-TIME:20260321T130000
+DTEND;VALUE=DATE-TIME:20260321T140000
+UID:50fae86779e6e36ff187c69adc43a88e@creativesonoma.org
+DESCRIPTION:Presented by Museum of Sonoma County
+LOCATION:Museum of Sonoma County
+URL:https://creativesonoma.org/event/artistry-in-wood-tour-with-don-jereb/
+X-SOURCE:Creative Sonoma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MovingWriting: Embodied Expressive Writing
 DTSTART;VALUE=DATE-TIME:20260321T140000
 DTEND;VALUE=DATE-TIME:20260321T170000
@@ -96,16 +43,6 @@ DESCRIPTION:Presented by MovingWriting
 LOCATION:A private studio in Sebastopol
 URL:https://creativesonoma.org/event/movingwriting-embodied-expressive-wri
  ting/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artistry in Wood Tour with Don Jereb
-DTSTART;VALUE=DATE-TIME:20260321T130000
-DTEND;VALUE=DATE-TIME:20260321T140000
-UID:50fae86779e6e36ff187c69adc43a88e@creativesonoma.org
-DESCRIPTION:Presented by Museum of Sonoma County
-LOCATION:Museum of Sonoma County
-URL:https://creativesonoma.org/event/artistry-in-wood-tour-with-don-jereb/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
@@ -120,9 +57,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disney's Descendants: The Musical
-DTSTART;VALUE=DATE-TIME:20260314T100000
-DTEND;VALUE=DATE-TIME:20260314T140000
-UID:9aa1d991feb033e1dc8781a7e05c52f8@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260316T160000
+DTEND;VALUE=DATE-TIME:20260316T190000
+UID:8cd6c8b8514fb3033cc047219c158bfb@creativesonoma.org
 DESCRIPTION:
 LOCATION:Spreckels Performing Arts Center
 URL:https://creativesonoma.org/event/disneys-descendants-the-musical/
@@ -139,6 +76,16 @@ URL:https://creativesonoma.org/event/santa-rosa-symphony-rossini-schubert/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sonoma County Youth Poetry Slam
+DTSTART;VALUE=DATE-TIME:20260326T170000
+DTEND;VALUE=DATE-TIME:20260326T190000
+UID:f3cdf41dff06fd07d7e471152ba05933@creativesonoma.org
+DESCRIPTION:
+LOCATION:Maria Carrillo High School Theater
+URL:https://creativesonoma.org/event/sonoma-county-youth-poetry-slam/
+X-SOURCE:Creative Sonoma
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Natalie MacMaster\, Donnell Leahy and the Celtic All-Stars
 DTSTART;VALUE=DATE-TIME:20260326T193000
 DTEND;VALUE=DATE-TIME:20260326T213000
@@ -147,16 +94,6 @@ DESCRIPTION:Presented by Green Music Center at Sonoma State University
 LOCATION:Weill Hall
 URL:https://creativesonoma.org/event/natalie-macmaster-donnell-leahy-and-t
  he-celtic-all-stars/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonoma County Youth Poetry Slam
-DTSTART;VALUE=DATE-TIME:20260326T170000
-DTEND;VALUE=DATE-TIME:20260326T190000
-UID:f3cdf41dff06fd07d7e471152ba05933@creativesonoma.org
-DESCRIPTION:
-LOCATION:Maria Carrillo High School Theater
-URL:https://creativesonoma.org/event/sonoma-county-youth-poetry-slam/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
@@ -181,9 +118,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Journey: A Painter's Narrative
-DTSTART;VALUE=DATE-TIME:20260314T100000
-DTEND;VALUE=DATE-TIME:20260314T170000
-UID:61626fe580b7e14bc08d8f3044d344ba@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260315T100000
+DTEND;VALUE=DATE-TIME:20260315T170000
+UID:640d6a23a52febd3d32f98f2b7f733cc@creativesonoma.org
 DESCRIPTION:
 LOCATION:Sebastopol Gallery
 URL:https://creativesonoma.org/event/the-journey-a-painters-narrative/
@@ -212,9 +149,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Glass Menagerie by Tennessee Williams
-DTSTART;VALUE=DATE-TIME:20260314T193000
-DTEND;VALUE=DATE-TIME:20260314T213000
-UID:e3a4629320beade5fb797b04069996b0@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260315T140000
+DTEND;VALUE=DATE-TIME:20260315T160000
+UID:c789d5eb168f864ba87c37eb9f4a171a@creativesonoma.org
 DESCRIPTION:Presented by Curtain Call Theatre at the Russian River
 LOCATION:Curtain Call Theatre at the Russian River
 URL:https://creativesonoma.org/event/the-glass-menagerie-by-tennessee-will
@@ -235,9 +172,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art Exhibit: Celebrating Women
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T180000
-UID:afce5d8641c5e98220db1720a011b2aa@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260315T110000
+DTEND;VALUE=DATE-TIME:20260315T180000
+UID:d899e6e7508d0edc4e4a58cf6e717434@creativesonoma.org
 DESCRIPTION:Presented by Upstairs Art Gallery
 LOCATION:Upstairs Art Gallery
 URL:https://creativesonoma.org/event/art-exhibit-celebrating-women/
@@ -255,16 +192,6 @@ URL:https://creativesonoma.org/event/pure-imagination-a-broadway-junior-re
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Becky Robinson
-DTSTART;VALUE=DATE-TIME:20260404T200000
-DTEND;VALUE=DATE-TIME:20260404T220000
-UID:f5f0cb208b042bd6a7e0ccd440b0b4cc@creativesonoma.org
-DESCRIPTION:Presented by Luther Burbank Center for the Arts
-LOCATION:Luther Burbank Center for the Arts
-URL:https://creativesonoma.org/event/becky-robinson/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Art from the Heart
 DTSTART;VALUE=DATE-TIME:20260404T170000
 DTEND;VALUE=DATE-TIME:20260404T200000
@@ -272,6 +199,16 @@ UID:69d1a4e5053b5159f98465d49b7d08f9@creativesonoma.org
 DESCRIPTION:
 LOCATION:Sonoma State University Art Gallery
 URL:https://creativesonoma.org/event/art-from-the-heart-2/
+X-SOURCE:Creative Sonoma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Becky Robinson
+DTSTART;VALUE=DATE-TIME:20260404T200000
+DTEND;VALUE=DATE-TIME:20260404T220000
+UID:f5f0cb208b042bd6a7e0ccd440b0b4cc@creativesonoma.org
+DESCRIPTION:Presented by Luther Burbank Center for the Arts
+LOCATION:Luther Burbank Center for the Arts
+URL:https://creativesonoma.org/event/becky-robinson/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
@@ -404,16 +341,6 @@ URL:https://creativesonoma.org/event/gary-owen-no-hard-feelings-tour/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Old Wine\, New Bottle
-DTSTART;VALUE=DATE-TIME:20260426T160000
-DTEND;VALUE=DATE-TIME:20260426T180000
-UID:f7a6d71688b8b6b6c7bd46a3b9bbc3e2@creativesonoma.org
-DESCRIPTION:Presented by Music in Place
-LOCATION:The Moon House
-URL:https://creativesonoma.org/event/old-wine-new-bottle/
-X-SOURCE:Creative Sonoma
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ukulele Orchestra of Great Britain
 DTSTART;VALUE=DATE-TIME:20260426T150000
 DTEND;VALUE=DATE-TIME:20260426T170000
@@ -421,6 +348,16 @@ UID:ce79cdc3b7f997573dd8ebfeb58e0d21@creativesonoma.org
 DESCRIPTION:Presented by Green Music Center at Sonoma State University
 LOCATION:Weill Hall
 URL:https://creativesonoma.org/event/ukulele-orchestra-of-great-britain/
+X-SOURCE:Creative Sonoma
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Wine\, New Bottle
+DTSTART;VALUE=DATE-TIME:20260426T160000
+DTEND;VALUE=DATE-TIME:20260426T180000
+UID:f7a6d71688b8b6b6c7bd46a3b9bbc3e2@creativesonoma.org
+DESCRIPTION:Presented by Music in Place
+LOCATION:The Moon House
+URL:https://creativesonoma.org/event/old-wine-new-bottle/
 X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
@@ -436,9 +373,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maija Peeples-Bright: Life is Just a Bowl of Terriers
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T170000
-UID:9b63cdf63dda69b076a7e2c24c3e22d0@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260315T110000
+DTEND;VALUE=DATE-TIME:20260315T170000
+UID:eb96de73fe509eeb5fded368ffa68f25@creativesonoma.org
 DESCRIPTION:Presented by Sonoma Valley Museum of Art
 LOCATION:Sonoma Valley Museum of Art
 URL:https://creativesonoma.org/event/maija-peeples-bright-life-is-just-a-b
@@ -562,9 +499,9 @@ X-SOURCE:Creative Sonoma
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emergence - Spring Through the Eyes of the Artists
-DTSTART;VALUE=DATE-TIME:20260314T110000
-DTEND;VALUE=DATE-TIME:20260314T160000
-UID:960b7489a0ca9aac47deb7d2281c9e4a@creativesonoma.org
+DTSTART;VALUE=DATE-TIME:20260315T110000
+DTEND;VALUE=DATE-TIME:20260315T160000
+UID:c47710561063838f4ef8c05ed63ddfc4@creativesonoma.org
 DESCRIPTION:
 LOCATION:Fulton Crossing Artisan Studios and Gallery
 URL:https://creativesonoma.org/event/emergence-spring-through-the-eyes-of-

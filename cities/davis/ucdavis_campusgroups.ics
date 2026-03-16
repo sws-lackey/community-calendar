@@ -5386,16 +5386,6 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=907733
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HOPE at Davis General Meeting
-DTSTART;VALUE=DATE-TIME:20260319T020000Z
-DTEND;VALUE=DATE-TIME:20260319T030000Z
-UID:839000d059a2b9ee7591e2860adc4319162026_12:28:00_PM@campusgroups.com
-DESCRIPTION:Weekly general meeting for HOPE members. --- Event Details: ht
- tps://aggielife.ucdavis.edu/rsvp?id=907912
-URL:https://aggielife.ucdavis.edu/rsvp?id=907912
-X-SOURCE:UC Davis CampusGroups
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weekly General Meeting
 DTSTART;VALUE=DATE-TIME:20260321T000000Z
 DTEND;VALUE=DATE-TIME:20260321T020000Z
@@ -6457,6 +6447,72 @@ UID:74e42802d7bb7b2ab6bd694290818d2c1292025_2:23:19_PM@campusgroups.com
 DESCRIPTION:Weekly club meeting for all members. --- Event Details: https:
  //aggielife.ucdavis.edu/rsvp?id=907032
 URL:https://aggielife.ucdavis.edu/rsvp?id=907032
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aggie Expo
+DTSTART;VALUE=DATE-TIME:20260516T140000Z
+DTEND;VALUE=DATE-TIME:20260516T170000Z
+UID:7cb44100563beeca34f9c467a70bf36412152025_7:06:08_PM@campusgroups.com
+DESCRIPTION:Artist Alley\, Performances\, and Club Events --- Event Detail
+ s: https://aggielife.ucdavis.edu/rsvp?id=907548
+URL:https://aggielife.ucdavis.edu/rsvp?id=907548
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Gran Tardeada
+DTSTART;VALUE=DATE-TIME:20260516T200000Z
+DTEND;VALUE=DATE-TIME:20260517T030000Z
+UID:6cb3f63c8c53d4e03f50e524fc765141312026_8:28:11_PM@campusgroups.com
+DESCRIPTION:Mark your calendars because La Gran Tardeada will be taking pl
+ ace on May 16th\, 2026! ☀️🕺 This year our Signature Event\, which h
+ ighlights our Chicanx/Latinx communities will once again be taking place o
+ n the East Quad from 1 to 8pm. Filled with vibrant performers\, fun activi
+ ties\, unique vendors\, and tasty food\, this event is perfect for spendin
+ g time with your loved ones. 🫶 As always\, all UC Davis students and lo
+ cal community members are welcome to attend. We hope to see you there\, co
+ n las manos arriba!!🙋‍♀️🙋‍♂️ Alt Text: Dark purple backg
+ round with white text that reads "La Gran Tardeada"\, "Save the date!"\, a
+ nd the event information "May 16th\, 2026\, 1pm to 8pm\, UC Davis East Qua
+ d"\, and Cross Cultural Center logo. Pictures depict La Gran Tardeada 2025
+  attendees\, lowriders\, a mechanical bull\, and members from Danzantes de
+ l Alma. A graphic on the lower left side depicts a group of people dancing
+ . --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=908441
+URL:https://aggielife.ucdavis.edu/rsvp?id=908441
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pakistani Student Association Annual Banquet
+DTSTART;VALUE=DATE-TIME:20260517T000000Z
+DTEND;VALUE=DATE-TIME:20260517T060000Z
+UID:95b22d117aaeb0db615efef7e25e5ecb932025_12:36:23_AM@campusgroups.com
+DESCRIPTION:An annual cultural charity banquet open to students and non-st
+ udents. The purpose of the banquet is to celebrate Pakistani culture\, sho
+ wcase music\, dances\, and poetry\, share food\, and bring the community t
+ ogether. --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=905743
+URL:https://aggielife.ucdavis.edu/rsvp?id=905743
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davis Nerf Club General Meeting
+DTSTART;VALUE=DATE-TIME:20260517T000000Z
+DTEND;VALUE=DATE-TIME:20260517T030000Z
+UID:38cfed6a2af85ea43dfd77e686594c191142026_8:06:28_PM@campusgroups.com
+DESCRIPTION:Regular time to meet\, hang out with friends\, and have fun pl
+ aying some cool Nerf games with us! --- Event Details: https://aggielife.u
+ cdavis.edu/rsvp?id=908101
+URL:https://aggielife.ucdavis.edu/rsvp?id=908101
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio 301 End of Year Banquet
+DTSTART;VALUE=DATE-TIME:20260517T010000Z
+DTEND;VALUE=DATE-TIME:20260517T053000Z
+UID:a5d1bed275a7328bc4e79cdd2aeb8228252026_5:00:20_PM@campusgroups.com
+DESCRIPTION:Banquet to celebrate the accomplishments of Studio 301 Product
+ ions and its members. --- Event Details: https://aggielife.ucdavis.edu/rsv
+ p?id=908323
+URL:https://aggielife.ucdavis.edu/rsvp?id=908323
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 END:VCALENDAR

@@ -4,20 +4,6 @@ PRODID:-//Duke Arts//arts.duke.edu//
 X-WR-CALNAME:Duke Arts
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Impermanent
-DTSTART;VALUE=DATE-TIME:20260315T190000
-DTEND;VALUE=DATE-TIME:20260315T210000
-UID:c96c37d714e90c3c3439a02f7e89b9dd@arts.duke.edu
-DESCRIPTION:Presenter: Franklin Humanities Institute\n\nImpermanent is mul
- timedia ritual environment combining video\, sound\, field recordings\, in
- teraction\, zines\, and sensors. Please bring clean trash (soft wrappers\,
-  plastic bags\, compostables\, etc) if you wish to contribute to …
-LOCATION:Duke University\, Durham\, NC
-URL:https://calendar.duke.edu/show?fq=id:CAL-8a003384-9cc4d1fe-019c-d85c5a
- 08-00002cdademobedework@mysite.edu
-X-SOURCE:Duke Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weekday Carillon Recital
 DTSTART;VALUE=DATE-TIME:20260316T170000
 DTEND;VALUE=DATE-TIME:20260316T190000
@@ -73,6 +59,20 @@ URL:https://calendar.duke.edu/show?fq=id:CAL-8a00ec8b-979413b9-0198-ae32c3
 X-SOURCE:Duke Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Belonging: Artist as Witness with Nora Krug
+DTSTART;VALUE=DATE-TIME:20260317T170000
+DTEND;VALUE=DATE-TIME:20260317T190000
+UID:229165cd0712ce01a3b73dea5042b7a9@arts.duke.edu
+DESCRIPTION:Presenter: Duke Human Rights Center at the Franklin Humanities
+  Institute (DHRC@FHI)\n\nThe Rights and Humanities Annual Series is jointl
+ y sponsored by the John Hope Franklin Humanities Institute (FHI) and the D
+ uke Human Rights Center @ FHI. The series was launched in …
+LOCATION:Duke University\, Durham\, NC
+URL:https://calendar.duke.edu/show?fq=id:CAL-8a00eca5-9af98aae-019c-05926d
+ f2-00000a84demobedework@mysite.edu
+X-SOURCE:Duke Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Periodic Tables Science Cafe\, Dancing Machines\, The Plight of Wo
  rking Human Musicians in an AI World with Tift Merritt & Marc Ribot
 DTSTART;VALUE=DATE-TIME:20260317T170000
@@ -86,20 +86,6 @@ LOCATION:Duke University\, Durham\, NC
 URL:https://scienceandsociety.duke.edu/events/periodic-tables-dancing-mach
  ines-the-plight-of-working-human-musicians-in-an-ai-world-with-tift-merrit
  t-marc-ribot/
-X-SOURCE:Duke Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Belonging: Artist as Witness with Nora Krug
-DTSTART;VALUE=DATE-TIME:20260317T170000
-DTEND;VALUE=DATE-TIME:20260317T190000
-UID:229165cd0712ce01a3b73dea5042b7a9@arts.duke.edu
-DESCRIPTION:Presenter: Duke Human Rights Center at the Franklin Humanities
-  Institute (DHRC@FHI)\n\nThe Rights and Humanities Annual Series is jointl
- y sponsored by the John Hope Franklin Humanities Institute (FHI) and the D
- uke Human Rights Center @ FHI. The series was launched in …
-LOCATION:Duke University\, Durham\, NC
-URL:https://calendar.duke.edu/show?fq=id:CAL-8a00eca5-9af98aae-019c-05926d
- f2-00000a84demobedework@mysite.edu
 X-SOURCE:Duke Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -1149,6 +1135,20 @@ DESCRIPTION:Presenter: Libraries\n\nJoin the Disability Inclusion and Comm
 LOCATION:Duke University\, Durham\, NC
 URL:https://forms.office.com/Pages/ResponsePage.aspx?id=TsVyyzFKnk2xSh6jbf
  rJTO7nfjGbuhBGo5_sV-sslPZUMzBWMFBRRzc4R1ZCTDFVM1BJRzVYMVlFTS4u
+X-SOURCE:Duke Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Organ Demonstration
+DTSTART;VALUE=DATE-TIME:20260407T130000
+DTEND;VALUE=DATE-TIME:20260407T150000
+UID:e82ac6c6979bc664a2decbb8a3e327a6@arts.duke.edu
+DESCRIPTION:Presenter: Duke Chapel\n\nThis organ demonstration is an oppor
+ tunity to stop in to hear a Duke Chapel organ or Bösendorfer grand piano 
+ played in the informal atmosphere of an open rehearsal. These demonstratio
+ ns …
+LOCATION:Duke University\, Durham\, NC
+URL:https://calendar.duke.edu/show?fq=id:CAL-8a00ec8b-979413b9-0198-ae0252
+ f4-00003f7edemobedework@mysite.edu_20260407T170000Z
 X-SOURCE:Duke Arts
 END:VEVENT
 END:VCALENDAR

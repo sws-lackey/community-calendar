@@ -4,18 +4,6 @@ PRODID:-//Sebastopol Center for the Arts//sebarts.org//
 X-WR-CALNAME:Sebastopol Center for the Arts
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Books at the Source: Literary Arts Summit — Sebastopol Center Fo
- r the Arts\, California
-DTSTART;VALUE=DATE-TIME:20260314T000000
-DTEND;VALUE=DATE-TIME:20260315T000000
-UID:6bf8e1f515be7c3636e99bf5c29de486@sebarts.org
-DESCRIPTION:
-LOCATION:Sebastopol Center for the Arts\, 282 S High St\, Sebastopol\, CA 
- 95472
-URL:https://www.sebarts.org/classes-lectures/books-at-the-source
-X-SOURCE:Sebastopol Center for the Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Arts Opening Reception — Sebastopol Center For the Arts\, C
  alifornia
 DTSTART;VALUE=DATE-TIME:20260315T000000
@@ -870,6 +858,44 @@ LOCATION:Sebastopol Center for the Arts\, 282 S High St\, Sebastopol\, CA
  95472
 URL:https://www.sebarts.org/classes-lectures/experimental-paper-sculpture-
  2026
+X-SOURCE:Sebastopol Center for the Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pt 2: Glaze as a Completion of Form with Ping Zhong — Sebastopol
+  Center For the Arts\, California
+DTSTART;VALUE=DATE-TIME:20260418T000000
+DTEND;VALUE=DATE-TIME:20260419T000000
+UID:142952735a64cee5d77faa4e9354bc36@sebarts.org
+DESCRIPTION:Pt 2: Glaze as a Completion of Form with Ping Zhong\n\n  \n   
+  \n      \n        \n          $10.00\n        \n      \n    \n  \n\nSatur
+ day\, April 18\, 2026\; 10am-11amLocated in the Ceramics StudioThis sessio
+ n will explore how glaze can enhance and finalize a piece. SebArts’ Cera
+ mics Residency Artist\, Ping Zhong\, plans to spend the first month testin
+ g the studio’s existing glazes to understand their behavior\, and will a
+ lso bring a few personal glaze recipes to share\, along with fired samples
+ . Application methods and techniques for achieving specific effects will b
+ e demonstrated. The instructor will have works ready for glazing\, and par
+ ticipants from the previous workshop may also have pieces they wish to gla
+ ze.Due to limited capacity of the Ceramics Studio\, we are asking for a su
+ ggested donation of $10 to confirm your attendance. About the Artist: Ping
+  Zhong’s artistic practice is a continuous exploration of regeneration
+ —of materials\, forms\, and cultural narratives. She investigates the di
+ alogue between ancient Chinese pottery and contemporary visual language\, 
+ using wheel-throwing\, hand-building\, and sculpture to create works in wh
+ ich history and personal growth converge. This reinterpretation of classic
+ al forms is not only an artistic method\, but also a philosophical inquiry
+  into the harmony between past and future. Deeply motivated to uncover the
+  potential within clay\, Ping pushes the boundaries of design and techniqu
+ e. Her work reflects on universal themes: the individual’s place within 
+ the community\, the relationship between essence and appearance\, and the 
+ evolving connection between nature and society. Through these explorations
+ \, she seeks to create art that resonates across cultures.\n\n\n\n\n\n\n\n
+ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n          \n  
+           \n              Add to cart
+LOCATION:Sebastopol Center for the Arts\, 282 S High St\, Sebastopol\, CA 
+ 95472
+URL:https://www.sebarts.org/classes-lectures/pt-2-glaze-as-a-completion-of
+ -form-with-ping-zhong
 X-SOURCE:Sebastopol Center for the Arts
 END:VEVENT
 END:VCALENDAR

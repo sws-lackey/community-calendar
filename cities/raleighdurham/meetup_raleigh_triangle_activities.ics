@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313766606@meetup.com
-SEQUENCE:1
-DTSTAMP:20260315T060850Z
-DTSTART;TZID=America/New_York:20260315T110000
-DTEND;TZID=America/New_York:20260315T130000
-SUMMARY:Stop Struggling to Survive\, How to Expect Miracles to Thrive
-DESCRIPTION:Raleigh & Triangle Activities Meetup Group\nLife is unnecessarily difficult when we hold onto something that isn’t right for us. Instead of just letting go what doesn’t work\, we may think that life itself is the problem and it’s just too hard. But the Universe isn’t broken and the divine Source is always with us. In fact\, the entire system of existence is designed to give everyone whatever they need to thrive in joy forever. So\, if all Creation is built for healthy happiness\, why is there so much struggle and suffering in the human world? Join us this Sunday March 15\, 2026\, for a free empowering talk on the origins of suffering and why miraculous gifts of life are the default that we need to be expecting.\n\nIt’s vital to realize that everything can be used for positive or negative outcomes. Positive is the direction of more love\, with all the help you need to make life easy\, fun and wonderful. Negative is the direction of less love\, with non-solutions that will cause you to fail followed by lies that say it's all your fault\, you're so bad\, it's hopeless\, give up. The goal of negativity is simple: hurt you any way it can so that you will stop functioning. There are many ways to break something\, and often only one best way to do it right. Life is direct and efficient this way\, while negativity is obvious in its failings.\n\nA negative society doesn't want strong individuals\, it wants weak followers and slaves. That's because negativity is so weak that it doesn't trust any higher power than itself. In the Bible story\, Lucifer wanted to be God\, so God gave him a pit of hell to rule. Many suckers followed Lucifer down into the endless suffering that comes from refusing higher assistance. Religion is just early psychology\, so Lucifer shows the personality disorders that drive cruel narcissistic behaviors. This usually comes from childhood abuse that causes a person to shut down their feelings and go into a survival mode of opportunistic controlling and bullying\, all within a continual victimhood. In a negative society there are many roles to play for who is the weak victim of violence and who looks powerful. To forgive with compassion\, we can see through the dramas to realize everyone is suffering inside.\n\nSince the negativity on Earth is so advanced these days\, with many layers of war\, pollution\, deprivation and corruption\, it is easy to think that life itself is bad and must be fixed somehow. There are many well-intentioned people who exhaust themselves in dramatic battles for justice and struggles to make the world a better place. Justice warriors might succeed if it were true that life is broken\, but it's not. All the divine guidance we will ever need to live well is always offered to us. The real villain behind suffering is false negative beliefs. When you misuse what you have due to wrong ideas\, you fail with increasing pain and suffering. It's like having a fabulous car and not driving it correctly. Some people never get out of the driveway of life\, others just keep crashing on the highway. The solution is simple. Learn how life really works so you can drive yourself to paradise!\n\nTo prepare for this meetup\, recall where you struggle and suffer in your life. Pain is separation from what we need to be happy. Problems cause temporary pain until a solution is found. But false beliefs make us blind to solutions\, causing endless pain which is suffering. Human beings automatically adapt to suffering and find ways to survive\, including addictions to numb the pain and toxic relationships to stay distracted and have someone to blame. Negative society makes many rules and judgments for who is bad to be punished and who is good to be rewarded.\n\nStruggle is unnatural\, since the true nature of the Universe is to freely give us miracles of divine guidance and solutions. Miracles would come to us all the time\, but usually people only allow them when they’re desperate enough. Can you recall a time when you felt hopeless\, ready to smash things in frustration or collapse in despair\, and then suddenly a miracle appeared? Celebrate that feeling\, let it grow in the truth of your own life!\n\nAfter check-ins to share and relate\, I’ll explain where problems come from and how to handle the emotions like self-pity and shame that keep us stuck in suffering. We’ll learn to identify false negative beliefs and take steps to release them for the truths of an easy love-filled life. We’ll conclude with a guided meditation to meet with our higher self and exchange gifts of the love that makes life truly wonderful.\n\nWelcome! Our Inner Selves Mastery spiritual support group is free online every Sunday 11am-130pm EDT\, with the last 30 minutes for a guided meditation. If you can’t stay you can get the recording. You can signup here for this meeting and visit www.signupISM.com for all events\, newsletter\, videos\, and more.\n\nBest wishes\,\nCarl Johann Schroeder\nInner Selves Mastery\nspiritual teaching and coaching\nquick-links at [www.signupISM.com](http://www.signupISM.com)
-URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/313766606/
-STATUS:CONFIRMED
-CREATED:20260313T101900Z
-LAST-MODIFIED:20260313T101900Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/3/4/8/c/600_533173452.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313565708@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260319T180000
 DTEND;TZID=America/New_York:20260319T200000
 SUMMARY:Free Medieval Combat Training (Hillsborough\, NC) - Broadsword - Armor - Rapier
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313641771@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260324T190000
 DTEND;TZID=America/New_York:20260324T200000
 SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313673854@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260326T180000
 DTEND;TZID=America/New_York:20260326T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260402T180000
 DTEND;TZID=America/New_York:20260402T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260409T180000
 DTEND;TZID=America/New_York:20260409T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_mtchftyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260411T190000
 DTEND;TZID=America/New_York:20260411T223000
 SUMMARY:Ballroom Dance with Stardusters!
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260416T180000
 DTEND;TZID=America/New_York:20260416T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260423T180000
 DTEND;TZID=America/New_York:20260423T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_hgxmltyjcgblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060850Z
+DTSTAMP:20260316T062436Z
 DTSTART;TZID=America/New_York:20260428T190000
 DTEND;TZID=America/New_York:20260428T200000
 SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
@@ -173,6 +158,21 @@ CREATED:20240423T004605Z
 LAST-MODIFIED:20240423T004605Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/c/7/c/600_494667772.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_gwtjwtyjcgbnc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260316T062436Z
+DTSTART;TZID=America/New_York:20260430T180000
+DTEND;TZID=America/New_York:20260430T200000
+SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
+DESCRIPTION:Raleigh & Triangle Activities Meetup Group\nLearn the European martial art of broadsword and shield\, wearing steel armor. Or maybe Renaissance dueling with rapier and dagger is more your style. Beginners welcome! No experience necessary. Some loaner armor is available.\n\nRapier instructor: Percival Aldridge\, OD\, OP\nBroadsword instructor: William of Bedford\, KSCA\nAdministrator (KM): Charles Fleming\n*This event is held and managed by the [Canton of Buckston-on-Eno](https://buckston.windmastershill.org)\, a branch of the* [Society for Creative Anachronism\, Inc.](https://welcome.sca.org/) *and is considered the Official channel of this group here. Questions regarding its content should be directed to [chatelaine@buckston.windmastershill.org](http://chatelaine@buckston.windmastershill.org) or to [socialmedia@sca.org.](http://socialmedia@sca.org.) Inclusion of external links does not indicate implicit nor explicit endorsement of any content or products.*
+URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/gwtjwtyjcgbnc/
+STATUS:CONFIRMED
+CREATED:20260307T143329Z
+LAST-MODIFIED:20260307T143329Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/e/9/f/600_521548319.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/raleigh-triangle-activities/events/ical/
 X-WR-CALNAME:Raleigh & Triangle Activities Meetup Group

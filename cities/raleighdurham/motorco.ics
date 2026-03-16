@@ -4,6 +4,16 @@ PRODID:-//Motorco Music Hall//motorcomusic.com//
 X-WR-CALNAME:Motorco Music Hall
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:DRAYTON FARLEY
+DTSTART;VALUE=DATE-TIME:20260516T200000
+DTEND;VALUE=DATE-TIME:20260516T210000
+UID:3ee04916785bd7421d230bde3da8e8ae@motorcomusic.com
+DESCRIPTION:
+LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, NC 27701
+URL:https://motorcomusic.com/event/drayton-farley/
+X-SOURCE:Motorco Music Hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Monti StorySLAM : Saints & Sinners
 DTSTART;VALUE=DATE-TIME:20260318T193000
 DTEND;VALUE=DATE-TIME:20260318T203000
@@ -272,28 +282,6 @@ UID:56112aa5e7c41c197b8a08126c329629@motorcomusic.com
 DESCRIPTION:
 LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, NC 27701
 URL:https://motorcomusic.com/event/voxtrot/
-X-SOURCE:Motorco Music Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Flamenco Vivo's Tablao Flamenco - Saturday Matinee
-DTSTART;VALUE=DATE-TIME:20260314T140000
-DTEND;VALUE=DATE-TIME:20260314T150000
-UID:76e25cfe170ecedc6170354f1e7a344e@motorcomusic.com
-DESCRIPTION:
-LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, NC 27701
-URL:https://motorcomusic.com/event/2026-flamenco-vivos-tablao-flamenco-sat
- urday-matinee/
-X-SOURCE:Motorco Music Hall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Flamenco Vivo's Tablao Flamenco - Saturday Night
-DTSTART;VALUE=DATE-TIME:20260314T200000
-DTEND;VALUE=DATE-TIME:20260314T210000
-UID:41a742c0daa1d2503dc0f3e803cf8553@motorcomusic.com
-DESCRIPTION:
-LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, NC 27701
-URL:https://motorcomusic.com/event/2026-flamenco-vivos-tablao-flamenco-sat
- urday-night/
 X-SOURCE:Motorco Music Hall
 END:VEVENT
 BEGIN:VEVENT

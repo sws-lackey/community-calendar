@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313397318@meetup.com
-SEQUENCE:1
-DTSTAMP:20260315T060031Z
-DTSTART;TZID=America/Toronto:20260315T100000
-DTEND;TZID=America/Toronto:20260315T173000
-SUMMARY:Hike Mount Nemo
-DESCRIPTION:Wilderness Union Toronto - Outdoor Adventure and Hiking Club\n**Please note the only way to register for this adventure is on [our website.](https://www.wildernessunion.com/adventures/hike-mount-nemo)**\n\n***Mount Nemo\, one of the most popular scenic spots in the GTA\, offers breathtaking views of the Niagara Escarpment while being conveniently close to the city.***\n\nDespite its proximity\, the area feels beautifully removed from the hustle and bustle of daily life. As we hike along the ancient limestone formations that shape the escarpment\, we’ll be on the lookout for *Eastern Cedars*\, some of the oldest living trees in the world.\n\nThis is a fun 7 km hike that's accessible but super interesting — you'll feel truly connected with the escarpment as you walk through cracks in the rock and alongside ancient forest that goes all the way to the cliff edge.\n\nOn this hike you can expect:\n\\- Ancient cedar trees\n\\- Sweeping panoramic views\n\\- Dramatic escarpment ridge formations\n\\- Scramble up rocks & wooden ladders\n\n**Depending on snow levels we may be required to use snowshoes or ice spikes. We have a limited quantity available that you can grab at check-out. Ice spikes are free to borrow and snow shoes can be rented for a small fee.**\n\n**Highlights**\n**Scenic hike -** Walk through some of Ontario's oldest forests and enjoy the varied terrain and ecology.\n**Local mountain -** Only 45 minutes west of Toronto\, Mount Nemo is the perfect accessible hike for seasoned outdoor enthusiasts and people who want to just dip their toes in what Ontario nature has to offer.\n**Panoramic escarpment views -** Once at the top of Mount Nemo\, enjoy some beautiful views.\n\n**Event cost: $40+HST - optional transport available.**\n**Register [here.](https://www.wildernessunion.com/adventures/hike-mount-nemo)**\n\n**About Wilderness Union**\nWilderness Union is deliberate about building an outdoors community that connects you to the life-changing magic of the outdoors and helps you find your people.\n\nMembers range from 20-40 years old. The group is a mix of GTA locals and newcomers to Toronto from within Canada and abroad.\n\nAttendance numbers on Meetup don't reflect our actual event attendance - we typically have 15-20 community members at each event. Large enough that there's someone new to meet but small enough that it's not overwhelming!\n\n***Learn more at our website [www.wildernessunion.com](https://www.wildernessunion.com/)***
-URL;VALUE=URI:https://www.meetup.com/wildernessunion/events/313397318/
-STATUS:CONFIRMED
-CREATED:20260217T140119Z
-LAST-MODIFIED:20260217T140119Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/7/c/6/600_532787046.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313728801@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060031Z
+DTSTAMP:20260316T061707Z
 DTSTART;TZID=America/Toronto:20260319T193000
 DTEND;TZID=America/Toronto:20260319T210000
 SUMMARY:Wilderness Union's Epics Release Party
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313655947@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060031Z
+DTSTAMP:20260316T061707Z
 DTSTART;TZID=America/Toronto:20260328T100000
 DTEND;TZID=America/Toronto:20260328T180000
 SUMMARY:Survivalist Series: Introduction to Shelter Building

@@ -25,39 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313385238@meetup.com
-SEQUENCE:1
-DTSTAMP:20260315T060029Z
-DTSTART;TZID=America/Toronto:20260315T160000
-DTEND;TZID=America/Toronto:20260315T190000
-SUMMARY:IMPROV and ACTING in the PUB  (with Optional Dinner Party After) 
-DESCRIPTION:Soul City Social Club (Toronto\, Canada)\nHello everyone\,\n\nPlease join us for our a great afternoon with **IMPROV and ACTING in the PUB.**\n\\*Joined by my other groups too\; so we can anticipate a great afternoon\n\n\\*\\*Stick around after as well for our weekly traditional Sunday Dinner Party-no extra charge- others will be joining us to for dinner (optional)\n\nEvent details below:\n\nSincerely\n\nSteve Flemming\n(Organizer/Host)\n\nEvent Details:\n\n**IMPROV and ACTING in the PUB (with Optional Dinner Party After)**\n\nThis is a well organized event filled with Improv games\, skits and of course lots of hilarious scenes that we will create.\n-A fun afternoon for all Improv enthusiasts and newbies of Improv!\n\\*No experience required\; just an open mind and a desire to meet some wonderful people\, laugh and have fun!\n\\*Joined by my other groups too so we can anticipate a fabulous turn out\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Event Fee:** 10 dollars (Cash only) (HST is included)\nor e transfer in advance to [[steveflemming11@gmail.com](http://steveflemming11@gmail.com)]\n\\*Includes Dinner Party after at no extra charge :)\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Friendly Reminders:**\n**Date:**\n**Sunday\, March 15th**\n**Arrival Time:**\nArrive between 4:00 pm and 4:30 pm\n**Where to Meet us?**\n**Location: La Carnita - Good Fortune Bar (Main Floor)**\n**Address:** 130 Eglinton Ave. Toronto\, ON M4P 2X9\n\\-\\-\\-\\-\\-\n**Parking Available:**\n\\***Plenty of free street parking on Eglinton** and (Residential area south/east of venue for free)\n**Close to Subway Station:**\n\\*Also just a three minute walk east from the Yonge/Eglinton subway station
-URL;VALUE=URI:https://www.meetup.com/soulcity/events/313385238/
-STATUS:CONFIRMED
-CREATED:20260216T165604Z
-LAST-MODIFIED:20260216T165604Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/f/2/7/600_525957127.jpeg
-END:VEVENT
-BEGIN:VEVENT
-UID:event_313385453@meetup.com
-SEQUENCE:1
-DTSTAMP:20260315T060029Z
-DTSTART;TZID=America/Toronto:20260315T183000
-DTEND;TZID=America/Toronto:20260315T213000
-SUMMARY:Dinner with Friends Gratitude Party! (Cocktails and Conversations) (March 15th) 
-DESCRIPTION:Soul City Social Club (Toronto\, Canada)\nHello everyone\,\n\nI'd like to invite you out to our **Dinner with Friends Gratitude Party!**\n\n-Reserved seating\, friendly people\, good conversation and great food awaits!\n\nSo please plan to join us if you can :)\n\n\\*Joined by my other groups too\; so we can anticipate a fantastic evening\n\n**Time: 6:30 p.m. -9:30 p.m.**\n**Location:** La Carnita - Good Fortune Bar (Main Floor)\n**Address:** 130 Eglinton Ave. Toronto\, ON M4P 2X9\n\nEvent Details Bellow:\n\nSincerely\,\n\nSteve Flemming\n(Organizer/Host)\n\nEvent Details:\n**Dinner with Friends Gratitude Party! (Dinner\, Cocktails and Conversations) (March 15th)**\n-The great thing about this dinner party is you're free to move around to different tables and meet the other members too throughout the evening\n\n**Dinner Party Topics** may include but not limited too: Travel\, Culture\, Spirituality\, Relationships\, Modern Dating\, Work/Life balance\, Life after Marriage\, Dating Apps\, Comedy\, History\, Art\, Technology\, Economy\, Music\, Movies\, Sports\, Fashion\, Hobbies\, Books\, Psychology\, Philosophy\, the Future\, History\, Pop Culture\, Theatre\, etc.)\n\n**Arrival Time:**\n\\*Join us any time between 6:30 pm and 7:15 pm (if you can) for a fun and highly interactive evening as we get to know the members over dinner and great conversations (of your choice)\nEvent goes until roughly 9:30 pm\n\n**Event Fee:**\n5 dollars (cash only please) (HST included)\nor in advance by e transfer to **[steveflemming11@gmail.com](http://steveflemming11@gmail.com/)**\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Friendly Reminder:**\n\\*One beverage or appetizer minimum to support the venue- this is greatly appreciated :)\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Parking Available:**\n\\*Plenty of free street parking on Eglinton and (Residential area south/east of venue for free)\n**Close to Subway Station:**\n\\*Also right beside the Yonge/Eglinton subway station :)\n\\-\\-\\-\\-\\-\\-\\-\\-
-URL;VALUE=URI:https://www.meetup.com/soulcity/events/313385453/
-STATUS:CONFIRMED
-CREATED:20260216T170859Z
-LAST-MODIFIED:20260216T170859Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/a/1/9/600_532123545.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313540234@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260317T180000
 DTEND;TZID=America/Toronto:20260318T000000
 SUMMARY:The Ultimate St. Paddy's Day March 17th Dinner and DJ Bash!
@@ -72,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313653876@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260317T193000
 DTEND;TZID=America/Toronto:20260318T003000
 SUMMARY:St. Paddy's Day Celebration! (DJ and Dancing) (Tuesday\, March 17th)
@@ -87,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313769528@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260319T203000
 DTEND;TZID=America/Toronto:20260320T003000
 SUMMARY:Steve Flemming's Love Songs that Stir the Soul (Thursday March 19th) 
@@ -102,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313745410@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260320T110000
 DTEND;TZID=America/Toronto:20260320T130000
 SUMMARY:Friday Brunch! (What is Love?) (with Steve and MJ) (on Zoom) 
@@ -117,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313386006@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260320T190000
 DTEND;TZID=America/Toronto:20260320T230000
 SUMMARY:Mix\, Mingle and Friday Night Games! (Friday March 20th\, 2026)
@@ -132,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312542826@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260321T143000
 DTEND;TZID=America/Toronto:20260321T173000
 SUMMARY:**SATURDAY NATURE WALK and NIGHTLIFE IN PORT CREDIT** (Walk\, Talk & Flock!)  
@@ -147,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313190760@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260322T160000
 DTEND;TZID=America/Toronto:20260322T190000
 SUMMARY:*NAME THAT TUNE*  (Music\, Treats and Memories) (Sunday\, March 22nd) 
@@ -162,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313385655@meetup.com
 SEQUENCE:1
-DTSTAMP:20260315T060029Z
+DTSTAMP:20260316T061706Z
 DTSTART;TZID=America/Toronto:20260322T183000
 DTEND;TZID=America/Toronto:20260322T213000
 SUMMARY:Sunday Night with Friends! (Dinner\, Cocktails and Conversations) (March 22nd)
@@ -173,6 +143,36 @@ CREATED:20260216T172605Z
 LAST-MODIFIED:20260216T172605Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/9/0/1/1/600_526476881.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313653805@meetup.com
+SEQUENCE:1
+DTSTAMP:20260316T061706Z
+DTSTART;TZID=America/Toronto:20260322T193000
+DTEND;TZID=America/Toronto:20260322T223000
+SUMMARY:Sunday Night COCKTAILS and CONVERSATIONS (Sunday\, March 22nd) 
+DESCRIPTION:Soul City Social Club (Toronto\, Canada)\nHello everyone\,\n\nI'd like to invite you out to our Sunday Night Cocktails and Conversations event.\n\n-Reserved seating\, friendly people\, good conversation and cocktails specials all night\n\\*Kitchen will be open too\n\n-Please plan to join us if you can :)\n\n\\*Joined by my other groups too\; so we can anticipate a fantastic evening\n\n**Time: 7:30 p.m. -10:00 p.m.**\n**Location:** La Carnita - Good Fortune Bar (Main Floor)\n**Address:** 130 Eglinton Ave. Toronto\, ON M4P 2X9\n\nEvent Details Bellow:\n\nSincerely\,\n\nSteve Flemming\n(Organizer/Host)\n\nEvent Details:\n**Sunday Night COCKTAILS and CONVERSATIONS**\n**(Sunday\, March 22nd)**\n\n-The great thing about this event is you're free to move around to different tables and meet the other members throughout the evening\n\n**Cocktails and Conversation Topics** may include but not limited too: Travel\, Culture\, Spirituality\, Relationships\, Modern Dating\, Work/Life balance\, Art\, Life (before\, during and after) Marriage\, Technology\, Day Trips\, Vacations spots\, Passions\, Music\, Favorite Movies\, T.V. Shows\, Community\, Modern Living\, Fashion\, Hobbies\, Books\, Psychology\, Philosophy\, the Future of A.I. \, History\, Pop Culture\, Theatre\, etc.)\n\n**Arrival Time:**\n\\*Join us any time between 7:30 pm and 8:00 pm (if you can) for a fun and highly interactive evening as we get to know the members over dinner and great conversations (of your choice)\nEvent goes until roughly 10:00 pm\n\n**Event Fee:**\n5 dollars (cash only please) (HST included)\nor in advance by e transfer to **[steveflemming11@gmail.com](http://steveflemming11@gmail.com/)**\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Friendly Reminder:**\n\\*One beverage or appetizer minimum to support the venue- this is greatly appreciated :)\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n**Parking Available:**\n\\*Plenty of free street parking on Eglinton and (Residential area south/east of venue for free)\n**Close to Subway Station:**\n\\*Also right beside the Yonge/Eglinton subway station\n\\-\\-\\-\\-\\-\\-\\-\\-
+URL;VALUE=URI:https://www.meetup.com/soulcity/events/313653805/
+STATUS:CONFIRMED
+CREATED:20260305T200650Z
+LAST-MODIFIED:20260305T200650Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/2/5/2/1/600_533049505.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313605102@meetup.com
+SEQUENCE:1
+DTSTAMP:20260316T061706Z
+DTSTART;TZID=America/Toronto:20260326T193000
+DTEND;TZID=America/Toronto:20260326T223000
+SUMMARY:Thursday Night Comedy Show!  (Absolute Comedy) (Yonge and Eglinton) (March 26th)
+DESCRIPTION:Soul City Social Club (Toronto\, Canada)\nHello everyone\,\n\n**\\*Please kindly read carefully-thank you\\***\n\nJoin us for a fantastic and hilarious evening of mix\, mingling\, getting to know each other\; and of course a super funny comedy show at **Absolute Comedy!**\n\n\\*Joined by my other social groups too so we can anticipate a fabulous turn out and night\n\n**Event Fee:**\n\nI will be in the front lobby (look for me-Steve & group)\nEarly Bird Price:\n**20 dollars in advance (e transfer any day prior to the day of the event)**\nDay of Event Price\n**25 dollars when you arrive (HST is included)**\nCash or through e transfer to:\nsteveflemming11@gmail.com\n\nMore event details below:\n\nSincerely\,\n\nSteve Flemming\n(Organizer)\n\n**Event Details:**\n\n**Thursday Night Comedy Show! (at Absolute Comedy) (Yonge and Eglinton)**\n\n\\*Please arrive between 7:30 & 7:50 for a little pre-show mingle which will be a great way to get to know everyone before the show starts\n\n\\*You will see us in the front bar area of the venue when you first come in\n\n\\*Plenty of parking on Yonge street and in residential area\n\n\\*Walking distance (3-4 minutes) from the Yonge & Eglinton subway station\n\n\\*You will be expected to purchase minimum beverage and/or appetizer once inside the comedy show to support the staff and comedians\n\\*Dinner menu is also provided as well\, so bring your appetite if you like :)\n\n**Going to be a great night gang with lots of laughs!**
+URL;VALUE=URI:https://www.meetup.com/soulcity/events/313605102/
+STATUS:CONFIRMED
+CREATED:20260302T180153Z
+LAST-MODIFIED:20260302T180153Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/6/6/1/600_528642593.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/soulcity/events/ical/
 X-WR-CALNAME:Soul City Social Club (Toronto\, Canada)
