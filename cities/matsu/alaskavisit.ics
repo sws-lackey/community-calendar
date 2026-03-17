@@ -4,19 +4,6 @@ PRODID:-//Mat-Su Convention & Visitors Bureau//alaskavisit.com//
 X-WR-CALNAME:Mat-Su Convention & Visitors Bureau
 X-WR-TIMEZONE:America/Anchorage
 BEGIN:VEVENT
-SUMMARY:50ish and Over Hike: Moose Range from Yarrow Road
-DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260317T000000
-DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260317T000000
-UID:489d8fdbe821f39a78f0942ce531ecba@alaskavisit.com
-DESCRIPTION:The Moose Range trails are a large network of trails at the ba
- se of the Talkeetna Mountains/Arkose Ridge. We’ll meet at the Yarrow Roa
- d Trailhead and...
-LOCATION:Moose Range from Yarrow Road\, Palmer\, AK
-URL:https://www.alaskavisit.com/event/50ish-and-over-hike%3a-moose-range-f
- rom-yarrow-road/4787/
-X-SOURCE:Mat-Su Convention & Visitors Bureau
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Family Free Activity Day: Snack Superheroes
 DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260318T000000
 DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260318T000000
@@ -166,6 +153,19 @@ URL:https://www.alaskavisit.com/event/mat-su-college-sumo-robotics-competi
 X-SOURCE:Mat-Su Convention & Visitors Bureau
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekend Ramble: Hike Reflections Lake Trail
+DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260412T000000
+DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260412T000000
+UID:7663ece65970476c654e3f74fdb68f89@alaskavisit.com
+DESCRIPTION:Reflections Lake Trail is an easy\, level\, 1-mile gravel and 
+ boardwalk loop next to the Knik River. We’ll take a leisurely stroll aro
+ und the scenic...
+LOCATION:Reflections Lake Trail
+URL:https://www.alaskavisit.com/event/weekend-ramble%3a-hike-reflections-l
+ ake-trail/4793/
+X-SOURCE:Mat-Su Convention & Visitors Bureau
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Speaker Series: Presentation with Mary Gianotti
 DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260413T000000
 DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260413T000000
@@ -176,6 +176,19 @@ DESCRIPTION:Where: Mat-Su Health Foundation When: Doors open at 6:30PM\, P
 LOCATION:Mat-Su Health Foundation\, 777 N Crusey St\, Wasilla\, AK
 URL:https://www.alaskavisit.com/event/speaker-series%3a-presentation-with-
  mary-gianotti/4722/
+X-SOURCE:Mat-Su Convention & Visitors Bureau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:50ish and Over Hike: Matanuska Lakes
+DTSTART;TZID=America/Anchorage;VALUE=DATE-TIME:20260414T000000
+DTEND;TZID=America/Anchorage;VALUE=DATE-TIME:20260414T000000
+UID:f2c2131f33ddb062e2d7db73bc70f422@alaskavisit.com
+DESCRIPTION:Join other “seasoned” hikers for a walk around the Matanus
+ ka Greenbelt trails. The area includes forest\, fields\, and lakes located
+  in deep depressions...
+LOCATION:Matanuska Greenbelt Trails\, AK
+URL:https://www.alaskavisit.com/event/50ish-and-over-hike%3a-matanuska-lak
+ es/4794/
 X-SOURCE:Mat-Su Convention & Visitors Bureau
 END:VEVENT
 BEGIN:VEVENT

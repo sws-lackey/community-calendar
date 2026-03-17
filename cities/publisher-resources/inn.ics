@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260317T150000
 DTEND;TZID=America/New_York:20260317T160000
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20251014T194807Z
 LAST-MODIFIED:20251211T214028Z
 UID:10004834-1773759600-1773763200@inn.org
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260331T150000
 DTEND;TZID=America/New_York:20260331T160000
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20251014T194807Z
 LAST-MODIFIED:20251211T214028Z
 UID:10004835-1774969200-1774972800@inn.org
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260402T153000
 DTEND;TZID=America/New_York:20260402T163000
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20260302T153409Z
 LAST-MODIFIED:20260302T153409Z
 UID:10004846-1775143800-1775147400@inn.org
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260423T130000
 DTEND;TZID=America/New_York:20260423T150000
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20260302T153409Z
 LAST-MODIFIED:20260302T153409Z
 UID:10004847-1776949200-1776956400@inn.org
@@ -99,9 +99,21 @@ URL:https://inn.org/event/projourn-legal-checkup-clinic/2026-04-23/
 ATTACH;FMTTYPE=image/jpeg:https://inn.org/wp-content/uploads/2024/06/INN-Events-Operations.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260429T130000
+DTEND;TZID=America/New_York:20260429T140000
+DTSTAMP:20260317T020357
+CREATED:20260316T134527Z
+LAST-MODIFIED:20260316T134527Z
+UID:10004848-1777467600-1777471200@inn.org
+SUMMARY:Collaborating with Smithsonian's rural initiatives
+DESCRIPTION:The Smithsonian is expanding its engagement with rural communities across the country\, and leaders from the Institute for Nonprofit News’ Rural News Network are invited to learn how rural newsrooms can be part of that effort. \nIn this introductory session\, Smithsonian staff will share how the institution is working with rural partners through its Rural Initiative and preview opportunities connected to Our Shared Future: 250\, a nationwide effort leading up to the United States’ 250th anniversary in 2026. The initiative invites communities across the country to reflect on their histories\, highlight local voices and help shape the nation’s shared future. \nThis conversation will explore how rural journalists and community-rooted newsrooms can collaborate with the Smithsonian Institution—from connecting with local museums and cultural organizations to elevating rural stories\, history and perspectives within a national moment of reflection. \nRural newsroom leaders will have the chance to learn more about the Smithsonian’s rural engagement work\, ask questions and discuss potential ways their reporting and community relationships could intersect with these efforts.
+URL:https://inn.org/event/collaborating-with-smithsonians-rural-initiatives/
+ATTACH;FMTTYPE=image/jpeg:https://inn.org/wp-content/uploads/2026/03/894595c4-772c-4b8f-ac9c-64cf7faa36b3.jpeg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20260123T165431Z
 LAST-MODIFIED:20260206T171526Z
 UID:10004840-1781568000-1781827199@inn.org
@@ -114,7 +126,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T203000
-DTSTAMP:20260316T024914
+DTSTAMP:20260317T020357
 CREATED:20260209T143527Z
 LAST-MODIFIED:20260209T143527Z
 UID:10004844-1781629200-1781641800@inn.org

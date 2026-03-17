@@ -4,18 +4,6 @@ PRODID:-//Cat's Cradle//catscradle.com//
 X-WR-CALNAME:Cat's Cradle
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:The Big Pop Show
-DTSTART;VALUE=DATE-TIME:20260323T180000
-DTEND;VALUE=DATE-TIME:20260323T210000
-UID:ba6f740822a7a171c530aba44717ab3e@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/the-big-pop-show/cats-cradle-back-room/ca
- rrboro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andy Hull
 DTSTART;VALUE=DATE-TIME:20260322T200000
 DTEND;VALUE=DATE-TIME:20260322T230000
@@ -25,6 +13,18 @@ LOCATION:Haw River Ballroom\, 1711 Saxapahaw-Bethlehem Church Rd\, Saxapah
  aw\, North Carolina
 URL:https://catscradle.com/event/andy-hull-3/haw-river-ballroom/saxapahaw-
  north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Pop Show
+DTSTART;VALUE=DATE-TIME:20260323T180000
+DTEND;VALUE=DATE-TIME:20260323T210000
+UID:ba6f740822a7a171c530aba44717ab3e@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/the-big-pop-show/cats-cradle-back-room/ca
+ rrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -86,18 +86,6 @@ URL:https://catscradle.com/event/carrboro-bluegrass-festival-presents-blue
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andrew Duhon
-DTSTART;VALUE=DATE-TIME:20260509T200000
-DTEND;VALUE=DATE-TIME:20260509T230000
-UID:ab73f5ea15f8758c5aa00400278df08c@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/andrew-duhon-2/cats-cradle-back-room/carr
- boro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tommy Newport
 DTSTART;VALUE=DATE-TIME:20260503T200000
 DTEND;VALUE=DATE-TIME:20260503T230000
@@ -110,14 +98,39 @@ URL:https://catscradle.com/event/tommy-newport/cats-cradle-back-room/carrb
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gangstagrass
-DTSTART;VALUE=DATE-TIME:20260324T190000
-DTEND;VALUE=DATE-TIME:20260324T220000
-UID:da1485ac5bd52d7072d073bbb1c98adb@catscradle.com
+SUMMARY:Andrew Duhon
+DTSTART;VALUE=DATE-TIME:20260509T200000
+DTEND;VALUE=DATE-TIME:20260509T230000
+UID:ab73f5ea15f8758c5aa00400278df08c@catscradle.com
 DESCRIPTION:
-LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/gangstagrass/cats-cradle/carrboro-north-c
- arolina/
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/andrew-duhon-2/cats-cradle-back-room/carr
+ boro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Ives
+DTSTART;VALUE=DATE-TIME:20260517T200000
+DTEND;VALUE=DATE-TIME:20260517T230000
+UID:2990cc0830b80b5a6064f1e129e97a4a@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/grace-ives/cats-cradle-back-room/carrboro
+ -north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosenau & Sanborn
+DTSTART;VALUE=DATE-TIME:20260324T200000
+DTEND;VALUE=DATE-TIME:20260324T230000
+UID:534d46f25fe5a2abda9a6a02e31c75b7@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/rosenau-sanborn/cats-cradle-back-room/car
+ rboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -133,26 +146,14 @@ URL:https://catscradle.com/event/bill-callahan/haw-river-ballroom/saxapaha
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rosenau &#038\; Sanborn
-DTSTART;VALUE=DATE-TIME:20260324T200000
-DTEND;VALUE=DATE-TIME:20260324T230000
-UID:632718450a752b706e79f50d6b0644a8@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/rosenau-sanborn/cats-cradle-back-room/car
- rboro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Failure
-DTSTART;VALUE=DATE-TIME:20260510T200000
-DTEND;VALUE=DATE-TIME:20260510T230000
-UID:01e340a83b57bd5ea84c1d9c3e3d3a83@catscradle.com
+SUMMARY:Gangstagrass
+DTSTART;VALUE=DATE-TIME:20260324T190000
+DTEND;VALUE=DATE-TIME:20260324T220000
+UID:da1485ac5bd52d7072d073bbb1c98adb@catscradle.com
 DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/failure-2/cats-cradle/carrboro-north-caro
- lina/
+URL:https://catscradle.com/event/gangstagrass/cats-cradle/carrboro-north-c
+ arolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -168,15 +169,14 @@ URL:https://catscradle.com/event/caroline-kingsbury/cats-cradle-back-room/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rigometrics – Rigossance Tour
-DTSTART;VALUE=DATE-TIME:20260402T200000
-DTEND;VALUE=DATE-TIME:20260402T230000
-UID:17627b0a2dfb83319274fe4538b4c488@catscradle.com
+SUMMARY:Failure
+DTSTART;VALUE=DATE-TIME:20260510T200000
+DTEND;VALUE=DATE-TIME:20260510T230000
+UID:01e340a83b57bd5ea84c1d9c3e3d3a83@catscradle.com
 DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/rigometrics-rigossance-tour/cats-cradle-b
- ack-room/carrboro-north-carolina/
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/failure-2/cats-cradle/carrboro-north-caro
+ lina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -191,6 +191,18 @@ LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
 URL:https://catscradle.com/event/the-blazers-host-a-lifetime-celebration-f
  or-parthenon-huxley-aka-rick-miller-of-the-blazers/cats-cradle-back-room/c
  arrboro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rigometrics – Rigossance Tour
+DTSTART;VALUE=DATE-TIME:20260402T200000
+DTEND;VALUE=DATE-TIME:20260402T230000
+UID:17627b0a2dfb83319274fe4538b4c488@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/rigometrics-rigossance-tour/cats-cradle-b
+ ack-room/carrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -251,15 +263,14 @@ URL:https://catscradle.com/event/by-storm/cats-cradle-back-room/carrboro-n
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cece Coakley
-DTSTART;VALUE=DATE-TIME:20260426T200000
-DTEND;VALUE=DATE-TIME:20260426T230000
-UID:64a4b06a71481fc5fe9a98357d50295e@catscradle.com
+SUMMARY:The Black Angels: Passover 2026 Tour
+DTSTART;VALUE=DATE-TIME:20260517T200000
+DTEND;VALUE=DATE-TIME:20260517T230000
+UID:2abbb4bd0c98ac8934c58208039b2aee@catscradle.com
 DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/cece-coakley/cats-cradle-back-room/carrbo
- ro-north-carolina/
+LOCATION:Lincoln Theatre\, 126 E Cabarrus St\, Raleigh\, North Carolina
+URL:https://catscradle.com/event/the-black-angels-passover-2026-tour/linco
+ ln-theatre/raleigh-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -275,6 +286,30 @@ URL:https://catscradle.com/event/paulus-schaefer-netherlands-guitar-worksh
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sam Farthing & Jimmy Grant Guitar Workshop
+DTSTART;VALUE=DATE-TIME:20260321T133000
+DTEND;VALUE=DATE-TIME:20260321T163000
+UID:ca9387a8e13cfb81c84f58b59384a0f3@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/sam-farthing-jimmy-grant-guitar-workshop/
+ cats-cradle-back-room/carrboro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cece Coakley
+DTSTART;VALUE=DATE-TIME:20260426T200000
+DTEND;VALUE=DATE-TIME:20260426T230000
+UID:64a4b06a71481fc5fe9a98357d50295e@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/cece-coakley/cats-cradle-back-room/carrbo
+ ro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Violin Workshop
 DTSTART;VALUE=DATE-TIME:20260321T110000
 DTEND;VALUE=DATE-TIME:20260321T140000
@@ -284,18 +319,6 @@ LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
  a
 URL:https://catscradle.com/event/violin-workshop/cats-cradle-back-room/car
  rboro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sam Farthing &#038\; Jimmy Grant Guitar Workshop
-DTSTART;VALUE=DATE-TIME:20260321T133000
-DTEND;VALUE=DATE-TIME:20260321T163000
-UID:86e707dc2ac9af98119ae5e0112b2dc2@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/sam-farthing-jimmy-grant-guitar-workshop/
- cats-cradle-back-room/carrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -311,10 +334,10 @@ URL:https://catscradle.com/event/paulus-schaefer-and-friends/cats-cradle-b
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Voyage Hot Club\, ft. Sam Farthing &#038\; Paulus Schaefer
+SUMMARY:Voyage Hot Club\, ft. Sam Farthing & Paulus Schaefer
 DTSTART;VALUE=DATE-TIME:20260320T200000
 DTEND;VALUE=DATE-TIME:20260320T230000
-UID:a9f77c588107872f6a898bbc16c4138c@catscradle.com
+UID:9da12cb851a71b6b88f58be672658512@catscradle.com
 DESCRIPTION:
 LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
  a
@@ -347,14 +370,14 @@ URL:https://catscradle.com/event/camping-in-alaska/cats-cradle-back-room/c
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Still Not Okay Tour
-DTSTART;VALUE=DATE-TIME:20260327T190000
-DTEND;VALUE=DATE-TIME:20260327T220000
-UID:497d290a7d51e5a32fac8f4d891c322b@catscradle.com
+SUMMARY:Billie Marten
+DTSTART;VALUE=DATE-TIME:20260410T200000
+DTEND;VALUE=DATE-TIME:20260410T230000
+UID:17180a4b4a0314f670620b6bca73089e@catscradle.com
 DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/the-still-not-okay-tour/cats-cradle/carrb
- oro-north-carolina/
+URL:https://catscradle.com/event/billie-marten/cats-cradle/carrboro-north-
+ carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -369,6 +392,17 @@ URL:https://catscradle.com/event/cass-mccombs/cats-cradle/carrboro-north-c
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Still Not Okay Tour
+DTSTART;VALUE=DATE-TIME:20260327T190000
+DTEND;VALUE=DATE-TIME:20260327T220000
+UID:497d290a7d51e5a32fac8f4d891c322b@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/the-still-not-okay-tour/cats-cradle/carrb
+ oro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mason Jennings
 DTSTART;VALUE=DATE-TIME:20260320T200000
 DTEND;VALUE=DATE-TIME:20260320T230000
@@ -380,17 +414,6 @@ URL:https://catscradle.com/event/mason-jennings/cats-cradle/carrboro-north
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Billie Marten
-DTSTART;VALUE=DATE-TIME:20260410T200000
-DTEND;VALUE=DATE-TIME:20260410T230000
-UID:17180a4b4a0314f670620b6bca73089e@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/billie-marten/cats-cradle/carrboro-north-
- carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Red Pears and Together Pangea
 DTSTART;VALUE=DATE-TIME:20260420T200000
 DTEND;VALUE=DATE-TIME:20260420T230000
@@ -399,6 +422,17 @@ DESCRIPTION:
 LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
 URL:https://catscradle.com/event/the-red-pears-and-together-pangea/motorco
  -music-hall/durham-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cut Worms
+DTSTART;VALUE=DATE-TIME:20260418T200000
+DTEND;VALUE=DATE-TIME:20260418T230000
+UID:0ecd8e33eed6db1a6642525233539160@catscradle.com
+DESCRIPTION:
+LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
+URL:https://catscradle.com/event/cut-worms/motorco-music-hall/durham-north
+ -carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -426,17 +460,6 @@ URL:https://catscradle.com/event/gelli-haha-where-in-the-world-is-gelli-ha
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cut Worms
-DTSTART;VALUE=DATE-TIME:20260418T200000
-DTEND;VALUE=DATE-TIME:20260418T230000
-UID:0ecd8e33eed6db1a6642525233539160@catscradle.com
-DESCRIPTION:
-LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
-URL:https://catscradle.com/event/cut-worms/motorco-music-hall/durham-north
- -carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Snail Mail
 DTSTART;VALUE=DATE-TIME:20260420T200000
 DTEND;VALUE=DATE-TIME:20260420T230000
@@ -449,18 +472,6 @@ URL:https://catscradle.com/event/snail-mail-3/haw-river-ballroom/saxapahaw
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emily Yacina
-DTSTART;VALUE=DATE-TIME:20260501T200000
-DTEND;VALUE=DATE-TIME:20260501T230000
-UID:cfcc3ec6e3bf1e48595a2d7d2d321835@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/emily-yacina/cats-cradle-back-room/carrbo
- ro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Florence Dore
 DTSTART;VALUE=DATE-TIME:20260507T200000
 DTEND;VALUE=DATE-TIME:20260507T230000
@@ -470,6 +481,18 @@ LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
  a
 URL:https://catscradle.com/event/florence-dore/cats-cradle-back-room/carrb
  oro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Yacina
+DTSTART;VALUE=DATE-TIME:20260501T200000
+DTEND;VALUE=DATE-TIME:20260501T230000
+UID:cfcc3ec6e3bf1e48595a2d7d2d321835@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/emily-yacina/cats-cradle-back-room/carrbo
+ ro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -543,17 +566,6 @@ URL:https://catscradle.com/event/foxtide/cats-cradle-back-room/carrboro-no
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Femtanyl
-DTSTART;VALUE=DATE-TIME:20260412T200000
-DTEND;VALUE=DATE-TIME:20260412T230000
-UID:f2e000727b6199fd6fba35fdc018ce5b@catscradle.com
-DESCRIPTION:
-LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
-URL:https://catscradle.com/event/femtanyl/motorco-music-hall/durham-north-
- carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wednesday – Bleeds Tour 2026
 DTSTART;VALUE=DATE-TIME:20260504T200000
 DTEND;VALUE=DATE-TIME:20260504T230000
@@ -562,6 +574,17 @@ DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
 URL:https://catscradle.com/event/wednesday-bleeds-tour-2026-3/cats-cradle/
  carrboro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femtanyl
+DTSTART;VALUE=DATE-TIME:20260412T200000
+DTEND;VALUE=DATE-TIME:20260412T230000
+UID:f2e000727b6199fd6fba35fdc018ce5b@catscradle.com
+DESCRIPTION:
+LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
+URL:https://catscradle.com/event/femtanyl/motorco-music-hall/durham-north-
+ carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -578,13 +601,13 @@ X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wednesday – Bleeds Tour 2026
-DTSTART;VALUE=DATE-TIME:20260503T200000
-DTEND;VALUE=DATE-TIME:20260503T230000
-UID:8ac85c76856663ac53d52f045b278865@catscradle.com
+DTSTART;VALUE=DATE-TIME:20260502T200000
+DTEND;VALUE=DATE-TIME:20260502T230000
+UID:a084be97e9656e638e36a0b0c40daf87@catscradle.com
 DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/wednesday-bleeds-tour-2026-2/cats-cradle/
- carrboro-north-carolina/
+URL:https://catscradle.com/event/wednesday-bleeds-tour-2026/cats-cradle/ca
+ rrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -600,6 +623,28 @@ URL:https://catscradle.com/event/lucy-bedroque/cats-cradle-back-room/carrb
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wednesday – Bleeds Tour 2026
+DTSTART;VALUE=DATE-TIME:20260503T200000
+DTEND;VALUE=DATE-TIME:20260503T230000
+UID:8ac85c76856663ac53d52f045b278865@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/wednesday-bleeds-tour-2026-2/cats-cradle/
+ carrboro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron & Wine
+DTSTART;VALUE=DATE-TIME:20260517T200000
+DTEND;VALUE=DATE-TIME:20260517T230000
+UID:a047b7e505bd6081c5582f612603414a@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/iron-wine-2/cats-cradle/carrboro-north-ca
+ rolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Krooked Kings
 DTSTART;VALUE=DATE-TIME:20260424T200000
 DTEND;VALUE=DATE-TIME:20260424T230000
@@ -609,17 +654,6 @@ LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
  a
 URL:https://catscradle.com/event/krooked-kings/cats-cradle-back-room/carrb
  oro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wednesday – Bleeds Tour 2026
-DTSTART;VALUE=DATE-TIME:20260502T200000
-DTEND;VALUE=DATE-TIME:20260502T230000
-UID:a084be97e9656e638e36a0b0c40daf87@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/wednesday-bleeds-tour-2026/cats-cradle/ca
- rrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -636,10 +670,10 @@ URL:https://catscradle.com/event/lucius-a-history-worth-repeating-songs-an
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron &#038\; Wine
+SUMMARY:Iron & Wine
 DTSTART;VALUE=DATE-TIME:20260516T200000
 DTEND;VALUE=DATE-TIME:20260516T230000
-UID:e32e34b14e572d9a89e3a97f148e4333@catscradle.com
+UID:b7d751e27e2944cd1418554584ff2ffc@catscradle.com
 DESCRIPTION:
 LOCATION:Haw River Ballroom\, 1711 Saxapahaw-Bethlehem Church Rd\, Saxapah
  aw\, North Carolina
@@ -660,18 +694,6 @@ URL:https://catscradle.com/event/big-star-quintet-celebrates-five-decades-
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wallice
-DTSTART;VALUE=DATE-TIME:20260417T200000
-DTEND;VALUE=DATE-TIME:20260417T230000
-UID:c63a9a2a33d800f333660dbb3be69611@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/wallice-2/cats-cradle-back-room/carrboro-
- north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gatlin
 DTSTART;VALUE=DATE-TIME:20260425T200000
 DTEND;VALUE=DATE-TIME:20260425T230000
@@ -681,6 +703,18 @@ LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
  a
 URL:https://catscradle.com/event/gatlin/cats-cradle-back-room/carrboro-nor
  th-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wallice
+DTSTART;VALUE=DATE-TIME:20260417T200000
+DTEND;VALUE=DATE-TIME:20260417T230000
+UID:c63a9a2a33d800f333660dbb3be69611@catscradle.com
+DESCRIPTION:
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/wallice-2/cats-cradle-back-room/carrboro-
+ north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -778,18 +812,6 @@ URL:https://catscradle.com/event/field-medic-3/cats-cradle-back-room/carrb
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pressing Strings and Driftwood
-DTSTART;VALUE=DATE-TIME:20260319T200000
-DTEND;VALUE=DATE-TIME:20260319T230000
-UID:054e1782562e9235aff926df792e3a25@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/pressing-strings-and-driftwood/cats-cradl
- e-back-room/carrboro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indigo de Souza
 DTSTART;VALUE=DATE-TIME:20260331T200000
 DTEND;VALUE=DATE-TIME:20260331T230000
@@ -801,14 +823,15 @@ URL:https://catscradle.com/event/indigo-de-souza-3/cats-cradle/carrboro-no
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Martin Sexton – Live Wide Open Tour 2026
-DTSTART;VALUE=DATE-TIME:20260416T200000
-DTEND;VALUE=DATE-TIME:20260416T230000
-UID:1ab0c3b900613560696bfdf56ce09aec@catscradle.com
+SUMMARY:Pressing Strings and Driftwood
+DTSTART;VALUE=DATE-TIME:20260319T200000
+DTEND;VALUE=DATE-TIME:20260319T230000
+UID:054e1782562e9235aff926df792e3a25@catscradle.com
 DESCRIPTION:
-LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/martin-sexton-live-wide-open-tour-2026/ca
- ts-cradle/carrboro-north-carolina/
+LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
+ a
+URL:https://catscradle.com/event/pressing-strings-and-driftwood/cats-cradl
+ e-back-room/carrboro-north-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -835,14 +858,25 @@ URL:https://catscradle.com/event/benee/cats-cradle/carrboro-north-carolina
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unprocessed
-DTSTART;VALUE=DATE-TIME:20260506T193000
-DTEND;VALUE=DATE-TIME:20260506T223000
-UID:be45af7be4b1d99ecfb5b3a655dd0bb9@catscradle.com
+SUMMARY:Martin Sexton – Live Wide Open Tour 2026
+DTSTART;VALUE=DATE-TIME:20260416T200000
+DTEND;VALUE=DATE-TIME:20260416T230000
+UID:1ab0c3b900613560696bfdf56ce09aec@catscradle.com
 DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/unprocessed-2/cats-cradle/carrboro-north-
- carolina/
+URL:https://catscradle.com/event/martin-sexton-live-wide-open-tour-2026/ca
+ ts-cradle/carrboro-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Model/Actriz
+DTSTART;VALUE=DATE-TIME:20260325T200000
+DTEND;VALUE=DATE-TIME:20260325T230000
+UID:dd5650c51b65d48d78ba8cd6469020ff@catscradle.com
+DESCRIPTION:
+LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
+URL:https://catscradle.com/event/model-actriz/motorco-music-hall/durham-no
+ rth-carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -858,26 +892,14 @@ URL:https://catscradle.com/event/rec-hall/cats-cradle-back-room/carrboro-n
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Model/Actriz
-DTSTART;VALUE=DATE-TIME:20260325T200000
-DTEND;VALUE=DATE-TIME:20260325T230000
-UID:dd5650c51b65d48d78ba8cd6469020ff@catscradle.com
+SUMMARY:Unprocessed
+DTSTART;VALUE=DATE-TIME:20260506T193000
+DTEND;VALUE=DATE-TIME:20260506T223000
+UID:be45af7be4b1d99ecfb5b3a655dd0bb9@catscradle.com
 DESCRIPTION:
-LOCATION:Motorco Music Hall\, 723 Rigsbee Ave\, Durham\, North Carolina
-URL:https://catscradle.com/event/model-actriz/motorco-music-hall/durham-no
- rth-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alice Phoebe Lou
-DTSTART;VALUE=DATE-TIME:20260417T200000
-DTEND;VALUE=DATE-TIME:20260417T230000
-UID:25183379a9b1128565996de9d3469067@catscradle.com
-DESCRIPTION:
-LOCATION:Haw River Ballroom\, 1711 Saxapahaw-Bethlehem Church Rd\, Saxapah
- aw\, North Carolina
-URL:https://catscradle.com/event/alice-phoebe-lou/haw-river-ballroom/saxap
- ahaw-north-carolina/
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/unprocessed-2/cats-cradle/carrboro-north-
+ carolina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -893,6 +915,18 @@ URL:https://catscradle.com/event/arts-fishing-club-harvey-street/cats-crad
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alice Phoebe Lou
+DTSTART;VALUE=DATE-TIME:20260417T200000
+DTEND;VALUE=DATE-TIME:20260417T230000
+UID:25183379a9b1128565996de9d3469067@catscradle.com
+DESCRIPTION:
+LOCATION:Haw River Ballroom\, 1711 Saxapahaw-Bethlehem Church Rd\, Saxapah
+ aw\, North Carolina
+URL:https://catscradle.com/event/alice-phoebe-lou/haw-river-ballroom/saxap
+ ahaw-north-carolina/
+X-SOURCE:Cat's Cradle
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kishi Bashi: Sonderlust 10th Anniversary Tour
 DTSTART;VALUE=DATE-TIME:20260415T200000
 DTEND;VALUE=DATE-TIME:20260415T230000
@@ -904,15 +938,14 @@ URL:https://catscradle.com/event/kishi-bashi-sonderlust-10th-anniversary-t
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skullcrusher
-DTSTART;VALUE=DATE-TIME:20260316T200000
-DTEND;VALUE=DATE-TIME:20260316T230000
-UID:d8c77948ab75eb07f3ee2e6b40a7e711@catscradle.com
+SUMMARY:The Moss
+DTSTART;VALUE=DATE-TIME:20260420T200000
+DTEND;VALUE=DATE-TIME:20260420T230000
+UID:6b7a77238fd2afb01e8339264ad2115d@catscradle.com
 DESCRIPTION:
-LOCATION:Cats Cradle Back Room\, 300 E Main St.\, Carrboro\, North Carolin
- a
-URL:https://catscradle.com/event/skullcrusher/cats-cradle-back-room/carrbo
- ro-north-carolina/
+LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
+URL:https://catscradle.com/event/the-moss-3/cats-cradle/carrboro-north-car
+ olina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT
@@ -924,17 +957,6 @@ DESCRIPTION:
 LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
 URL:https://catscradle.com/event/madison-cunningham-the-ace-tour/cats-crad
  le/carrboro-north-carolina/
-X-SOURCE:Cat's Cradle
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Moss
-DTSTART;VALUE=DATE-TIME:20260420T200000
-DTEND;VALUE=DATE-TIME:20260420T230000
-UID:6b7a77238fd2afb01e8339264ad2115d@catscradle.com
-DESCRIPTION:
-LOCATION:Cats Cradle\, 300 E Main St.\, Carrboro\, North Carolina
-URL:https://catscradle.com/event/the-moss-3/cats-cradle/carrboro-north-car
- olina/
 X-SOURCE:Cat's Cradle
 END:VEVENT
 BEGIN:VEVENT

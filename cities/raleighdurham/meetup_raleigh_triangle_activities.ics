@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_313565708@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260319T180000
 DTEND;TZID=America/New_York:20260319T200000
 SUMMARY:Free Medieval Combat Training (Hillsborough\, NC) - Broadsword - Armor - Rapier
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313641771@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260324T190000
 DTEND;TZID=America/New_York:20260324T200000
 SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313673854@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260326T180000
 DTEND;TZID=America/New_York:20260326T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -70,9 +70,24 @@ CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/e/9/f/600_521548319.jpeg
 END:VEVENT
 BEGIN:VEVENT
+UID:event_313793057@meetup.com
+SEQUENCE:1
+DTSTAMP:20260317T053848Z
+DTSTART;TZID=America/New_York:20260328T190000
+DTEND;TZID=America/New_York:20260328T220000
+SUMMARY:Dinner at Bronco Tacos 
+DESCRIPTION:Raleigh & Triangle Activities Meetup Group\n**Dinner at Bronco Taco’s**\n\nWhere: **Bronco Tacos\, 3434 Edwards Mill Rd\, Unit 11\, Raleigh\, NC 27612 (919) 594-1719**\n**https://broncotacosnc.com/home/**\nWhen: **Saturday March 28th\, 7pm**\nBronco Tacos is a lively Mexican eatery where bold flavors and fresh ingredients collide to create unforgettable dishes that ignite the taste buds. From sizzling fajitas to handcrafted tacos bursting with authenticity\, Bronco Tacos invites diners on a flavorful journey through the heart of Mexico. So\, let’s go give it a try later this month and try it for ourselves!\nOrganizer: Dwen Andrews 919 624 0762/ 919 244 2710 [dwencita@gmail.com](mailto:dwencita@gmail.com) LE2605
+URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/313793057/
+STATUS:CONFIRMED
+CREATED:20260316T155806Z
+LAST-MODIFIED:20260316T155806Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/6/a/9/600_462862185.jpeg
+END:VEVENT
+BEGIN:VEVENT
 UID:event_gwtjwtyjcgbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260402T180000
 DTEND;TZID=America/New_York:20260402T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -87,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260409T180000
 DTEND;TZID=America/New_York:20260409T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -102,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_mtchftyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260411T190000
 DTEND;TZID=America/New_York:20260411T223000
 SUMMARY:Ballroom Dance with Stardusters!
@@ -117,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260416T180000
 DTEND;TZID=America/New_York:20260416T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -132,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gwtjwtyjcgbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260423T180000
 DTEND;TZID=America/New_York:20260423T200000
 SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
@@ -147,7 +162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_hgxmltyjcgblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T062436Z
+DTSTAMP:20260317T053848Z
 DTSTART;TZID=America/New_York:20260428T190000
 DTEND;TZID=America/New_York:20260428T200000
 SUMMARY:Travel CHINA like a local! Virtual QnA [x-posted]
@@ -158,21 +173,6 @@ CREATED:20240423T004605Z
 LAST-MODIFIED:20240423T004605Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/c/7/c/600_494667772.jpeg
-END:VEVENT
-BEGIN:VEVENT
-UID:event_gwtjwtyjcgbnc@meetup.com
-SEQUENCE:1
-DTSTAMP:20260316T062436Z
-DTSTART;TZID=America/New_York:20260430T180000
-DTEND;TZID=America/New_York:20260430T200000
-SUMMARY:Free Medieval Combat Training (Durham\, NC) - Broadsword - Armor - Rapier
-DESCRIPTION:Raleigh & Triangle Activities Meetup Group\nLearn the European martial art of broadsword and shield\, wearing steel armor. Or maybe Renaissance dueling with rapier and dagger is more your style. Beginners welcome! No experience necessary. Some loaner armor is available.\n\nRapier instructor: Percival Aldridge\, OD\, OP\nBroadsword instructor: William of Bedford\, KSCA\nAdministrator (KM): Charles Fleming\n*This event is held and managed by the [Canton of Buckston-on-Eno](https://buckston.windmastershill.org)\, a branch of the* [Society for Creative Anachronism\, Inc.](https://welcome.sca.org/) *and is considered the Official channel of this group here. Questions regarding its content should be directed to [chatelaine@buckston.windmastershill.org](http://chatelaine@buckston.windmastershill.org) or to [socialmedia@sca.org.](http://socialmedia@sca.org.) Inclusion of external links does not indicate implicit nor explicit endorsement of any content or products.*
-URL;VALUE=URI:https://www.meetup.com/raleigh-triangle-activities/events/gwtjwtyjcgbnc/
-STATUS:CONFIRMED
-CREATED:20260307T143329Z
-LAST-MODIFIED:20260307T143329Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/6/e/9/f/600_521548319.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/raleigh-triangle-activities/events/ical/
 X-WR-CALNAME:Raleigh & Triangle Activities Meetup Group

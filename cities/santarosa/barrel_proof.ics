@@ -3,25 +3,16 @@ VERSION:2.0
 PRODID:-//Community Calendar//Barrel Proof Lounge Scraper//EN
 X-WR-CALNAME:Barrel Proof Lounge
 BEGIN:VEVENT
-UID:barrelproof-202603152000-37874@barrelprooflounge.com
-DTSTART:20260315T200000
-DTEND:20260315T220000
-SUMMARY:Karaoke Sundays with Razor Entertainment – Hosted by AJ the KJ
-LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
-DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://www.eventbrite.com/e/1979901272002
-END:VEVENT
-BEGIN:VEVENT
-UID:barrelproof-202603161900-51947@barrelprooflounge.com
+UID:barrelproof-202603161900-12871@barrelprooflounge.com
 DTSTART:20260316T190000
 DTEND:20260316T210000
 SUMMARY:The Honeycomb Hideout: Live Music | DJ |Drink Specials | Reggae | Dancehall
 LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
 DESCRIPTION:Source: Barrel Proof Lounge
-URL:https://www.eventbrite.com/e/1980120943044
+URL:https://barrelprooflounge.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:barrelproof-202603171700-12169@barrelprooflounge.com
+UID:barrelproof-202603171700-91192@barrelprooflounge.com
 DTSTART:20260317T170000
 DTEND:20260317T190000
 SUMMARY:Live Music Happy Hour – Ken Risling with Avery & Oona!
@@ -30,7 +21,7 @@ DESCRIPTION:Source: Barrel Proof Lounge
 URL:https://www.eventbrite.com/e/1603422332359
 END:VEVENT
 BEGIN:VEVENT
-UID:barrelproof-202603172000-6847@barrelprooflounge.com
+UID:barrelproof-202603172000-42791@barrelprooflounge.com
 DTSTART:20260317T200000
 DTEND:20260317T220000
 SUMMARY:Tuesday Night Comedy Showcase with Tony Sparks
@@ -39,12 +30,21 @@ DESCRIPTION:Source: Barrel Proof Lounge
 URL:https://www.eventbrite.com/e/1979841192302
 END:VEVENT
 BEGIN:VEVENT
-UID:barrelproof-202603181700-37343@barrelprooflounge.com
+UID:barrelproof-202603181700-58058@barrelprooflounge.com
 DTSTART:20260318T170000
 DTEND:20260318T190000
 SUMMARY:Live Music Happy Hour – Encore Highway Plays Your Favorites!
 LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
 DESCRIPTION:Source: Barrel Proof Lounge
 URL:https://www.eventbrite.com/e/1980125422442
+END:VEVENT
+BEGIN:VEVENT
+UID:barrelproof-202603181800-99025@barrelprooflounge.com
+DTSTART:20260318T180000
+DTEND:20260318T200000
+SUMMARY:Wednesday Night Comedy Open Mic
+LOCATION:Barrel Proof Lounge\, 501 Mendocino Ave, Santa Rosa, CA 95401
+DESCRIPTION:Source: Barrel Proof Lounge
+URL:https://www.eventbrite.com/e/1979898641133
 END:VEVENT
 END:VCALENDAR

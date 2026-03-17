@@ -392,96 +392,6 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:TKF/6217e973ba0abf09daa7bd89/2015/29517180/0/0
-DTSTART:20260214T010000Z
-DTEND:20260214T053000Z
-URL:https://tockify.com/kptv.calendar/detail/2015/1771030800000
-SUMMARY: Girl Dinner at Meadowrue
-DESCRIPTION:Join us solo or with friends for the ultimate “girl dinner” i
- n downtown Portland—a perfectly effortless evening for when cooking feels
-  optional. Linger a little longer with another cocktail from our Meadowru
- e menu and let the night unfold at its own pace. An easy indulgence\, bea
- utifully done.\n\n$35 per guest\, includes:\n\nIndividual Charcuterie Cup
- \n\nJapanese Miso Caesar Salad\n\nRaspberry Eton Mess\n\nDirty Martini ch
- oice of Haku Vodka or Roku Gin
-CATEGORIES:food,valentine's-day,galentine's,friends
-X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
- 526addc41f/696ae20e4b635b324fa4d34d/scaled_1024.jpg
-X-TKF-CUSTOM-PREVIEW:Join us solo or with friends for the ultimate “girl 
- dinner” in downtown Portland—a perfectly effortless evening for when cook
- ing feels optional. Linger a...
-LOCATION:The Ritz-Carlton\, Portland\,900 Southwest Washington Street\, P
- ortland\, OR 97205\, USA
-CREATED:20260117T011247Z
-DTSTAMP:20260313T165059Z
-LAST-MODIFIED:20260117T011247Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6217e973ba0abf09daa7bd89/1976/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T043000Z
-URL:https://tockify.com/kptv.calendar/detail/1976/1771034400000
-SUMMARY: 2/13 Valentine's Dinner Cruise
-DESCRIPTION:Treat your special someone to an evening filled with romance\
- , music and delicious food. Enjoy spectacular river views of the Portland
-  skyline\, a specially prepared four-course meal and live entertainment. 
- Make this Valentine’s Day one to remember!\n\nFriday\, February 13th & Sa
- turday\, February 14th\, 2026\n\nBoarding: 5:30 pm\nCruising: 6:00 pm – 8
- :30 pm\n\n\nWhat's Included\n\n  * 2 ½ hour cruise on the Willamette Rive
- r\n  * Four-course meal (house salad\, appetizer\, choice of entrée & cho
- ice of dessert): https://my.hornblower.com/app/portsp/tours/2ced9551-5e9c
- -432f-8764-e5ffa2e9d7fe/edit#sampleMenuId See Menu https://www.portlandsp
- irit.com/cruise/valentines/#sampleMenuId\n  * Splash of sparkling wine (2
- 1+ only) or sparkling cider\, served with dessert\n  * Coffee & hot tea\n
-   * Souvenir glass for each person\n  * Private candlelit table\n  * Live
-  entertainment by The Bylines https://thebylines.com/ on the Portland Spi
- rit and live piano player on the Willamette Star\n  * Service gratuity ch
- arge
-CATEGORIES:foodandrinks,Valentinesday,Romanticcruise
-X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
- 526addc41f/69584b66177dc65b5835bd30/scaled_896.jpg
-X-TKF-CUSTOM-PREVIEW:Treat your special someone to an evening filled with
-  romance\, music and delicious food. Enjoy spectacular river views of the
-  Portland skyline\, a specially...
-X-TKF-PROMOTION-BUTTON;label=valentines;skip_details=false:https://www.po
- rtlandspirit.com/cruise/valentines/
-LOCATION:Salmon Springs Dock\,1010 Southwest Naito Parkway\, Portland\, O
- R 97204\, USA
-CREATED:20260102T224910Z
-DTSTAMP:20260313T165059Z
-LAST-MODIFIED:20260102T224910Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6217e973ba0abf09daa7bd89/2036/29517360/0/0
-DTSTART:20260214T040000Z
-DTEND:20260214T060000Z
-URL:https://tockify.com/kptv.calendar/detail/2036/1771041600000
-SUMMARY: Kegs of Comedy Featuring Tony Meyer
-DESCRIPTION:Get ready for a night of nonstop laughs featuring Tony Meyer 
- — sharp\, hilarious\, and guaranteed to bring the house down. Grab a drin
- k\, kick back\, and enjoy comedy the way it’s meant to be - loud\, live\,
-  and laugh-out-loud funny.
-CATEGORIES:Kegs-of-Comedy,Comedy,Brewery,Food-Trucks
-X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
- 526addc41f/697fed202dbc1e85d01dfe0e/scaled_1024.jpg
-X-TKF-CUSTOM-PREVIEW:Get ready for a night of nonstop laughs featuring To
- ny Meyer — sharp\, hilarious\, and guaranteed to bring the house down. Gr
- ab a drink\, kick back\, and...
-X-TKF-PROMOTION-BUTTON;label=Tallman Brewing;skip_details=false:https://t
- allmanbrewing.com/events
-LOCATION:The Landing at Tallman Brewing\,2055 Primrose Street\, Lebanon\,
-  OR 97355\, USA
-CREATED:20260202T001739Z
-DTSTAMP:20260313T165059Z
-LAST-MODIFIED:20260202T001739Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:TKF/6217e973ba0abf09daa7bd89/2040/29518320/0/0
 DTSTART:20260214T200000Z
 DTEND:20260215T013000Z
@@ -4493,6 +4403,32 @@ LOCATION:Gladstone Nature Park\,18111 Webster Road\, Gladstone\, OR 97027
 CREATED:20260313T000132Z
 DTSTAMP:20260313T165059Z
 LAST-MODIFIED:20260313T000132Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6217e973ba0abf09daa7bd89/2152/29619240/0/0
+DTSTART:20260425T220000Z
+DTEND:20260426T030000Z
+URL:https://tockify.com/kptv.calendar/detail/2152/1777154400000
+SUMMARY: Fantasy & Romance Pop-Up Book Fair
+DESCRIPTION:There’s something for every reader at the Tropes Pop-Up Book 
+ Fair—fantasy\, romance\, and romantasy books\, local authors\, bookish me
+ rch\, great beer\, and a community of people who love stories as much as 
+ you do.
+CATEGORIES:Book-Fair,Literary-Event
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/62191926b9407b
+ 526addc41f/69b7f902b5a6eb2d375b1708/scaled_512.jpg
+X-TKF-CUSTOM-PREVIEW:There’s something for every reader at the Tropes Pop
+ -Up Book Fair—fantasy\, romance\, and romantasy books\, local authors\, b
+ ookish merch\, great beer\, and a...
+X-TKF-PROMOTION-BUTTON;label=Website;skip_details=false:http://tropescafe
+ readery.com
+LOCATION:Vanguard Brewing Company\,27501 Southwest 95th Avenue #945\, Wil
+ sonville\, OR 97070\, USA
+CREATED:20260316T123514Z
+DTSTAMP:20260316T141136Z
+LAST-MODIFIED:20260316T123514Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT

@@ -7,267 +7,21 @@ X-WR-CALNAME:Davis Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-craft-and-vintage-fair/2026-03-15/"}
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/village-homes-a-radical-plan/2026-03-16/"}
 X-SOURCE-ID:thedirt
 X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T100000
-DTEND;TZID=America/Los_Angeles:20260315T160000
-DTSTAMP:20260315T231224
-CREATED:20260124T043428Z
-LAST-MODIFIED:20260124T044240Z
-UID:10073311-1773568800-1773590400@thedirt.online
-SUMMARY:Davis Craft and Vintage Fair
-DESCRIPTION:Davis Craft and Vintage Fair began as the Square Tomatoes Craft Fair more than 10 years ago! The event was started by instructors from the UC Davis Craft Center in order to have a monthly craft fair for local artisans and the local community. We embraced local vintage vendors in 2017\, we’ve grown and we are still home to local artists and makers from the Davis and greater Sacramento area. \nWe collaborate with local non-profits starting with Couleurs Vives Art Studio who joined us in 2018! Many of our talented vendors can be found at other festivals like the Davis Phoenix Coalition’s Pride Fest\, the I-House’s International Festival\, and 2nd Friday ArtAbouts on E Street Plaza. \nExpect to see friendly vendors with local handmade and original art\, crafts\, quality vintage items\, upcycled treasures\, earth-friendly creations\, good food\, and more. Free live music fills the open space for a lively atmosphere so be sure to stop by and join us!  \n 
-URL:https://thedirt.online/event/davis-craft-and-vintage-fair/2026-03-15/
-LOCATION:Central Park – Davis\, 5th St & B St\, Davis\, CA\, 95616\, United States
-CATEGORIES:Art,Community,Outside,Shopping,Stage & Dance
-ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2025/01/craft-and-vintage-fair-logo.png
-GEO:38.5466823;-121.7454954
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Central Park – Davis 5th St & B St Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=5th St & B St:geo:-121.7454954,38.5466823
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/art-in-bloom/2026-03-15/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T113000
-DTEND;TZID=America/Los_Angeles:20260315T170000
-DTSTAMP:20260315T231224
-CREATED:20260224T033646Z
-LAST-MODIFIED:20260224T033646Z
-UID:10075471-1773574200-1773594000@thedirt.online
-SUMMARY:Art in Bloom
-DESCRIPTION:Art in Bloom \nDates/times: March 13\, 6-9 PM\, March 14-15\, 11:30 AM – 5 PM\nLocation: Pence Gallery\, 212 D Street\, Davis\, CA 95616\nAdmission: Admission to the Pence is free; we welcome donations from visitors\, as they help us cover basic costs associated with running a nonprofit art gallery. \nArt in Bloom is the first collaboration with members of the Davis Flower Arrangers and the Pence Gallery\, in which creative floral arrangements are paired with specific artworks on view at the Pence from March 13-15. On Friday\, March 13\, from 6-9 PM\, enjoy meeting many of the participating floral designers and see the arrangements as they are at their freshest\, as part of the city’s 2nd Friday ArtAbout reception. Visitors are welcome to enjoy a variety of arrangements that include traditional and unusual materials\, and a variety of beautiful containers. The connection between the artwork and floral design can include using similar colors\, themes\, textures\, or overall composition. \nParticipating floral designers include Janet Goehring\, Joyce Hamaguchi\, Elly Fairclough\, MJ Kelly\, Rhody Vallejo\, Elisabetta Vivoda\, Mike MacDonald\, Stephanie DeGraff-Hunt\, and Julie Haney. Each artist has chosen an artwork for inspiration\, and will create a vibrant interpretation of pieces by exhibiting artists Manuel Fernando Rios\, Barbara Prodaniuk\, and artists from Assorted Flavors\, our annual exhibit of artworks created by forty Pence members. \nFounded in 1958\, the Davis Flower Arrangers is a long-standing organization in Davis\, dedicated to studying and instructing floral design techniques\, including Ikebana. The group\, celebrating its 67th season in 2025-26\, promotes the public appreciation of floral art through workshops\, demonstrations\, and community events. For more information on the Davis Flower Arrangers\, contact President Stephanie DeGraff-Hunt at sdegraffhunt@gmail.com. \nImage: Davis Flower Arrangement (past event)
-URL:https://thedirt.online/event/art-in-bloom/2026-03-15/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA\, 95616\, United States
-CATEGORIES:Art,Community
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/Art-in-Bloom-scaled.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencegallery@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/bohart-museum-of-entomology-open-house-eight-legged-encounters/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T130000
-DTEND;TZID=America/Los_Angeles:20260315T160000
-DTSTAMP:20260315T231224
-CREATED:20251024T031928Z
-LAST-MODIFIED:20260225T000516Z
-UID:10067309-1773579600-1773590400@thedirt.online
-SUMMARY:Bohart Museum of Entomology Open House: Eight-Legged Encounters!
-DESCRIPTION:Come and enjoy the fourth event in the UC Davis Bohart Museum of Entomology’s Weekend Open House series for 2025-2026. This free\, all ages event will be focusing on arachnids\, fascinating eight-legged arthropods. This includes animals such as spiders\, scorpions\, camel spiders\, vinegaroons\, tailless whip scorpions\, pseudoscorpions\, etc… Meet arachnid experts\, visit the Bohart research collection\, make crafts\, and have fun learning. This is a free event\, as is the parking.
-URL:https://thedirt.online/event/bohart-museum-of-entomology-open-house-eight-legged-encounters/
-LOCATION:Bohart Museum of Entomology (Bohart Museum)\, 1124 Academic Surge\, UC Davis Campus
-CATEGORIES:Bring the Kids,Community,Science
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/10/KKGjumping-spider-under-10-KB.jpg
-ORGANIZER;CN="Tabatha Yang":MAILTO:tabyang@ucdavis.edu
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/16009544"}
-X-SOURCE-ID:yolo_library
-SUMMARY:Tech Help (Davis)
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260315T130000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260315T150000
-UID:5fb1fe0b02193240c0e8010e74f9d04d@events.yolocountylibrary.org
-DESCRIPTION:Drop-in assistance with basic computer skills\, internet\, ema
- il\, eBooks (Libby). Bring your phone\, tablet\, eReader\, or laptop and a
- ny passwords you may need (Kindle books require your Amazon.com account cr
- edentials). Check in at the Reference Desk.
-LOCATION:Tech Bar near Internet Computers\, Mary L Stephens Davis Branch L
- ibrary
-URL:https://events.yolocountylibrary.org/event/16009544
-X-SOURCE:Yolo Library
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-bookworms-2-2/2026-03-15/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T133000
-DTEND;TZID=America/Los_Angeles:20260315T160000
-DTSTAMP:20260315T231224
-CREATED:20260125T031630Z
-LAST-MODIFIED:20260125T031635Z
-UID:10070993-1773581400-1773590400@thedirt.online
-SUMMARY:Davis Bookworms
-DESCRIPTION:Do you love reading\, but hate being told what book to read? Are you intrigued by the idea of a book club\, but too busy to do the reading beforehand? If so\, then you’ll fit right in with the Davis Bookworms! We are a brand new “silent” book club\, in which everyone brings a book of their own choosing\, reads for an hour\, and then socializes for an hour. We meet every two weeks on Sunday at Nashoba Wines\, right here in Davis. So whether you’re feeling the Sunday Scaries\, or just love to read\, come join us for an afternoon of good books\, good wine\, and good company!
-URL:https://thedirt.online/event/davis-bookworms-2-2/2026-03-15/
-LOCATION:Nashoba Wines\, 820 4th St\, Davis\, C\, 95616\, United States
-CATEGORIES:Books & Talks,Community
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/04/Carl_Spitzweg_-__The_Bookworm_.jpg
-ORGANIZER;CN="Davis Bookworms":MAILTO:davisbookworms@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/new-harmony-jazz-band-davis-craft-vintage-fair-2/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T140000
-DTEND;TZID=America/Los_Angeles:20260315T160000
-DTSTAMP:20260315T231224
-CREATED:20260222T173232Z
-LAST-MODIFIED:20260222T173232Z
-UID:10075445-1773583200-1773590400@thedirt.online
-SUMMARY:New Harmony Jazz Band @ Davis Craft & Vintage Fair
-DESCRIPTION:Two free sets of Big Band\, Swing\, and Latin jazz standards!
-URL:https://thedirt.online/event/new-harmony-jazz-band-davis-craft-vintage-fair-2/
-LOCATION:Central Park – Davis\, 5th St & B St\, Davis\, CA\, 95616\, United States
-CATEGORIES:Art,Bring the Kids,Community,Food & Drink,Music,Outside,Shopping
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/NHJB-Central-Park-right-profile-pic.jpeg
-GEO:38.5466823;-121.7454954
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Central Park – Davis 5th St & B St Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=5th St & B St:geo:-121.7454954,38.5466823
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-high-school-presents-urinetown-the-musical/2026-03-15/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T140000
-DTEND;TZID=America/Los_Angeles:20260315T160000
-DTSTAMP:20260315T231224
-CREATED:20260224T035716Z
-LAST-MODIFIED:20260224T035716Z
-UID:10075480-1773583200-1773590400@thedirt.online
-SUMMARY:Davis High School Presents Urinetown—The Musical!
-DESCRIPTION:Urinetown: The Musical \nSet in a grim\, Gotham-like city ravaged by a 20-year drought\, Urinetown imagines a world where private toilets are outlawed. Citizens must pay to use public restrooms\, all controlled by a single\, corrupt corporation that profits off one of humanity’s most basic needs. When an unlikely hero decides he’s had enough\, a rebellion is born—one that challenges authority\, exposes hypocrisy\, and asks what freedom really costs. \nHilariously funny and touchingly human\, Urinetown reexamines the very notion of what a musical can be\, proving that even in the darkest circumstances\, revolution can begin with a laugh—or a pee. \nLocation\nBrunelle Theater @ 315 W 14th Street. \nPerformances\nFriday March 6\, Saturday March 7\, Friday March 13\, Saturday March 14 @7:00PM\nSunday March 8 and Sunday March 15 @2:00PM \nTickets\n$15 general admission\, $10 for DJUSD students\, and $5 on Sundays for DJUSD students. \nYou can buy your tickets online at https://sites.google.com/view/davishightheatre/home or at the door. We hope to see you there!
-URL:https://thedirt.online/event/davis-high-school-presents-urinetown-the-musical/2026-03-15/
-LOCATION:Richard Brunelle Performance Hall\, 315 W 14th Street\, Davis\, CA\, 95616\, United States
-CATEGORIES:Stage & Dance
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/IMG_2364-scaled.jpg
-GEO:38.55717;-121.7501789
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Richard Brunelle Performance Hall 315 W 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 W 14th Street:geo:-121.7501789,38.55717
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/little-shop-of-horrors/2026-03-15/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T140000
-DTEND;TZID=America/Los_Angeles:20260315T170000
-DTSTAMP:20260315T231224
-CREATED:20250824T014328Z
-LAST-MODIFIED:20250824T192926Z
-UID:10063732-1773583200-1773594000@thedirt.online
-SUMMARY:Little Shop of Horrors
-DESCRIPTION:Little Shop of Horrors – March 6 through March 29\, 2026\nUnderwritten by Sharon Joyce\nThe meek floral assistant Seymour Krelborn stumbles across a new breed of plant he names “Audrey II” – after his coworker crush. This foul-mouthed\, R&B-singing carnivore promises unending fame and fortune to the down and out Krelborn as long as he keeps feeding it\, BLOOD. Over time\, though\, Seymour discovers Audrey II’s out of this world origins and intent towards global domination! \nDirected by Steve Isaacson\nChoreographed by Logan Sexton\nMusical direction by Tonya Whitson-Whennen
-URL:https://thedirt.online/event/little-shop-of-horrors/2026-03-15/
-LOCATION:Davis Musical Theatre Co. (DMTC)\, 607 Pena Dr.
-CATEGORIES:Stage & Dance
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/08/Little-Shop.jpg
-GEO:38.5504424;-121.716785
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Davis Musical Theatre Co. (DMTC) 607 Pena Dr.;X-APPLE-RADIUS=500;X-TITLE=607 Pena Dr.:geo:-121.716785,38.5504424
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15322719"}
-X-SOURCE-ID:yolo_library
-SUMMARY:Russian Conversation Group (Davis)
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260315T140000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260315T150000
-UID:a745ce0a77f1af50a36d5b50039a71cf@events.yolocountylibrary.org
-DESCRIPTION:All levels of learners are welcome. Group meets in the Small C
- onference Room on the third Sunday of the month.
-LOCATION:Small Conference Room\, Mary L Stephens Davis Branch Library
-URL:https://events.yolocountylibrary.org/event/15322719
-X-SOURCE:Yolo Library
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15287229"}
-X-SOURCE-ID:yolo_library
-SUMMARY:Sunday Funday: Creek Explorers (Davis)
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260315T140000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260315T150000
-UID:9e24559475d2a29941d3230aecc8250e@events.yolocountylibrary.org
-DESCRIPTION:Learn about the plants and animals of the Putah Creek watershe
- d with hands-on activities\, games\, and some very unusual "stuffies."
-LOCATION:Blanchard Room\, Mary L Stephens Davis Branch Library
-URL:https://events.yolocountylibrary.org/event/15287229
-X-SOURCE:Yolo Library
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/an-odd-night-in-the-forest/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T190000
-DTEND;TZID=America/Los_Angeles:20260315T210000
-DTSTAMP:20260315T231224
-CREATED:20260211T023809Z
-LAST-MODIFIED:20260211T023809Z
-UID:10074226-1773601200-1773608400@thedirt.online
-SUMMARY:An Odd Night in the Forest
-DESCRIPTION:The Davis Odd Fellows will host\, “An Odd Night in the Forest” on Sunday\, March 15th\, from 7-9 pm at the Davis Odd Fellows Hall\, 415 2nd St. We will show the film\, “The Man Who Planted Trees\,” and there will be a presentation by Tree Davis about our City’s trees and what the community can do to help plant trees. The even is free and open to the entire community. Doors will open at 6:30. Refreshments will be for sale.
-URL:https://thedirt.online/event/an-odd-night-in-the-forest/
-LOCATION:Davis Odd Fellows
-CATEGORIES:Books & Talks,Screen
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/Odd-Night-In-the-Forest-poster-jp.jpg
-ORGANIZER;CN="Davis Odd Fellows":MAILTO:larrydguenther@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/international-folk-dancing-8-2/2026-03-15/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260315T190000
-DTEND;TZID=America/Los_Angeles:20260315T213000
-DTSTAMP:20260315T231224
-CREATED:20250924T054657Z
-LAST-MODIFIED:20250924T055009Z
-UID:10033990-1773601200-1773610200@thedirt.online
-SUMMARY:International Folk Dancing
-DESCRIPTION:Connect with other cultures\, while connecting to other people \nSunday nights 7p-9:30p\nfirst time free\nall levels welcome\nCommunity Church Fireside Room at 412 C Street\, Davis (Fireside Room. Entrance on C-St. near 4th.) \n  \nVisit http://davisfolkdancers.org/ to check for our current meeting location\, which changes periodically.
-URL:https://thedirt.online/event/international-folk-dancing-8-2/2026-03-15/
-LOCATION:Davis Community Church\, 412 C Street\, Davis\, ca\, 95616
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2024/08/Flyer-2023C.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28964&sport_id=1"}
-X-SOURCE-ID:ucdavis_athletics
-SUMMARY:[W] University of California\, Davis  Baseball vs UC Santa Barbara
-  - Jr. Aggie Day\, Bark in the Park
-DTSTART;VALUE=DATE-TIME:20260315T200000Z
-DTEND;VALUE=DATE-TIME:20260315T230000Z
-UID:vcal_28964-ucdavisaggies.com
-DESCRIPTION:[W] University of California\, Davis Baseball vs UC Santa Barb
- ara - Jr. Aggie Day\, Bark in the Park W 10-6 TV: ESPN+ Streaming Video: h
- ttps://www.espn.com/watch/player/_/eventCalendarId/401857332?gameId=401857
- 332&sourceLang=en&om-navmethod=espn:globalsearch:results
-LOCATION:Davis\, Calif.\, Phil Swimley Field at Dobbins Stadium
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28964&sport_id=1
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28821&sport_id=18"}
-X-SOURCE-ID:ucdavis_athletics
-SUMMARY:[N] University of California\, Davis  Women's Gymnastics at Califo
- rnia/Washington/Penn
-DTSTART;VALUE=DATE-TIME:20260315T210000Z
-DTEND;VALUE=DATE-TIME:20260316T000000Z
-UID:vcal_28821-ucdavisaggies.com
-DESCRIPTION:[N] University of California\, Davis Women's Gymnastics at Cal
- ifornia/Washington/Penn 4th/191.175 Streaming Video: https://www.espn.com/
- watch/player/_/id/c19124e6-8f62-492a-9f75-b5df2a561371
-LOCATION:Berkeley\, Calif.
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28821&sport_id=18
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Campusgroups": "https://aggielife.ucdavis.edu/rsvp?id=907297"}
-X-SOURCE-ID:ucdavis_campusgroups
-SUMMARY:Chess Club Meeting
-DTSTART;VALUE=DATE-TIME:20260316T000000Z
-DTEND;VALUE=DATE-TIME:20260316T020000Z
-UID:b2ad833568f662508d5cfb5ffae8157712112025_11:56:03_PM@campusgroups.com
-DESCRIPTION:Sunday Chess Club Meeting in Shields room 167 from 5 PM to 7 P
- M --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=907297
-LOCATION:Shields Library room 167\, 1 Shields Ave\, Davis\, California 956
- 16\, United States
-URL:https://aggielife.ucdavis.edu/rsvp?id=907297
-X-SOURCE:UC Davis CampusGroups
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Uudavis": "https://uudavis.org/calendar/"}
-X-SOURCE-ID:uudavis
-SUMMARY:Rev. Angeline is at Finding Our Way Home Conference
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260321
-UID:2lioh042h2gnremuq9idm1miqt@google.com
-DESCRIPTION:None
-LOCATION:UU Church of Davis\, 27074 Patwin Rd\, Davis\, CA
-URL:https://uudavis.org/calendar/
-X-SOURCE:UU Davis
+DTSTART;TZID=America/Los_Angeles:20260316T120000
+DTEND;TZID=America/Los_Angeles:20260316T160000
+DTSTAMP:20260316T222612
+CREATED:20251210T225628Z
+LAST-MODIFIED:20251210T225628Z
+UID:10069371-1773662400-1773676800@thedirt.online
+SUMMARY:Village Homes: A Radical Plan
+DESCRIPTION:“Village Homes: A Radical Plan” celebrates the 50th anniversary of an innovative west Davis neighborhood community. Curated by Professor Timothy McNeil and guest curator Adrienne McGraw\, the installation showcases the vision\, concepts\, and development behind the project and its goals. This ground-breaking exhibition will feature original objects\, archival photographs\, plans and drawings\, a part-built section of a typical 1970s house in Village Homes recreating a living space and demonstrating the passive solar features\, and an interactive three-dimensional site plan of the neighborhood’s unique landscape. Other highlights include a 30-minute documentary film about the community.
+URL:https://thedirt.online/event/village-homes-a-radical-plan/2026-03-16/
+LOCATION:UC Davis Design Museum\, Cruess Hall\, #124\, Davis\, 95616\, United States
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/12/Aerial-view-of-Village-Homes-late-1970s-phot-from-Judy-Corbett-Archive-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15092510"}
@@ -285,22 +39,36 @@ URL:https://events.yolocountylibrary.org/event/15092510
 X-SOURCE:Yolo Library
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060112/"}
-X-SOURCE-ID:meetup_mindful
-X-SOURCE:Meetup: Mindful Embodied Spirituality
-UID:event_313060112@meetup.com
-SEQUENCE:1
-DTSTAMP:20260316T061223Z
-DTSTART;TZID=America/Los_Angeles:20260316T170000
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/align-flow-yoga/2026-03-16/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260316T173000
+DTEND;TZID=America/Los_Angeles:20260316T190000
+DTSTAMP:20260316T222612
+CREATED:20240826T195848Z
+LAST-MODIFIED:20260104T181804Z
+UID:10071325-1773682200-1773687600@thedirt.online
+SUMMARY:Align & Flow Yoga
+DESCRIPTION:All classes begin with a meditation and invite mindful movement through attention to breath and physical alignment. In a vinyasa class\, we link postures together and move with the breath on the inhale\, or the exhale. A typical class involves strength and stability work balanced by flexibility and relaxation. Each class finishes with a reclining rest. \n  \ndavisyogacollective.com
+URL:https://thedirt.online/event/align-flow-yoga/2026-03-16/
+LOCATION:Davis Shambhala Meditation Center\, 133 D Street\, Suite H\, upstairs\, Davis\, CA\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-2-2-2-2-2/2026-03-16/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260316T180000
 DTEND;TZID=America/Los_Angeles:20260316T200000
-SUMMARY:Intuitive Soul Stories: Oracle Card Making Workshop
-DESCRIPTION:Iama Embodied Community\nUnlock the stories and symbols that live within you in this gentle\, intuitive collage workshop with guest facilitator Rachel Hodge.\nThis isn’t about being an “artist”—it’s about curiosity\, intuition\, and self-discovery. Using simple images and collage\, you’ll create a personal deck of oracle-style cards that reflect different parts of your inner world. Each card becomes a “soul companion\,” offering clarity\, grounding\, and a direct line to your own innate wisdom.\nNo artistic experience is needed—just bring your curiosity and openness. Materials will be provided\, and the space is relaxed\, reflective\, and supportive.\n\n📅 **Date & Time**: Monday Mar 16\, 5-8 PM\n📍 **Location**: 727 T St. Sacramento\, Ca\, 95811\n💜 **Cost $25\, Venmo @Rachel-Hodge-30\, or Cash.**\n✨ **No artistic experience/ skills necessary.**\n📩 **RSVP/ Questions? Reach out at** embody.iama@gmail.com or suniaitherapy@outlook.com\n🔗 **Follow us on Instagram:** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in the social hall of Parkview Presbyterian Church. Please find us through the back entrance\, the brown gate on Solons alley. You may park in the back\, move the orange post to park and please return it when you leave.
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/313060112/
-STATUS:CONFIRMED
-CREATED:20260126T055145Z
-LAST-MODIFIED:20260126T055145Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/9/e/7/6/600_533140566.jpeg
+DTSTAMP:20260316T222612
+CREATED:20260125T025946Z
+LAST-MODIFIED:20260125T025947Z
+UID:10049465-1773684000-1773691200@thedirt.online
+SUMMARY:Davis Makerspace & Clothing Repair Cafe
+DESCRIPTION:Davis Makerspace is a community workspace for makers and builders\, designers and inventors. A small assortment of tools will be available for use and staff or volunteers will be on hand to provide some assistance. Supervised children are welcome. Participants must provide a signed liability waiver (available on site). Mondays & Tuesdays\, 6p—8p; Thursdays\, 9:30a—11:30a; Fridays\, 3p—5p.
+URL:https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-2-2-2-2-2/2026-03-16/
+LOCATION:Mary L. Stephens Davis Branch Library\, 315 East 14th Street\, Davis\, CA\, 95616\, United States
+GEO:40.7321931;-73.9841278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mary L. Stephens Davis Branch Library 315 East 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 East 14th Street:geo:-73.9841278,40.7321931
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/13810457"}
@@ -379,7 +147,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260317T090000
 DTEND;TZID=UTC:20260317T110000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20260227T194449Z
 LAST-MODIFIED:20260227T194449Z
 UID:10000313-1773738000-1773745200@hatefreetogether.org
@@ -629,7 +397,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_313550725@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260318T170000
 DTEND;TZID=America/Los_Angeles:20260318T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -647,7 +415,7 @@ X-SOURCE-ID:meetup_winters_write
 X-SOURCE:Meetup: Winters Shut Up & Write
 UID:event_313243813@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052611Z
 DTSTART;TZID=America/Los_Angeles:20260318T170000
 DTEND;TZID=America/Los_Angeles:20260318T180000
 SUMMARY:Winters Chapter Shut Up and Write
@@ -687,7 +455,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260318T190000
 DTEND;TZID=UTC:20260318T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205453Z
 LAST-MODIFIED:20250609T205453Z
 UID:10000270-1773860400-1773864000@hatefreetogether.org
@@ -698,24 +466,12 @@ LOCATION:CA
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=29061&sport_id=15"}
-X-SOURCE-ID:ucdavis_athletics
-SUMMARY:University of California\, Davis  Women's Basketball vs WNIT
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260321
-UID:vcal_29061-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Women's Basketball vs WNIT
-LOCATION:UC Davis
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=29061&sport_id=15
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mental-health-first-aid/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260319T083000
 DTEND;TZID=UTC:20260319T153000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20260227T200627Z
 LAST-MODIFIED:20260227T200859Z
 UID:10000314-1773909000-1773934200@hatefreetogether.org
@@ -808,7 +564,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313060113@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260319T180000
 DTEND;TZID=America/Los_Angeles:20260319T191000
 SUMMARY:Free Yoga Practice
@@ -835,6 +591,19 @@ DESCRIPTION:Enjoy singing and speaking to learn Mandarin through picture b
 LOCATION:*Children's Activity Room\, Mary L Stephens Davis Branch Library
 URL:https://events.yolocountylibrary.org/event/14855456
 X-SOURCE:Yolo Library
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=29061&sport_id=15"}
+X-SOURCE-ID:ucdavis_athletics
+SUMMARY:University of California\, Davis  Women's Basketball at Pepperdine
+DTSTART;VALUE=DATE-TIME:20260320T010000Z
+DTEND;VALUE=DATE-TIME:20260320T030000Z
+UID:vcal_29061-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Women's Basketball at Pepperd
+ ine Tickets: https://pepperdinewaves.evenue.net/events/WN
+LOCATION:Malibu\, Calif.
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=29061&sport_id=15
+X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15499247"}
@@ -912,7 +681,7 @@ X-SOURCE-ID:meetup_pence_art
 X-SOURCE:Meetup: Pence Art Programs
 UID:event_313287945@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260321T093000
 DTEND;TZID=America/Los_Angeles:20260321T160000
 SUMMARY:Gel Printing Workshop with Sara Post
@@ -987,7 +756,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313594928@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260321T160000
 DTEND;TZID=America/Los_Angeles:20260321T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -1020,7 +789,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313595579@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260321T170000
 DTEND;TZID=America/Los_Angeles:20260321T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -1038,7 +807,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313596423@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260321T180000
 DTEND;TZID=America/Los_Angeles:20260321T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -1056,7 +825,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313581532@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260321T190000
 DTEND;TZID=America/Los_Angeles:20260321T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -1078,7 +847,8 @@ DTSTART;VALUE=DATE-TIME:20260321T200500Z
 DTEND;VALUE=DATE-TIME:20260321T220500Z
 UID:vcal_28924-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Softball vs Cal State Bakersf
- ield - Hat Giveaway
+ ield - Hat Giveaway Streaming Video: https://www.espn.com/watch/player/_/i
+ d/22f8452a-f6c3-47a9-abae-ccd5be02795b
 LOCATION:Davis\, Calif.\, La Rue Field
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28924&sport_id=13
 X-SOURCE:UC Davis Athletics
@@ -1173,7 +943,8 @@ DTSTART;VALUE=DATE-TIME:20260322T200500Z
 DTEND;VALUE=DATE-TIME:20260322T220500Z
 UID:vcal_28926-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Softball vs Cal State Bakersf
- ield
+ ield Streaming Video: https://www.espn.com/watch/player/_/id/9706f84b-c022
+ -4dcd-919e-771766e936aa
 LOCATION:Davis\, Calif.\, La Rue Field
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28926&sport_id=13
 X-SOURCE:UC Davis Athletics
@@ -1213,7 +984,7 @@ X-SOURCE-ID:meetup_pence_art
 X-SOURCE:Meetup: Pence Art Programs
 UID:event_313100924@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260323T100000
 DTEND;TZID=America/Los_Angeles:20260323T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -1259,7 +1030,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313060114@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260323T180000
 DTEND;TZID=America/Los_Angeles:20260323T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1332,7 +1103,7 @@ X-SOURCE-ID:meetup_pence_art
 X-SOURCE:Meetup: Pence Art Programs
 UID:event_313423126@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260324T100000
 DTEND;TZID=America/Los_Angeles:20260324T120000
 SUMMARY:Intermediate Watercolor Painting with Misuk Goltz (6-Sessions)
@@ -1559,7 +1330,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_313659673@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260325T170000
 DTEND;TZID=America/Los_Angeles:20260325T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1725,7 +1496,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313060115@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260326T180000
 DTEND;TZID=America/Los_Angeles:20260326T191000
 SUMMARY:Free Yoga Practice
@@ -1952,7 +1723,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313545794@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260328T094500
 DTEND;TZID=America/Los_Angeles:20260328T131500
 SUMMARY:A Guided Nature Walk (Free event)
@@ -2047,7 +1818,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313703660@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260328T160000
 DTEND;TZID=America/Los_Angeles:20260328T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -2065,7 +1836,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313704302@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260328T170000
 DTEND;TZID=America/Los_Angeles:20260328T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -2083,7 +1854,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313705240@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260328T180000
 DTEND;TZID=America/Los_Angeles:20260328T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -2113,7 +1884,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313581535@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260328T190000
 DTEND;TZID=America/Los_Angeles:20260328T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -2286,7 +2057,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313060116@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260330T180000
 DTEND;TZID=America/Los_Angeles:20260330T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -2587,7 +2358,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_mxnqstyjcgbcb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260401T170000
 DTEND;TZID=America/Los_Angeles:20260401T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2634,7 +2405,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260401T190000
 DTEND;TZID=UTC:20260401T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000246-1775070000-1775073600@hatefreetogether.org
@@ -2738,7 +2509,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_313060117@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260402T180000
 DTEND;TZID=America/Los_Angeles:20260402T191000
 SUMMARY:Free Yoga Practice
@@ -3018,7 +2789,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_dpsfvtyjcgbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260404T160000
 DTEND;TZID=America/Los_Angeles:20260404T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -3051,7 +2822,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_bdpwvtyjcgbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052608Z
 DTSTART;TZID=America/Los_Angeles:20260404T170000
 DTEND;TZID=America/Los_Angeles:20260404T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -3286,7 +3057,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_lczxttyjcgbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260406T180000
 DTEND;TZID=America/Los_Angeles:20260406T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -3381,13 +3152,11 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28976&sport_id=1"}
 X-SOURCE-ID:ucdavis_athletics
-SUMMARY:University of California\, Davis  Baseball vs Saint Mary's - Easte
- r Monday Funday
+SUMMARY:University of California\, Davis  Baseball vs Saint Mary's
 DTSTART;VALUE=DATE-TIME:20260407T010000Z
 DTEND;VALUE=DATE-TIME:20260407T040000Z
 UID:vcal_28976-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Baseball vs Saint Mary's - Ea
- ster Monday Funday
+DESCRIPTION:University of California\, Davis Baseball vs Saint Mary's
 LOCATION:Davis\, CA\, Phil Swimley Field at Dobbins Stadium
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28976&sport_id=1
 X-SOURCE:UC Davis Athletics
@@ -3716,7 +3485,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_vwnqstyjcgblb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260408T170000
 DTEND;TZID=America/Los_Angeles:20260408T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -3887,7 +3656,7 @@ X-SOURCE-ID:meetup_pence_art
 X-SOURCE:Meetup: Pence Art Programs
 UID:event_313610437@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260409T100000
 DTEND;TZID=America/Los_Angeles:20260409T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -3960,7 +3729,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_tzxxttyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260409T180000
 DTEND;TZID=America/Los_Angeles:20260409T191000
 SUMMARY:Free Yoga Practice
@@ -4054,6 +3823,19 @@ URL:https://ucdavisaggies.com/calendar.aspx?game_id=28710&sport_id=22
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28623&sport_id=9"}
+X-SOURCE-ID:ucdavis_athletics
+SUMMARY:University of California\, Davis  Men's Golf vs El Macero Classic
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+UID:vcal_28623-ucdavisaggies.com
+DESCRIPTION:University of California\, Davis Men's Golf vs El Macero Class
+ ic
+LOCATION:El Macero\, Calif.
+URL:https://ucdavisaggies.com/calendar.aspx?game_id=28623&sport_id=9
+X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28792&sport_id=24"}
 X-SOURCE-ID:ucdavis_athletics
 SUMMARY:University of California\, Davis  Women's Water Polo vs Big West C
@@ -4065,19 +3847,6 @@ DESCRIPTION:University of California\, Davis Women's Water Polo vs Big Wes
  t Conference
 LOCATION:Long Beach\, Calif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28792&sport_id=24
-X-SOURCE:UC Davis Athletics
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28623&sport_id=9"}
-X-SOURCE-ID:ucdavis_athletics
-SUMMARY:University of California\, Davis  Men's Golf vs El Macero Classic
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-UID:vcal_28623-ucdavisaggies.com
-DESCRIPTION:University of California\, Davis Men's Golf vs El Macero Class
- ic
-LOCATION:El Macero\, Calif.
-URL:https://ucdavisaggies.com/calendar.aspx?game_id=28623&sport_id=9
 X-SOURCE:UC Davis Athletics
 END:VEVENT
 BEGIN:VEVENT
@@ -4304,12 +4073,12 @@ BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28978&sport_id=1"}
 X-SOURCE-ID:ucdavis_athletics
 SUMMARY:University of California\, Davis  Baseball vs Cal State Bakersfiel
- d - Bingo Night
+ d - IFC Night
 DTSTART;VALUE=DATE-TIME:20260411T010000Z
 DTEND;VALUE=DATE-TIME:20260411T040000Z
 UID:vcal_28978-ucdavisaggies.com
 DESCRIPTION:University of California\, Davis Baseball vs Cal State Bakersf
- ield - Bingo Night
+ ield - IFC Night
 LOCATION:Davis\, CA\, Phil Swimley Field at Dobbins Stadium
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28978&sport_id=1
 X-SOURCE:UC Davis Athletics
@@ -4428,7 +4197,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_312345824@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260411T160000
 DTEND;TZID=America/Los_Angeles:20260411T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -4446,7 +4215,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_312245485@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260411T180000
 DTEND;TZID=America/Los_Angeles:20260411T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -4478,7 +4247,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_lhkgvtyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260411T190000
 DTEND;TZID=America/Los_Angeles:20260411T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -4752,7 +4521,7 @@ X-SOURCE-ID:meetup_mindful
 X-SOURCE:Meetup: Mindful Embodied Spirituality
 UID:event_lczxttyjcgbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061223Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260413T180000
 DTEND;TZID=America/Los_Angeles:20260413T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -4799,7 +4568,7 @@ X-SOURCE:Davis Bike Club
 DTSTART;TZID=America/Los_Angeles:20260413T190000
 DTEND;TZID=America/Los_Angeles:20260413T203000
 RRULE:FREQ=MONTHLY;BYDAY=2MO
-DTSTAMP:20260316T061226Z
+DTSTAMP:20260317T052614Z
 UID:b2ivqu9ll5tod91a2in388j7sc@google.com
 CREATED:20240829T230534Z
 DESCRIPTION:<p>Come join us for a social gathering\, an interesting cycling
@@ -4928,33 +4697,6 @@ URL:https://events.yolocountylibrary.org/event/16199707
 X-SOURCE:Yolo Library
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Ucdavis Library": "https://events.library.ucdavis.edu/event/covered-faculty-author-talks-by-lisa-materson-and-corrie-decker"}
-X-SOURCE-ID:ucdavis_library
-SUMMARY:Covered: Faculty Author Talks by Lisa G. Materson and Corrie Decke
- r
-DTSTART;VALUE=DATE-TIME:20260414T123000Z
-DTEND;VALUE=DATE-TIME:20260414T143000Z
-UID:tag:localist.com\,2008:EventInstance_51817323649794
-DESCRIPTION:Join us for an evening with UC Davis faculty authors Lisa G. M
- aterson and Corrie Decker as part of Covered\, a monthly event series cele
- brating recent books from the College of Letters and Science. Lisa G. Mate
- rson\, associate professor of history\, traces civil rights activist Ruth 
- Reynolds’ deep involvement in the movement for Puerto Rico’s independe
- nce in Radical Solidarity\, offering a nuanced account of political allysh
- ip\, anti-colonial struggle and cross-racial collaboration. Corrie Decker\
- , associate professor of history\, examines how colonial courts and ethnog
- raphers in 20th century East Africa transformed complex rites of passage i
- nto simplified “puberty rites" in The Age of Sex: Custom\, Law\, and Rit
- ual in Twentieth-Century East Africa\, reshaping legal understandings of c
- hildhood\, adulthood\, gender and sexual maturity. Covered: Spotlighting F
- aculty Authors in Letters and Science is co-sponsored by the Jan Shrem and
-  Maria Manetti Shrem Museum and the UC Davis Library.
-LOCATION:Manetti Shrem Museum
-URL:https://events.library.ucdavis.edu/event/covered-faculty-author-talks-
- by-lisa-materson-and-corrie-decker
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15381248"}
 X-SOURCE-ID:yolo_library
 SUMMARY:After School Homework Help (Davis)
@@ -5038,6 +4780,18 @@ URL:https://events.yolocountylibrary.org/event/16010592
 X-SOURCE:Yolo Library
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Uudavis": "https://uudavis.org/calendar/"}
+X-SOURCE-ID:uudavis
+SUMMARY:Cottage - DLG Spring 2026 (L Visher)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260414T184500
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20260414T204500
+UID:0tcgkvvmqtuq54ec3qadbdehah@google.com
+DESCRIPTION:None
+LOCATION:UU Church of Davis\, 27074 Patwin Rd\, Davis\, CA
+URL:https://uudavis.org/calendar/
+X-SOURCE:UU Davis
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Library": "https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-in-person"}
 X-SOURCE-ID:ucdavis_library
 SUMMARY:DataLab Office Hours (in person)
@@ -5084,6 +4838,33 @@ DESCRIPTION:University of California\, Davis Softball at Saint Mary's
 LOCATION:Moraga\, Calif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28865&sport_id=13
 X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Library": "https://events.library.ucdavis.edu/event/covered-faculty-author-talks-by-lisa-materson-and-corrie-decker"}
+X-SOURCE-ID:ucdavis_library
+SUMMARY:Covered: Faculty Author Talks by Lisa G. Materson and Corrie Decke
+ r
+DTSTART;VALUE=DATE-TIME:20260415T003000Z
+DTEND;VALUE=DATE-TIME:20260415T023000Z
+UID:tag:localist.com\,2008:EventInstance_51817323649794
+DESCRIPTION:Join us for an evening with UC Davis faculty authors Lisa G. M
+ aterson and Corrie Decker as part of Covered\, a monthly event series cele
+ brating recent books from the College of Letters and Science. Lisa G. Mate
+ rson\, associate professor of history\, traces civil rights activist Ruth 
+ Reynolds’ deep involvement in the movement for Puerto Rico’s independe
+ nce in Radical Solidarity\, offering a nuanced account of political allysh
+ ip\, anti-colonial struggle and cross-racial collaboration. Corrie Decker\
+ , associate professor of history\, examines how colonial courts and ethnog
+ raphers in 20th century East Africa transformed complex rites of passage i
+ nto simplified “puberty rites" in The Age of Sex: Custom\, Law\, and Rit
+ ual in Twentieth-Century East Africa\, reshaping legal understandings of c
+ hildhood\, adulthood\, gender and sexual maturity. Covered: Spotlighting F
+ aculty Authors in Letters and Science is co-sponsored by the Jan Shrem and
+  Maria Manetti Shrem Museum and the UC Davis Library.
+LOCATION:Manetti Shrem Museum
+URL:https://events.library.ucdavis.edu/event/covered-faculty-author-talks-
+ by-lisa-materson-and-corrie-decker
+X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28981&sport_id=1"}
@@ -5179,7 +4960,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_kwnqstyjcgbtb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260415T170000
 DTEND;TZID=America/Los_Angeles:20260415T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -5211,7 +4992,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260415T190000
 DTEND;TZID=UTC:20260415T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205453Z
 LAST-MODIFIED:20250609T205453Z
 UID:10000271-1776279600-1776283200@hatefreetogether.org
@@ -5240,6 +5021,37 @@ URL:https://davisdowntown.com/event/downtown-at-dusk/2026-04-16/
 X-SOURCE:Davis Downtown
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15972787"}
+X-SOURCE-ID:yolo_library
+SUMMARY:Davis Makerspace Drop In Hours
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260416T093000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260416T113000
+UID:83de173e11c23313a1184df2623b5c21@events.yolocountylibrary.org
+DESCRIPTION:Davis Makerspace is a community workspace for makers and build
+ ers\, designers and inventors. A small assortment of tools will be availab
+ le for use and staff or volunteers will be on hand to provide some assista
+ nce. Supervised children are welcome. Participants must provide a signed l
+ iability waiver (available on site).\n\n \n\nClothing Repair coaching is 
+ available on Mondays\, Tuesdays and Thursdays during Drop In Hours.
+LOCATION:YoloLab Makerspace\, Mary L Stephens Davis Branch Library
+URL:https://events.yolocountylibrary.org/event/15972787
+X-SOURCE:Yolo Library
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Yolo Library": "https://events.yolocountylibrary.org/event/15972520"}
+X-SOURCE-ID:yolo_library
+SUMMARY:Drop-In Libby Help (Davis)
+DTSTART;TZID=PDT;VALUE=DATE-TIME:20260416T100000
+DTEND;TZID=PDT;VALUE=DATE-TIME:20260416T120000
+UID:a22fb581743948094a0370da132cf9f7@events.yolocountylibrary.org
+DESCRIPTION:Stop by during this drop-in session to learn how to download a
+ nd read/listen to e-books and e-audiobooks through Libby.  Bring your lib
+ rary card and phone\, tablet\, or laptop.
+LOCATION:Mary L Stephens Davis Branch Library
+URL:https://events.yolocountylibrary.org/event/15972520
+X-SOURCE:Yolo Library
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"UC Davis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28905&sport_id=14"}
 X-SOURCE-URLS:{"Ucdavis Athletics": "https://ucdavisaggies.com/calendar.aspx?game_id=28902&sport_id=14"}
 X-SOURCE-ID:ucdavis_athletics
@@ -5253,6 +5065,24 @@ DESCRIPTION:University of California\, Davis Track and Field at Mt. SAC Re
 LOCATION:Torrance\, Calif.
 URL:https://ucdavisaggies.com/calendar.aspx?game_id=28902&sport_id=14
 X-SOURCE:UC Davis Athletics
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/tzxxttyjcgbvb/"}
+X-SOURCE-ID:meetup_mindful
+X-SOURCE:Meetup: Mindful Embodied Spirituality
+UID:event_tzxxttyjcgbvb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260317T052610Z
+DTSTART;TZID=America/Los_Angeles:20260416T180000
+DTEND;TZID=America/Los_Angeles:20260416T191000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect with your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM** for an embodied yoga practice designed to help you release tension\, ground yourself\, and cultivate presence. This is a trauma-informed\, all-levels class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\, breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Every last Thursday of the month\, stay after class for a community potluck dinner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All our events are free. Donations are welcome.**\n📩 **Questions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama](https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/tzxxttyjcgbvb/
+STATUS:CONFIRMED
+CREATED:20251121T204154Z
+LAST-MODIFIED:20251121T204154Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/e/2/f/f/600_531418111.jpeg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Ucdavis Arts": "https://arts.ucdavis.edu/event/earplay-0"}
@@ -5514,7 +5344,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_xgkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260418T160000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -5559,7 +5389,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_ghkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260418T180000
 DTEND;TZID=America/Los_Angeles:20260418T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -5616,7 +5446,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_lhkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260418T190000
 DTEND;TZID=America/Los_Angeles:20260418T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -5692,7 +5522,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_313772338@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052610Z
 DTSTART;TZID=America/Los_Angeles:20260419T130000
 DTEND;TZID=America/Los_Angeles:20260419T150000
 SUMMARY:Art in Action: Woven Fairy House Wall Hangings
@@ -6269,7 +6099,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_xgkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260425T160000
 DTEND;TZID=America/Los_Angeles:20260425T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -6299,7 +6129,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_ghkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260425T180000
 DTEND;TZID=America/Los_Angeles:20260425T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -6317,7 +6147,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_lhkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260425T190000
 DTEND;TZID=America/Los_Angeles:20260425T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -6660,7 +6490,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_rwnqstyjcgbmc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260429T170000
 DTEND;TZID=America/Los_Angeles:20260429T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -6842,7 +6672,7 @@ X-SOURCE-ID:meetup_intercultural
 X-SOURCE:Meetup: Intercultural Mosaics
 UID:event_xgkgvtyjchbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061221Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260502T160000
 DTEND;TZID=America/Los_Angeles:20260502T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -7342,7 +7172,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_mxnqstyjchbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260506T170000
 DTEND;TZID=America/Los_Angeles:20260506T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -7360,7 +7190,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260506T190000
 DTEND;TZID=UTC:20260506T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000247-1778094000-1778097600@hatefreetogether.org
@@ -7952,7 +7782,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_vwnqstyjchbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260513T170000
 DTEND;TZID=America/Los_Angeles:20260513T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -8262,12 +8092,77 @@ URL:https://arts.ucdavis.edu/event/empyrean-ensemble-11
 X-SOURCE:UC Davis Arts
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Arts": "https://arts.ucdavis.edu/event/student-recital-kira-ogrady-oboe"}
+X-SOURCE-ID:ucdavis_arts
+SUMMARY:Student Recital: Kira O'Grady\, oboe
+DTSTART;VALUE=DATE-TIME:20260517T210000Z
+DTEND;VALUE=DATE-TIME:20260517T214500Z
+UID:calendar.13608.field_date.0.34
+DESCRIPTION:Junior Recital
+LOCATION:Ann E. Pitzer Center\, Davis\, CA
+URL:https://arts.ucdavis.edu/event/student-recital-kira-ogrady-oboe
+X-SOURCE:UC Davis Arts
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Campusgroups": "https://aggielife.ucdavis.edu/rsvp?id=908294"}
+X-SOURCE-ID:ucdavis_campusgroups
+SUMMARY:BPSHI Banquet
+DTSTART;VALUE=DATE-TIME:20260517T220000Z
+DTEND;VALUE=DATE-TIME:20260518T030000Z
+UID:0edccbe1d7905e12ac2bec2adcd44dbf232026_3:18:45_AM@campusgroups.com
+DESCRIPTION:Yearly BPSHI Banquet recognizing the clinic’s achievements t
+ hroughout the year and highlighting outstanding members. An opportunity to
+  network with UC Davis medical students and faculty. --- Event Details: ht
+ tps://aggielife.ucdavis.edu/rsvp?id=908294
+URL:https://aggielife.ucdavis.edu/rsvp?id=908294
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Arts": "https://arts.ucdavis.edu/event/student-recital-morgan-white-saxophone"}
+X-SOURCE-ID:ucdavis_arts
+SUMMARY:Student Recital: Morgan White\, saxophone
+DTSTART;VALUE=DATE-TIME:20260517T233000Z
+DTEND;VALUE=DATE-TIME:20260518T001500Z
+UID:calendar.13609.field_date.0.35
+DESCRIPTION:Junior Recital
+LOCATION:Ann E. Pitzer Center\, Davis\, CA
+URL:https://arts.ucdavis.edu/event/student-recital-morgan-white-saxophone
+X-SOURCE:UC Davis Arts
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Campusgroups": "https://aggielife.ucdavis.edu/rsvp?id=907306"}
+X-SOURCE-ID:ucdavis_campusgroups
+SUMMARY:Chess Club Meeting
+DTSTART;VALUE=DATE-TIME:20260518T000000Z
+DTEND;VALUE=DATE-TIME:20260518T020000Z
+UID:7b1fc00aad419014dd4307012028782a12112025_11:56:17_PM@campusgroups.com
+DESCRIPTION:Sunday Chess Club Meeting in Shields room 167 from 5 PM to 7 P
+ M --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=907306
+LOCATION:Shields Library room 167\, 1 Shields Ave\, Davis\, California 956
+ 16\, United States
+URL:https://aggielife.ucdavis.edu/rsvp?id=907306
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ucdavis Arts": "https://arts.ucdavis.edu/event/student-recital-josue-jimenez-lopez-voice-0"}
+X-SOURCE-ID:ucdavis_arts
+SUMMARY:Student Recital: Josue Jimenez Lopez\, voice
+DTSTART;VALUE=DATE-TIME:20260518T020000Z
+DTEND;VALUE=DATE-TIME:20260518T030000Z
+UID:calendar.13627.field_date.0.36
+DESCRIPTION:Senior Recital
+LOCATION:Ann E. Pitzer Center\, Davis\, CA
+URL:https://arts.ucdavis.edu/event/student-recital-josue-jimenez-lopez-voi
+ ce-0
+X-SOURCE:UC Davis Arts
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Yolo Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjchbbc/"}
 X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_kwnqstyjchbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260520T170000
 DTEND;TZID=America/Los_Angeles:20260520T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -8285,7 +8180,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260520T190000
 DTEND;TZID=UTC:20260520T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205453Z
 LAST-MODIFIED:20250609T205453Z
 UID:10000272-1779303600-1779307200@hatefreetogether.org
@@ -8301,7 +8196,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260523T120000
 DTEND;TZID=UTC:20260523T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20260130T185640Z
 LAST-MODIFIED:20260130T190843Z
 UID:10000308-1779537600-1779566400@hatefreetogether.org
@@ -8317,7 +8212,7 @@ X-SOURCE-ID:meetup_board_games
 X-SOURCE:Meetup: Yolo Board Game Gathering
 UID:event_rwnqstyjchbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061222Z
+DTSTAMP:20260317T052609Z
 DTSTART;TZID=America/Los_Angeles:20260527T170000
 DTEND;TZID=America/Los_Angeles:20260527T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -8335,7 +8230,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260603T190000
 DTEND;TZID=UTC:20260603T200000
-DTSTAMP:20260316T061225
+DTSTAMP:20260317T052613
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000248-1780513200-1780516800@hatefreetogether.org

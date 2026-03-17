@@ -6515,4 +6515,28 @@ DESCRIPTION:Banquet to celebrate the accomplishments of Studio 301 Product
 URL:https://aggielife.ucdavis.edu/rsvp?id=908323
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BPSHI Banquet
+DTSTART;VALUE=DATE-TIME:20260517T220000Z
+DTEND;VALUE=DATE-TIME:20260518T030000Z
+UID:0edccbe1d7905e12ac2bec2adcd44dbf232026_3:18:45_AM@campusgroups.com
+DESCRIPTION:Yearly BPSHI Banquet recognizing the clinic’s achievements t
+ hroughout the year and highlighting outstanding members. An opportunity to
+  network with UC Davis medical students and faculty. --- Event Details: ht
+ tps://aggielife.ucdavis.edu/rsvp?id=908294
+URL:https://aggielife.ucdavis.edu/rsvp?id=908294
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess Club Meeting
+DTSTART;VALUE=DATE-TIME:20260518T000000Z
+DTEND;VALUE=DATE-TIME:20260518T020000Z
+UID:7b1fc00aad419014dd4307012028782a12112025_11:56:17_PM@campusgroups.com
+DESCRIPTION:Sunday Chess Club Meeting in Shields room 167 from 5 PM to 7 P
+ M --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=907306
+LOCATION:Shields Library room 167\, 1 Shields Ave\, Davis\, California 956
+ 16\, United States
+URL:https://aggielife.ucdavis.edu/rsvp?id=907306
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
 END:VCALENDAR

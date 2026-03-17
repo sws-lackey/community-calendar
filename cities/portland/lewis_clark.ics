@@ -25,333 +25,25 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
-LOCATION:Watzek Library
-SUMMARY:2026 Gender Studies Symposium Art Show
-DESCRIPTION:For more information about this year's participating artists 
- and additional details about the physical and virtual art exhibit\, pleas
- e visit the website (https://college.lclark.edu/departments/gender_studie
- s/symposium/45th-annual-gender-studies-symposium/).
-X-ALT-DESC;FMTTYPE=text/html:<p>  For more information about this year's 
- participating artists and additional details about the physical and virtu
- al art exhibit\, please visit the <a href="https://college.lclark.edu/dep
- artments/gender_studies/symposium/45th-annual-gender-studies-symposium/" 
- target="_blank" rel="noopener">website</a>.</p>
-UID:20260316T070000Z-382263@www.lclark.edu
-DTSTAMP:20260202T112322Z
-URL:https://www.lclark.edu/live/events/381705-2026-gender-studies-symposi
- um-art-show
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260311T211732Z
-ATTACH:https://www.lclark.edu/live/image/gid/500/width/80/height/80/crop/
- 1/src_region/0,0,1080,1080/111638_GSS2026_Square.rev.1769622143.png
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260316T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
 X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382263
+X-LIVEWHALE-ID:387169
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/500/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1080\,1080/111638_GSS2026_Square.rev.176962
- 2143.png
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
 X-LIVEWHALE-ALL-DAY:1
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  &#160\;<a href="mailto:gssart@lclark.edu"
- >gssart@lclark.edu</a>\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  One important part of the symposium is an art 
- exhibit of work from community members from Lewis &amp\; Clark and beyond
- . The <a href="https://college.lclark.edu/departments/gender_studies/symp
- osium/45th-annual-gender-studies-symposium/" target="_blank" rel="noopene
- r">45th Annual Gender Studies Symposium</a>\, "RESIST NOW\," explores dim
- ensions of resistance\, activism\, and solidarity in relation to gender a
- nd sexuality<br />\n  <br />\n  This year's exhibit includes a gallery in
-  the Watzek Library atrium and an online gallery.\n</p>\n<p>\n  Curated b
- y L&amp\;C students <strong>Jamison Bane</strong> '27\, <strong>Finn Dwye
- r</strong> '28\, and <strong>Maria Martinez Decuir</strong> '27.\n</p>
-X-LIVEWHALE-TAGS:gender studies symposium|symposia
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T083000
-DTEND;TZID=America/Los_Angeles:20260316T093000
-LOCATION:McCarty Classroom Complex #1
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:Oregon Supreme Court Case + Q&A with Justices
-UID:20260316T153000Z-385184@www.lclark.edu
-DTSTAMP:20260226T123020Z
-URL:https://www.lclark.edu/calendars/events/event/385184-oregon-supreme-c
- ourt-case-qa-with-justices
-LAST-MODIFIED:20260311T234030Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:385184
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Contact the events team at <a href="mailt
- o:lawevent@lclark.edu">lawevent@lclark.edu</a>.\n</p>
-X-LIVEWHALE-SUMMARY:<div class="lw_events_summary">\n  <p>\n    The Orego
- n Supreme Court will hear a case as part of its efforts to connect Oregon
- ians with the work of the judicial system.\n  </p>\n  <p>\n    The Oregon
-  Supreme Court will hear one argument on the Lewis &amp\; Clark Law Campu
- s. The argument will begin at 9:00 a.m. You must arrive early\; doors wil
- l close 10 minutes before the case begins.<br />\n    <br />\n    A brief
-  Q&amp\;A session will follow the argument.\n  </p>\n  <p>\n    You are e
- ncouraged to participate live in McCarty Classroom 1\, however space is l
- imited. There will also be a live stream in McCarty 2. All attendees must
-  abide by <a href="https://law.lclark.edu/live/files/25600-courtroom-etiq
- uettepdf"><strong>these court rules</strong></a>.\n  </p>\n  <p>\n    The
-  estimated timeline is below (note that the length of each argument can v
- ary):\n  </p>\n  <p>\n    8:50 - Doors close (if courtroom not already at
-  capacity)<br />\n    9:00 - 10:15 1st argument<br />\n    10:00-10:30 Q&
- amp\;A<br />\n    <br />\n    More details can be found on <a href="https
- ://www.courts.oregon.gov/courts/appellate/go/Pages/sc-calendar.aspx"><str
- ong>the Supreme Court's docket</strong>.</a>\n  </p>\n  <p>\n    If you h
- ave any questions\, contact the events team at <a href="mailto:lawevent@l
- clark.edu">lawevent@lclark.edu</a>.\n  </p>\n</div>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T090000
-DTEND;TZID=America/Los_Angeles:20260316T173000
-LOCATION:Legal Research Center\, Seminar A
-GEO:45.45177;-122.677216
-SUMMARY:LAW: Individual 3L Appointments with AccessLex's Justin Zieman (L
- oan Repayment Advising)
-UID:20260316T160000Z-379986@www.lclark.edu
-DTSTAMP:20260114T142739Z
-URL:https://www.lclark.edu/calendars/events/event/379986-law-individual-3
- l-appointments-with-accesslexs
-LAST-MODIFIED:20260114T222739Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:379986
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>Justin Zieman will be available to meet with 3L st
- udents regarding loan repayment. Details on scheduling to follow.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T100000
-DTEND;TZID=America/Los_Angeles:20260316T120000
-LOCATION:York Graduate Center
-GEO:45.445733;-122.671119
-SUMMARY:Nickless Dissertation Defense
-DESCRIPTION:Shaw Nickless\, a candidate in the Doctor of Education in Lea
- dership Program\, will defend her dissertation at 10:00 AM PT on Monday\,
-  March 16\, 2025 in York 116.  Her dissertation is titled "A Choice Worth
-  Wanting: A Critical Policy Analysis of Oregon Alternative Education Poli
- cy\," and the chair of her committee is Dr. Megan Barrett.  This event is
-  open to the public.  The presentation may be viewed via Zoom (https://lc
- lark-edu.zoom.us/j/91989990964?pwd=qaLzaSQF4c5cLtRuidouZRYAq9B6d8.1).
-X-ALT-DESC;FMTTYPE=text/html:<p>  Shaw Nickless\, a candidate in the Doct
- or of Education in Leadership Program\, will defend her dissertation at 1
- 0:00 AM PT on Monday\, March 16\, 2025 in York 116.</p><p>  Her dissertat
- ion is titled "A Choice Worth Wanting: A Critical Policy Analysis of Oreg
- on Alternative Education Policy\," and the chair of her committee is Dr. 
- Megan Barrett.</p><p>  This event is open to the public.</p><p>  The pres
- entation may be viewed <a href="https://lclark-edu.zoom.us/j/91989990964?
- pwd=qaLzaSQF4c5cLtRuidouZRYAq9B6d8.1" target="_blank" rel="noopener">via 
- Zoom</a>.</p>
-UID:20260316T170000Z-386788@www.lclark.edu
-DTSTAMP:20260312T133029Z
-URL:https://www.lclark.edu/calendars/events/event/-nickless-dissertation-
- defense
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260312T204602Z
-ATTACH:https://www.lclark.edu/live/image/gid/54/width/80/height/80/crop/1
- /src_region/0,0,1556,2000/96212_Ed_Leadership_Graphic_22.rev.1666048141.p
- ng
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:386788
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/54/width/80/heigh
- t/80/crop/1/src_region/0\,0\,1556\,2000/96212_Ed_Leadership_Graphic_22.re
- v.1666048141.png
-X-LIVEWHALE-IMAGE-CAPTION:Educational Leadership at GSEC
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Leadership Studies Office eda@lclark.edu\
- n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Shaw Nickless will defend her dissertation tit
- led "A Choice Worth Wanting: A Critical Policy Analysis of Oregon Alterna
- tive Education Policy."\n</p>
-X-LIVEWHALE-TAGS:dissertation defense|Doctor of Educational Leadership|Do
- ctoral Program|Ed.D.
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T110000
-DTEND;TZID=America/Los_Angeles:20260316T120000
-SUMMARY:NotebookLM Deep Dive
-DESCRIPTION:Session 1: Building Your Grounded Knowledge Base  March 16th 
- | 11am-noon | via Google Meet  In our first hour\, we will move past the 
- AI hype and get practical. You'll learn how to create a "Notebook" that a
- cts as an expert on your specific projects.Source Uploads: Learn to integ
- rate PDFs\, Google Docs\, and web links securely.The Power of Citations: 
- See how the AI points directly to the page and paragraph it used for ever
- y answer.Synthesizing Research: Use the tool to generate summaries\, stud
- y guides\, and project outlines in seconds.Session 2: Advanced Workflows 
- &amp\; Community Showcase  March 30th | 11am-noon | via Google Meet  Two 
- weeks later\, we'll reconvene to take things to the next level.Deep Dive 
- studio tools: Discover how to turn your research or notes into an AI-gene
- rated "podcast" for easy review on the go\, a summary video presentation\
- , an infographic and more!Collaboration: Learn how to share notebooks wit
- h colleagues for departmental projects.Show &amp\; Tell: We'll dedicate t
- he second half of this session to a "Community of Practice\," where parti
- cipants can share the notebooks they've built and how they are using them
-  in their daily work at the College.Strategy &amp\; Ethics: We'll spend s
- ome time discussing how to use this tool to offload cognitive overload wi
- thout losing critical thinking skills.Register (https://docs.google.com/f
- orms/d/e/1FAIpQLSd9ZO3fZCVD6c-Bmne4iMRUXyoVINidkRWNAjXjAsGhvBD5Xw/viewfor
- m?usp=header) to receive a calendar invite!
-X-ALT-DESC;FMTTYPE=text/html:<p><strong>Session 1: Building Your Grounded
-  Knowledge Base</strong><br />  March 16th | 11am-noon | via Google Meet<
- br /><br />  In our first hour\, we will move past the AI hype and get pr
- actical. You'll learn how to create a "Notebook" that acts as an expert o
- n your specific projects.<br /><br /><strong>Source Uploads</strong>: Lea
- rn to integrate PDFs\, Google Docs\, and web links securely.<br /><br /><
- strong>The Power of Citations</strong>: See how the AI points directly to
-  the page and paragraph it used for every answer.<br /><br /><strong>Synt
- hesizing Research</strong>: Use the tool to generate summaries\, study gu
- ides\, and project outlines in seconds.<br /><br /><strong>Session 2: Adv
- anced Workflows &amp\; Community Showcase</strong><br />  March 30th | 11
- am-noon | via Google Meet<br /><br />  Two weeks later\, we'll reconvene 
- to take things to the next level.<br /><br /><strong>Deep Dive studio too
- ls:</strong> Discover how to turn your research or notes into an AI-gener
- ated "podcast" for easy review on the go\, a summary video presentation\,
-  an infographic and more!<br /><br /><strong>Collaboration:</strong> Lear
- n how to share notebooks with colleagues for departmental projects.<br />
- <br /><strong>Show &amp\; Tell:</strong> We'll dedicate the second half o
- f this session to a "Community of Practice\," where participants can shar
- e the notebooks they've built and how they are using them in their daily 
- work at the College.</p><p><strong>Strategy &amp\; Ethics:</strong> We'll
-  spend some time discussing how to use this tool to offload cognitive ove
- rload without losing critical thinking skills.<br /><br /><a href="https:
- //docs.google.com/forms/d/e/1FAIpQLSd9ZO3fZCVD6c-Bmne4iMRUXyoVINidkRWNAjX
- jAsGhvBD5Xw/viewform?usp=header">Register</a> to receive a calendar invit
- e!</p>
-UID:20260316T180000Z-382487@www.lclark.edu
-DTSTAMP:20260203T182416Z
-URL:https://www.lclark.edu/calendars/events/event/382487-notebooklm-deep-
- dive
-LAST-MODIFIED:20260204T024018Z
-RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2
-ATTACH:https://www.lclark.edu/live/image/gid/8/width/80/height/80/crop/1/
- src_region/0,0,452,445/111698_Screenshot_2026-02-03_175816.rev.1770170336
- .png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:382487
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/8/width/80/height
- /80/crop/1/src_region/0\,0\,452\,445/111698_Screenshot_2026-02-03_175816.
- rev.1770170336.png
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-CONTACT-INFO:<p>\n  Elizabeth Young\n</p>\n<p>\n  eayoung@lcl
- ark.edu\n</p>
-X-LIVEWHALE-SUMMARY:<p>\n  Tired of "Information Overload"? Between resea
- rch bibliographies\, departmental policy updates\, and endless committee 
- minutes\, the volume of data we handle at Lewis &amp\; Clark can be overw
- helming. Traditional AI tools can sometimes be unreliable\, but NotebookL
- M offers a different approach: Source-Grounded Intelligence.<br />\n  <br
-  />\n  Join us for a hands-on\, two-part workshop series designed to help
-  faculty and staff turn their personal documents into organized\, actiona
- ble insights. Unlike other AI tools\, NotebookLM only uses the specific s
- ources you provide\, ensuring that every answer is cited and accurate.\n<
- /p>
-X-LIVEWHALE-TAGS:AI|software training
-X-LIVEWHALE-IS-ONLINE:1
-X-LIVEWHALE-ONLINE-TYPE:Online only
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T121000
-DTEND;TZID=America/Los_Angeles:20260316T131000
-LOCATION:McCarty Classroom Complex\, Room 4
-GEO:45.4524021595747;-122.677382766518
-SUMMARY:LAW: Student Loan Repayment Strategies for Legal Careers presente
- d by AccessLex
-UID:20260316T191000Z-379987@www.lclark.edu
-DTSTAMP:20260114T144024Z
-URL:https://www.lclark.edu/calendars/events/event/379987-law-student-loan
- -repayment-strategies-for-legal
-LAST-MODIFIED:20260303T182159Z
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:379987
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-SUMMARY:<p>\n  Join Justin Zieman from AccessLex for a compre
- hensive review of the timeline of loan repayment\, what plans are availab
- le\, and how payments are calculated. This workshop is open to all but es
- pecially designed for students graduating in 2026. Burritos provided for 
- the first 30 people!\n</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T134500
-DTEND;TZID=America/Los_Angeles:20260316T144500
-SUMMARY:French Office Hours with Titouan
-UID:20260316T204500Z-384931@www.lclark.edu
-DTSTAMP:20260224T164809Z
-URL:https://www.lclark.edu/calendars/events/event/384931-french-office-ho
- urs-with-titouan
-LAST-MODIFIED:20260225T004809Z
-RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,WE,FR
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384931
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T134500
-DTEND;TZID=America/Los_Angeles:20260316T144500
-SUMMARY:Spanish Office Hours with Cami!
-UID:20260316T204500Z-384961@www.lclark.edu
-DTSTAMP:20260224T164809Z
-URL:https://www.lclark.edu/calendars/events/event/384961-spanish-office-h
- ours-with-cami
-LAST-MODIFIED:20260225T004809Z
-RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,FR
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384961
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T170000
-DTEND;TZID=America/Los_Angeles:20260316T180000
-LOCATION:Miller Hall
-GEO:45.450858;-122.668265
-SUMMARY:LALS Film Series: "I'm Still Here"
-UID:20260317T000000Z-386621@www.lclark.edu
-DTSTAMP:20260311T103804Z
-URL:https://www.lclark.edu/live/events/386618-lals-film-series-im-still-h
- ere
-LAST-MODIFIED:20260311T173804Z
-ATTACH:https://www.lclark.edu/live/image/gid/455/width/80/height/80/crop/
- 1/src_region/0,0,1545,2000/112364_Im_Still_Here_Film_flyer_1_1.rev.177325
- 0579.png
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:386621
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/455/width/80/heig
- ht/80/crop/1/src_region/0\,0\,1545\,2000/112364_Im_Still_Here_Film_flyer_
- 1_1.rev.1773250579.png
-X-LIVEWHALE-IMAGE-CAPTION:k
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260316T190000
-DTEND;TZID=America/Los_Angeles:20260316T210000
-LOCATION:Fowler Student Center
-GEO:45.44918;-122.670969
-SUMMARY:Climbing Shuttle
-UID:20260317T020000Z-372054@www.lclark.edu
-DTSTAMP:20251029T173723Z
-URL:https://www.lclark.edu/live/profiles/14750-climbing-shuttle
-LAST-MODIFIED:20251113T205712Z
-RRULE:FREQ=WEEKLY;UNTIL=20260501T020000Z;INTERVAL=1;BYDAY=MO,WE
-EXDATE:20260324T020000Z,20260326T020000Z
-ATTACH:https://www.lclark.edu/live/image/gid/258/width/80/height/80/crop/
- 1/src_region/0,0,626,352/83065_Circuit.rev.1585773366.jpg
-X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:372054
-X-LIVEWHALE-TIMEZONE:America/Los_Angeles
-X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/258/width/80/heig
- ht/80/crop/1/src_region/0\,0\,626\,352/83065_Circuit.rev.1585773366.jpg
-X-LIVEWHALE-IMAGE-CAPTION:The Circuit bouldering gym
-X-LIVEWHALE-COST:Free
-X-LIVEWHALE-SUMMARY:<p>Mondays and Thursdays\, 7-9 pm Ride our FREE shutt
- le to the Circuit Bouldering Gym! Does not include gym entry or rentals. 
- Signing up on the sheet outside Fowler 239 reserves your spot\, or you ca
- n show up at 6:45 pm the day the shuttle leaves and see if there is space
- ! Meets at Pio bus stop near Fowler.<br />\nSign up begins on Fridays\, t
- he week before the shuttle date</p>
-X-LIVEWHALE-TAGS:climbing shuttle
-X-LIVEWHALE-REPEATS-UNTIL:2026-05-01 02:00:00
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
@@ -455,7 +147,7 @@ UID:20260317T070000Z-384714@www.lclark.edu
 DTSTAMP:20260223T114104Z
 URL:https://www.lclark.edu/calendars/events/event/384714-comparative-anim
  al-law-symposium
-LAST-MODIFIED:20260303T144744Z
+LAST-MODIFIED:20260316T194025Z
 ATTACH:https://www.lclark.edu/live/image/gid/41/width/80/height/80/crop/1
  /src_region/0,0,2550,2550/112113_RegistrationOpen_2026_v3_2.rev.177187564
  3.jpg
@@ -473,6 +165,29 @@ X-LIVEWHALE-SUMMARY:<div class="xdj266r x14z9mp xat24cr x1lziwak x1vvkbs
  his event is free\, virtual\, and open to the public.\n  </div>\n</div>
 X-LIVEWHALE-IS-ONLINE:1
 X-LIVEWHALE-ONLINE-TYPE:Online only
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260317T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260317T113000
@@ -742,7 +457,7 @@ DTSTAMP:20260121T091216Z
 URL:https://www.lclark.edu/calendars/events/event/380696-of-humans-whales
  -and-goddesses-rethinking-ritual
 CATEGORIES:Open to the Public
-LAST-MODIFIED:20260224T154439Z
+LAST-MODIFIED:20260316T194138Z
 ATTACH:https://www.lclark.edu/live/image/gid/82/width/80/height/80/crop/1
  /src_region/0,44,1200,1244/111529_aike-peter-rots-300-01.rev.1769015244.j
  pg
@@ -1110,7 +825,7 @@ UID:20260318T070000Z-384714@www.lclark.edu
 DTSTAMP:20260223T114104Z
 URL:https://www.lclark.edu/calendars/events/event/384714-comparative-anim
  al-law-symposium
-LAST-MODIFIED:20260303T144744Z
+LAST-MODIFIED:20260316T194025Z
 ATTACH:https://www.lclark.edu/live/image/gid/41/width/80/height/80/crop/1
  /src_region/0,0,2550,2550/112113_RegistrationOpen_2026_v3_2.rev.177187564
  3.jpg
@@ -1128,6 +843,29 @@ X-LIVEWHALE-SUMMARY:<div class="xdj266r x14z9mp xat24cr x1lziwak x1vvkbs
  his event is free\, virtual\, and open to the public.\n  </div>\n</div>
 X-LIVEWHALE-IS-ONLINE:1
 X-LIVEWHALE-ONLINE-TYPE:Online only
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260318T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260318T121000
@@ -1219,6 +957,21 @@ X-LIVEWHALE-IS-ONLINE:1
 X-LIVEWHALE-ONLINE-TYPE:Online only
 X-LIVEWHALE-ONLINE-URL:https://zoom.us/j/97714598655
 X-LIVEWHALE-REPEATS-UNTIL:2026-05-27 20:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T134500
+DTEND;TZID=America/Los_Angeles:20260318T144500
+SUMMARY:French Office Hours with Titouan
+UID:20260318T204500Z-384932@www.lclark.edu
+DTSTAMP:20260224T164809Z
+URL:https://www.lclark.edu/calendars/events/event/384932-french-office-ho
+ urs-with-titouan
+LAST-MODIFIED:20260225T004809Z
+RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,WE,FR
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384932
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260318T140000
@@ -1644,6 +1397,36 @@ X-LIVEWHALE-SUMMARY:<p>\n  Join us for "Housing &amp\; Food Insecurity mi
 X-LIVEWHALE-TAGS:events|human rights|humanities|student
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260318T190000
+DTEND;TZID=America/Los_Angeles:20260318T210000
+LOCATION:Fowler Student Center
+GEO:45.44918;-122.670969
+SUMMARY:Climbing Shuttle
+UID:20260319T020000Z-372055@www.lclark.edu
+DTSTAMP:20251029T173723Z
+URL:https://www.lclark.edu/live/profiles/14750-climbing-shuttle
+LAST-MODIFIED:20251113T205712Z
+RRULE:FREQ=WEEKLY;UNTIL=20260501T020000Z;INTERVAL=1;BYDAY=MO,WE
+EXDATE:20260324T020000Z,20260326T020000Z
+ATTACH:https://www.lclark.edu/live/image/gid/258/width/80/height/80/crop/
+ 1/src_region/0,0,626,352/83065_Circuit.rev.1585773366.jpg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:372055
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/258/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,626\,352/83065_Circuit.rev.1585773366.jpg
+X-LIVEWHALE-IMAGE-CAPTION:The Circuit bouldering gym
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-SUMMARY:<p>Mondays and Thursdays\, 7-9 pm Ride our FREE shutt
+ le to the Circuit Bouldering Gym! Does not include gym entry or rentals. 
+ Signing up on the sheet outside Fowler 239 reserves your spot\, or you ca
+ n show up at 6:45 pm the day the shuttle leaves and see if there is space
+ ! Meets at Pio bus stop near Fowler.<br />\nSign up begins on Fridays\, t
+ he week before the shuttle date</p>
+X-LIVEWHALE-TAGS:climbing shuttle
+X-LIVEWHALE-REPEATS-UNTIL:2026-05-01 02:00:00
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 LOCATION:Watzek Library
@@ -1758,6 +1541,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  Please join us on <strong data-index-in-node="
   we gather at the <strong>Alumni Gatehouse Patio</strong> to dedicate a m
  emorial bench in honor of Oliver Milavetz.\n</p>
 X-LIVEWHALE-TAGS:alumni|In-person Event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260319T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260319T110000
@@ -2051,6 +1857,106 @@ X-LIVEWHALE-SUMMARY:<p>\n  One important part of the symposium is an art
 X-LIVEWHALE-TAGS:gender studies symposium|symposia
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260320T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260320T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260320T134500
+DTEND;TZID=America/Los_Angeles:20260320T144500
+SUMMARY:Spanish Office Hours with Cami!
+UID:20260320T204500Z-384962@www.lclark.edu
+DTSTAMP:20260224T164809Z
+URL:https://www.lclark.edu/calendars/events/event/384962-spanish-office-h
+ ours-with-cami
+LAST-MODIFIED:20260225T004809Z
+RRULE:FREQ=WEEKLY;UNTIL=20260509T204500Z;INTERVAL=1;BYDAY=MO,FR
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384962
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-REPEATS-UNTIL:2026-05-09 20:45:00
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 LOCATION:Watzek Library
@@ -2130,6 +2036,68 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260321T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
 SUMMARY:Spring Break 2026: March 21-29\, 2026
 UID:20260321T070000Z-369470@www.lclark.edu
 DTSTAMP:20250602T065348Z
@@ -2147,6 +2115,29 @@ X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
  .39.36AM.rev.1748871618.png
 X-LIVEWHALE-IMAGE-CAPTION:Campus Living&#160\;
 X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260321T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
@@ -2264,6 +2255,68 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260322T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 SUMMARY:Spring Break 2026: March 21-29\, 2026
 UID:20260322T070000Z-369470@www.lclark.edu
 DTSTAMP:20250602T065348Z
@@ -2345,6 +2398,29 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260322T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 LOCATION:Sequoia Building
 GEO:45.4454391157868;-122.671687367706
 SUMMARY:Spring Break: Central Oregon & Crater Lake Winter Adventure
@@ -2405,6 +2481,68 @@ LAST-MODIFIED:20250918T190127Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:369009
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260323T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
 X-LIVEWHALE-ALL-DAY:1
 END:VEVENT
 BEGIN:VEVENT
@@ -2523,6 +2661,29 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260323T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
 LOCATION:Sequoia Building
 GEO:45.4454391157868;-122.671687367706
 SUMMARY:Spring Break: Oregon Coastal Retreat
@@ -2561,6 +2722,68 @@ LAST-MODIFIED:20250918T190127Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:369009
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260324T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
 X-LIVEWHALE-ALL-DAY:1
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,6 +2930,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
 X-LIVEWHALE-TAGS:low rigor|Spring Break|SpringBreakCaving
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260324T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260324T150000
 DTEND;TZID=America/Los_Angeles:20260324T160000
 LOCATION:Huston Sports Complex
@@ -2737,6 +2983,68 @@ LAST-MODIFIED:20250918T190127Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:369009
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260325T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
 X-LIVEWHALE-ALL-DAY:1
 END:VEVENT
 BEGIN:VEVENT
@@ -2883,6 +3191,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
 X-LIVEWHALE-TAGS:low rigor|Spring Break|SpringBreakCaving
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260325T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Spring break
@@ -2893,6 +3224,68 @@ LAST-MODIFIED:20250918T190127Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:369009
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260326T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
 X-LIVEWHALE-ALL-DAY:1
 END:VEVENT
 BEGIN:VEVENT
@@ -3010,6 +3403,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
  esday\, January 28\, 2026<br />\n  <strong>Trip Fee:</strong> $595 / $297
  *\n</p>
 X-LIVEWHALE-TAGS:moderate|Spring Break|Spring Trips|SpringBreakRedwoods
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260326T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260326T083000
@@ -3222,6 +3638,68 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260327T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
 SUMMARY:Spring Break 2026: March 21-29\, 2026
 UID:20260327T070000Z-369470@www.lclark.edu
 DTSTAMP:20250602T065348Z
@@ -3302,6 +3780,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
  esday\, January 28\, 2026<br />\n  <strong>Trip Fee:</strong> $595 / $297
  *\n</p>
 X-LIVEWHALE-TAGS:moderate|Spring Break|Spring Trips|SpringBreakRedwoods
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260327T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260327T120000
@@ -3398,6 +3899,68 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260328T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
 SUMMARY:Spring Break 2026: March 21-29\, 2026
 UID:20260328T070000Z-369470@www.lclark.edu
 DTSTAMP:20250602T065348Z
@@ -3450,6 +4013,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
 X-LIVEWHALE-TAGS:moderate|Spring Break|Spring Trips|SpringBreakRedwoods
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260328T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260328T100000
 DTEND;TZID=America/Los_Angeles:20260328T120000
 LOCATION:11640 SW Boones Ferry Rd\, Portland\, OR 97219
@@ -3489,16 +4075,16 @@ X-ALT-DESC;FMTTYPE=text/html:<p>  Join us at Tryon Life Community Farm fo
   We will meet at the Outdoor Kitchen\, just downhill from the parking are
  a.</p><p>  Info: <a href="mailto:engagement@tryonfarm.org" target="_blank
  " rel="noopener">engagement@tryonfarm.org</a>\, text: 503-245-3847</p>
-UID:20260328T170000Z-384738@www.lclark.edu
-DTSTAMP:20260223T132443Z
+UID:20260328T170000Z-384829@www.lclark.edu
+DTSTAMP:20260224T081131Z
 URL:https://www.lclark.edu/live/events/384728-eco-volunteer-with-tryon-li
  fe-community-farm
-LAST-MODIFIED:20260305T224422Z
+LAST-MODIFIED:20260316T163044Z
 RRULE:FREQ=MONTHLY;UNTIL=20261031T170000Z;INTERVAL=1;BYDAY=5SA
 ATTACH:https://www.lclark.edu/live/image/gid/485/width/80/height/80/crop/
  1/src_region/0,0,860,572/82434_trees.rev.1581469627.jpg
 X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:384738
+X-LIVEWHALE-ID:384829
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/485/width/80/heig
  ht/80/crop/1/src_region/0\,0\,860\,572/82434_trees.rev.1581469627.jpg
@@ -3518,7 +4104,7 @@ X-LIVEWHALE-SUMMARY:Come volunteer with TLC as they work to tend to their
  tn-small-style-1" href="https://www.givepulse.com/event/844241-Reclaim-Ha
  bitat-at-TLC-Farm" target="_blank" rel="noopener">REGISTER HERE</a>\n</p>
 X-LIVEWHALE-TAGS:community engagement|Earth System Science Minor|Environm
- ental Studies Major|Environmental Studies Minor|events|staff|student
+ ental Studies Major|Environmental Studies Minor|staff|student
 X-LIVEWHALE-REPEATS-UNTIL:2026-10-31 17:00:00
 END:VEVENT
 BEGIN:VEVENT
@@ -3599,6 +4185,68 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
+SUMMARY:Spring Break 2026 Dining Hours
+DESCRIPTION:Fields Dining Hall    Open Friday\, March 20for Breakfast\, L
+ unch\, and Dinner. Service ends at 8pm.Closed Saturday\, March 21 through
+  Saturday\, March 28Reopens for Brunch and Dinner service on Sunday\, Mar
+ ch 29Trail Room    Closes at 3pm on Friday\, March 20Closed on Saturday\,
+  March 21 through Sunday\, March 29Resumes Normal Service on Monday\, Mar
+ ch 30Dovecote    Open Normal Hours on Friday\, March 20Closed Saturday\, 
+ March 21 through Sunday\, March 29Market    Closes at 8pm on Friday\, Mar
+ ch 20Law    Closed Friday\, March\, 20 - Sunday\, March\, 29
+X-ALT-DESC;FMTTYPE=text/html:<ul><li>Fields Dining Hall    <ul><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Open Friday\, March 
+ 20</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off 
+ font-feature-calt-off text-decoration-none text-strikethrough-none">for B
+ reakfast\, Lunch\, and Dinner. Service ends at 8pm.</span></li><li><span 
+ class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-ca
+ lt-off text-decoration-none text-strikethrough-none">Closed Saturday\, Ma
+ rch 21 through Saturday\, March 28</span></li><li><span class="a_GcMg fon
+ t-feature-liga-off font-feature-clig-off font-feature-calt-off text-decor
+ ation-none text-strikethrough-none">Reopens for Brunch and Dinner service
+  on Sunday\, March 29</span></li></ul></li><li>Trail Room    <ul><li><spa
+ n class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-
+ calt-off text-decoration-none text-strikethrough-none">Closes at 3pm on F
+ riday\, March 20</span></li><li><span class="a_GcMg font-feature-liga-off
+  font-feature-clig-off font-feature-calt-off text-decoration-none text-st
+ rikethrough-none">Closed on Saturday\, March 21 through Sunday\, March 29
+ </span></li><li><span class="a_GcMg font-feature-liga-off font-feature-cl
+ ig-off font-feature-calt-off text-decoration-none text-strikethrough-none
+ ">Resumes Normal Service on Monday\, March 30</span></li></ul></li><li>Do
+ vecote    <ul><li><span class="a_GcMg font-feature-liga-off font-feature-
+ clig-off font-feature-calt-off text-decoration-none text-strikethrough-no
+ ne">Open Normal Hours on Friday\, March 20</span></li><li><p class="cvGsU
+ A direction-ltr align-center para-style-body"><span class="a_GcMg font-fe
+ ature-liga-off font-feature-clig-off font-feature-calt-off text-decoratio
+ n-none text-strikethrough-none">Closed Saturday\, March 21 through Sunday
+ \, March 29</span></p></li></ul></li><li>Market    <ul><li><span class="a
+ _GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off t
+ ext-decoration-none text-strikethrough-none">Closes at 8pm on Friday\, Ma
+ rch 20</span></li></ul></li><li>Law    <ul><li><span class="a_GcMg font-f
+ eature-liga-off font-feature-clig-off font-feature-calt-off text-decorati
+ on-none text-strikethrough-none">Closed Friday\, March\, 20 - Sunday\, Ma
+ rch\, 29</span></li></ul></li></ul>
+UID:20260329T070000Z-387168@www.lclark.edu
+DTSTAMP:20260316T115450Z
+URL:https://www.lclark.edu/calendars/events/event/387168-spring-break-202
+ 6-dining-hours
+LAST-MODIFIED:20260316T185450Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1920,1080/112412_Annual_Breaks_-_Dining_Hours_6.rev.1773
+ 687140.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387168
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1920\,1080/112412_Annual_Breaks_-_Dining_Ho
+ urs_6.rev.1773687140.png
+X-LIVEWHALE-IMAGE-CAPTION:Spring Break 2026 Dining Hours
+X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
 SUMMARY:Spring Break 2026: March 21-29\, 2026
 UID:20260329T070000Z-369470@www.lclark.edu
 DTSTAMP:20250602T065348Z
@@ -3616,6 +4264,29 @@ X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
  .39.36AM.rev.1748871618.png
 X-LIVEWHALE-IMAGE-CAPTION:Campus Living&#160\;
 X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260329T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260329T110000
@@ -3649,6 +4320,112 @@ X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:369009
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-ALL-DAY:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260330T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T110000
+DTEND;TZID=America/Los_Angeles:20260330T120000
+SUMMARY:NotebookLM Deep Dive
+DESCRIPTION:Session 1: Building Your Grounded Knowledge Base  March 16th 
+ | 11am-noon | via Google Meet  In our first hour\, we will move past the 
+ AI hype and get practical. You'll learn how to create a "Notebook" that a
+ cts as an expert on your specific projects.Source Uploads: Learn to integ
+ rate PDFs\, Google Docs\, and web links securely.The Power of Citations: 
+ See how the AI points directly to the page and paragraph it used for ever
+ y answer.Synthesizing Research: Use the tool to generate summaries\, stud
+ y guides\, and project outlines in seconds.Session 2: Advanced Workflows 
+ &amp\; Community Showcase  March 30th | 11am-noon | via Google Meet  Two 
+ weeks later\, we'll reconvene to take things to the next level.Deep Dive 
+ studio tools: Discover how to turn your research or notes into an AI-gene
+ rated "podcast" for easy review on the go\, a summary video presentation\
+ , an infographic and more!Collaboration: Learn how to share notebooks wit
+ h colleagues for departmental projects.Show &amp\; Tell: We'll dedicate t
+ he second half of this session to a "Community of Practice\," where parti
+ cipants can share the notebooks they've built and how they are using them
+  in their daily work at the College.Strategy &amp\; Ethics: We'll spend s
+ ome time discussing how to use this tool to offload cognitive overload wi
+ thout losing critical thinking skills.Register (https://docs.google.com/f
+ orms/d/e/1FAIpQLSd9ZO3fZCVD6c-Bmne4iMRUXyoVINidkRWNAjXjAsGhvBD5Xw/viewfor
+ m?usp=header) to receive a calendar invite!
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Session 1: Building Your Grounded
+  Knowledge Base</strong><br />  March 16th | 11am-noon | via Google Meet<
+ br /><br />  In our first hour\, we will move past the AI hype and get pr
+ actical. You'll learn how to create a "Notebook" that acts as an expert o
+ n your specific projects.<br /><br /><strong>Source Uploads</strong>: Lea
+ rn to integrate PDFs\, Google Docs\, and web links securely.<br /><br /><
+ strong>The Power of Citations</strong>: See how the AI points directly to
+  the page and paragraph it used for every answer.<br /><br /><strong>Synt
+ hesizing Research</strong>: Use the tool to generate summaries\, study gu
+ ides\, and project outlines in seconds.<br /><br /><strong>Session 2: Adv
+ anced Workflows &amp\; Community Showcase</strong><br />  March 30th | 11
+ am-noon | via Google Meet<br /><br />  Two weeks later\, we'll reconvene 
+ to take things to the next level.<br /><br /><strong>Deep Dive studio too
+ ls:</strong> Discover how to turn your research or notes into an AI-gener
+ ated "podcast" for easy review on the go\, a summary video presentation\,
+  an infographic and more!<br /><br /><strong>Collaboration:</strong> Lear
+ n how to share notebooks with colleagues for departmental projects.<br />
+ <br /><strong>Show &amp\; Tell:</strong> We'll dedicate the second half o
+ f this session to a "Community of Practice\," where participants can shar
+ e the notebooks they've built and how they are using them in their daily 
+ work at the College.</p><p><strong>Strategy &amp\; Ethics:</strong> We'll
+  spend some time discussing how to use this tool to offload cognitive ove
+ rload without losing critical thinking skills.<br /><br /><a href="https:
+ //docs.google.com/forms/d/e/1FAIpQLSd9ZO3fZCVD6c-Bmne4iMRUXyoVINidkRWNAjX
+ jAsGhvBD5Xw/viewform?usp=header">Register</a> to receive a calendar invit
+ e!</p>
+UID:20260330T180000Z-382501@www.lclark.edu
+DTSTAMP:20260203T182416Z
+URL:https://www.lclark.edu/calendars/events/event/382501-notebooklm-deep-
+ dive
+LAST-MODIFIED:20260204T024018Z
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=2
+ATTACH:https://www.lclark.edu/live/image/gid/8/width/80/height/80/crop/1/
+ src_region/0,0,452,445/111698_Screenshot_2026-02-03_175816.rev.1770170336
+ .png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:382501
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/8/width/80/height
+ /80/crop/1/src_region/0\,0\,452\,445/111698_Screenshot_2026-02-03_175816.
+ rev.1770170336.png
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Elizabeth Young\n</p>\n<p>\n  eayoung@lcl
+ ark.edu\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Tired of "Information Overload"? Between resea
+ rch bibliographies\, departmental policy updates\, and endless committee 
+ minutes\, the volume of data we handle at Lewis &amp\; Clark can be overw
+ helming. Traditional AI tools can sometimes be unreliable\, but NotebookL
+ M offers a different approach: Source-Grounded Intelligence.<br />\n  <br
+  />\n  Join us for a hands-on\, two-part workshop series designed to help
+  faculty and staff turn their personal documents into organized\, actiona
+ ble insights. Unlike other AI tools\, NotebookLM only uses the specific s
+ ources you provide\, ensuring that every answer is cited and accurate.\n<
+ /p>
+X-LIVEWHALE-TAGS:AI|software training
+X-LIVEWHALE-IS-ONLINE:1
+X-LIVEWHALE-ONLINE-TYPE:Online only
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260330T120000
@@ -3686,6 +4463,51 @@ X-LIVEWHALE-SUMMARY:<p><span data-sheets-root="1">Please join Career Serv
  increase access for evening students and others who may not be on campus 
  that day. <a href="https://law-lclark.12twenty.com/events/30006101333063"
   target="_blank" rel="noopener">Please RSVP here</a></span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260330T235900
+DTEND;TZID=America/Los_Angeles:20260331T005900
+SUMMARY:Priority Deadline for 2026-2027 Housing Applications!
+UID:20260331T065900Z-387170@www.lclark.edu
+DTSTAMP:20260316T115741Z
+URL:https://www.lclark.edu/calendars/events/event/387170-priority-deadlin
+ e-for-2026-2027-housing
+LAST-MODIFIED:20260316T185741Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112257_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_1.rev.1772485494.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387170
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112257_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_1.rev.1772485494.png
+X-LIVEWHALE-IMAGE-CAPTION:2026-27 Housing App Timeline
+X-LIVEWHALE-SUMMARY:<p>Apply for 2026-2027 Housing on our portal by 11:59
+ pm PST in order for your application to be considered on-time!&#160\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260331T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260331T110000
@@ -3869,17 +4691,18 @@ X-ALT-DESC;FMTTYPE=text/html:<h2>  17th Annual Dorothy Berkson Writing Aw
  p>  &#160\;</p><p><strong><a href="https://www.lclark.edu/departments/gen
  der_studies/dorothy-berkson-writing-award/dorthy-berkson-award-archive/">
  Info about past awardees</a></strong></p>
-UID:20260401T070000Z-386653@www.lclark.edu
-DTSTAMP:20260311T131944Z
+UID:20260401T070000Z-387156@www.lclark.edu
+DTSTAMP:20260316T092631Z
 URL:https://college.lclark.edu/live/news/57473-call-for-papers-2026-dorot
  hy-berkson-writing-award-in-
-LAST-MODIFIED:20260311T202704Z
+LAST-MODIFIED:20260316T162650Z
 RRULE:FREQ=WEEKLY;UNTIL=20260403T000000Z;INTERVAL=1
+EXDATE:20260311T000000Z
 ATTACH:https://www.lclark.edu/live/image/gid/72/width/80/height/80/crop/1
  /src_region/0,0,429,383/112371_Berkson_QR_2-per-sheet__1.rev.1773260407.j
  pg
 X-LIVEWHALE-TYPE:events
-X-LIVEWHALE-ID:386653
+X-LIVEWHALE-ID:387156
 X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/72/width/80/heigh
  t/80/crop/1/src_region/0\,0\,429\,383/112371_Berkson_QR_2-per-sheet__1.re
@@ -3893,6 +4716,88 @@ X-LIVEWHALE-SUMMARY:<p>\n  Submissions may be from <em>any</em> field of
  ubmissions and faculty recommendations due by 5pm\, Friday\, April 3\, 20
  26.\n</p>
 X-LIVEWHALE-REPEATS-UNTIL:2026-04-03 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260401T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260401T163000
+DTEND;TZID=America/Los_Angeles:20260401T173000
+SUMMARY:International Tea with Mayu: Japanese Matcha
+UID:20260401T233000Z-387188@www.lclark.edu
+DTSTAMP:20260316T140258Z
+URL:https://www.lclark.edu/calendars/events/event/387188-international-te
+ a-with-mayu-japanese-matcha
+LAST-MODIFIED:20260316T210258Z
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387188
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260401T173000
+DTEND;TZID=America/Los_Angeles:20260401T183000
+LOCATION:Stamm\, Fowler Student Center
+GEO:45.44918;-122.670969
+SUMMARY:Passover Seder & Catered Dinner
+DESCRIPTION:Join Lewis &amp\; Clark students and employees\, along with J
+ ewish students from various colleges and universities in Portland\, to ce
+ lebrate the holiday. The Seder program will begin at 6:00pm with a catere
+ d vegetarian dinner (vegan option available). Doors open at 5:30pm. We ar
+ e striving to include Jewish diversity in our traditions and foods. Our P
+ assover Seder will be bringing home to you!  RSVP is required\, free and 
+ open to all: https://forms.gle/wUMQGnb4E2BKHd978 (https://forms.gle/wUMQG
+ nb4E2BKHd978)
+X-ALT-DESC;FMTTYPE=text/html:<p>  Join Lewis &amp\; Clark students and em
+ ployees\, along with Jewish students from various colleges and universiti
+ es in Portland\, to celebrate the holiday. The Seder program will begin a
+ t 6:00pm with a catered vegetarian dinner (vegan option available). Doors
+  open at 5:30pm. We are striving to include Jewish diversity in our tradi
+ tions and foods. Our Passover Seder will be bringing home to you!</p><p> 
+  RSVP is required\, free and open to all: <a style="background-color: #ff
+ ffff\;" href="https://forms.gle/wUMQGnb4E2BKHd978" target="_blank" rel="n
+ oopener" data-saferedirecturl="https://www.google.com/url?q=https://forms
+ .gle/wUMQGnb4E2BKHd978&amp\;source=gmail&amp\;ust=1773774374448000&amp\;u
+ sg=AOvVaw1PfrI6TrINqn9ZDV3x76bI">https://forms.gle/wUMQGnb4E2BKHd978</a><
+ /p><div></div>
+UID:20260402T003000Z-387184@www.lclark.edu
+DTSTAMP:20260316T134227Z
+URL:https://www.lclark.edu/calendars/events/event/387184-passover-seder-c
+ atered-dinner
+LAST-MODIFIED:20260316T222356Z
+ATTACH:https://www.lclark.edu/live/image/gid/259/width/80/height/80/crop/
+ 1/src_region/0,0,480,622/112413_Passover_2026.rev.1773693868.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387184
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/259/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,480\,622/112413_Passover_2026.rev.177369386
+ 8.png
+X-LIVEWHALE-IMAGE-CAPTION:Passover Seder
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Hillel@lclark.edu<br />\n  <br />\n  Cent
+ er for Spiritual Life<br />\n  Hilary Martin Himan<br />\n  hmhiman@lclar
+ k.edu\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Join Hillel and the Center for Spiritual Life 
+ for Hillel's annual Passover Seder.\n</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260401T173000
@@ -3976,8 +4881,7 @@ UID:20260402T010000Z-386800@www.lclark.edu
 DTSTAMP:20260312T143521Z
 URL:https://www.lclark.edu/calendars/events/event/386800-holding-on-to-ar
  id-land
-CATEGORIES:Open to the Public
-LAST-MODIFIED:20260312T215347Z
+LAST-MODIFIED:20260316T224024Z
 ATTACH:https://www.lclark.edu/live/image/gid/79/width/80/height/80/crop/1
  /src_region/0,0,1019,874/112382_2026_Arid_Land_film_event_poster_1.rev.17
  73350323.jpg
@@ -4023,6 +4927,29 @@ X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/293/width/80/heig
  ht/80/crop/1/src_region/0\,0\,2133\,3200/111582_womens_tennis.rev.1769209
  819.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260402T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260402T121000
@@ -4132,6 +5059,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  Join us for an evening of connection\, convers
  ation\, and community at our BIPOC Networking Night.\n</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260403T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260403T080000
 DTEND;TZID=America/Los_Angeles:20260403T170000
 LOCATION:Law Campus
@@ -4161,29 +5111,31 @@ DESCRIPTION:RSVP Here (https://engage.lclark.edu/register/ENV.LawSpringSy
  lujan/) – Plastic and Chemicals Lead at ClientEarthAnna Mance– Assist
  ant Professor of Law atSMU Dedman School of Law from Stanford Law SchoolS
  arah Morath– Professor of Law and Associate Dean for International Affa
- irs at Wake Forest University of LawDan Mensher (https://www.kellerrohrba
- ck.com/attorney/daniel-mensher) – Attorney at Keller Rohrback LLPMichel
- le Nowlin (https://law.duke.edu/fac/nowlin) – Clinical Professor of Law
-  and Co-Director of the Environmental Law and Policy Clinic at Duke Unive
- rsity Law SchoolMargot Pollans (https://www.pace.edu/profile/margot-j-pol
- lans) – Gilbert and Sarah Kerlin Distinguished Professor of Environment
- al Law and Faculty Director at the Elisabeth Haub School of Law at Pace U
- niversity.Draft article (not for circulation). (https://docs.google.com/d
- ocument/d/1oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp\;ouid=11
- 2903830900609882818&amp\;rtpof=true&amp\;sd=true)Rachael Salcido– Steph
- en C. McCaffrey Endowed Professor of Law at the University of the Pacific
- \, McGeorge School of LawZak Smith (https://www.nrdc.org/bio/zak-smith) �
- �� Senior Attorney and Director Global Biodiversity Conservation at Natur
- al Resources Defense Council (NRDC)Amy Youngman– Lawyer and Legal and P
- olicy Specialist  Parking  Parking is limited at the law school\, and we 
- highly encourage carpooling to our events. Due to its proximity to the la
- w school\, we suggest parking in the Upper Griswold (https://www.lclark.e
- du/live/profiles/6366-parking-lot-c-upper-griswold) or Lower Griswold (ht
- tps://www.lclark.edu/live/profiles/6367-parking-lot-d-lower-griswold) par
- king lot at the college campus (just a few minutes walk to the law school
- ).&#160\;  For those unfamiliar with the campus\, you can access a full c
- ampus map here (https://www.lclark.edu/live/news/43826-updated-printable-
- campus-map).
+ irs at Wake Forest University of Law.Draft article (not for circulation).
+  (https://docs.google.com/document/d/1UGdbRbNPITr7VQnjnNpC4XQ6P8TWgX9E/ed
+ it?usp=sharing&amp\;ouid=112903830900609882818&amp\;rtpof=true&amp\;sd=tr
+ ue)Dan Mensher (https://www.kellerrohrback.com/attorney/daniel-mensher) �
+ �� Attorney at Keller Rohrback LLPMichelle Nowlin (https://law.duke.edu/f
+ ac/nowlin) – Clinical Professor of Law and Co-Director of the Environme
+ ntal Law and Policy Clinic at Duke University Law SchoolMargot Pollans (h
+ ttps://www.pace.edu/profile/margot-j-pollans) – Gilbert and Sarah Kerli
+ n Distinguished Professor of Environmental Law and Faculty Director at th
+ e Elisabeth Haub School of Law at Pace University.Draft article (not for 
+ circulation). (https://docs.google.com/document/d/1oJwXYAQ--ldOQIvK9jhq4Z
+ c0p825qity/edit?usp=sharing&amp\;ouid=112903830900609882818&amp\;rtpof=tr
+ ue&amp\;sd=true)Rachael Salcido– Stephen C. McCaffrey Endowed Professor
+  of Law at the University of the Pacific\, McGeorge School of LawZak Smit
+ h (https://www.nrdc.org/bio/zak-smith) – Senior Attorney and Director G
+ lobal Biodiversity Conservation at Natural Resources Defense Council (NRD
+ C)Amy Youngman– Lawyer and Legal and Policy Specialist  Parking  Parkin
+ g is limited at the law school\, and we highly encourage carpooling to ou
+ r events. Due to its proximity to the law school\, we suggest parking in 
+ the Upper Griswold (https://www.lclark.edu/live/profiles/6366-parking-lot
+ -c-upper-griswold) or Lower Griswold (https://www.lclark.edu/live/profile
+ s/6367-parking-lot-d-lower-griswold) parking lot at the college campus (j
+ ust a few minutes walk to the law school).&#160\;  For those unfamiliar w
+ ith the campus\, you can access a full campus map here (https://www.lclar
+ k.edu/live/news/43826-updated-printable-campus-map).
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn-small-style-1" href="https:
  //engage.lclark.edu/register/ENV.LawSpringSymposium">RSVP Here</a></p><p>
  <picture class="lw_image lw_image111385  lw_align_center"><source media="
@@ -4201,100 +5153,103 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="btn-small-style-1" href="https:
  nsive"/><img width="608" height="453" alt="" data-alt="" data-decoration=
  "true" src="https://www.lclark.edu/live/image/gid/71/width/608/height/453
  /111385_Screenshot_2025-12-23_at_2.42.52PM.rev.1766529784.png" title="Scr
- eenshot 2025-12-23 at 2.42.52 PM" data-max-w="972" data-max-h="724" loadi
- ng="lazy" data-optimized="true"/></picture></p><p>  If you are unable to 
- attend in person or via the live stream\, please email <a href="mailto:de
- liaweidman@lclark.edu">deliaweidman@lclark.edu</a> to receive a recording
-  of the event.</p><hr /><h3><strong>Schedule of Events:</strong></h3><p><
- strong>7:45am | Continental Breakfast and Check-In</strong></p><p><strong
- >8:15am | Introduction and Welcome:</strong><a href="https://law.lclark.e
- du/live/profiles/288-janice-weis"><strong>Janice Weis</strong>\,</a><stro
- ng>Associate Dean\, Environmental Law Program\, Lewis &amp\; Clark Law Sc
- hool</strong></p><p><strong><strong>8:30am | Keynote - <a href="https://w
- ww.oregonlegislature.gov/sollman">Senator Janeen Sollman</a>\, <a href="h
- ttps://www.oregonlegislature.gov/sollman/Pages/map.aspx">Senate District 
- 15</a> &#160\;Oregon State Legislature&#160\;</strong></strong></p><p><st
- rong>9:00-10:30am | Panel 1 – The International Landscape</strong></p><
- p><strong>10:30-10:45am Break</strong></p><p><strong>10:45-12:15pm | Pane
- l 2 – Policy Levers and Considerations</strong></p><p><strong>12:15-1:3
- 0pm | Lunch - Lunch is in the Student Lounge of the Legal Research Center
-  on campus</strong></p><p><strong>1:30-3:00pm | Panel 3 – U.S. Litigati
- on Opportunities</strong></p><p><strong>3:00-3:15pm Break</strong></p><p>
- <strong>3:15-4:45pm | Panel 4 – Hot Topics</strong></p><p><strong>4:45p
- m | Reception for all attendees and speakers (Wood Hall Lounge)</strong><
- /p><hr /><h3 style="text-align: left\;"><strong>Panelists:</strong></h3><
- p><strong><a href="https://profiles.faculty.utah.edu/u0028434">Robert Adl
- er</a> – Dean Emeritus and Distinguished Professor Emeritus\, Universit
- y of Utah\, S.J Quinney College of Law</strong></p><p><strong><a href="ht
- tps://law.lclark.edu/live/profiles/17124-hira-jaleel">Hira Jaleel</a> –
-  Visiting Assistant Professor at the Center for Animal Law Studies at Lew
- is &amp\; Clark Law School</strong></p><p><strong><a href="https://www.cl
- ientearth.org/about/who-we-are/experts/tatiana-lujan/">Tatiana Luján</a>
-  – Plastic and Chemicals Lead at ClientEarth</strong></p><p><a href="ht
- tps://www.smu.edu/law/faculty/profiles/mance-anna-a"><strong>Anna Mance</
- strong></a><strong>– Assistant Professor of Law at</strong><strong>SMU 
- Dedman School of Law from Stanford Law School</strong></p><p><a href="htt
- ps://directory.law.wfu.edu/moraths/"><strong>Sarah Morath</strong></a><st
- rong>– Professor of Law and Associate Dean for International Affairs at
-  Wake Forest University of Law</strong></p><p><strong><a href="https://ww
- w.kellerrohrback.com/attorney/daniel-mensher">Dan Mensher</a> – Attorne
- y at Keller Rohrback LLP</strong></p><p><strong><a href="https://law.duke
- .edu/fac/nowlin">Michelle Nowlin</a> – Clinical Professor of Law and Co
- -Director of the Environmental Law and Policy Clinic at Duke University L
- aw School</strong></p><p><strong><a href="https://www.pace.edu/profile/ma
- rgot-j-pollans">Margot Pollans</a> – Gilbert and Sarah Kerlin Distingui
- shed Professor of Environmental Law and Faculty Director at the Elisabeth
-  Haub School of Law at Pace University.</strong><a href="https://docs.goo
- gle.com/document/d/1oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp
+ eenshot 2025-12-23 at 2.42.52&#x202F\;PM" data-max-w="972" data-max-h="72
+ 4" loading="lazy" data-optimized="true"/></picture></p><p>  If you are un
+ able to attend in person or via the live stream\, please email <a href="m
+ ailto:deliaweidman@lclark.edu">deliaweidman@lclark.edu</a> to receive a r
+ ecording of the event.</p><hr /><h3><strong>Schedule of Events:</strong><
+ /h3><p><strong>7:45am | Continental Breakfast and Check-In</strong></p><p
+ ><strong>8:15am | Introduction and Welcome:</strong><a href="https://law.
+ lclark.edu/live/profiles/288-janice-weis"><strong>Janice Weis</strong>\,<
+ /a><strong>Associate Dean\, Environmental Law Program\, Lewis &amp\; Clar
+ k Law School</strong></p><p><strong><strong>8:30am | Keynote - <a href="h
+ ttps://www.oregonlegislature.gov/sollman">Senator Janeen Sollman</a>\, <a
+  href="https://www.oregonlegislature.gov/sollman/Pages/map.aspx">Senate D
+ istrict 15</a> &#160\;Oregon State Legislature&#160\;</strong></strong></
+ p><p><strong>9:00-10:30am | Panel 1 – The International Landscape</stro
+ ng></p><p><strong>10:30-10:45am Break</strong></p><p><strong>10:45-12:15p
+ m | Panel 2 – Policy Levers and Considerations</strong></p><p><strong>1
+ 2:15-1:30pm | Lunch - Lunch is in the Student Lounge of the Legal Researc
+ h Center on campus</strong></p><p><strong>1:30-3:00pm | Panel 3 – U.S. 
+ Litigation Opportunities</strong></p><p><strong>3:00-3:15pm Break</strong
+ ></p><p><strong>3:15-4:45pm | Panel 4 – Hot Topics</strong></p><p><stro
+ ng>4:45pm | Reception for all attendees and speakers (Wood Hall Lounge)</
+ strong></p><hr /><h3 style="text-align: left\;"><strong>Panelists:</stron
+ g></h3><p><strong><a href="https://profiles.faculty.utah.edu/u0028434">Ro
+ bert Adler</a> – Dean Emeritus and Distinguished Professor Emeritus\, U
+ niversity of Utah\, S.J Quinney College of Law</strong></p><p><strong><a 
+ href="https://law.lclark.edu/live/profiles/17124-hira-jaleel">Hira Jaleel
+ </a> – Visiting Assistant Professor at the Center for Animal Law Studie
+ s at Lewis &amp\; Clark Law School</strong></p><p><strong><a href="https:
+ //www.clientearth.org/about/who-we-are/experts/tatiana-lujan/">Tatiana Lu
+ ján</a> – Plastic and Chemicals Lead at ClientEarth</strong></p><p><a 
+ href="https://www.smu.edu/law/faculty/profiles/mance-anna-a"><strong>Anna
+  Mance</strong></a><strong>– Assistant Professor of Law at</strong><str
+ ong>SMU Dedman School of Law from Stanford Law School</strong></p><p><a h
+ ref="https://directory.law.wfu.edu/moraths/"><strong>Sarah Morath</strong
+ ></a><strong>– Professor of Law and Associate Dean for International Af
+ fairs at Wake Forest University of Law.</strong><a href="https://docs.goo
+ gle.com/document/d/1UGdbRbNPITr7VQnjnNpC4XQ6P8TWgX9E/edit?usp=sharing&amp
  \;ouid=112903830900609882818&amp\;rtpof=true&amp\;sd=true">Draft article 
- (not for circulation).</a></p><p><a href="https://www.pacific.edu/campus-
- directory/rachael-salcido"><strong>Rachael Salcido</strong></a><strong>�
- � Stephen C. McCaffrey Endowed Professor of Law at the University of the 
- Pacific\, McGeorge School of Law</strong></p><p><strong><a href="https://
- www.nrdc.org/bio/zak-smith">Zak Smith</a> – Senior Attorney and Directo
- r Global Biodiversity Conservation at Natural Resources Defense Council (
- NRDC)</strong></p><p><a href="https://www.linkedin.com/in/amy-youngman-7a
- 1b08b1/?originalSubdomain=nl"><strong>Amy Youngman</strong></a><strong>�
- � Lawyer and Legal and Policy Specialist</strong></p><hr /><h2>  Parking<
- /h2><p>  Parking is limited at the law school\, and we highly encourage c
- arpooling to our events. Due to its proximity to the law school\, we sugg
- est parking in the <a href="https://www.lclark.edu/live/profiles/6366-par
- king-lot-c-upper-griswold" target="_blank" rel="noopener">Upper Griswold<
- /a> or <a href="https://www.lclark.edu/live/profiles/6367-parking-lot-d-l
- ower-griswold">Lower Griswold</a> parking lot at the college campus (just
-  a few minutes walk to the law school).&#160\;</p><p><picture class="lw_i
- mage lw_image102140 lw_align_left"><source media="(max-width: 500px)" typ
- e="image/webp" srcset="https://law.lclark.edu/live/image/scale/2x/gid/71/
- width/500/height/188/102140_Image_1-9-24_at_12.34PM.webp 2x\, https://law
- .lclark.edu/live/image/scale/3x/gid/71/width/500/height/188/102140_Image_
- 1-9-24_at_12.34PM.webp 3x" data-origin="responsive" /><source media="(max
- -width: 500px)" type="image/jpeg" srcset="https://law.lclark.edu/live/ima
- ge/scale/2x/gid/71/width/500/height/188/102140_Image_1-9-24_at_12.34PM.jp
- g 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/500/height
- /188/102140_Image_1-9-24_at_12.34PM.jpg 3x" data-origin="responsive" /><s
- ource media="(min-width: 501px)" type="image/webp" srcset="https://law.lc
- lark.edu/live/image/scale/2x/gid/71/width/609/height/229/102140_Image_1-9
- -24_at_12.34PM.webp 2x\, https://law.lclark.edu/live/image/scale/3x/gid/7
- 1/width/609/height/229/102140_Image_1-9-24_at_12.34PM.webp 3x" data-origi
- n="responsive" /><source media="(min-width: 501px)" type="image/jpeg" src
- set="https://law.lclark.edu/live/image/scale/2x/gid/71/width/609/height/2
- 29/102140_Image_1-9-24_at_12.34PM.jpg 2x\, https://law.lclark.edu/live/im
- age/scale/3x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.j
- pg 3x" data-origin="responsive" /><img title="Image 1-9-24 at 12.34PM" sr
- c="https://www.lclark.edu/live/image/gid/71/width/609/height/229/102140_I
- mage_1-9-24_at_12.34PM.rev.1704832550.jpg" srcset="https://law.lclark.edu
- /live/image/scale/2x/gid/71/width/609/height/229/102140_Image_1-9-24_at_1
- 2.34PM.jpg 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/6
- 09/height/229/102140_Image_1-9-24_at_12.34PM.jpg 3x" alt="" loading="lazy
- " data-alt="" data-decoration="true" data-optimized="true" /></picture></
- p><p>  For those unfamiliar with the campus\, you can access a <a href="h
- ttps://www.lclark.edu/live/news/43826-updated-printable-campus-map">full 
- campus map here</a>.</p>
+ (not for circulation).</a></p><p><strong><a href="https://www.kellerrohrb
+ ack.com/attorney/daniel-mensher">Dan Mensher</a> – Attorney at Keller R
+ ohrback LLP</strong></p><p><strong><a href="https://law.duke.edu/fac/nowl
+ in">Michelle Nowlin</a> – Clinical Professor of Law and Co-Director of 
+ the Environmental Law and Policy Clinic at Duke University Law School</st
+ rong></p><p><strong><a href="https://www.pace.edu/profile/margot-j-pollan
+ s">Margot Pollans</a> – Gilbert and Sarah Kerlin Distinguished Professo
+ r of Environmental Law and Faculty Director at the Elisabeth Haub School 
+ of Law at Pace University.</strong><a href="https://docs.google.com/docum
+ ent/d/1oJwXYAQ--ldOQIvK9jhq4Zc0p825qity/edit?usp=sharing&amp\;ouid=112903
+ 830900609882818&amp\;rtpof=true&amp\;sd=true">Draft article (not for circ
+ ulation).</a></p><p><a href="https://www.pacific.edu/campus-directory/rac
+ hael-salcido"><strong>Rachael Salcido</strong></a><strong>– Stephen C. 
+ McCaffrey Endowed Professor of Law at the University of the Pacific\, McG
+ eorge School of Law</strong></p><p><strong><a href="https://www.nrdc.org/
+ bio/zak-smith">Zak Smith</a> – Senior Attorney and Director Global Biod
+ iversity Conservation at Natural Resources Defense Council (NRDC)</strong
+ ></p><p><a href="https://www.linkedin.com/in/amy-youngman-7a1b08b1/?origi
+ nalSubdomain=nl"><strong>Amy Youngman</strong></a><strong>– Lawyer and 
+ Legal and Policy Specialist</strong></p><hr /><h2>  Parking</h2><p>  Park
+ ing is limited at the law school\, and we highly encourage carpooling to 
+ our events. Due to its proximity to the law school\, we suggest parking i
+ n the <a href="https://www.lclark.edu/live/profiles/6366-parking-lot-c-up
+ per-griswold" target="_blank" rel="noopener">Upper Griswold</a> or <a hre
+ f="https://www.lclark.edu/live/profiles/6367-parking-lot-d-lower-griswold
+ ">Lower Griswold</a> parking lot at the college campus (just a few minute
+ s walk to the law school).&#160\;</p><p><picture class="lw_image lw_image
+ 102140 lw_align_left"><source media="(max-width: 500px)" type="image/webp
+ " srcset="https://law.lclark.edu/live/image/scale/2x/gid/71/width/500/hei
+ ght/188/102140_Image_1-9-24_at_12.34PM.webp 2x\, https://law.lclark.edu/l
+ ive/image/scale/3x/gid/71/width/500/height/188/102140_Image_1-9-24_at_12.
+ 34PM.webp 3x" data-origin="responsive" /><source media="(max-width: 500px
+ )" type="image/jpeg" srcset="https://law.lclark.edu/live/image/scale/2x/g
+ id/71/width/500/height/188/102140_Image_1-9-24_at_12.34PM.jpg 2x\, https:
+ //law.lclark.edu/live/image/scale/3x/gid/71/width/500/height/188/102140_I
+ mage_1-9-24_at_12.34PM.jpg 3x" data-origin="responsive" /><source media="
+ (min-width: 501px)" type="image/webp" srcset="https://law.lclark.edu/live
+ /image/scale/2x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34P
+ M.webp 2x\, https://law.lclark.edu/live/image/scale/3x/gid/71/width/609/h
+ eight/229/102140_Image_1-9-24_at_12.34PM.webp 3x" data-origin="responsive
+ " /><source media="(min-width: 501px)" type="image/jpeg" srcset="https://
+ law.lclark.edu/live/image/scale/2x/gid/71/width/609/height/229/102140_Ima
+ ge_1-9-24_at_12.34PM.jpg 2x\, https://law.lclark.edu/live/image/scale/3x/
+ gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.jpg 3x" data-o
+ rigin="responsive" /><img title="Image 1-9-24 at 12.34PM" src="https://ww
+ w.lclark.edu/live/image/gid/71/width/609/height/229/102140_Image_1-9-24_a
+ t_12.34PM.rev.1704832550.jpg" srcset="https://law.lclark.edu/live/image/s
+ cale/2x/gid/71/width/609/height/229/102140_Image_1-9-24_at_12.34PM.jpg 2x
+ \, https://law.lclark.edu/live/image/scale/3x/gid/71/width/609/height/229
+ /102140_Image_1-9-24_at_12.34PM.jpg 3x" alt="" loading="lazy" data-alt=""
+  data-decoration="true" data-optimized="true" /></picture></p><p>  For th
+ ose unfamiliar with the campus\, you can access a <a href="https://www.lc
+ lark.edu/live/news/43826-updated-printable-campus-map">full campus map he
+ re</a>.</p>
 UID:20260403T150000Z-378967@www.lclark.edu
 DTSTAMP:20260105T081353Z
 URL:https://www.lclark.edu/live/events/377679-2026-environmental-law-spri
  ng-symposium-
-LAST-MODIFIED:20260312T212939Z
+LAST-MODIFIED:20260316T203301Z
 ATTACH:https://www.lclark.edu/live/image/gid/71/width/80/height/80/crop/1
  /src_region/104,0,987,882/111419_Screenshot_2026-01-07_at_1.55.48PM_2.rev
  .1767822952.png
@@ -4313,6 +5268,47 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Please join us for our 2026 Environmen
  tal Law Symposium!<br />\n  In-person and online registration available. 
  This event is pending approval of 6 CLE credits.&#160\;<br /></strong>\n<
  /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260403T090000
+DTEND;TZID=America/Los_Angeles:20260403T095000
+LOCATION:Fowler Student Center
+GEO:45.44918;-122.670969
+SUMMARY:Coffee Connections
+DESCRIPTION:Connect with fellow Student Life Peers over coffee! We'll hav
+ e some prompt cards to get conversations flowing\, but no more structure.
+  Be in community\, enjoy a cup of coffee\, and catch up!  &#160\;This eve
+ nt is a part of the Division of Student Life Staff Social Morale Committe
+ e (https://www.lclark.edu/student_life/for-student-life-staff/social-mora
+ le-committee/). Participation is open to all professional Student Life st
+ aff.
+X-ALT-DESC;FMTTYPE=text/html:<p>  Connect with fellow Student Life Peers 
+ over coffee! We'll have some prompt cards to get conversations flowing\, 
+ but no more structure. Be in community\, enjoy a cup of coffee\, and catc
+ h up!</p><p>  &#160\;</p><p><em>This event is a part of the Division of S
+ tudent Life <a href="https://www.lclark.edu/student_life/for-student-life
+ -staff/social-morale-committee/" target="_blank" rel="noopener">Staff Soc
+ ial Morale Committee</a>. Participation is open to all professional Stude
+ nt Life staff.</em></p>
+UID:20260403T160000Z-387185@www.lclark.edu
+DTSTAMP:20260316T134538Z
+URL:https://www.lclark.edu/calendars/events/event/387185-coffee-connections
+LAST-MODIFIED:20260316T204611Z
+ATTACH:https://www.lclark.edu/live/image/gid/210/width/80/height/80/crop/
+ 1/src_region/0,0,1200,1200/104029_LCC_Sig_StudentLife_K_center.rev.171717
+ 5381.jpg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387185
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/210/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1200\,1200/104029_LCC_Sig_StudentLife_K_cen
+ ter.rev.1717175381.jpg
+X-LIVEWHALE-IMAGE-CAPTION:Student Life Logo
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Emmanuel Macias<br />\n  Executive Assist
+ ant<br />\n  emacias@lclark.edu\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Open to Student Life staff.\n</p>
+X-LIVEWHALE-TAGS:events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260403T140000
@@ -4499,6 +5495,29 @@ X-LIVEWHALE-CONTACT-INFO:<p>\n  concert@lclark.edu\n</p>
 X-LIVEWHALE-SUMMARY:<p>\n  Lewis &amp\; Clark College Department of Music
   presents Jessie Shaw in their Senior Lecture-Recital on Friday\, April 3
  \, 2026 at 7:30pm in Evans Auditorium.\n</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260404T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260404T090000
@@ -4765,6 +5784,29 @@ X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/7/width/80/height
  pg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260405T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260405T090000
 DTEND;TZID=America/Los_Angeles:20260405T170000
 LOCATION:Sequoia Building
@@ -4847,6 +5889,92 @@ X-LIVEWHALE-TIMEZONE:America/Los_Angeles
 X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/293/width/80/heig
  ht/80/crop/1/src_region/0\,0\,3200\,2125/111581_mens_tennis.rev.176920898
  0.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260405T190000
+DTEND;TZID=America/Los_Angeles:20260405T200000
+LOCATION:Flanagan Chapel
+GEO:45.450821;-122.671419
+SUMMARY:Easter Celebration Worship Night
+DESCRIPTION:We welcome people from all backgrounds and denominations to c
+ ome and worship together.  Desserts and an egg hunt will follow in the lo
+ wer level of Flanagan in the Center for Spiritual Life.
+X-ALT-DESC;FMTTYPE=text/html:<p>  We welcome people from all backgrounds 
+ and denominations to come and worship together.</p><p><br />  Desserts an
+ d an egg hunt will follow in the lower level of Flanagan in the Center fo
+ r Spiritual Life.<br /><br /><br /><br /></p>
+UID:20260406T020000Z-386886@www.lclark.edu
+DTSTAMP:20260313T094901Z
+URL:https://www.lclark.edu/live/events/386884-easter-celebration-worship-
+ night
+LAST-MODIFIED:20260316T210122Z
+ATTACH:https://www.lclark.edu/live/image/gid/259/width/80/height/80/crop/
+ 1/src_region/0,0,1545,2000/112395_IVLC_EASTER_Insta.rev.1773418391.jpg
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386886
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/259/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1545\,2000/112395_IVLC_EASTER_Insta.rev.177
+ 3418391.jpg
+X-LIVEWHALE-IMAGE-CAPTION:Easter Worship Night
+X-LIVEWHALE-CONTACT-INFO:<p>\n  Hilary Martin Himan<br />\n  Director of 
+ Spiritual Life and Chaplain<br />\n  <a href="mailto:hmhiman@lclark.edu">
+ hmhiman@lclark.edu<br /></a><br />\n  Mark Stuckey<br />\n  Christian Stu
+ dent Life Coordinator<br />\n  <a href="mailto:markstuckey@lclark.edu">ma
+ rkstuckey@lclark.edu</a><br />\n  <br />\n  InterVarsityLC<br />\n  <a hr
+ ef="mailto:intervarsitylc@lclark.edu">intervarsitylc@lclark.edu</a>\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  Lewis &amp\; Clark students and employees are 
+ invited to an <strong>Easter Worship Night</strong> on <strong>April 5th 
+ at 7pm</strong>&#160\;at <strong>Agnes Flanagan Chapel</strong>. This wil
+ l be a time of praise\, scripture\, and worship as we celebrate the resur
+ rection of Christ.\n</p>
+X-LIVEWHALE-TAGS:events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260406T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260407T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260407T093000
@@ -5035,6 +6163,29 @@ X-LIVEWHALE-TAGS:Ireland|Kim Stafford|Piotravel|Writibg
 X-LIVEWHALE-RSVP:1
 X-LIVEWHALE-IS-ONLINE:1
 X-LIVEWHALE-ONLINE-TYPE:Online only
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260408T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260408T120000
@@ -5454,6 +6605,29 @@ X-LIVEWHALE-TAGS:Alaska Chapter|alumni weekend|alumni|environmental studi
  es|history|political science
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260409T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260409T160000
 DTEND;TZID=America/Los_Angeles:20260409T170000
 LOCATION:Online
@@ -5595,6 +6769,29 @@ X-LIVEWHALE-SUMMARY:<p style="line-height: 1.5\;">\n  <em><span style="fo
 X-LIVEWHALE-TAGS:All Courses Upcoming|April|Educators Upcoming|homepage|s
  end-to-graduate|student
 X-LIVEWHALE-RSVP:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260410T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260410T090000
@@ -5790,7 +6987,7 @@ UID:20260411T013000Z-385941@www.lclark.edu
 DTSTAMP:20260305T101335Z
 URL:https://www.lclark.edu/calendars/events/event/385941-outlaws-annual-c
  abaret-benefit-show-gathering
-LAST-MODIFIED:20260311T202711Z
+LAST-MODIFIED:20260316T215033Z
 ATTACH:https://www.lclark.edu/live/image/gid/32/width/80/height/80/crop/1
  /src_region/0,0,1728,2304/112315_Event_Poster.rev.1772734406.png
 X-LIVEWHALE-TYPE:events
@@ -5801,25 +6998,48 @@ X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/32/width/80/heigh
  6.png
 X-LIVEWHALE-IMAGE-CAPTION:cabaret 2
 X-LIVEWHALE-CONTACT-INFO:<p>\n  OutLaw Student Org.\n</p>
-X-LIVEWHALE-SUMMARY:<p dir="ltr">\n  Friday\, April 10 / Doors 6:30PM / S
- how 7:00PM / LRC Student Lounge\n</p>\n<p dir="ltr">\n  Join OutLaw for o
- ur Cabaret "themed" Cabaret benefit show! Entry is free\, cash/card donat
- ions accepted\, and all proceeds benefit Beyond These Walls\, a local\, T
- rans-led organization serving LGBTQIA2S+ individuals impacted by incarcer
- ation. All abilities &amp\; talents welcome &amp\; encouraged! Food by Ta
- quería Los Puñales. Special support from NLG\, SALSA\, PILP\, and K&amp
- \;M Wines. Sign-up to <a href="https://docs.google.com/forms/d/e/1FAIpQLS
- dzLji8KssbkuaiqmR1cAKbZl1LP5dcu_nHsK0j2pXfX1U6lA/viewform?usp=header" tar
- get="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/
- url?q=https://docs.google.com/forms/d/e/1FAIpQLSdzLji8KssbkuaiqmR1cAKbZl1
- LP5dcu_nHsK0j2pXfX1U6lA/viewform?usp%3Dheader&amp\;source=gmail&amp\;ust=
- 1773346990829000&amp\;usg=AOvVaw0br7IiT10ZEd1bc336uEVn">perform here</a> 
- or <a href="https://docs.google.com/forms/d/e/1FAIpQLSegQX7PfczY0y5_oZJBA
- chaoUDi4oK2Ft33V3rX7zOjTcILgw/viewform?usp=header" target="_blank" rel="n
- oopener" data-saferedirecturl="https://www.google.com/url?q=https://docs.
- google.com/forms/d/e/1FAIpQLSegQX7PfczY0y5_oZJBAchaoUDi4oK2Ft33V3rX7zOjTc
- ILgw/viewform?usp%3Dheader&amp\;source=gmail&amp\;ust=1773346990829000&am
- p\;usg=AOvVaw1xENOlpKDjUOWNQxO1geXz">volunteer here</a>.\n</p>
+X-LIVEWHALE-SUMMARY:<p dir="ltr">\n  Join OutLaw for our Cabaret "themed"
+  Cabaret benefit show! Entry is free\, cash/card donations accepted\, and
+  all proceeds benefit Beyond These Walls\, a local\, Trans-led organizati
+ on serving LGBTQIA2S+ individuals impacted by incarceration. All abilitie
+ s &amp\; talents welcome &amp\; encouraged! Sign-up to <a href="https://d
+ ocs.google.com/forms/d/e/1FAIpQLSdzLji8KssbkuaiqmR1cAKbZl1LP5dcu_nHsK0j2p
+ XfX1U6lA/viewform?usp=header" target="_blank" rel="noopener" data-safered
+ irecturl="https://www.google.com/url?q=https://docs.google.com/forms/d/e/
+ 1FAIpQLSdzLji8KssbkuaiqmR1cAKbZl1LP5dcu_nHsK0j2pXfX1U6lA/viewform?usp%3Dh
+ eader&amp\;source=gmail&amp\;ust=1773783935671000&amp\;usg=AOvVaw03OE-og2
+ OlnbFtrgk3vZpv">perform here</a> or <a href="https://docs.google.com/form
+ s/d/e/1FAIpQLSegQX7PfczY0y5_oZJBAchaoUDi4oK2Ft33V3rX7zOjTcILgw/viewform?u
+ sp=header" target="_blank" rel="noopener" data-saferedirecturl="https://w
+ ww.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSegQX7PfczY0
+ y5_oZJBAchaoUDi4oK2Ft33V3rX7zOjTcILgw/viewform?usp%3Dheader&amp\;source=g
+ mail&amp\;ust=1773783935671000&amp\;usg=AOvVaw0JIVjSBs9LSc1psUOO551J">vol
+ unteer here</a> (performer sign-up deadline April 1). Food by Taquería L
+ os Puñales. Special support from NLG\, SALSA\, PILP\, K&amp\;M Wines\, F
+ ranchere Wine Co.\, RAM Cellars\, Est Wines\, and SakéOne.\n</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260411T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
@@ -6302,6 +7522,29 @@ X-LIVEWHALE-SUMMARY:<p>\n  The Lewis &amp\; Clark Department of Music pre
   11\, at 7:30pm in Evans Auditorium.\n</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260412T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260412T110000
 DTEND;TZID=America/Los_Angeles:20260412T120000
 LOCATION:Indoor Tennis Courts
@@ -6432,6 +7675,29 @@ X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/76/width/80/heigh
 X-LIVEWHALE-IMAGE-CAPTION:&#160\;
 X-LIVEWHALE-COST:Free
 X-LIVEWHALE-CONTACT-INFO:<p>\n  concert@lclark.edu\n</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Summer 2026 Housing Applications Open March 16- April 13
+UID:20260413T070000Z-387169@www.lclark.edu
+DTSTAMP:20260316T115559Z
+URL:https://www.lclark.edu/calendars/events/event/387169-summer-2026-hous
+ ing-applications-open-march-16-
+LAST-MODIFIED:20260316T185559Z
+ATTACH:https://www.lclark.edu/live/image/gid/241/width/80/height/80/crop/
+ 1/src_region/0,0,1294,2000/112411_Adam_Edit_-_2026-2027_Housing_Timelines
+ _Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:387169
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/241/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1294\,2000/112411_Adam_Edit_-_2026-2027_Hou
+ sing_Timelines_Materials_-_Tabloid_2.rev.1773687000.png
+X-LIVEWHALE-IMAGE-CAPTION:Summer 2026 timeline
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>Apply for Summer 2026 Housing between March 16 - A
+ pril 13!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260414T163000
@@ -7576,6 +8842,61 @@ X-LIVEWHALE-SUMMARY:<p>\n  <strong>Trip Registration Opens:</strong> Wedn
  p>
 X-LIVEWHALE-TAGS:Edible plants Ethnobotany &amp\; Waterfalls|Ethnobotany 
  Wildflowers &amp\; Waterfalls|low rigor|Spring Trips
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260419T110000
+DTEND;TZID=America/Los_Angeles:20260419T133000
+LOCATION:Gregg Pavilion\, CAS Campus
+SUMMARY:2026 Indigenous Graduation Celebration
+DESCRIPTION:Event details:  Date: Sunday\, April 19th\, 2026  Time: 11:00
+  am to 1:30 pm    Location: Gregg Pavilion\, CAS Campus (https://www.lcla
+ rk.edu/live/files/7676-campus-map)    Lunch will be provided for those wh
+ o RSVP.      The intention of this event is to celebrate graduates who ha
+ ve been involved with the Native Student Union\, the Native American Law 
+ Student Association (NALSA)\, and the Graduate School. We strongly encour
+ age those who identify as Native/Indigenous to participate. All are welco
+ me from all three campuses.Let us know if you plan to attend by completin
+ g this RSVP form (https://docs.google.com/forms/d/e/1FAIpQLSeYguxcFg0UX6T
+ RiGXfI1jXDNbPFdP0rhiQZEuSOhZ6IOSMgw/viewform?usp=dialog)! This helps us w
+ ith food count!Graduates: The last day to RSVP is April 1st\, 2026       
+  General Attendees: The last day to RSVP is April 12th\, 2026
+X-ALT-DESC;FMTTYPE=text/html:<div><strong>Event details:</strong></div><d
+ iv>  Date: Sunday\, April 19th\, 2026</div><div>  Time: 11:00 am to 1:30 
+ pm</div><div><div>    Location: <a href="https://www.lclark.edu/live/file
+ s/7676-campus-map">Gregg Pavilion\, CAS Campus</a></div><div>    Lunch wi
+ ll be provided for those who RSVP.  </div><div></div><div></div><div><hr 
+ /></div><div></div><div>    The intention of this event is to celebrate g
+ raduates who have been involved with the Native Student Union\, the Nativ
+ e American Law Student Association (NALSA)\, and the Graduate School. We 
+ strongly encourage those who identify as Native/Indigenous to participate
+ . All are welcome from all three campuses.<br /><div></div><div><strong>L
+ et us know if you plan to attend by completing this <a href="https://docs
+ .google.com/forms/d/e/1FAIpQLSeYguxcFg0UX6TRiGXfI1jXDNbPFdP0rhiQZEuSOhZ6I
+ OSMgw/viewform?usp=dialog">RSVP form</a>! This helps us with food count!<
+ /strong></div><div><ul><li>Graduates: The last day to RSVP is April 1st\,
+  2026        </li><li>General Attendees: The last day to RSVP is April 12
+ th\, 2026        </li></ul></div></div></div>
+UID:20260419T180000Z-384880@www.lclark.edu
+DTSTAMP:20260224T142050Z
+URL:https://www.lclark.edu/calendars/events/event/384880-2026-indigenous-
+ graduation-celebration
+LAST-MODIFIED:20260316T221419Z
+ATTACH:https://www.lclark.edu/live/image/gid/239/width/80/height/80/crop/
+ 1/src_region/0,0,1728,2304/112415_Indigenous_Graduation_Celebration_2026.
+ rev.1773699219.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:384880
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/239/width/80/heig
+ ht/80/crop/1/src_region/0\,0\,1728\,2304/112415_Indigenous_Graduation_Cel
+ ebration_2026.rev.1773699219.png
+X-LIVEWHALE-IMAGE-CAPTION:Flyer
+X-LIVEWHALE-CONTACT-INFO:<p>\n  <a href="mailto:nsu@lclark.edu">nsu@lclar
+ k.edu<br />\n  <br />\n  multicultural@lclark.edu&#160\;</a>\n</p>
+X-LIVEWHALE-SUMMARY:Join the Native Student Union\, the Native Alumni Ass
+ ociation\, the Office of Inclusion &amp\; Multicultural Engagement (IME)\
+ , and Law School Events Department as we celebrate our newest graduates!\
+ n<div>\n  <div>\n    \n  </div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260419T130000
@@ -11607,6 +12928,135 @@ X-LIVEWHALE-SUMMARY:<p>\n  Saturday &amp\; Sunday\, June 20-21\, 2026\, 9
   a.m.-5:30 p.m.\n</p>
 X-LIVEWHALE-TAGS:All Courses Upcoming|Counselors Upcoming|credit|Eating D
  isorders Certificate|send-to-graduate
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+LOCATION:Virtual\, and Clackamas Education Service District
+SUMMARY:Healthy Cross Cultural Teams - Pre K-12 (Hybrid)
+DESCRIPTION:Educators need systematic ways to engage each other on how cu
+ lture and race shape all aspects of their work—from curriculum and inst
+ ruction to assessment\, feedback\, family and community relationships\, a
+ nd cross-cultural collaboration with colleagues.  This week-long\, credit
+ -optional workshop for school-based Pre K-12 educators will help individu
+ als and teams examine their positionality and racial socialization throug
+ h critical reflection.  Participants will explore how racial identity dev
+ elopment and cultural literacy strengthen relationships with colleagues\,
+  students\, and communities\, and together build skills for disrupting in
+ equitable systems through cross-cultural solidarity.Participants in this 
+ course will strengthen their skills around:      Understanding how our ra
+ cial identity impacts our work in schools and the role of racial literacy
+  in creating healthy identity development          Developing processes t
+ o nurture and grow principled relationships across race          Sustaini
+ ng cross-racial solidarity while navigating institutional realities and r
+ esistance    Action planning to create a vision and values to help guide 
+ the work of cross-racial teams\, and develop next steps to continue the w
+ ork back at their sites  Course Details &amp\; RegistrationDates and Time
+ s: Monday-Friday\, June 22-26\, 2026In-Person: June 22\, 24\, 26\, 2026\,
+  9 a.m.- 4 p.m.\, Clackamas Education Service District\, 13455 SE 97th Av
+ enue\, Clackamas\, OR&#160\;Virtual:&#160\;June 23\, 25\, 2026\, 9:30-11:
+ 30 a.m.Instructors: Elizabeth Denevi\, PhD\, and Jasmine LockeGraduate Co
+ ntinuing Education credit: 2 semester hours\, $770Registration Informatio
+ n Coming SoonAbout the InstructorsElizabeth Denevi\, PhD\, is an assistan
+ t clinical professor at Lewis &amp\; Clark Graduate School of Education a
+ nd Counseling. She has served as a classroom teacher as well as an equity
+  director\, leadership coach\, and director of professional development. 
+ She is co-author Learning and Teaching While White: Antiracist Strategies
+  for School Communities (with Jenna Chandler Ward)&#160\;as well as Integ
+ rating Educator Well-Being\, Growth\, and Evaluation: Four Foundations fo
+ r Leaders (with Lori Cohen)\, both featured titles in Routledge's Equity 
+ and Social Justice in Education series.Jasmine Locke is an equity-centere
+ d educational leader and doctoral candidate at Lewis &amp\; Clark Graduat
+ e School of Education and Counseling. Her research explores racial litera
+ cy\, socialization\, and the educational trajectories of students engaged
+  in Black Student Unions. With a decade of experience as a classroom teac
+ her\, school support specialist and equity coach\, she brings deep expert
+ ise in culturally responsive pedagogy\, student identity development\, an
+ d systems-level change. She is featured in Teach for Climate Justice: A V
+ ision for Transforming Education\, highlighting her commitment to joy as 
+ a form of resistance.New workshops and trainings are added to our calenda
+ r regularly. For the latest on professional development related to your s
+ pecific interests\, sign up for our mailing list! (https://lclark.tfaform
+ s.net/4735441)
+X-ALT-DESC;FMTTYPE=text/html:<p style="line-height: 1.5\;">  Educators ne
+ ed systematic ways to engage each other on how culture and race shape all
+  aspects of their work—from curriculum and instruction to assessment\, 
+ feedback\, family and community relationships\, and cross-cultural collab
+ oration with colleagues.</p><p style="line-height: 1.5\;">  This week-lon
+ g\, credit-optional workshop for school-based Pre K-12 educators will hel
+ p individuals and teams examine their positionality and racial socializat
+ ion through critical reflection.</p><p style="line-height: 1.5\;">  Parti
+ cipants will explore how racial identity development and cultural literac
+ y strengthen relationships with colleagues\, students\, and communities\,
+  and together build skills for disrupting inequitable systems through cro
+ ss-cultural solidarity.</p><p><strong>Participants in this course will st
+ rengthen their skills around:</strong></p><ul><li style="line-height: 1.5
+ \;"><p>      Understanding how our racial identity impacts our work in sc
+ hools and the role of racial literacy in creating healthy identity develo
+ pment    </p></li><li style="line-height: 1.5\;"><p>      Developing proc
+ esses to nurture and grow principled relationships across race    </p></l
+ i><li style="line-height: 1.5\;"><p>      Sustaining cross-racial solidar
+ ity while navigating institutional realities and resistance    </p></li><
+ li style="line-height: 1.5\;">Action planning to create a vision and valu
+ es to help guide the work of cross-racial teams\, and develop next steps 
+ to continue the work back at their sites  </li></ul><hr /><h2 class="p1">
+ <strong>Course Details &amp\; Registration</strong></h2><p style="line-he
+ ight: 1.5\;"><strong>Dates and Times:</strong> Monday-Friday\, June 22-26
+ \, 2026</p><p style="line-height: 1.5\; padding-left: 40px\;"><strong>In-
+ Person:</strong> June 22\, 24\, 26\, 2026\, 9 a.m.- 4 p.m.\, Clackamas Ed
+ ucation Service District\, 13455 SE 97th Avenue\, Clackamas\, OR&#160\;</
+ p><p style="line-height: 1.5\; padding-left: 40px\;"><strong>Virtual:&#16
+ 0\;</strong>June 23\, 25\, 2026\, 9:30-11:30 a.m.</p><p style="line-heigh
+ t: 1.5\;"><strong>Instructors:</strong> Elizabeth Denevi\, PhD\, and Jasm
+ ine Locke</p><p style="line-height: 1.5\;"><strong>Graduate Continuing Ed
+ ucation credit:</strong> 2 semester hours\, $770</p><p style="line-height
+ : 1.5\;"><strong><em>Registration Information Coming Soon</em></strong></
+ p><hr /><h2><strong>About the Instructors</strong></h2><p style="line-hei
+ ght: 1.5\;"><strong>Elizabeth Denevi\, PhD\,</strong> is an assistant cli
+ nical professor at Lewis &amp\; Clark Graduate School of Education and Co
+ unseling. She has served as a classroom teacher as well as an equity dire
+ ctor\, leadership coach\, and director of professional development. She i
+ s co-author <em>Learning and Teaching While White: Antiracist Strategies 
+ for School Communities</em> (with Jenna Chandler Ward)&#160\;as well as <
+ em>Integrating Educator Well-Being\, Growth\, and Evaluation: Four Founda
+ tions for Leaders</em> (with Lori Cohen)\, both featured titles in Routle
+ dge's Equity and Social Justice in Education series.</p><p style="line-he
+ ight: 1.5\;"><strong>Jasmine Locke</strong> is an equity-centered educati
+ onal leader and doctoral candidate at Lewis &amp\; Clark Graduate School 
+ of Education and Counseling. Her research explores racial literacy\, soci
+ alization\, and the educational trajectories of students engaged in Black
+  Student Unions. With a decade of experience as a classroom teacher\, sch
+ ool support specialist and equity coach\, she brings deep expertise in cu
+ lturally responsive pedagogy\, student identity development\, and systems
+ -level change. She is featured in <em>Teach for Climate Justice: A Vision
+  for Transforming Education</em>\, highlighting her commitment to joy as 
+ a form of resistance.</p><div id="lw_widget_470b39ba" class="lw_widget lw
+ _widget_type_blurbs lw_widget_blurbs lw_widget_id_3994 lw_widget_opt_in l
+ w_widget_pagination"><ul class="lw_widget_results lw_widget_results_blurb
+ s"><li class="lw_item_1"><div class="lw_blurbs_body"><p style="line-heigh
+ t: 1.5\;"><em><strong>New workshops and trainings are added to our calend
+ ar regularly.</strong> For the latest on professional development related
+  to your specific interests\, <a href="https://lclark.tfaforms.net/473544
+ 1">sign up for our mailing list!</a></em></p></div></li></ul></div>
+UID:20260622T070000Z-386675@www.lclark.edu
+DTSTAMP:20260311T151549Z
+URL:https://www.lclark.edu/calendars/events/event/386675-healthy-cross-cu
+ ltural-teams-pre-k-12-hybrid
+LAST-MODIFIED:20260316T172234Z
+ATTACH:https://www.lclark.edu/live/image/gid/91/width/80/height/80/crop/1
+ /src_region/1720,9,4950,3235/112405_Screen_Shot_2026-03-16_at_10.15.51_AM
+ .rev.1773681376.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:386675
+X-LIVEWHALE-TIMEZONE:America/Los_Angeles
+X-LIVEWHALE-IMAGE:https://www.lclark.edu/live/image/gid/91/width/80/heigh
+ t/80/crop/1/src_region/1720\,9\,4950\,3235/112405_Screen_Shot_2026-03-16_
+ at_10.15.51_AM.rev.1773681376.png
+X-LIVEWHALE-ALL-DAY:1
+X-LIVEWHALE-SUMMARY:<p>\n  Monday-Friday\, June 22-26\, 2026<br />\n  <br
+  />\n</p>
+X-LIVEWHALE-TAGS:All Courses Upcoming|CC CE|credit|Educators Upcoming|hom
+ epage|june|send-to-graduate
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260625T090000

@@ -585,23 +585,6 @@ UID:10445
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:City Council holds regular business meetings on the 1st and 3r
- d Monday of every month at 7 p.m. to hear priority items\, present ceremo
- nial items\, vote on the Consent Agenda\, review the General Business Age
- nda\, and conduct public hearings. The meetings are open to the public an
- d can be streamed live or on-demand. https://www.durhamnc.gov/calendar.as
- px?EID=10424
-DTEND;TZID=America/New_York:20260316T235900
-DTSTAMP;TZID=America/New_York:20260109T093835
-DTSTART;TZID=America/New_York:20260316T190000
-LAST-MODIFIED;TZID=America/New_York:20260109T093835
-LOCATION: - 101 City Hall Plaza Council Chambers/1st Floor Durham NC 27701
-SEQUENCE:0
-SUMMARY:City Council Regular Business Meeting
-UID:10424
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:City Council holds Work Sessions on Thursdays at 1 p.m.\, two 
  weeks prior to each regular City Council Meeting. These are informal work
  ing sessions where City Council discusses departmental agenda items and r

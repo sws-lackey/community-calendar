@@ -25,39 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313315383@meetup.com
-SEQUENCE:1
-DTSTAMP:20260316T061713Z
-DTSTART;TZID=America/Toronto:20260316T133000
-DTEND;TZID=America/Toronto:20260316T143000
-SUMMARY:Model Mondays - What's New In Foundry IQ?
-DESCRIPTION:Microsoft Reactor Toronto\nFoundry IQ is a unified knowledge layer powered by Azure AI Search\, allowing agents to query and retrieve data for context engineering.\n\nJoin **Farzad Sunavala** as he demonstrates how the unified knowledge layer enables agents to access and utilize enterprise data effectively.\n\n***\n\n[Explore the repo](https://github.com/microsoft/model-mondays/blob/main/docs/model-mondays/2026-03-16-s03-e13.md)\n📢 [Join the conversation on Discord!](https://aka.ms/model-mondays/discord)\n\n📌 This session is a part of the Model Mondays series. [Learn more here!](https://developer.microsoft.com/reactor/series/S-1485/?wt.mc_id=meetup_S-1485_webpage_reactor)
-URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313315383/
-STATUS:CONFIRMED
-CREATED:20260211T213906Z
-LAST-MODIFIED:20260211T213906Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/e/2/1/8/600_532917880.jpeg
-END:VEVENT
-BEGIN:VEVENT
-UID:event_313095353@meetup.com
-SEQUENCE:1
-DTSTAMP:20260316T061713Z
-DTSTART;TZID=America/Toronto:20260316T180000
-DTEND;TZID=America/Toronto:20260316T190000
-SUMMARY:DevOps sin filtros: lo que nadie te cuenta
-DESCRIPTION:Microsoft Reactor Toronto\nLa adopción de DevOps promete optimizar procesos\, pero también nos plantea desafíos ocultos que van más allá de lo técnico.\n\nEn esta sesión exploraremos lecciones aprendidas que abarcan desde las complejidades humanas y culturales hasta la integración tecnológica y organizacional\, ofreciendo una mirada desde la cancha sobre los verdaderos factores que determinan el éxito en la transformación DevOps mas alla de la creacion de pipelines CI/CD.
-URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313095353/
-STATUS:CONFIRMED
-CREATED:20260128T140508Z
-LAST-MODIFIED:20260128T140508Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/5/c/b/600_532482443.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313240204@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260317T130000
 DTEND;TZID=America/Toronto:20260317T140000
 SUMMARY:Extend Azure SRE Agent: Custom Runbooks and Ecosystem Tools for Proactive Reliab
@@ -72,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312735393@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260318T130000
 DTEND;TZID=America/Toronto:20260318T140000
 SUMMARY:Conceptos avanzados de redes en Microsoft Azure
@@ -87,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313175332@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260318T150000
 DTEND;TZID=America/Toronto:20260318T160000
 SUMMARY:Implementando GitHub Copilot CLI SDKs
@@ -102,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313404622@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260318T150000
 DTEND;TZID=America/Toronto:20260318T160000
 SUMMARY:Azure Decoded: Kickstart AI Security with Microsoft Defender for Cloud
@@ -117,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312864547@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260319T080000
 DTEND;TZID=America/Toronto:20260319T090000
 SUMMARY:Agentic Patterns with LangChain4j
@@ -132,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312369332@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260319T110000
 DTEND;TZID=America/Toronto:20260319T130000
 SUMMARY:VS Code Live: 1.110 Release
@@ -147,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313333526@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260323T133000
 DTEND;TZID=America/Toronto:20260323T143000
 SUMMARY:Model Mondays - Open Models with Fireworks AI & Microsoft Foundry Tools
@@ -162,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313097376@meetup.com
 SEQUENCE:1
-DTSTAMP:20260316T061713Z
+DTSTAMP:20260317T053054Z
 DTSTART;TZID=America/Toronto:20260323T180000
 DTEND;TZID=America/Toronto:20260323T190000
 SUMMARY:Unfiltered DevOps: What No One Tells You
@@ -173,6 +143,36 @@ CREATED:20260128T171147Z
 LAST-MODIFIED:20260128T171147Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/6/0/0/600_532482496.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313241467@meetup.com
+SEQUENCE:1
+DTSTAMP:20260317T053054Z
+DTSTART;TZID=America/Toronto:20260324T130000
+DTEND;TZID=America/Toronto:20260324T140000
+SUMMARY:Modernizing .NET at Scale with the GitHub Copilot App Mod Agent
+DESCRIPTION:Microsoft Reactor Toronto\nLearn how the GitHub Copilot App Modernization Agent brings agentic automation to .NET modernization. We’ll walk through assessing apps at scale through the CLI\, generating modernization plans\, and executing upgrades in IDE workflows—accelerating the path to Azure-ready apps.\n\n📌 This session is a part of a series! [Learn more here](https://developer.microsoft.com/reactor/series/S-1625/?wt.mc_id=meetup_S-1625_webpage_reactor)
+URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313241467/
+STATUS:CONFIRMED
+CREATED:20260206T195909Z
+LAST-MODIFIED:20260206T195909Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/c/f/0/4/600_532612996.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313512605@meetup.com
+SEQUENCE:1
+DTSTAMP:20260317T053054Z
+DTSTART;TZID=America/Toronto:20260325T130000
+DTEND;TZID=America/Toronto:20260325T140000
+SUMMARY:Level Up Application Security on Azure DevOps 2026
+DESCRIPTION:Microsoft Reactor Toronto\nDiscover how GitHub Advanced Security on Azure DevOps (GHAzDO) is transforming application security for development teams. In this exclusive webinar\, we'll explore how GHAzDO brings GitHub's powerful security capabilities directly to your Azure DevOps workflows\, empowering teams to identify and fix vulnerabilities faster than ever before.\n\nThis session is a part of a series! Learn more **[here](https://developer.microsoft.com/reactor/series/S-1311/?wt.mc_id=meetup_S-1311_webpage_reactor)**
+URL;VALUE=URI:https://www.meetup.com/microsoft-reactor-toronto/events/313512605/
+STATUS:CONFIRMED
+CREATED:20260224T214508Z
+LAST-MODIFIED:20260224T214508Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/e/4/a/3/600_532918531.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/microsoft-reactor-toronto/events/ical/
 X-WR-CALNAME:Microsoft Reactor Toronto

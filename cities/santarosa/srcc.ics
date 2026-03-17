@@ -4,22 +4,6 @@ PRODID:-//Santa Rosa Cycling Club//srcc.com//
 X-WR-CALNAME:Santa Rosa Cycling Club
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Tailwinds • AB & B Pace Ride
-DTSTART;TZID=PDT;VALUE=DATE-TIME:20260316T093000
-DTEND;TZID=PDT;VALUE=DATE-TIME:20260316T123000
-UID:7a17bf9542547ba779557fe1cd7fe32f@srcc.com
-DESCRIPTION:An AB Pace Ride Every Monday AM - Various Locations Locations 
- and Leaders listed below Tailwinds is a ride led at an AB Pace from a vari
- ety of locations. The ride can vary in elevation\, but is usually around 3
- 0-40 miles with occasional regroups. A coffee stop is always in the plan. 
- The Ride Leader will post the ride information\, including a RwGPS link an
- d any changes to the location of start time\, on the Club Ride Info Forum 
- (see below) usually several days in advance of the ride\, but could be a..
- .
-URL:https://srcc.com/event-6387580
-X-SOURCE:Santa Rosa Cycling Club
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eastside-Westside Loop • 3/AB&B/32 • Esposti Park\, Windsor
 DTSTART;TZID=PDT;VALUE=DATE-TIME:20260317T093000
 DTEND;TZID=PDT;VALUE=DATE-TIME:20260317T123000
@@ -301,11 +285,11 @@ DTEND;TZID=PDT;VALUE=DATE-TIME:20260411T150000
 UID:11f35890e2010a6f9db00e683b9d2bdd@srcc.com
 DESCRIPTION:The March Magic Ride and "After Party" Picnic Saturday\, April
   11th At Finley Park (Gazebo4 ) 30 Stony Point Rd\, Santa Rosa Registratio
- n Required. Registration will open March 15th Register by March 30th Pleas
- e sign up even if you cannot attend as you will still be entered into the 
- prize drawing. Just indicate you will not attend. Questions? Contact Jay D
- aniel 415-609-1495 RSVP for Picnic - for "paid" program participants only 
- Please RSVP for the picnic so we can plan the food (code required - ch...
+ n open now Register by March 30th Please sign up even if you cannot attend
+  as you will still be entered into the prize drawing. Just indicate you wi
+ ll not attend. Questions? Contact Jay Daniel 415-609-1495 RSVP for Picnic 
+ - for "paid" program participants only Please RSVP for the picnic so we ca
+ n plan the food (code required - check your email) Lunch fare will inc...
 URL:https://srcc.com/event-6616088
 X-SOURCE:Santa Rosa Cycling Club
 END:VEVENT

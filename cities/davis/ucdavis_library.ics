@@ -1228,31 +1228,6 @@ URL:https://events.library.ucdavis.edu/event/copy-of-collaborative-data-sc
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Covered: Faculty Author Talks by Lisa G. Materson and Corrie Decke
- r
-DTSTART;VALUE=DATE-TIME:20260414T123000Z
-DTEND;VALUE=DATE-TIME:20260414T143000Z
-UID:tag:localist.com\,2008:EventInstance_51817323649794
-DESCRIPTION:Join us for an evening with UC Davis faculty authors Lisa G. M
- aterson and Corrie Decker as part of Covered\, a monthly event series cele
- brating recent books from the College of Letters and Science. Lisa G. Mate
- rson\, associate professor of history\, traces civil rights activist Ruth 
- Reynolds’ deep involvement in the movement for Puerto Rico’s independe
- nce in Radical Solidarity\, offering a nuanced account of political allysh
- ip\, anti-colonial struggle and cross-racial collaboration. Corrie Decker\
- , associate professor of history\, examines how colonial courts and ethnog
- raphers in 20th century East Africa transformed complex rites of passage i
- nto simplified “puberty rites" in The Age of Sex: Custom\, Law\, and Rit
- ual in Twentieth-Century East Africa\, reshaping legal understandings of c
- hildhood\, adulthood\, gender and sexual maturity. Covered: Spotlighting F
- aculty Authors in Letters and Science is co-sponsored by the Jan Shrem and
-  Maria Manetti Shrem Museum and the UC Davis Library.
-LOCATION:Manetti Shrem Museum
-URL:https://events.library.ucdavis.edu/event/covered-faculty-author-talks-
- by-lisa-materson-and-corrie-decker
-X-SOURCE:UC Davis Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Davis R Users' Group
 DTSTART;VALUE=DATE-TIME:20260414T170000Z
 DTEND;VALUE=DATE-TIME:20260414T190000Z
@@ -1307,6 +1282,31 @@ DESCRIPTION:DataLab offers free in person drop-in office hours during whic
 LOCATION:Shields Library\, 360
 URL:https://events.library.ucdavis.edu/event/copy-of-datalab-office-hours-
  in-person
+X-SOURCE:UC Davis Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Covered: Faculty Author Talks by Lisa G. Materson and Corrie Decke
+ r
+DTSTART;VALUE=DATE-TIME:20260415T003000Z
+DTEND;VALUE=DATE-TIME:20260415T023000Z
+UID:tag:localist.com\,2008:EventInstance_51817323649794
+DESCRIPTION:Join us for an evening with UC Davis faculty authors Lisa G. M
+ aterson and Corrie Decker as part of Covered\, a monthly event series cele
+ brating recent books from the College of Letters and Science. Lisa G. Mate
+ rson\, associate professor of history\, traces civil rights activist Ruth 
+ Reynolds’ deep involvement in the movement for Puerto Rico’s independe
+ nce in Radical Solidarity\, offering a nuanced account of political allysh
+ ip\, anti-colonial struggle and cross-racial collaboration. Corrie Decker\
+ , associate professor of history\, examines how colonial courts and ethnog
+ raphers in 20th century East Africa transformed complex rites of passage i
+ nto simplified “puberty rites" in The Age of Sex: Custom\, Law\, and Rit
+ ual in Twentieth-Century East Africa\, reshaping legal understandings of c
+ hildhood\, adulthood\, gender and sexual maturity. Covered: Spotlighting F
+ aculty Authors in Letters and Science is co-sponsored by the Jan Shrem and
+  Maria Manetti Shrem Museum and the UC Davis Library.
+LOCATION:Manetti Shrem Museum
+URL:https://events.library.ucdavis.edu/event/covered-faculty-author-talks-
+ by-lisa-materson-and-corrie-decker
 X-SOURCE:UC Davis Library
 END:VEVENT
 BEGIN:VEVENT
