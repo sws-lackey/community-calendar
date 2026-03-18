@@ -341,1512 +341,6 @@ X-BEDEWORK-THUMB-IMAGE:/public/Images/Pratt March Madness pools flyer resi
 END:VEVENT
 BEGIN:VEVENT
 
-CATEGORIES:Medicine
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Meeting
-CATEGORIES:Research
-CATEGORIES:Technology
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20231206T165852Z
-DESCRIPTION:Title of Presentation: "Bifidobacterium Longum Subspecies Infa
- ntis\; The Bacterium That Wasn't There" \n\nThe Duke Department of Pediat
- rics holds its weekly Grand Rounds lecture on Tuesday mornings from 8 to 
- 9 a.m. | Lectures are delivered to an in-person audience in Conference Ro
- om DHN 2002 as well as virtually via Zoom. Physicians who attend Grand Ro
- unds are eligible to receive CME credit.
-DURATION:PT1H
-DTSTAMP:20260303T162100Z
-DTSTART;TZID=America/New_York:20260317T080000
-LAST-MODIFIED:20260303T162100Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Duke Pediatrics Grand Rounds – "Bifidobacterium Longum Subspecies 
- Infantis\; The Bacterium That Wasn’t There"
-UID:CAL-8a003294-9c52b03d-019c-b480ba18-000020efdemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
- opics/Medicine
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
- /Topics/Technology
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
- her/Meeting
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=christina.e.wilson@duke.
- edu:Christina Wilson
-X-BEDEWORK-DUKE-SERIES:Duke Pediatrics Grand Rounds
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Grand Rounds Graphic
-X-BEDEWORK-SUBMITTEDBY:ccs87 for Department of Pediatrics (agrp_SOM_ClinDe
- p_Pediatrics)
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-LOCATION:Conference Room DHN 2002
-X-BEDEWORK-IMAGE:/public/Images/Peds grand rounds-3_20250328034103PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Peds grand rounds-3_20250328034103PM
- -thumb.png
-X-BEDEWORK-SPEAKER:J. Bruce German\, PhD
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T080000
-CATEGORIES:Medicine
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Conference/Symposium
-CATEGORIES:Meeting
-CATEGORIES:Research
-CATEGORIES:Main
-CATEGORIES:Webcast
-CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0185-31d0e0ba-0000106f:Ivey\, Jon
- athan
-CREATED:20251218T001442Z
-DESCRIPTION:This weekly conference is held each Tuesday from 8-9 a.m. and 
- includes case-based presentations on a wide variety of topics in hematolo
- gy.\nIn general\, discussion will cover inpatient and outpatient problems
- \, with an emphasis on including primary radiographic data\, clinical lab
- oratory results and pathology specimens for review. Several recent articl
- es relevant to the discussion will be presented with each case\, with an 
- emphasis on recent research (clinical\, translational and basic).
-DURATION:PT1H
-DTSTAMP:20260305T220804Z
-DTSTART;TZID=America/New_York:20260317T080000
-LAST-MODIFIED:20260305T220804Z
-LOCATION;X-BEDEWORK-UID=c31fd1b0-2eef28ee-012f-3049ffc8-00001717:Duke Sout
- h\, Room M224
-STATUS:CONFIRMED
-SUMMARY:Hematology Case Conference: “Meeting the Massive Demand for Benign
-  Heme Consults by Expanding Telemedicine”
-UID:CAL-8a00eca5-9af98aae-019b-2ecf1963-00003ba3demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Conference_Symposium:/user/p
- ublic-user/Lectures_Conferences/Conference_Symposium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Webcast:/user/public-user/Ot
- her/Webcast
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
- her/Meeting
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
- opics/Medicine
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Cli
- nDep_Medicine,/principals/users/agrp_SchoolofMedicine,":Department of Med
- icine\,School of Medicine (SOM)
-X-BEDEWORK-DUKE-SERIES:Duke Hematology Case Conference
-X-BEDEWORK-SUBMITTEDBY:ji12 for Division of Hematology (agrp_SOM_ClinDep_M
- edicine_Div_Hematology)
-X-BEDEWORK-SPEAKER:Steven Fein\, MD\, MPH (HemeOnCall and Fem Infusion Cen
- ters\, Founder CEO\; University of Pittsburgh Medical Center/ Weill Corne
- l Medical Center\, Medical Director\, Hematologist\, Hematologist/Oncolog
- ist)
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:1654.5
-X-BEDEWORK-IMAGE-Y2:1103
-X-BEDEWORK-IMAGE-CROP-WIDTH:1654.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:1103
-X-BEDEWORK-IMAGE-ALT-TEXT:Heme Conference_3.17.26
-X-BEDEWORK-IMAGE:/public/Images/20260317 S Fein Guest Speaker Hematology C
- ase Conference _20260305100804PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/20260317 S Fein Guest Speaker Hemato
- logy Case Conference _20260305100804PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a0182b3-870a191e-0187-75a628b9-00005530:Fabean\, B
- rooke
-CREATED:20251204T204619Z
-DESCRIPTION:Benjamin Segal\, MD\n\nChair of Neurology \nDirector\, Neurosc
- ience Research Institute \nCo-director\, Neurological Institute\n\n"Innat
- e immune cell specialization in neuroinflammation: pathogenic IgM⁺ B cell
- s and pro-regenerative neutrophils"\n\nThe Ohio State University Wexner M
- edical Center\n\nHost: Mari Shinohara\, PhD
-DURATION:PT1H
-DTSTAMP:20260316T175109Z
-DTSTART;TZID=America/New_York:20260317T090000
-LAST-MODIFIED:20260316T175109Z
-LOCATION;X-BEDEWORK-UID=18832e99-2356b579-0123-579c10fa-00000054:Jones 143
- 
-STATUS:CANCELLED
-SUMMARY:Immunology Seminar Series - Benjamin Segal\, MD: "Innate immune ce
- ll specialization in neuroinflammation: pathogenic IgM⁺ B cells and pro-r
- egenerative neutrophils"
-UID:CAL-8a00ec9e-9a83ce7f-019a-eb1da357-00004fdddemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-SPEAKER:Benjamin Segal\, MD
-X-BEDEWORK-DUKE-SERIES:Immunology Seminar Series
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:1225.5
-X-BEDEWORK-IMAGE-Y2:817
-X-BEDEWORK-IMAGE-CROP-WIDTH:1225.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:817
-X-BEDEWORK-IMAGE-ALT-TEXT:immseminarseries
-X-BEDEWORK-SUBMITTEDBY:bnf13 for Duke Integrative Immunobiology (agrp_Duke
-  Integrative Immunobiology)
-X-BEDEWORK-IMAGE:/public/Images/IMMSeminarSeries.pic_20251204084619PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/IMMSeminarSeries.pic_20251204084619P
- M-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Workshop/Short Course
-CATEGORIES:Research
-CATEGORIES:Technology
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251219T174657Z
-DESCRIPTION:In this workshop you will learn the basics of using Adobe Illu
- strator\, the professional standard in vector graphics software for creat
- ing diagrams and infographics. Many people avoid using it because of its 
- steep learning curve\, but you will see that it is quite easy to combine 
- simple shapes to create interesting and clear diagrams\, and to give all 
- your work that professional edge. There are no prerequisites. This event 
- is open to non-Duke participants.
-DURATION:PT2H
-DTSTAMP:20251219T174657Z
-DTSTART;TZID=America/New_York:20260317T100000
-LAST-MODIFIED:20251219T174657Z
-LOCATION;X-BEDEWORK-UID=18832e99-2baa176e-012b-ac91767b-000004ea:Online
-STATUS:CONFIRMED
-SUMMARY:CDVS Workshop: Adobe Illustrator for Diagrams
-UID:CAL-8a00eca5-9af98aae-019b-37b8d0d8-00005daddemobedework@mysite.edu
-URL:https://duke.libcal.com/event/15871034
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
- public-user/Other/Workshop_Short_Course
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
- /Topics/Technology
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Officeo
- fInformationTechnology_ResearchComputing,/principals/users/agrp_SSRI,":Re
- search Computing\,Social Science Research Institute (SSRI)
-X-BEDEWORK-SPEAKER:Eric Monson
-X-BEDEWORK-DUKE-SERIES:Center for Data and Visualization Sciences Workshop
-  Series
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=askdata@duke.edu:Center 
- for Data and Visualization Sciences
-X-BEDEWORK-SUBMITTEDBY:snl18 for Libraries (agrp_Libraries)
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T140000Z
-CATEGORIES:Utilities
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251217T201249Z
-DESCRIPTION:The myRESEARCHnavigators team provides voluntary\, group-based
-  research staff onboardings as an introduction to the research enterprise
-  at Duke. It is intended for all University research and laboratory staff
-  in non-clinical research positions.\n\nThe Navigators will provide a tai
- lored overview of Duke resources and services related to planning\, manag
- ing\, and conducting research. Some sessions are geared to those working 
- in bench/basic sciences\, and others are geared to those working with hum
- an participants and their data.\n\nClick the "More Event Information" but
- ton below to register.
-DURATION:PT2H
-DTSTAMP:20251217T201651Z
-DTSTART;TZID=America/New_York:20260317T100000
-LAST-MODIFIED:20251217T201651Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Research Staff Onboarding
-UID:CAL-8a00eca5-9af98aae-019b-2df1a39d-00001362demobedework@mysite.edu
-URL:https://redcap.duke.edu/redcap/surveys/?s=34AP4HKPMTKWHJPA&service_off
- ering=5
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=myresearchnavigators@duk
- e.edu:myRESEARCHnavigators
-X-BEDEWORK-LOCATION:Zoom (link to be provided upon registration)
-X-BEDEWORK-SUBMITTEDBY:np81 for Office for Research and Innovation (agrp_o
- fficeresearch)
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a087089-35e3fb8e-0136-59bd57dc-0000557a:Schreiber\
- , Tanya
-CREATED:20250610T173038Z
-DESCRIPTION:Steve Chang is Associate Professor of Psychology and of Neuros
- cience at Yale.
-DURATION:PT1H
-DTSTAMP:20260120T202435Z
-DTSTART;TZID=America/New_York:20260317T100000
-LAST-MODIFIED:20260120T202435Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b31c518-011b-3d9bcda0-00000001:Bryan Res
- earch 103
-STATUS:CONFIRMED
-SUMMARY:Neurobiology Seminar: Steve Chang: Behavioral and neural mechanism
- s of cooperative decision-making in marmoset dyads
-UID:CAL-8a00f888-97512113-0197-5ae4e0b7-0000139edemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-SPEAKER:Steve Chang
-X-BEDEWORK-SUBMITTEDBY:ts168 for Neurobiology (agrp_SchoolofMedicine_Neuro
- biology)
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20241217T184624Z
-DESCRIPTION:Health Assessment is a free\, confidential health screening pr
- ovided through Duke benefits. It includes total cholesterol\, blood press
- ure\, blood glucose\, BMI\, waist circumference height\, weight and body 
- mass index measurements. Additionally\, there is a goal setting and refer
- ral session with a nurse\, dietitian\, or fitness specialist. Many partic
- ipants find the coaching session helps them get started making lifestyle 
- changes and connects them to LIVE FOR LIFE and community resources to sup
- port them. Health Assessments are available to all active Duke employees.
- 
-DURATION:PT6H30M
-DTSTAMP:20260302T145043Z
-DTSTART;TZID=America/New_York:20260317T100000
-LAST-MODIFIED:20260302T145043Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Mobile Health Assessment
-UID:CAL-8a003294-9c52b03d-019c-af07b3af-00005ff8demobedework@mysite.edu
-URL:https://hr.duke.edu/wellness/health-assessments/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=jessica.covington@duke.e
- du:Jessica Bailey
-X-BEDEWORK-SPEAKER:LIVE FOR LIFE
-X-BEDEWORK-DUKE-SERIES:Health Assessments
-X-BEDEWORK-LOCATION:705 Broad St. - Conference Room 03
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:LIVE FOR LIFE Logo
-X-BEDEWORK-SUBMITTEDBY:asr71 for Live for Life (LFL) (agrp_HumanResources_
- LiveforLife)
-X-BEDEWORK-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064625PM.
- png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Duke Event Calendar Logo_20241217064
- 625PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Medicine
-CATEGORIES:Engineering
-CATEGORIES:Natural Sciences
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0184-f88b4dd1-00001a24:Franklin\,
-  Monica
-CREATED:20251105T133825Z
-DESCRIPTION:Dissertation Title: The Role of Biological Sex in Modulating H
- uman Gene Expression and Immune Responses to Infection and Autoimmune Ris
- k
-DURATION:PT2H
-DTSTAMP:20260304T171811Z
-DTSTART;TZID=America/New_York:20260317T110000
-LAST-MODIFIED:20260304T171811Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Dissertation Announcement: Angela Jones
-UID:CAL-8a003294-9c52b03d-019c-b9db4b44-00004891demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
- r/Topics/Engineering
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
- opics/Medicine
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
- c-user/Topics/Natural Sciences
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Schoolo
- fMedicine_CBB,/principals/users/agrp_SchoolofMedicine_MolecularGenetics,/
- principals/users/agrp_SchoolofMedicine,":Computational Biology and Bioinf
- ormatics (CBB)\,Molecular Genetics and Microbiology (MGM)\,School of Medi
- cine (SOM)
-X-BEDEWORK-SPEAKER:Angela Jones
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Angela Jones
-X-BEDEWORK-SUBMITTEDBY:monicaf for University Program in Genetics &amp\;am
- p\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\; Geno
- mics (UPGG) (agrp_SchoolofMedicine_UPGG)
-X-BEDEWORK-LOCATION:Nanaline Duke 147
-X-BEDEWORK-IMAGE:/public/Images/Angela Jones canva photo_20260304051802PM.
- png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Angela Jones canva photo_20260304051
- 802PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Natural Sciences
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260302T190359Z
-DESCRIPTION:Structurally Homogeneous Hybrid Carbon Superstructures Enable 
- Nanoscale Control of Energy\, Charge\, and Spin\n\nThe rapid expansion of
-  computationally demanding technologies\, such as artificial intelligence
- \, has created unprecedented demand for miniaturized\, lightweight\, high
-  performance\, and low-power electronic systems. Such technologies increa
- singly rely on electrical architectures capable of precisely controlling 
- particles and quasiparticles that bear energy\, charge\, and spin at the 
- nanoscale. Rigorous nanoscale control of such carriers\, and their dynami
- c trajectories\, however\, is fundamentally hindered by quantum uncertain
- ty\, tunneling phenomena\, and scattering processes that randomize transp
- ort and induce decoherence. \nThis dissertation presents structurally hom
- ogeneous and electronically tunable hybrid carbon superstructures based o
- n (i) single walled carbon nanotubes (SWNTs) and (ii) twisted multilayer 
- graphene (tMLG)\, as next-generation platforms for controlling energy\, c
- harge\, and spin at the nanoscale. Specifically\, this work explores (i) 
- the use of polymer wrapped SWNTs as light harvesting systems: unveiling p
- reviously unresolved excited state reaction trajectories involving multib
- ody mediated charge transfer reactions and defect localized trap states\,
-  (ii) the development of SWNT inks to fabricate semiconducting channels i
- n thin film transistors: displaying compatibility with environmentally fr
- iendly\, printing-based fabrication and exhibiting high on/off ratios wit
- h large on currents\, and (iii) the generation of highly homogeneous and 
- morphologically controlled SWNTs and tMLG as conductive quantum phase-coh
- erent spin channels: demonstrating long coherence lengths and molecularly
-  tunable quantum interference phenomena.
-DURATION:PT1H
-DTSTAMP:20260302T190359Z
-DTSTART;TZID=America/New_York:20260317T111500
-LAST-MODIFIED:20260302T190359Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Chemistry Defense: Riley Stephenson: Structurally Homogeneous Hybr
- id Carbon Superstructures Enable Nanoscale Control of Energy\, Charge\, a
- nd Spin
-UID:CAL-8a003294-9c52b03d-019c-afef94a2-000079d3demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
- c-user/Topics/Natural Sciences
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
- m Admin Office
-X-BEDEWORK-LOCATION:Biological Sciences Building Room 113
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:16
-X-BEDEWORK-IMAGE-X2:586
-X-BEDEWORK-IMAGE-Y2:406.6666666666667
-X-BEDEWORK-IMAGE-CROP-WIDTH:586
-X-BEDEWORK-IMAGE-CROP-HEIGHT:390.6666666666667
-X-BEDEWORK-IMAGE-ALT-TEXT:RS
-X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
- )
-X-BEDEWORK-IMAGE:/public/Images/Stephenson_20260302070359PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Stephenson_20260302070359PM-thumb.pn
- g
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Natural Sciences
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a00048d-91324965-0191-a3b9f64b-0000517b:Grissom\, 
- Brisa
-CREATED:20251212T204419Z
-DESCRIPTION:The Department of Chemistry is excited to  Prof. Caryn Outten 
- (U. South Carolina)on Tuesday\, March 17\, 2025 for a departmental semina
- r. \n\nTo learn more about Prof. Caryn Outten (U. South Carolina) researc
- h\, please visit: https://www.sc.edu/study/colleges_schools/chemistry_and
- _biochemistry/internal/research_groups/caryn_e_outten/research/index.php\
- n\nSeminar hosted by Prof. Katherine Franz
-DURATION:PT1H
-DTSTAMP:20260211T183100Z
-DTSTART;TZID=America/New_York:20260317T114000
-LAST-MODIFIED:20260211T183100Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-28282e22-00000037:French Fa
- mily Science Center 2237
-STATUS:CONFIRMED
-SUMMARY:Chemistry Seminar Presented by  Prof. Caryn Outten (U. South Carol
- ina) Iron\, Sulfur\, and Survival: A New Role for Metallothioneins in Fun
- gal Pathogens
-UID:CAL-8a00eca5-9af98aae-019b-144eb0fb-00006ef7demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
- c-user/Topics/Natural Sciences
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-SPEAKER: Prof. Caryn Outten (U. South Carolina)
-X-BEDEWORK-DUKE-SERIES:Chemistry Seminar Series
-X-BEDEWORK-IMAGE-X1:202
-X-BEDEWORK-IMAGE-Y1:52
-X-BEDEWORK-IMAGE-X2:1744
-X-BEDEWORK-IMAGE-Y2:1080
-X-BEDEWORK-IMAGE-CROP-WIDTH:1542
-X-BEDEWORK-IMAGE-CROP-HEIGHT:1028
-X-BEDEWORK-IMAGE-ALT-TEXT:CO
-X-BEDEWORK-SUBMITTEDBY:bsg25 for Chemistry (agrp_ArtsandSciences_Chemistry
- )
-X-BEDEWORK-IMAGE:/public/Images/Admin Office Slides  (21)_20251212084419PM
- .png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Admin Office Slides  (21)_2025121208
- 4419PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T160000Z
-CATEGORIES:Engineering
-CATEGORIES:Utilities
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=2c918083-5fc14a35-015f-cbd97e31-00004914:Johnson\, 
- Jenny
-CREATED:20260105T183219Z
-DESCRIPTION:Engineering Master's students: Attend Career Online Drop-In Ho
- urs to connect with a Career Coach for quick questions and feedback on yo
- ur application documents.
-DURATION:PT1H
-DTSTAMP:20260105T183219Z
-DTSTART;TZID=America/New_York:20260317T120000
-LAST-MODIFIED:20260105T183219Z
-LOCATION;X-BEDEWORK-UID=18832e99-2baa176e-012b-ac91767b-000004ea:Online
-STATUS:CONFIRMED
-SUMMARY:Engineering Master's Career Online Drop-In Hours
-UID:CAL-8a00eca5-9af98aae-019b-8f6e76b9-000017dbdemobedework@mysite.edu
-URL:https://sites.duke.edu/prattgsps/career-communications-team/11-coachin
- g/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
- r/Topics/Engineering
-X-BEDEWORK-SUBMITTEDBY:vj23 for Engineering Graduate Student Programs &amp
- \;amp\; Services (GSPS) (agrp_Engineering Graduate Student Programs &amp\
- ;amp\; Services (GSPS))
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Utilities
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=2c918086-6154f6a2-0161-e2879401-00002a60:Diederich\
- , Catherine
-CREATED:20260227T165355Z
-DESCRIPTION:An opportunity to hear from the Director and have an open conv
- ersation about the Master of Management in Clinical Informatics program. 
- Register at: https://duke.zoom.us/meeting/register/ftUBDvISThqc6IKJol9P4Q
- 
-DURATION:PT1H
-DTSTAMP:20260302T185319Z
-DTSTART;TZID=America/New_York:20260317T120000
-LAST-MODIFIED:20260302T185319Z
-LOCATION;X-BEDEWORK-UID=2c918085-71ed832f-0172-098647fa-0000767f:Virtual
-STATUS:CONFIRMED
-SUMMARY:MMCi: A Discussion with the Director
-UID:CAL-8a003294-9c52b03d-019c-a0056a65-00003a85demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Schoolo
- fMedicine_BiostatisticsandBioinformatics,/principals/users/agrp_schoolofM
- edicine_MMCi,":Biostatistics and Bioinformatics\,Master of Management in 
- Clinical Informatics (MMCi)
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
-X-BEDEWORK-IMAGE-X2:530
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:MMCi A Discussion with the Director
-X-BEDEWORK-SUBMITTEDBY:rab42 for School of Medicine (SOM) (agrp_SchoolofMe
- dicine)
-X-BEDEWORK-IMAGE:/public/Images/March 17_20260302065319PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/March 17_20260302065319PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0184-87170e31-00006277:Hinz\, Nic
- olle
-CREATED:20260310T143654Z
-DESCRIPTION:The ubiquity and the necessity of concrete infrastructure prom
- pts increasing innovation to address the global challenge of meeting soci
- etal needs in the most sustainable and economical ways possible. At the s
- ame time\, cementitious systems are becoming increasingly complex\, refle
- cting expanded use of lower-clinker and alternative binders\, as well as 
- increasing use of natural pozzolans and coal combustion residuals - all w
- ith variable chemistry and reactivity. As global per-capita concrete use 
- continues to rise\, these trends underscore the need for innovation that 
- extends beyond incremental substitution.\nThis talk highlights recent and
-  ongoing work from my group at Georgia Tech aimed at advancing the design
-  and deployment of complex\, lower-clinker cementitious systems through a
-  science-based\, integrative approach. By combining advanced characteriza
- tion\, novel synthesis and manufacturing strategies\, and data-informed p
- erformance modeling\, this work develops new understanding that supports 
- both materials innovation and implementation. Illustrative examples inclu
- de innovative strategies to increase performance of marginal supplementar
- y cementitious materials\, synchrotron-enabled insight into chemically an
- d morphologically heterogeneous blended systems\, and emerging links betw
- een processing\, morphology\, and long-term performance. These technical 
- advances are considered alongside performance-based specifications and du
- rability models to support a closed-loop materials design framework.
-DURATION:PT1H
-DTSTAMP:20260310T143654Z
-DTSTART;TZID=America/New_York:20260317T120000
-LAST-MODIFIED:20260310T143654Z
-LOCATION;X-BEDEWORK-UID=2c918083-7c1b2592-017c-343e7a30-00001f55:Wilkinson
-  Building\, room 021 auditorium
-STATUS:CONFIRMED
-SUMMARY:CEE Seminar - Greening a Gray World: Advancing Design of Complex\,
-  Lower-Clinker  Cement Systems for Sustainable Infrastructure
-UID:CAL-8a003384-9cc4d1fe-019c-d82dece9-00002a88demobedework@mysite.edu
-URL:http://cee.duke.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-SPEAKER:Dr. Kim Kurtis\,  FACI\, FACerS\,  Jones Chair and Prof
- essor  in the School of Civil and  Environmental Engineering\, Georgia Te
- ch.
-X-BEDEWORK-DUKE-SERIES:CEE Spring Seminar Series 2026
-X-BEDEWORK-SUBMITTEDBY:nh143 for Civil and Environmental Engineering (CEE)
-  (agrp_PrattSchool_CEE)
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Ethics
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Training
-CATEGORIES:Workshop/Short Course
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20220207T141650Z
-DESCRIPTION:<b>REGISTRATION</b>: <a href="https://duke.is/v/h2eq" target="
- _blank">Click Here</a>\n\n<i>Registration closes 24 hours before event st
- art. If your availability changes please email asist@duke.edu to update y
- our registration. Detailed directions\, instructions for free parking\, a
- nd any prep material will be emailed out one week and one day before the 
- event.</i>\n\nTired of zoom rooms and online trainings? <b>Join us in per
- son on March 17th 12:15-1:45 pm</b> for a structured conversation to disc
- uss and explore the experiences and challenges we have faced trying to ge
- t academic research published.\n\nTalking Circles are an event format off
- ered by ASIST that are designed to bring researchers across backgrounds a
- nd experience levels together to explore the intersection of research cul
- ture and research integrity. All participants will have the opportunity t
- o share their thoughts\, stories\, and perspectives. <i>This is not a lec
- ture-style event.</i> \n\nParticipation in this event fulfills the <b>RCR
- -200</b> requirement for Faculty and Staff and the <b>714 RCR credit</b> 
- for graduate students. Due to the nature of structured conversation\, par
- ticipants will not be able to join after the event has begun. Participant
- s must be present for the entire event to receive credit.\n\nContact:\nAS
- IST\nasist@duke.edu
-DURATION:PT1H30M
-DTSTAMP:20260312T161652Z
-DTSTART;TZID=America/New_York:20260317T121500
-LAST-MODIFIED:20260312T161652Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CANCELLED
-SUMMARY:Pressures to Publish: First-hand experiences in publishing academi
- c research (In person event)
-UID:CAL-8a00eca5-9af98aae-019c-481864ed-00007b6edemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ethics:/user/public-user/Top
- ics/Ethics
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Training:/user/public-user/O
- ther/Training
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
- public-user/Other/Workshop_Short_Course
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=asist@duke.edu:ASIST
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
- Sciences,/principals/users/agrp_CTSI CREDO,/principals/users/agrp_Graduat
- eSchool,/principals/users/agrp_officeresearch,/principals/users/agrp_Agrp
- _OfficeofResearchAdministration,/principals/users/agrp_OfficeofResearchSu
- pport,/principals/users/agrp_SchoolofMedicine,/principals/users/agrp_Scho
- olofNursing,":Arts &amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp
- \;amp\;amp\; Sciences (A&amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp\;amp
- \;amp\;amp\;amp\;S)\,CTSI CREDO\,Graduate School\,Office for Research and
-  Innovation\,Office of Research Administration (ORA)\,Office of Research 
- Support (ORS)\,School of Medicine (SOM)\,School of Nursing (SON)
-X-BEDEWORK-SPEAKER:Emily Hazlett and J.L. Ariansen
-X-BEDEWORK-DUKE-SERIES:Research Integrity Talking Circles
-X-BEDEWORK-SUBMITTEDBY:ec141 for Duke Office of Scientific Integrity (DOSI
- ) (agrp_provost_DOSI)
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:3000
-X-BEDEWORK-IMAGE-Y2:2000
-X-BEDEWORK-IMAGE-CROP-WIDTH:3000
-X-BEDEWORK-IMAGE-CROP-HEIGHT:2000
-X-BEDEWORK-IMAGE-ALT-TEXT:Group of people sitting in a circle having a dis
- cussion. Image by pikisuperstar on Freepik
-X-BEDEWORK-IMAGE:/public/Images/circle image_20240814041731PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/circle image_20240814041731PM-thumb.
- png
-X-BEDEWORK-LOCATION:Erwin Terrace Suite 306\, Conference Room 304
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T170000Z
-CATEGORIES:Arts
-CATEGORIES:Utilities
-CATEGORIES:Concert/Music
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20250815T135403Z
-DESCRIPTION:This organ demonstration is an opportunity to stop in to hear 
- a Duke Chapel organ or Bösendorfer grand piano played in the informal atm
- osphere of an open rehearsal.\n\nThese demonstrations are typically held 
- on Tuesdays\, Wednesdays\, and Thursdays from 1:00 to 1:45 p.m. during th
- e academic year. To confirm that a rehearsal is happening on a given day\
- , please email dukechapel@duke.edu.\n\nThere is no charge for admission. 
- Paid parking is available on a first-come-first-served basis in the Bryan
-  Center Garage at 125 Science Drive. ADA parking is available in the surf
- ace lot at the same address.\n\nSee the schedule of concerts for the year
-  at chapel.duke.edu/music.
-DURATION:PT45M
-DTSTAMP:20250815T135403Z
-DTSTART;TZID=America/New_York:20260317T130000
-LAST-MODIFIED:20250815T135403Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-281ad92b-00000024:Duke Chap
- el
-STATUS:CONFIRMED
-SUMMARY:Organ Demonstration
-UID:CAL-8a00ec8b-979413b9-0198-ae0252f4-00003f7edemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
- ser/Arts/Concert_Music
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-SPEAKER:Chapel and Guest Organists
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu.:Duk
- e Chapel
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:1000
-X-BEDEWORK-IMAGE-Y2:666.6666666666666
-X-BEDEWORK-IMAGE-CROP-WIDTH:1000
-X-BEDEWORK-IMAGE-CROP-HEIGHT:666.6666666666666
-X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
- the right. The image shows a close-up\, eye-level shot of the many rows o
- f keyboards on a large pipe organ inside Duke Chapel. A stained-glass win
- dow is visible in the background. The text on the right side of the image
-  reads: "Organ Demonstration" and "Duke University Chapel." Below the tex
- t is the Duke University Chapel logo.
-X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
-X-BEDEWORK-IMAGE:/public/Images/OrganCalendar2025_20250815015404PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/OrganCalendar2025_20250815015404PM-t
- humb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Utilities
-CATEGORIES:Research
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=2c918084-6845f59d-0168-5d04a3ea-000047fc:Wylie\, Ja
- mie
-CREATED:20251201T160353Z
-DESCRIPTION:This session is designed for biomedical researchers seeking to
-  broaden their funding portfolio and enhance the real-world impact of the
- ir work. Explore how partnerships with foundations\, industry\, and other
-  non-federal sponsors can open new avenues of support for innovative biom
- edical projects. Participants will learn effective strategies for identif
- ying funding opportunities\, building collaborative relationships with po
- tential sponsors\, and aligning their research objectives with diverse fu
- nding priorities to drive discovery and innovation.
-DURATION:PT1H
-DTSTAMP:20251201T160353Z
-DTSTART;TZID=America/New_York:20260317T130000
-LAST-MODIFIED:20251201T160353Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Non-Federal Funding Resources for Biomedical Researchers
-UID:CAL-8a00ec9e-9a83ce7f-019a-daa7fd63-00004d6edemobedework@mysite.edu
-URL:https://duke.zoom.us/meeting/register/hqqTzFIcShKqu3AGHRg-Ng
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Duke Of
- fice for External Partnerships (OEP),":Duke Office for External Partnersh
- ips (OEP)
-X-BEDEWORK-DUKE-WEBCAST:https://duke.zoom.us/meeting/register/hqqTzFIcShKq
- u3AGHRg-Ng
-X-BEDEWORK-LOCATION;X-BEDEWORK-PARAM-URL="https://duke.zoom.us/meeting/reg
- ister/hqqTzFIcShKqu3AGHRg-Ng":Zoom
-X-BEDEWORK-SUBMITTEDBY:js236 for Duke Office of Research Initiatives (agrp
- _SOM_ResearchInitiatives)
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T180000Z
-CATEGORIES:Utilities
-CATEGORIES:Health/Wellness
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20241218T205317Z
-DESCRIPTION:Every Tuesday at 2 p.m.\, take a moment to relax\, recharge\, 
- and re-center yourself with Mindful Moment\, a group mindfulness program 
- offered by LIVE FOR LIFE. During these quick\, 15-minute sessions\, you'l
- l learn and practice simple breathing and mindfulness techniques that can
-  reduce stress\, increase self-awareness\, improve concentration\, and pr
- omote overall well-being. Drop in and reframe your day with calm and clar
- ity.
-DURATION:PT15M
-DTSTAMP:20260114T024934Z
-DTSTART;TZID=America/New_York:20260317T140000
-LAST-MODIFIED:20260114T024934Z
-LOCATION;X-BEDEWORK-UID=18832e99-1f059a59-011f-1577b9bf-000000a3:Webcast
-STATUS:CONFIRMED
-SUMMARY:Mindful Moment
-UID:CAL-8a000483-92c3adf6-0193-db8be1a2-00004e3cdemobedework@mysite.edu
-URL:https://hr.duke.edu/wellness/webinars/mindfulness/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
- -user/Topics/Health_Wellness
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=anna.batsakes@duke.edu:A
- nna Batsakes
-X-BEDEWORK-SPEAKER:Anna Batsakes
-X-BEDEWORK-DUKE-SERIES:Mindful Moment
-X-BEDEWORK-DUKE-WEBCAST:https://duke.zoom.us/j/3606067139
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Mindful Moment Logo
-X-BEDEWORK-SUBMITTEDBY:asr71 for Live for Life (LFL) (agrp_HumanResources_
- LiveforLife)
-X-BEDEWORK-IMAGE:/public/Images/Mindful Moment Calendar Image_202412180853
- 17PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Mindful Moment Calendar Image_202412
- 18085317PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Natural Sciences
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260223T203046Z
-DESCRIPTION:Sangwon Nam of the Therien Lab will sit their prelim exam at 3
- :30pm in FFSC 3232.
-DURATION:PT2H
-DTSTAMP:20260223T203046Z
-DTSTART;TZID=America/New_York:20260317T153000
-LAST-MODIFIED:20260223T203046Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:Prelim Exam: Sangwon Nam
-UID:CAL-8a003294-9c52b03d-019c-8c328190-00003d7edemobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
- c-user/Topics/Natural Sciences
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
- m Admin Office
-X-BEDEWORK-LOCATION:FFSC 3232
-X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
- )
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T200000Z
-CATEGORIES:Multicultural/Identity
-CATEGORIES:Global
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Social
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20251216T174330Z
-DESCRIPTION:Join our weekly conversation gatherings on Tuesday afternoons.
-  We chat about life\, culture\, and current events in a supportive atmosp
- here. No pre-registration or preparation needed.
-DURATION:PT1H
-DTSTAMP:20251216T174924Z
-DTSTART;TZID=America/New_York:20260317T160000
-LAST-MODIFIED:20251216T174924Z
-LOCATION;X-BEDEWORK-UID=2c918083-5f8fbbda-015f-925c9a71-000010e8:Wellness 
- Center\, Room 147
-STATUS:CONFIRMED
-SUMMARY:Global Conversations in the Wellness Center
-UID:CAL-8a00eca5-9af98aae-019b-2842967f-00004a69demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
- er/Social
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Multicultural_Identity:/user
- /public-user/Other/Multicultural_Identity
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Global:/user/public-user/Top
- ic of Event Focused on a Country or Continent (if applicable)/Global
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Student
- Affairs_DukeStudentWellnessCenter,":Duke Student Wellness
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=r.caputo@duke.edu:Rene C
- aputo
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:530
-X-BEDEWORK-IMAGE-Y2:353.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:Three seated college-aged students smiling at ea
- ch other\, as if they&#39\;d just heard good news or something funny
-X-BEDEWORK-SUBMITTEDBY:rc72 for Thompson Writing Program (agrp__ArtsandSci
- ences_ThompsonWritingProgram)
-X-BEDEWORK-IMAGE:/public/Images/Global Conversations DukeEvents photo of 4
-  people_20251216054330PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Global Conversations DukeEvents phot
- o of 4 people_20251216054330PM-thumb.png
-EXDATE:20260310T200000Z
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Ceremony
-CATEGORIES:Main
-CATEGORIES:Student
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260223T175116Z
-DESCRIPTION:Organized by the Office of the President in partnership with D
- uke Human Resources\, the Presidential Awards are among Duke's highest ho
- nors for staff and faculty\, honoring those who demonstrate Duke's core v
- alues of respect\, trust\, inclusion\, discovery and excellence.\n\nDoors
-  will open at 3:30 p.m.
-DURATION:PT1H
-DTSTAMP:20260223T182328Z
-DTSTART;TZID=America/New_York:20260317T160000
-LAST-MODIFIED:20260223T182328Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-28371677-00000070:Page Audi
- torium
-STATUS:CONFIRMED
-SUMMARY:Presidential Awards Ceremony
-UID:CAL-8a003294-9c52b03d-019c-8ba07b83-0000384fdemobedework@mysite.edu
-URL:https://today.duke.edu/2026/01/2025-26-presidential-awards-winners-uph
- old-commitment-dukes-values
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
- ilities/Student
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ceremony:/user/public-user/O
- ther/Ceremony
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_HumanRe
- sources,":Human Resources (HR)
-X-BEDEWORK-IMAGE-X1:686
-X-BEDEWORK-IMAGE-Y1:114
-X-BEDEWORK-IMAGE-X2:1891
-X-BEDEWORK-IMAGE-Y2:917.3333333333334
-X-BEDEWORK-IMAGE-CROP-WIDTH:1205
-X-BEDEWORK-IMAGE-CROP-HEIGHT:803.3333333333334
-X-BEDEWORK-IMAGE-ALT-TEXT:Duke Presidential Awards Ceremony
-X-BEDEWORK-SUBMITTEDBY:mkc63 for Office of the University President (agrp_
- OfficeoftheUniversityPresident)
-X-BEDEWORK-IMAGE:/public/Images/Presidential award BO_20260223055116PM.jpg
- 
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Presidential award BO_20260223055116
- PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T210000Z
-CATEGORIES:Arts
-CATEGORIES:Utilities
-CATEGORIES:Concert/Music
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20250815T144658Z
-DESCRIPTION:Each weekday at 5:00 p.m.\, a Duke Chapel carillonneur plays a
-  fifteen-minute recital on the bells in the Duke Chapel tower. The recita
- l begins with an opening excerpt of music\, then a bell tolls five times 
- to mark the hour\, and then the carillonneur plays a selection of hymns a
- nd other songs appropriate for the day. \n\nListen to the recital anywher
- e outside on West Campus or online via the livestream on the Duke Chapel 
- Facebook page: https://www.facebook.com/DukeChapel.
-DURATION:PT15M
-DTSTAMP:20250815T144658Z
-DTSTART;TZID=America/New_York:20260317T170000
-LAST-MODIFIED:20250815T144658Z
-LOCATION;X-BEDEWORK-UID=8a08708a-3a0814e2-013a-9334d38d-00000f2f:Duke Chap
- el Quad
-STATUS:CONFIRMED
-SUMMARY:Weekday Carillon Recital
-UID:CAL-8a00ec8b-979413b9-0198-ae32c3cc-00004c69demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
- ser/Arts/Concert_Music
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-SPEAKER:Duke Chapel Carillonneurs
-X-BEDEWORK-DUKE-WEBCAST:https://www.facebook.com/DukeChapel
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
-  Chapel
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:2000
-X-BEDEWORK-IMAGE-Y2:1333.3333333333333
-X-BEDEWORK-IMAGE-CROP-WIDTH:2000
-X-BEDEWORK-IMAGE-CROP-HEIGHT:1333.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
- the right. The image shows a close-up\, eye-level shot of the top of Duke
-  Chapel's tower surrounded by green trees against a blue\, cloudy sky. Th
- e text on the right side of the image reads: "Weekday Carillon Recital" a
- nd "Duke University Chapel." Below the text is the Duke University Chapel
-  logo.
-X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
-X-BEDEWORK-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081502465
- 8PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081
- 5024658PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-RECURRENCE-ID;TZID=America/New_York:20260317T210000Z
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Research
-CATEGORIES:Information Session
-CATEGORIES:Open House
-CATEGORIES:Main
-CATEGORIES:Student
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260122T180253Z
-DESCRIPTION:We're hosting URS office hour sessions where you can feel free
-  to drop in with any questions regarding undergraduate research\, our awa
- rds\, resources\, etc. No appointment necessary! We'll see you then.\n\nH
- ere are the event details:\nLocation: Bostock\, Project Room 8\n\nMondays
-  12:00-2:00 pm (URS Staff Office Hours)\nTuesdays 5:00-7:00 pm (T-STAR Am
- bassador Office Hours)\nWednesdays 7:00-9:00 pm (T-STAR Ambassador Office
-  Hours)\nThursdays 9:00-11:00 am (URS Staff Office Hours)
-DURATION:PT2H
-DTSTAMP:20260122T180253Z
-DTSTART;TZID=America/New_York:20260317T170000
-LAST-MODIFIED:20260122T180253Z
-LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
-STATUS:CONFIRMED
-SUMMARY:T-STAR Ambassador URS Office Hours
-UID:CAL-8a00eca5-9af98aae-019b-e6df9f50-000027bedemobedework@mysite.edu
-URL:https://undergraduateresearch.duke.edu/events
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
- ilities/Student
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Open House:/user/public-user
- /Other/Open House
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Information Session:/user/pu
- blic-user/Other/Information Session
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
- opics/Research
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=ursoffice@duke.edu:URS O
- ffice
-X-BEDEWORK-LOCATION:Bostock Library\; Project Room 8
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
-X-BEDEWORK-IMAGE-X2:530
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:URS Office Hours\; Project Room 8 in Bostock
-X-BEDEWORK-SUBMITTEDBY:sek59 for Undergraduate Research Support Office (ag
- rp__ArtsandSciences_UndergraduateResearchSupportOffice)
-X-BEDEWORK-IMAGE:/public/Images/OH_duke calendar_20260122060253PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/OH_duke calendar_20260122060253PM-th
- umb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Ethics
-CATEGORIES:Human Rights
-CATEGORIES:Humanities
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Religious/Spiritual
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a000483-92c3adf6-0193-4026b520-00005a2c:Pfeiffer\,
-  Nancy
-CREATED:20260126T174452Z
-DESCRIPTION:In a classical moral theory like that of Thomas Aquinas (1225-
- 1274)\, which centers on the moral status of discrete actions performed b
- y individual persons\, it can seem hard to find room for the notion of st
- ructural injustice. Although Aquinas himself does not raise questions abo
- ut structural injustices\, I argue that certain principles he lays down i
- n his theory of justice provide resources \nto develop a "Thomistic" appr
- oach to structural racism\, one that is capable of distinguishing cases o
- f genuine structural racism from innocent disparities\, and that also exp
- lains why one can be morally obligated to remediate an unjust social stru
- cture even if one has not personally taken part in its creation.
-DTEND;TZID=America/New_York:20260317T190000
-DTSTAMP:20260130T163347Z
-DTSTART;TZID=America/New_York:20260317T170000
-LAST-MODIFIED:20260130T163347Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-280a5f8a-00000011:Classroom
-  Building\, Room 103
-STATUS:CONFIRMED
-SUMMARY:Structural Racism: A Thomistic Approach
-UID:CAL-8a00eca5-9af98aae-019b-fb6890d4-00001d01demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Human Rights:/user/public-us
- er/Topics/Human Rights
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
- /Topics/Humanities
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
- blic-user/Topics/Religious_Spiritual
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ethics:/user/public-user/Top
- ics/Ethics
-X-BEDEWORK-SPEAKER:Therese Cory\, University of Notre Dame
-X-BEDEWORK-DUKE-SERIES:Edward P. Mahoney Visiting Scholar
-X-BEDEWORK-SUBMITTEDBY:ngp9 for Philosophy (agrp__ArtsandSciences_Philosop
- hy)
-X-BEDEWORK-IMAGE-X1:248
-X-BEDEWORK-IMAGE-Y1:777
-X-BEDEWORK-IMAGE-X2:248
-X-BEDEWORK-IMAGE-Y2:777
-X-BEDEWORK-IMAGE-CROP-WIDTH:0
-X-BEDEWORK-IMAGE-CROP-HEIGHT:0
-X-BEDEWORK-IMAGE-ALT-TEXT:Therese Cory
-X-BEDEWORK-IMAGE:/public/Images/Therese Cory Photo 2_20260129023622PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Therese Cory Photo 2_20260129023622P
- M-thumb.png
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp__Artsan
- dSciences_MedievalandRenaissanceStudies,":Medieval and Renaissance Studie
- s
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Artificial Intelligence
-CATEGORIES:Arts
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Exhibit
-CATEGORIES:Lecture/Talk
-CATEGORIES:Social
-CATEGORIES:Technology
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=2c918086-6154f6a2-0161-b93ebe1e-00007b66:Shepard\, 
- Ben
-X-BEDEWORK-COST:FREE
-CREATED:20260302T200048Z
-DESCRIPTION:AI music generators allow anyone to "create" songs instantly f
- rom simple text prompts. The companies that make them are valued at billi
- ons of dollars. These platforms have been trained on the sum total of all
-  recorded music\, while the companies that make them deny allegations of 
- copyright infringement. So what do they mean for working musicians\, educ
- ators\, and the future of music?\n\nPlease join us at a special Periodic 
- Tables event hosted at Motorco Music Hall for a conversation with Grammy-
- nominated singer-songwriter Tift Merritt and composer/guitar legend Marc 
- Ribot (Tom Waits\, Elvis Costello\, countless others).\n\nThis event is s
- ponsored in part by Duke Arts\, presenting Marc Ribot: Reframing Dylan at
-  Reynolds Industries Theater on Thursday\, March 19 at 7:30pm. Learn more
-  at arts.duke.edu
-DURATION:PT1H
-DTSTAMP:20260305T182019Z
-DTSTART;TZID=America/New_York:20260317T170000
-LAST-MODIFIED:20260305T182019Z
-LOCATION;X-BEDEWORK-UID=8a087089-306bfaae-0131-3eae6b7f-00005824:Motorco M
- usic Hall
-STATUS:CONFIRMED
-SUMMARY:Periodic Tables Science Cafe\, Dancing Machines\, The Plight of Wo
- rking Human Musicians in an AI World with Tift Merritt & Marc Ribot
-UID:CAL-8a003294-9c52b03d-019c-b0239826-00000aebdemobedework@mysite.edu
-URL:https://scienceandsociety.duke.edu/events/periodic-tables-dancing-mach
- ines-the-plight-of-working-human-musicians-in-an-ai-world-with-tift-merri
- tt-marc-ribot/
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
- er/Social
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
- /Topics/Technology
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
- r/public-user/Topics/Artificial Intelligence
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Deep Te
- ch Initiative,/principals/users/agrp_arts_TheRuby,":Deep Tech Initiative\
- ,Duke Arts
-X-BEDEWORK-SPEAKER:Marc Ribot and Tift Merritt
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-Y1:0
-X-BEDEWORK-IMAGE-X2:529.5
-X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353
-X-BEDEWORK-IMAGE-ALT-TEXT:Periodic Tables Science Cafe\, Dancing Machines\
- , The Plight of Working Human Musicians in an AI World with Tift Merritt 
- &amp\;amp\;amp\; Marc Ribot
-X-BEDEWORK-SUBMITTEDBY:bs229 for Duke Initiative for Science &amp\;amp\;am
- p\; Society (agrp_DukeScienceandSocietyInitiative)
-X-BEDEWORK-IMAGE:/public/Images/Tift Merritt duke calendar_20260302080033P
- M.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Tift Merritt duke calendar_202603020
- 80033PM-thumb.png
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Exhibit:/user/public-user/Ar
- ts/Exhibit
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Visual and Creative Arts
-CATEGORIES:Human Rights
-CATEGORIES:Humanities
-CATEGORIES:Arts
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=8a00ec8b-979413b9-0199-5d5d3754-00004e4f:Pickett\, 
- Natalie
-CREATED:20260128T170647Z
-DESCRIPTION:The Rights and Humanities Annual Series is jointly sponsored b
- y the John Hope Franklin Humanities Institute (FHI) and the Duke Human Ri
- ghts Center @ FHI. The series was launched in 2019 to address the links b
- etween ideas of rights and the humanities - and to more fully explore the
-  intellectual possibilities of housing a human rights center within a hum
- anities institute. \n\nNora Krug is a German-American author and artist. 
- Her books have been published in 21 countries\, and her illustrations hav
- e been recognized with gold and silver medals by both the Society of Illu
- strators and the NY Art Directors Club. Krug is a recipient of fellowship
- s from Fulbright\, the John Simon Guggenheim Memorial Foundation\, the Po
- llock-Krasner Foundation\, the Maurice Sendak Foundation\, Yale Universit
- y's Fortunoff Video Archive for Holocaust Testimonies\, and the American 
- Academy Berlin. Her books are included in the Library of Congress and the
-  Rare Book and Manuscript Library at Columbia University. Krug was named 
- Moira Gemmill Illustrator of the Year and 2019 Book Illustration Prize Wi
- nner by the Victoria and Albert Museum.\n\nKrug's recent publications inc
- lude "Diaries of War: Two Visual Accounts from Ukraine and Russia" (Ten S
- peed Graphic\, 2023)\, the graphic edition of Timothy Snyder's "On Tyrann
- y: Twenty Lessons from the Twentieth Century" (Ten Speed Graphic\, 2021)\
- , and "Belonging: A German Reckons With History and Home" (Scribner\, 201
- 8). http://www.nora-krug.com/\n\nParking information: https://humanrights
- .fhi.duke.edu/event-location-and-parking-information/
-DURATION:PT1H30M
-DTSTAMP:20260309T141933Z
-DTSTART;TZID=America/New_York:20260317T170000
-LAST-MODIFIED:20260309T141933Z
-LOCATION;X-BEDEWORK-UID=18832e99-2be309ed-012b-e5b90ab4-000001a0:Smith War
- ehouse\, Ahmadieh Family Lecture Hall\, Bay 4\, C105
-STATUS:CONFIRMED
-SUMMARY:Belonging: Artist as Witness with Nora Krug
-UID:CAL-8a00eca5-9af98aae-019c-05926df2-00000a84demobedework@mysite.edu
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Visual and Creative Arts:/us
- er/public-user/Arts/Visual and Creative Arts
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Human Rights:/user/public-us
- er/Topics/Human Rights
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
- /Topics/Humanities
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
- Sciences_ArtArtHistoryandVisualStudies,/principals/users/agrp__ArtsandSci
- ences_CenterforDocumentaryStudies,/principals/users/agrp_ArtsandSciences_
- English,/principals/users/agrp_JHFC_FranklinHumanitiesInstitute,/principa
- ls/users/agrp__ArtsandSciences_German,/principals/users/agrp__ArtsandScie
- nces_History,/principals/users/agrp_JHFC_InternationalComparativeStudies,
- /principals/users/agrp__ArtsandSciences_PoliticalScience,":Art\, Art Hist
- ory & Visual Studies\,Center for Documentary Studies (CDS)\,English\,Fran
- klin Humanities Institute (FHI)\,German Studies\,History\,International C
- omparative Studies (ICS)\,Political Science
-X-BEDEWORK-SPEAKER:Nora Krug
-X-BEDEWORK-DUKE-SERIES:Rights and the Humanities Annual Lecture
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:789
-X-BEDEWORK-IMAGE-X2:3300
-X-BEDEWORK-IMAGE-Y2:2989
-X-BEDEWORK-IMAGE-CROP-WIDTH:3300
-X-BEDEWORK-IMAGE-CROP-HEIGHT:2200
-X-BEDEWORK-IMAGE-ALT-TEXT:Fair skinned woman with dark brown hair\, leanin
- g against a wall with her arms crossed\, looking into the camera.
-X-BEDEWORK-SUBMITTEDBY:njp13 for Duke Human Rights Center at the Franklin 
- Humanities Institute (DHRC@FHI) (agrp_DHRCatFHI)
-X-BEDEWORK-IMAGE:/public/Images/Nora Krug headshot_20260128050647PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/Nora Krug headshot_20260128050647PM-
- thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Sustainability
-CATEGORIES:South America focus
-CATEGORIES:Leadership
-CATEGORIES:Politics
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Other
-CATEGORIES:Utilities
-CATEGORIES:Lecture/Talk
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260223T192121Z
-DESCRIPTION:Former President of Costa Rica\, Carlos Alvarado Quesada\, wil
- l share his journey of integrating democratic values with environmental s
- tewardship\, highlighting Costa Rica's global leadership in sustainable p
- olicies.\n\nAlvarado will speak at Duke as part of the Crown Lecture in E
- thics Series. Endowed by Lester Crown\, this prestigious lecture brings s
- peakers to campus to discuss the ethical implications of issues in the ar
- ts\, sciences\, medicine\, business and other fields. Event partners for 
- this lecture include the Sanford School of Public Policy\, the Nicholas S
- chool of the Environment and the Sanford Latin America and Caribbean grou
- p (SLAC). For questions about this event\, please feel free to email sanf
- ordevents@duke.edu.
-DURATION:PT1H
-DTSTAMP:20260223T192121Z
-DTSTART;TZID=America/New_York:20260317T173000
-LAST-MODIFIED:20260223T192121Z
-LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-284093b6-00000087:Sanford F
- leishman Commons
-STATUS:CONFIRMED
-SUMMARY:Fighting for Democracy and the Planet
-UID:CAL-8a003294-9c52b03d-019c-8bf2f688-00003b04demobedework@mysite.edu
-URL:https://duke.qualtrics.com/jfe/form/SV_1BoFFD4rhJCDyUS
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
- er/Lectures_Conferences/Lecture_Talk
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Leadership:/user/public-user
- /Other/Leadership
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=South America focus:/user/pu
- blic-user/Topic of Event Focused on a Country or Continent (if applicable
- )/South America focus
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Politics:/user/public-user/T
- opics/Politics
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Sustainability:/user/public-
- user/Topics/Sustainability
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_NSOE,":
- Nicholas School of the Environment
-X-BEDEWORK-SPEAKER:Carlos Alvarado
-X-BEDEWORK-DUKE-SERIES:Crown Distinguished Lecture
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=sanfordevents@duke.edu:S
- anford Events
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
-X-BEDEWORK-IMAGE-X2:530
-X-BEDEWORK-IMAGE-Y2:353
-X-BEDEWORK-IMAGE-CROP-WIDTH:530
-X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
-X-BEDEWORK-IMAGE-ALT-TEXT:Carlos Alvarado
-X-BEDEWORK-SUBMITTEDBY:sh574 for Sanford School of Public Policy (agrp_San
- ford)
-X-BEDEWORK-IMAGE:/public/Images/CrownLecture_CarlosAlvarado_event_calendar
- _20260223072121PM.png
-X-BEDEWORK-THUMB-IMAGE:/public/Images/CrownLecture_CarlosAlvarado_event_ca
- lendar_20260223072121PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Entrepreneurship
-CATEGORIES:Lectures/Conferences
-CATEGORIES:Utilities
-CATEGORIES:Panel/Seminar/Colloquium
-CATEGORIES:Main
-CATEGORIES:Student
-CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
-CREATED:20260211T171154Z
-DESCRIPTION:Join the Duke Career Center and Innovation & Entrepreneurship 
- (I&E) for an interactive event exploring how startups are evolving and th
- e diverse career opportunities they offer students across industries and 
- disciplines.\n\nMore information\, schedule\, and registration in Handsha
- ke!
-DURATION:PT2H
-DTSTAMP:20260211T171154Z
-DTSTART;TZID=America/New_York:20260317T180000
-LAST-MODIFIED:20260211T171154Z
-LOCATION;X-BEDEWORK-UID=2c918084-740955bc-0174-26edfe5d-000062dc:Karsh Alu
- mni and Visitors Center
-STATUS:CONFIRMED
-SUMMARY:Reimagine Careers in Startups
-UID:CAL-8a00eca5-9af98aae-019c-4db023c5-0000321bdemobedework@mysite.edu
-URL:https://app.joinhandshake.com/career_fairs/cb49c2cd-42ae-4413-b4a1-806
- ba853aafe/student_preview
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
- ilities/Student
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
- er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Entrepreneurship:/user/publi
- c-user/Topics/Entrepreneurship
-X-BEDEWORK-DUKE-SERIES:Reimagine Careers
-X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=christina.plante@duke.ed
- u:Christina Plante
-X-BEDEWORK-SUBMITTEDBY:srp79 for Career Center (agrp_StudentAffairs_Career
- Center)
-END:VEVENT
-BEGIN:VEVENT
-
-CATEGORIES:Middle East focus
-CATEGORIES:Europe focus
-CATEGORIES:Human Rights
-CATEGORIES:Politics
-CATEGORIES:Arts
-CATEGORIES:Utilities
-CATEGORIES:Movie/Film
-CATEGORIES:Main
-CONTACT;X-BEDEWORK-UID=18832edc-1b4f7314-011b-9d0edffd-0000097c:Okazaki\, 
- Hank
-X-BEDEWORK-COST:Free and Open to the Public
-CREATED:20251007T015211Z
-DESCRIPTION:The Duke Turkish Program & Screen/Society present:\n\n"Şerafet
- tin Can Atalay"\n(Nebil Özgentürk\, 2025\, Turkish with English subtitles
- \, Digital)\n\nThis documentary film portrays the life and public struggl
- e of Can Atalay\, a prominent Turkish human rights lawyer and and elected
-  Member of Parliament who remains imprisoned despite a binding ruling by 
- Turkey's Constitutional Court-revealing a profound constitutional and dem
- ocratic crisis.\n\nFor decades\, Atalay has represented victims of state 
- violence\, labor disasters\, environmental destruction\, and political re
- pression. Through interviews\, archival footage\, and personal reflection
- s\, the film traces Atalay's legal advocacy on behalf of workers\, enviro
- nmental activists\, and civil society groups\, as well as the broader dem
- ocratic and judicial challenges in contemporary Turkey. Framed as both a 
- personal portrait and a political chronicle\, the film explores themes of
-  justice\, resistance\, solidarity\, and the costs of dissent from the Ge
- zi Park protests of 2013 to the present.\n\nThe screening will include sp
- ecial participation by acclaimed filmmaker Nebil Özgentürk\, offering aud
- iences the opportunity to engage directly with the filmmaker's perspectiv
- e on the story and its wider implications.\n\n== ABOUT THE FILMMAKER: ==\
- nAs an award-winning journalist\, documentary filmmaker\, and writer\, fo
- r more than thirty years Nebil Özgentürk (link opens in a new window/tab)
-  has been one of Turkey's most important chroniclers of cultural and poli
- tical memory\, documenting the lives and ideas of the country's leading w
- riters\, thinkers\, artists\, and public intellectuals. His work has long
-  served as a living archive of Turkey's intellectual life.\n\nToday\, his
-  camera turns toward a different subject: the erosion of the rule of law 
- itself. Having spent decades preserving collective memory\, Özgentürk now
-  documents its deepest injustices.\n\n==\nView trailer: https://www.youtu
- be.com/watch?v=cz-YRRW94pU\n\nParking Info: https://artscenter.duke.edu/p
- arking
-DTSTAMP:20260302T194628Z
-DTSTART;TZID=America/New_York:20260317T190000
-LAST-MODIFIED:20260302T194628Z
-LOCATION;X-BEDEWORK-UID=2c918086-605dc975-0160-7020aa9b-000042a4:Rubenstei
- n Arts Center\, Film Theater
-STATUS:CONFIRMED
-SUMMARY:Screen/Society--"Şerafettin Can Atalay" (Nebil Özgentürk\, 2025) d
- ocu + filmmaker in attendance
-UID:CAL-8a003294-9c52b03d-019c-b00e1999-00000493demobedework@mysite.edu
-URL:https://cinematicarts.duke.edu/screensociety/screenings/serafettin-can
- -atalay-nebil-ozgenturk-2025-docu-filmmaker-attendance
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
- ties/Main
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Movie_Film:/user/public-user
- /Arts/Movie_Film
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Middle East focus:/user/publ
- ic-user/Topic of Event Focused on a Country or Continent (if applicable)/
- Middle East focus
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Europe focus:/user/public-us
- er/Topic of Event Focused on a Country or Continent (if applicable)/Europ
- e focus
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Politics:/user/public-user/T
- opics/Politics
-X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Human Rights:/user/public-us
- er/Topics/Human Rights
-X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
- Sciences_AsianandMiddleEasternStudies,/principals/users/agrp__ArtsandScie
- nces_CenterforDocumentaryStudies,/principals/users/agrp_MiddleEastStudies
- Center,/principals/users/agrp_JHFC_FranklinHumanitiesInstitute,":Asian &a
- mp\;amp\;amp\;amp\;amp\; Middle Eastern Studies (AMES)\,Center for Docume
- ntary Studies (CDS)\,Duke University Middle East Studies Center\,Franklin
-  Humanities Institute (FHI)
-X-BEDEWORK-IMAGE-ALT-TEXT:Poster for CAN ATALAY documentary
-X-BEDEWORK-SUBMITTEDBY:hokazak for Cinematic Arts (agrp_ArtsandSciences_Fi
- lmVideoDigitalProgram)
-X-BEDEWORK-IMAGE-X1:0
-X-BEDEWORK-IMAGE-Y1:74
-X-BEDEWORK-IMAGE-X2:810
-X-BEDEWORK-IMAGE-Y2:614
-X-BEDEWORK-IMAGE-CROP-WIDTH:810
-X-BEDEWORK-IMAGE-CROP-HEIGHT:540
-X-BEDEWORK-SPEAKER:Q&A to follow w/ director Nebil Özgentürk
-X-BEDEWORK-IMAGE:/public/Images/CanAtalayDocumentary--Poster_vertical_web_
- 20260302074628PM.jpg
-X-BEDEWORK-THUMB-IMAGE:/public/Images/CanAtalayDocumentary--Poster_vertica
- l_web_20260302074628PM-thumb.png
-END:VEVENT
-BEGIN:VEVENT
-
 RECURRENCE-ID;TZID=America/New_York:20260318T070000
 CATEGORIES:Medicine
 CATEGORIES:Lectures/Conferences
@@ -2402,6 +896,1575 @@ X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
 X-BEDEWORK-LOCATION:FFSC 3232
 X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
  )
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260115T201204Z
+DESCRIPTION:This session will discuss a broad range of topics for EHR data
+  and issues to consider with its use. Material covered will include data 
+ structure\, data harmonization\, integration strategies\, and approaches 
+ to validation and verification.\n\n\nRegistration link: https://redcap.sc
+ hool.wakehealth.edu/surveys/?s=FAAPM7887N73A9N7 \n\nThis event is being c
+ ross-promoted by the NC BERD Consortium\, a collaboration of the CTSA-fun
+ ded BERD cores at UNC-Chapel Hill\, Wake Forest University School of Medi
+ cine\, and Duke University School of Medicine.
+DURATION:PT1H
+DTSTAMP:20260115T201204Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260115T201204Z
+LOCATION;X-BEDEWORK-UID=2c918085-71ed832f-0172-098647fa-0000767f:Virtual
+STATUS:CONFIRMED
+SUMMARY:Introduction to Electronic Health Record Data (EHR)
+UID:CAL-8a00eca5-9af98aae-019b-c3495f98-0000582ademobedework@mysite.edu
+URL:https://redcap.school.wakehealth.edu/surveys/?s=FAAPM7887N73A9N7
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Ban
+ dB_BERD,/principals/users/agrp_agrpDukeTranslationalMedicineInstitute,":B
+ ERD Core\,Duke Clinical and Translational Science Institute (CTSI)
+X-BEDEWORK-SPEAKER:Kristin Lenoir\, PhD
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=berdcore@duke.edu:Duke B
+ ERD Methods Core
+X-BEDEWORK-SUBMITTEDBY:llr27 for Biostatistics and Bioinformatics (agrp_Sc
+ hoolofMedicine_BiostatisticsandBioinformatics)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Engineering
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Research
+CATEGORIES:Information Session
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260219T135656Z
+DESCRIPTION:Abstract:\nVulcan Elements has established a full supply chain
+  to manufacture rare earth permanent magnets in the United States. This i
+ ncludes a network of raw material suppliers\, equipment manufacturers\, a
+ nd a growing talent pool. These magnets are used in all critical industri
+ es\, like aerospace and transportation\, data centers and telecommunicati
+ ons\, industrial equipment and power generation\, and robotics. To produc
+ e the highest-performing and most cost-competitive magnets in the world\,
+  Vulcan Elements is utilizing multi-scale computational materials enginee
+ ring to optimize composition\, employing the most environmental conscious
+  methods to refine metals from primary ore and recycled materials\, and i
+ ntegrating AI and machine learning to create a fully connected factory. V
+ ulcan Elements has broken ground on a 1.1 million square foot manufacturi
+ ng facility - the largest outside of China - right here in North Carolina
+ .
+DURATION:PT1H
+DTSTAMP:20260219T153604Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260219T153604Z
+LOCATION;X-BEDEWORK-UID=18832e99-20476e5b-0120-58864347-000000be:Fitzpatri
+ ck Center Schiciano Auditorium Side A\, room 1464
+STATUS:CONFIRMED
+SUMMARY:DMI/CMH/OEP Seminar Presented by Joe Croteau
+UID:CAL-8a003294-9c52b03d-019c-7630825c-00006abademobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Information Session:/user/pu
+ blic-user/Other/Information Session
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp__Artsan
+ dSciences_AcademicResourceCenter,/principals/users/agrp_ArtsandSciences_B
+ iology,/principals/users/agrp_PrattSchool_BME,/principals/users/agrp_Scho
+ olofMedicine_CellBiology,/principals/users/agrp_ArtsandSciences_Chemistry
+ ,/principals/users/agrp_PrattSchool_CEE,/principals/users/agrp_Duke Offic
+ e for External Partnerships (OEP),/principals/users/agrp_PrattSchool_ECE,
+ /principals/users/agrp__ArtsandSciences_Mathematics,/principals/users/agr
+ p_PrattSchool_MEMS,/principals/users/agrp_NSOE_NicholasInstituteforEnviro
+ nmentalPolicySolutions,/principals/users/agrp__ArtsandSciences_Physics,/p
+ rincipals/users/agrp_PrattSchool,/principals/users/agrp__ArtsandSciences_
+ TrinityCollege,":Academic Resource Center (ARC)\,Biology\,Biomedical Engi
+ neering (BME)\,Cell Biology\,Chemistry\,Civil and Environmental Engineeri
+ ng (CEE)\,Duke Office for External Partnerships (OEP)\,Electrical and Com
+ puter Engineering (ECE)\,Mathematics\,Mechanical Engineering and Material
+ s Science (MEMS)\,Nicholas Institute for Energy\, Environment and Sustain
+ ability\,Physics\,Pratt School of Engineering\,Trinity College
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=liana.igescu@duke.edu:Li
+ ana Igescu
+X-BEDEWORK-DUKE-SERIES:DMI Seminar Series
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-IMAGE-ALT-TEXT:March 18 DMI/CMH/OEP Seminar - Joe Croteau
+X-BEDEWORK-SUBMITTEDBY:reb88 for Duke Materials Initiative (agrp_Institute
+ s_MaterialsScienceandEngineering)
+X-BEDEWORK-IMAGE:/public/Images/calendar-sized_Joe Croteau_DMI Seminar Fly
+ er March 18\, 2026_20260219015656PM.jpeg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/calendar-sized_Joe Croteau_DMI Semin
+ ar Flyer March 18\, 2026_20260219015656PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Artificial Intelligence
+CATEGORIES:Engineering
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Technology
+CATEGORIES:Main
+CATEGORIES:Webcast
+CONTACT;X-BEDEWORK-UID=8a008fe4-7eb28668-017e-fd15d2e7-00003664:Benjamin\,
+  Chloe
+CREATED:20260302T224734Z
+DESCRIPTION:Join Jason Gilmore\, Author\, CTO & Tech Founder \n\nStudents 
+ will learn how to:\n• Build AI tools that can scale into businesses\, fas
+ t\n• Turn ideas into proof of skill\n• Leave with an idea you can act on\
+ n\nJason Gilmore is a CTO and founder who has built multiple AI-powered p
+ roducts with real paying users and will walk through how students can app
+ ly similar approaches at an appropriate scale to strengthen your hiring e
+ dge. \n\nJason holds the unusual distinction of never having created a pr
+ ofessional resume\, having instead relied on continuous networking\, inte
+ ntional outreach\, and proactive value creation to guide his career.
+DURATION:PT1H30M
+DTSTAMP:20260303T132439Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260303T132439Z
+LOCATION;X-BEDEWORK-UID=18832e99-2baa176e-012b-ac91767b-000004ea:Online
+STATUS:CONFIRMED
+SUMMARY:Prove it: AI Projects that Get You Hired
+UID:CAL-8a003294-9c52b03d-019c-b0bc4519-00000f22demobedework@mysite.edu
+URL:https://app.joinhandshake.com/events/1918911/share_preview
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Webcast:/user/public-user/Ot
+ her/Webcast
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
+ r/public-user/Topics/Artificial Intelligence
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-SPEAKER:Jason Gilmore
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:invitation to AI workshop
+X-BEDEWORK-SUBMITTEDBY:cb571 for Engineering Master&amp\;#39\;s Career Ser
+ vices and Professional Development (agrp_Pratt_MastersCSPD)
+X-BEDEWORK-IMAGE:/public/Images/Calendar flyer 2_20260303012439PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Calendar flyer 2_20260303012439PM-th
+ umb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:South America focus
+CATEGORIES:Humanities
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Information Session
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a00ec8b-979413b9-0198-3db1cbed-00001a66:Semmler\, 
+ Patrick
+CREATED:20260304T200501Z
+DESCRIPTION:Quechua is a diverse family of languages spoken by about 10 mi
+ llion people throughout the greater Andean region from Argentina to Colom
+ bia. \n\nIn this workshop\, you will learn some basics of the language an
+ d about Andean history\, culture\, environment\, and spirituality.
+DURATION:PT1H
+DTSTAMP:20260304T200501Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260304T200501Z
+LOCATION;X-BEDEWORK-UID=8a087089-39973ef6-0139-9c804f14-000074f5:Perkins L
+ ibrary\, The Link Classroom 2
+STATUS:CONFIRMED
+SUMMARY:Quechua Workshop
+UID:CAL-8a003294-9c52b03d-019c-ba742cd6-00004f44demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Information Session:/user/pu
+ blic-user/Other/Information Session
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=South America focus:/user/pu
+ blic-user/Topic of Event Focused on a Country or Continent (if applicable
+ )/South America focus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
+ /Topics/Humanities
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_JHFC_Ce
+ nterforLatinAmericanandCaribbeanStudies,":Center for Latin American and C
+ aribbean Studies (CLACS)
+X-BEDEWORK-SPEAKER:Josh Shapero
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:99
+X-BEDEWORK-IMAGE-X2:1920
+X-BEDEWORK-IMAGE-Y2:1379
+X-BEDEWORK-IMAGE-CROP-WIDTH:1920
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1280
+X-BEDEWORK-IMAGE-ALT-TEXT:Information on time and date of workshop
+X-BEDEWORK-SUBMITTEDBY:lbr19 for Romance Studies (agrp__ArtsandSciences_Ro
+ manceStudies)
+X-BEDEWORK-IMAGE:/public/Images/03cb1853-b858-415c-ac91-c47fcbaad8bb_20260
+ 304080501PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/03cb1853-b858-415c-ac91-c47fcbaad8bb
+ _20260304080501PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a00f286-97700737-0197-83542c8c-000034f1:Dodson\, M
+ ichelle
+CREATED:20260211T150520Z
+DESCRIPTION:Runbo Gao is in Nuo Li Lab. \nTitle: Cerebellar plasticity con
+ trols seconds-long adaptive brain-wide internal timing\n\nShuoyi Li is in
+  Mooney Lab.\nTitle: Neural circuits for motivating singing
+DURATION:PT1H
+DTSTAMP:20260309T192218Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260309T192218Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b31c518-011b-3d9bcda0-00000001:Bryan Res
+ earch 103
+STATUS:CONFIRMED
+SUMMARY:Research in Progress: Runbo Gao & Shuoyi Li
+UID:CAL-8a00eca5-9af98aae-019c-4d3c413a-0000299ademobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-SPEAKER:Runbo Gao & Shuoyi Li
+X-BEDEWORK-SUBMITTEDBY:mad140 for Neurobiology (agrp_SchoolofMedicine_Neur
+ obiology)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Politics
+CATEGORIES:Social Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Meeting
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20250821T024741Z
+DESCRIPTION:Jack Paine (Emory) will present\, "The Last of the Monarchies:
+  How Colonial State Formation Reshaped Regime Type." \n\nAbstract:\nAs la
+ te as the nineteenth century\, states were governed almost exclusively by
+  monarchies. Today\, though\, ruling monarchies are rare. Focusing on Afr
+ ica and Asia\, I locate this transformation in the process of forming and
+  reshaping colonial states. Although the overwhelming majority of ninetee
+ nth-century monarchies became Western dependencies\, less than one-third 
+ of these monarchies were eliminated by the colonizer. Instead\, the main 
+ challenge to monarchical hegemony was the colonizers' preference to agglo
+ merate smaller monarchies into larger colonies. This was a dynamic proces
+ s that unfolded across the colonial period\; colonial units were frequent
+ ly reshaped even after World War II. Subnational monarchs were rarely abl
+ e to successfully recover power in the face of rising nationalist pressur
+ e and expanding electorates. The monarchies that survived as postcolonial
+  national institutions were not the largest and strongest precolonial sta
+ tes\, like the Sokoto Caliphate in Nigeria or the descendants of the Mugh
+ al Empire in India. Instead\, colonial survivors were often small units w
+ hich benefitted from an exceptional characteristic that discouraged agglo
+ meration into a larger unit\, such as oil wealth\, proximity to white set
+ tlement states\, Mandate/Trust status\, or location in a mountainous fron
+ tier.
+DURATION:PT1H15M
+DTSTAMP:20260313T192204Z
+DTSTART;TZID=America/New_York:20260318T120000
+LAST-MODIFIED:20260313T192204Z
+LOCATION;X-BEDEWORK-UID=8a0870ef-4078d128-0140-8383fed7-00007e8b:SSRI-Gros
+ s Hall 270
+STATUS:CONFIRMED
+SUMMARY:PE/PI Workshop: Jack Paine (Emory)
+UID:CAL-8a00ec8b-979413b9-0198-ca866495-0000545bdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
+ her/Meeting
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Politics:/user/public-user/T
+ opics/Politics
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social Sciences:/user/public
+ -user/Topics/Social Sciences
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=clara.park@duke.edu:Clar
+ a Park
+X-BEDEWORK-SUBMITTEDBY:sas136 for Political Science (agrp__ArtsandSciences
+ _PoliticalScience)
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T170000Z
+CATEGORIES:Arts
+CATEGORIES:Utilities
+CATEGORIES:Concert/Music
+CATEGORIES:Religious/Spiritual
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20250815T135628Z
+DESCRIPTION:This organ demonstration is an opportunity to stop in to hear 
+ a Duke Chapel organ or Bösendorfer grand piano played in the informal atm
+ osphere of an open rehearsal.\n\nThese demonstrations are typically held 
+ on Tuesdays\, Wednesdays\, and Thursdays from 1:00 to 1:45 p.m. during th
+ e academic year. To confirm that a rehearsal is happening on a given day\
+ , please email dukechapel@duke.edu.\n\nThere is no charge for admission. 
+ Paid parking is available on a first-come-first-served basis in the Bryan
+  Center Garage at 125 Science Drive. ADA parking is available in the surf
+ ace lot at the same address.\n\nSee the schedule of concerts for the year
+  at chapel.duke.edu/music.
+DURATION:PT45M
+DTSTAMP:20250815T135628Z
+DTSTART;TZID=America/New_York:20260318T130000
+LAST-MODIFIED:20250815T135628Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-281ad92b-00000024:Duke Chap
+ el
+STATUS:CONFIRMED
+SUMMARY:Organ Demonstration
+UID:CAL-8a00ec8b-979413b9-0198-ae0484e3-0000400bdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
+ ser/Arts/Concert_Music
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
+ blic-user/Topics/Religious_Spiritual
+X-BEDEWORK-SPEAKER:Chapel and Guest Organists
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
+  Chapel
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:1000
+X-BEDEWORK-IMAGE-Y2:666.6666666666666
+X-BEDEWORK-IMAGE-CROP-WIDTH:1000
+X-BEDEWORK-IMAGE-CROP-HEIGHT:666.6666666666666
+X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
+ the right. The image shows a close-up\, eye-level shot of the many rows o
+ f keyboards on a large pipe organ inside Duke Chapel. A stained-glass win
+ dow is visible in the background. The text on the right side of the image
+  reads: "Organ Demonstration" and "Duke University Chapel." Below the tex
+ t is the Duke University Chapel logo.
+X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
+X-BEDEWORK-IMAGE:/public/Images/OrganCalendar2025_20250815015628PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/OrganCalendar2025_20250815015628PM-t
+ humb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Artificial Intelligence
+CATEGORIES:Engineering
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Technology
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a009144-7fb64372-017f-f2fa77e0-000007ea:Runton\, R
+ ajashi
+CREATED:20260303T170554Z
+DESCRIPTION:The NSF AI Institute for Edge Computing (Athena) is pleased to
+  present the next in the Seminar Series by Jack West\, titled "Security a
+ nd Privacy of Edge AI Models in Social Media Applications" on Wednesday\,
+  March 18\, 2026\, from 1-2pm EST at the University of Wisconsin-Madison 
+ and via Zoom. Refreshments will be served.
+DURATION:PT1H
+DTSTAMP:20260303T170554Z
+DTSTART;TZID=America/New_York:20260318T130000
+LAST-MODIFIED:20260303T170554Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Security and Privacy of Edge AI Models in Social Media Application
+ s
+UID:CAL-8a003294-9c52b03d-019c-b4a9d5b2-0000221bdemobedework@mysite.edu
+URL:https://duke.zoom.us/meeting/register/-61mCLJrQ8Ky7fi9DemQxQ
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
+ r/public-user/Topics/Artificial Intelligence
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_PrattSc
+ hool_ECE,":Electrical and Computer Engineering (ECE)
+X-BEDEWORK-SPEAKER:Jack West
+X-BEDEWORK-DUKE-SERIES:Athena Seminar Series
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:63
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:416.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:Jack West
+X-BEDEWORK-SUBMITTEDBY:rr315 for Pratt School of Engineering (agrp_PrattSc
+ hool)
+X-BEDEWORK-IMAGE:/public/Images/Picture2_20260303050555PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Picture2_20260303050555PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T132500
+CATEGORIES:Artificial Intelligence
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Research
+CATEGORIES:Technology
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20251215T154940Z
+DESCRIPTION:Mathematics professor Di Fang will lead this short course on q
+ uantum algorithms as part of the Information Initiative's Pop-Up Mini cou
+ rse series. For more information about our Pop-Up Courses and other activ
+ ities please visit: https://bigdata.duke.edu/participate/pop-up-institute
+ s/
+DURATION:PT1H15M
+DTSTAMP:20260106T181531Z
+DTSTART;TZID=America/New_York:20260318T132500
+LAST-MODIFIED:20260106T181531Z
+LOCATION;X-BEDEWORK-UID=8a0870ee-427054e5-0142-b41b6acc-0000518e:Gross Hal
+ l\, Ahmadieh Family Grand Hall\, Room 330
+STATUS:CONFIRMED
+SUMMARY:Pop-Up Mini Course: Selected Topics in Quantum Algorithms and Comp
+ lexity
+UID:CAL-8a00eca5-9af98aae-019b-22b3ffcf-00000683demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
+ r/public-user/Topics/Artificial Intelligence
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=di.fang@duke.edu:Di Fang
+ 
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_provost
+ _plusDataScience,/principals/users/agrp_BassConnections,/principals/users
+ /agrp_SchoolofMedicine_BiostatisticsandBioinformatics,/principals/users/a
+ grp_ComputationalHumanities,/principals/users/agrp_SchoolofMedicine_CBB,/
+ principals/users/agrp_ArtsandSciences_ComputerScience,/principals/users/a
+ grp_DQC,/principals/users/agrp_PrattSchool_ECE,/principals/users/agrp__Ar
+ tsandSciences_ISIS,/principals/users/agrp__ArtsandSciences_Mathematics,/p
+ rincipals/users/agrp_NSOE_NicholasInstituteforEnvironmentalPolicySolution
+ s,/principals/users/agrp_PrattSchool,/principals/users/agrp_SSRI,/princip
+ als/users/agrp_StatisticalScience,":+DataScience (+DS)\,Bass Connections\
+ ,Biostatistics and Bioinformatics\,Center for Computational Humanities\,C
+ omputational Biology and Bioinformatics (CBB)\,Computer Science\,Duke Qua
+ ntum Center\,Electrical and Computer Engineering (ECE)\,Information Scien
+ ce + Studies (ISS)\,Mathematics\,Nicholas Institute for Energy\, Environm
+ ent and Sustainability\,Pratt School of Engineering\,Social Science Resea
+ rch Institute (SSRI)\,Statistical Science
+X-BEDEWORK-SPEAKER:Di Fang
+X-BEDEWORK-SUBMITTEDBY:rd105 for Information Initiative at Duke (iiD) (agr
+ p_InformationInitiativeatDuke)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Artificial Intelligence
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Technology
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0292fd-8d13410f-018e-edb6e692-00007161:Rebecca Jo
+ hnson
+CREATED:20260120T013416Z
+DESCRIPTION:Using the M365 suite\, we'll walk through how an AI agent can 
+ be created\, grounded in organizational files and knowledge sources\, and
+  extended with tools such as email\, databases\, and Power Automate. Alon
+ g the way\, we'll discuss when lightweight\, out-of-the-box chat features
+  are sufficient and when it makes sense to move toward richer\, more tail
+ ored experiences using Copilot Studio.
+DURATION:PT2H
+DTSTAMP:20260120T013416Z
+DTSTART;TZID=America/New_York:20260318T133000
+LAST-MODIFIED:20260120T013416Z
+LOCATION;X-BEDEWORK-UID=8a0870ee-56fd49ba-0157-28f9a4a1-00007e6c:The TEC -
+  Technology Engagement Center
+STATUS:CONFIRMED
+SUMMARY:Developing AI Solutions with Microsoft 365
+UID:CAL-8a00eca5-9af98aae-019b-d909cdc8-000023b5demobedework@mysite.edu
+URL:https://pathways.duke.edu/modulepage/463
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Artificial Intelligence:/use
+ r/public-user/Topics/Artificial Intelligence
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:graphic for event with date
+X-BEDEWORK-SUBMITTEDBY:rj215 for Innovation Co-Lab (agrp_InnovationCoLab)
+X-BEDEWORK-IMAGE:/public/Images/Developing AI Solutions with Microsoft 356
+  (530 x 353 px)_20260120013416AM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Developing AI Solutions with Microso
+ ft 356 (530 x 353 px)_20260120013416AM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Engineering
+CATEGORIES:Natural Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0183a7-83184018-0184-f88b4dd1-00001a24:Franklin\,
+  Monica
+CREATED:20230805T023014Z
+DESCRIPTION:Dissertation Title: Creation and Optimization of Functional An
+ notation Models to Identify Gene Regulatory Effects of Genetic Variation
+DURATION:PT1H
+DTSTAMP:20260316T232121Z
+DTSTART;TZID=America/New_York:20260318T140000
+LAST-MODIFIED:20260316T232121Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Dissertation Announcement: Katherine Dura
+UID:CAL-8a003384-9cc4d1fe-019c-f8f0a792-00003ffddemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
+ c-user/Topics/Natural Sciences
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Schoolo
+ fMedicine_BiostatisticsandBioinformatics,/principals/users/agrp_Pratt_CAG
+ T,/principals/users/agrp_CenterforGenomicandComputationalBiology,/princip
+ als/users/agrp_SchoolofMedicine,":Biostatistics and Bioinformatics\,Cente
+ r for Advanced Genomic Technologies\,Duke Center for Genomic and Computat
+ ional Biology (GCB)\,School of Medicine (SOM)
+X-BEDEWORK-SPEAKER:Katherine Dura
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-IMAGE-ALT-TEXT:Katherine Dura
+X-BEDEWORK-SUBMITTEDBY:monicaf for Computational Biology and Bioinformatic
+ s (CBB) (agrp_SchoolofMedicine_CBB)
+X-BEDEWORK-LOCATION:Nanaline Duke 147
+X-BEDEWORK-IMAGE:/public/Images/Katherine Dura canva photo_20260316111726P
+ M.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Katherine Dura canva photo_202603161
+ 11726PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T183000Z
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Reception
+CATEGORIES:Social
+CATEGORIES:Main
+CATEGORIES:Free Food and Beverages
+CONTACT;X-BEDEWORK-UID=8a0870ee-4cc8788f-014c-db513934-00003e9f:Dawn\, Ari
+ el
+CREATED:20260105T153811Z
+DESCRIPTION:Join us for tea and snacks on the 3rd floor of Gross Hall! Thi
+ s is a great chance to meet colleagues in a casual environment. All Welco
+ me!
+DURATION:PT1H
+DTSTAMP:20260105T153811Z
+DTSTART;TZID=America/New_York:20260318T143000
+LAST-MODIFIED:20260105T153811Z
+LOCATION;X-BEDEWORK-UID=8a0870ee-427054e5-0142-b41c2669-00005190:Gross Hal
+ l\, Ahmadieh Family Atrium\, 3rd Floor
+STATUS:CONFIRMED
+SUMMARY:iiD TeaTime
+UID:CAL-8a00eca5-9af98aae-019b-8ecf080b-00007e28demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Free Food and Beverages:/use
+ r/public-user/Other/Free Food and Beverages
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Reception:/user/public-user/
+ Other/Reception
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
+ er/Social
+X-BEDEWORK-SUBMITTEDBY:rd105 for Information Initiative at Duke (iiD) (agr
+ p_InformationInitiativeatDuke)
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Natural Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260304T155718Z
+DESCRIPTION:Electrophilic Deauration of Gold(I) α-Styrenyl Complexes with 
+ Carbon and Silicon Electrophiles\n\nElectrophilic deauration of gold(I) a
+ lkenyl complexes involving electrophilic attack of the Ca=Cb p-bond with 
+ delivery of the electrophile to Cb is not well understood and direct expe
+ rimental evidence is lacking. For this reason\, we sought out bulky silyl
+ ium and triarylcarbenium ions that would bias toward electrophilic b-deau
+ ration in gold(I) alkenyl complexes and probe said mechanism.\n\nWe found
+  reaction of the styrenyl complex (P)AuC(Ph)=CH2 [P = P(t-Bu)2o-biphenyl\
+ ; 1a] in CD2Cl2 at -80 °C with [Ph3C][B(C6F5)4] forms a 3.4:1:3.9 mixture
+  of the b-electrophilic deauration product\, (E)-1\,3\,3\,3-tetraphenylpr
+ opene\, styrene\, and the cationic bis(gold) complex (3a). Reaction of 1a
+  with [(4-C6H4OMe)3C][B(C6F5)4] (5)\, in an equimolar mixture in CD2Cl2 a
+ t 25 °C\, forms a 3.3:1:4.9 mixture of (E)-1-phenyl-3\,3\,3-trisanisylpro
+ pene (6a)\, styrene\, and the cationic bis(gold) complex (3a)\, which fol
+ lowed first-order kinetics to ~3 half-lives. A plot of log(k'X/k'H)\, whe
+ re k' is the rate of b-alkylation\, plotted versus the Hammett s constant
+  displayed a great fit with R2 > 0.99 and a large negative reaction const
+ ant (r = -3.44).\n\nThis large negative reaction constant indicates the r
+ ate of the electrophilic deauration of para-substituted a-styrenyl gold c
+ ompounds is strongly dependent and highly sensitive to the electron-donat
+ ing ability of the aryl groups and is consistent with a significant loss 
+ of electron density at Ca in the transition state of b-electrophilic deau
+ ration. Though this is the case\, the superior fit to the Hammett s const
+ ant and apparent zero-order rate constant of 5\, make the intimate detail
+ s of the mechanism somewhat unclear.
+DURATION:PT1H
+DTSTAMP:20260304T155718Z
+DTSTART;TZID=America/New_York:20260318T143000
+LAST-MODIFIED:20260304T155718Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Chemistry Defense: Kate Burns:Electrophilic Deauration of Gold(I) 
+ α-Styrenyl Complexes with Carbon and Silicon Electrophiles
+UID:CAL-8a003294-9c52b03d-019c-b99160eb-00003f8ademobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Natural Sciences:/user/publi
+ c-user/Topics/Natural Sciences
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=chem-office@duke.edu:Che
+ m Admin Office
+X-BEDEWORK-LOCATION:FFSC 1213
+X-BEDEWORK-IMAGE-X1:655
+X-BEDEWORK-IMAGE-Y1:255
+X-BEDEWORK-IMAGE-X2:1338
+X-BEDEWORK-IMAGE-Y2:710.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:683
+X-BEDEWORK-IMAGE-CROP-HEIGHT:455.33333333333326
+X-BEDEWORK-IMAGE-ALT-TEXT:KB
+X-BEDEWORK-SUBMITTEDBY:lao26 for Chemistry (agrp_ArtsandSciences_Chemistry
+ )
+X-BEDEWORK-IMAGE:/public/Images/KB2_20260304035718PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/KB2_20260304035718PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Engineering
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CATEGORIES:Webcast
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260305T161147Z
+DESCRIPTION:Registration Required\n\nSpeaker Short Biography: Dan Ma\, PhD
+ \, is an Associate Professor of Neurosurgery and Biomedical Engineering a
+ t Duke University. Her research focuses on quantitative MRI across acquis
+ ition\, reconstruction\, and analysis\, with clinical applications in neu
+ rological diseases\, pediatric imaging\, cancer imaging. She is a Senior 
+ Member of the National Academy of Inventors\, a Junior Fellow of the Inte
+ rnational Society for Magnetic Resonance in Medicine (ISMRM)\, and a reci
+ pient of the ISMRM I. I. Rabi Young Investigator Award\n\nTalk Summary or
+  Abstract: This talk will present recent advances in quantitative MRI and
+  physics-based image synthesis as a foundation for pan-contrast AI. I wil
+ l describe how qMR parameter mapping enables reproducible tissue property
+  characterization and how signal modeling and simulation can be used to s
+ ynthesize clinically meaningful contrasts from a single\, short MR scan. 
+ These synthetic images can be used to train contrast-agnostic AI models t
+ hat are more generalizable and robust for downstream tasks\, such as segm
+ entation\, detection and treatment planning.
+DURATION:PT1H
+DTSTAMP:20260305T161147Z
+DTSTART;TZID=America/New_York:20260318T150000
+LAST-MODIFIED:20260305T161147Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Quantitative MRI and Physics-informed Pan-Contrast AI
+UID:CAL-8a003294-9c52b03d-019c-bec50155-00005d22demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Webcast:/user/public-user/Ot
+ her/Webcast
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_PrattSc
+ hool_BME,":Biomedical Engineering (BME)
+X-BEDEWORK-SPEAKER:Dan Ma\, Associate Professor of Neurosurgery
+X-BEDEWORK-DUKE-SERIES:Computational and Digital Health Seminar
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=marnie.rhoads@duke.edu:M
+ arnie Rhoads
+X-BEDEWORK-LOCATION;X-BEDEWORK-PARAM-URL="https://duke.qualtrics.com/jfe/f
+ orm/SV_6EXRzIxanUKr8zQ":Registration Required
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:Event Advertisement
+X-BEDEWORK-SUBMITTEDBY:mr101 for Pratt School of Engineering (agrp_PrattSc
+ hool)
+X-BEDEWORK-IMAGE:/public/Images/Ma.Duke Calendar CompHealth_20260305041147
+ PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Ma.Duke Calendar CompHealth_20260305
+ 041147PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T150000
+CATEGORIES:Medicine
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Meeting
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260202T172251Z
+DESCRIPTION:Occurs on Wednesdays from 3:00 PM to 4:00 PM via Zoom. Questio
+ ns: Dr. Vijay Krishnamoorthy or Dr. Tetsu Ohnuma.
+DURATION:PT1H
+DTSTAMP:20260316T163435Z
+DTSTART;TZID=America/New_York:20260318T150000
+LAST-MODIFIED:20260316T163435Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:CAPER WIP - Cancelled
+UID:CAL-8a00eca5-9af98aae-019c-1f60edb5-00002045demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
+ her/Meeting
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=camille.manalo@duke.edu:
+ Camille Manalo
+X-BEDEWORK-DUKE-SERIES:CAPER Work in Progress (WIP)
+X-BEDEWORK-LOCATION:Via Zoom
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:600
+X-BEDEWORK-IMAGE-Y2:400
+X-BEDEWORK-IMAGE-CROP-WIDTH:600
+X-BEDEWORK-IMAGE-CROP-HEIGHT:400
+X-BEDEWORK-IMAGE-ALT-TEXT:CAPER WIP - Microscope on blue abstract backgrou
+ nd.
+X-BEDEWORK-SUBMITTEDBY:cgkeith for Department of Anesthesiology (agrp_SOM_
+ ClinDep_Anesthesiology)
+X-BEDEWORK-IMAGE:/public/Images/CAPER WIP_20260202052251PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/CAPER WIP_20260202052251PM-thumb.png
+ 
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Ethics
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Training
+CATEGORIES:Workshop/Short Course
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260303T151019Z
+DESCRIPTION:<b>REGISTRATION</b>: <a href="https://forms.office.com/Pages/R
+ esponsePage.aspx?id=TsVyyzFKnk2xSh6jbfrJTI9QJhcY12JAolV5CeByrWpUOThLR0hQR
+ 0tQMkZLQ0NTVDFHUExHSlNKSy4u" target="_blank">Click Here</a>\n\n<i>NOTE: P
+ lease register ahead of the event.</i>\n\nJoin us for the Duke Office of 
+ Scientific Integrity's Research Town Hall "From Design to Dissemination: 
+ Working with Research Data at Duke" on March 18th from 3:30 - 5:00pm. \n\
+ nResponsible data management\, stewardship\, and sharing are foundational
+  to the conduct of high quality research. Our expert panel of speakers wi
+ ll share effective strategies to help you manage and steward data\, revie
+ w principles of open scholarship and data sharing\, and highlight resourc
+ es to support research teams at Duke. \n\nAttending this event fulfills t
+ he <b>RCR-200</b> requirement for Faculty and Staff and the <b>714</b> RC
+ R credit for graduate students. Participants must attend for at least 60 
+ minutes to receive credit.
+DURATION:PT1H30M
+DTSTAMP:20260303T151019Z
+DTSTART;TZID=America/New_York:20260318T153000
+LAST-MODIFIED:20260303T151019Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:From Design to Dissemination: Working with Research Data at Duke
+UID:CAL-8a003294-9c52b03d-019c-b44001fa-00001cebdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Training:/user/public-user/O
+ ther/Training
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Workshop_Short_Course:/user/
+ public-user/Other/Workshop_Short_Course
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Ethics:/user/public-user/Top
+ ics/Ethics
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
+ Sciences,/principals/users/agrp_CTSI CREDO,/principals/users/agrp_officer
+ esearch,/principals/users/agrp_Agrp_OfficeofResearchAdministration,/princ
+ ipals/users/agrp_OfficeofResearchSupport,/principals/users/agrp_SchoolofM
+ edicine,/principals/users/agrp_SchoolofNursing,":Arts & Sciences (A&S)\,C
+ TSI CREDO\,Office for Research and Innovation\,Office of Research Adminis
+ tration (ORA)\,Office of Research Support (ORS)\,School of Medicine (SOM)
+ \,School of Nursing (SON)
+X-BEDEWORK-SPEAKER:Duke Researchers and Administrators
+X-BEDEWORK-DUKE-SERIES:Virtual Research Town Hall
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=asist@duke.edu:ASIST
+X-BEDEWORK-LOCATION:Zoom
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:960
+X-BEDEWORK-IMAGE-Y2:640
+X-BEDEWORK-IMAGE-CROP-WIDTH:960
+X-BEDEWORK-IMAGE-CROP-HEIGHT:640
+X-BEDEWORK-IMAGE-ALT-TEXT:RTH 20260318 Flyer
+X-BEDEWORK-SUBMITTEDBY:jdg98 for Duke Office of Scientific Integrity (DOSI
+ ) (agrp_provost_DOSI)
+X-BEDEWORK-IMAGE:/public/Images/20260318_RTH_Flyer Draft V4_20260303031019
+ PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/20260318_RTH_Flyer Draft V4_20260303
+ 031019PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Health/Wellness
+CATEGORIES:Lecture/Talk
+CATEGORIES:Meeting
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20230208T183246Z
+DESCRIPTION:"Characterizing Pain Resolution Mechanisms in Peripheral Nerve
+  Injury" Presenter: Sudhish Jayachandran\, BS | Laboratory Affiliation: D
+ onnelly
+DURATION:PT1H
+DTSTAMP:20260313T202636Z
+DTSTART;TZID=America/New_York:20260318T160000
+LAST-MODIFIED:20260313T202636Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Duke Pain Research in Progress (RIP) - "Characterizing Pain Resolu
+ tion Mechanisms in Peripheral Nerve Injury"
+UID:CAL-8a00ec8b-979413b9-0199-2a6525cd-0000472edemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Health_Wellness:/user/public
+ -user/Topics/Health_Wellness
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=andrea.nackley@duke.edu:
+ Andrea Nackley\, PhD
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Meeting:/user/public-user/Ot
+ her/Meeting
+X-BEDEWORK-SPEAKER:Sudhish Jayachandran\, BS
+X-BEDEWORK-DUKE-SERIES:Duke Pain Research in Progress (RIP)
+X-BEDEWORK-LOCATION:MSRB3\, Room 1125
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:529.5
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:529.5
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353
+X-BEDEWORK-IMAGE-ALT-TEXT:Center for Translational Pain Medicine
+X-BEDEWORK-SUBMITTEDBY:cgkeith for Department of Anesthesiology (agrp_SOM_
+ ClinDep_Anesthesiology)
+X-BEDEWORK-IMAGE:/public/Images/Pain Seminar Graphic_20230208063246PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Pain Seminar Graphic_20230208063246P
+ M-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:India focus
+CATEGORIES:Humanities
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260316T173247Z
+DESCRIPTION:<p>The South Asia Working Group invites you for an interactive
+  book-talk with Professor Durba Mitra\, on March 18 at 4pm at Rubenstein 
+ Hall 242. Professor Mitra\, the Richard B. Wolf Associate Professor of Wo
+ men\, Gender\, and Sexuality at Harvard University\, will be discussing h
+ er newest book -  The Future That Was: A History of Third World Feminism 
+ Against Authoritarianism (Princeton UP\, 2026)\, and the ways in which So
+ uth Asian feminist movements have contributed to an imaginary of a Third 
+ World Feminism. Join us for an enriching conversation\, followed by refre
+ shments.</p>\n<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScbbP4
+ 9lRwya007NqHF9B2G3O3H4D-0PIrcx9VtsA-x-ui52Q/viewform?usp=header">Register
+  here!</a></p>
+DURATION:PT1H30M
+DTSTAMP:20260316T173509Z
+DTSTART;TZID=America/New_York:20260318T160000
+LAST-MODIFIED:20260316T173509Z
+LOCATION;X-BEDEWORK-UID=18832e99-23cd16d7-0123-dd37e19f-00000261:Sanford S
+ chool -- Rubenstein Hall\, Room 242
+STATUS:CONFIRMED
+SUMMARY:Durba Mitra\, "The Future That Was: A History of Third World Femin
+ ism Against Internationalism"
+UID:CAL-8a003384-9cc4d1fe-019c-f7b51c1a-00002ae5demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=India focus:/user/public-use
+ r/Topic of Event Focused on a Country or Continent (if applicable)/India 
+ focus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
+ /Topics/Humanities
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=fizza.suhel@duke.edu:Fiz
+ za Suhel
+X-BEDEWORK-SUBMITTEDBY:map157 for Franklin Humanities Institute (FHI) (agr
+ p_JHFC_FranklinHumanitiesInstitute)
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:471
+X-BEDEWORK-IMAGE-X2:1496
+X-BEDEWORK-IMAGE-Y2:1468.3333333333335
+X-BEDEWORK-IMAGE-CROP-WIDTH:1496
+X-BEDEWORK-IMAGE-CROP-HEIGHT:997.3333333333335
+X-BEDEWORK-IMAGE-ALT-TEXT:Photo of Durba Mitra
+X-BEDEWORK-IMAGE:/public/Images/DurbaMitra_profile_20260316053509PM.jpeg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/DurbaMitra_profile_20260316053509PM-
+ thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Visual and Creative Arts
+CATEGORIES:Arts
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0870ee-4fa5a06e-014f-b3909cd1-00007542:Massung\, 
+ David
+CREATED:20260227T150137Z
+DESCRIPTION:What city will be the next center of advanced art? We've heard
+  this question before. But circa 1941\, with Paris occupied\, the answer 
+ was undecided-and in Baghdad\, artists\, soldiers\, and former prisoners 
+ of war (who were themselves also artists and soldiers)\, grappled with wh
+ at seemed to be a civilizational question about terms for keeping the cit
+ y and the self open for avant-garde work. Crucially\, with British forces
+  occupying Iraq at the same time\, declaring a cause of freedom while sup
+ pressing Iraqi political activity\, the immanence of incarceration proved
+  a salient factor in creative practice: a theme\, a shape\, a fate. Worki
+ ng backwards from the 1953 maquette for a monument to the Unknown Politic
+ al Prisoner devised by the great Iraqi modernist Jewad Selim\, the talk d
+ elves into problems of form\, freedom\, and futurity arising from occupie
+ d Iraq\, 1941 to 1945\, under a threat of enemy alienation that we might 
+ recognize as a 20th century condition.\n\nAnneka Lenssen is Associate Pro
+ fessor of Global Modern Art at the University of California\, Berkeley. H
+ er publications include a monograph on modern painting and politics in Sy
+ ria (2020) and a co-edited volume\, Modern Art in the Arab World: Primary
+  Documents (2018). This talk is drawn from a current book project.\n\nFre
+ e and open to the public.
+DURATION:PT1H30M
+DTSTAMP:20260305T211853Z
+DTSTART;TZID=America/New_York:20260318T163000
+LAST-MODIFIED:20260305T211853Z
+LOCATION;X-BEDEWORK-UID=8a0870ef-417019a3-0141-7371f3cc-00004101:Smith War
+ ehouse - Bay 10\, 2nd Floor
+STATUS:CONFIRMED
+SUMMARY:Thinking with Occupied Iraq\, 1941-1945: On Forms and Freedom
+UID:CAL-8a003294-9c52b03d-019c-9f9e99fb-0000379ddemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Visual and Creative Arts:/us
+ er/public-user/Arts/Visual and Creative Arts
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp__Artsan
+ dSciences_History,":History
+X-BEDEWORK-SPEAKER:Anneka Lenssen (Associate Professor of Global Modern Ar
+ t at the University of California\, Berkeley)
+X-BEDEWORK-DUKE-SERIES:AAHVS Art History Speaker Series
+X-BEDEWORK-SUBMITTEDBY:massu001 for Art\, Art History &amp\; Visual Studie
+ s (agrp_ArtsandSciences_ArtArtHistoryandVisualStudies)
+X-BEDEWORK-IMAGE-X1:42
+X-BEDEWORK-IMAGE-Y1:12
+X-BEDEWORK-IMAGE-X2:1965
+X-BEDEWORK-IMAGE-Y2:1294
+X-BEDEWORK-IMAGE-CROP-WIDTH:1923
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1282
+X-BEDEWORK-IMAGE-ALT-TEXT:Lecture
+X-BEDEWORK-IMAGE:/public/Images/Art History Lecture Series Lenssen_2026030
+ 5091854PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Art History Lecture Series Lenssen_2
+ 0260305091854PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T210000Z
+CATEGORIES:Arts
+CATEGORIES:Utilities
+CATEGORIES:Concert/Music
+CATEGORIES:Religious/Spiritual
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20250815T144827Z
+DESCRIPTION:Each weekday at 5:00 p.m.\, a Duke Chapel carillonneur plays a
+  fifteen-minute recital on the bells in the Duke Chapel tower. The recita
+ l begins with an opening excerpt of music\, then a bell tolls five times 
+ to mark the hour\, and then the carillonneur plays a selection of hymns a
+ nd other songs appropriate for the day. \n\nListen to the recital anywher
+ e outside on West Campus or online via the livestream on the Duke Chapel 
+ Facebook page: https://www.facebook.com/DukeChapel.
+DURATION:PT15M
+DTSTAMP:20250815T144827Z
+DTSTART;TZID=America/New_York:20260318T170000
+LAST-MODIFIED:20250815T144827Z
+LOCATION;X-BEDEWORK-UID=8a08708a-3a0814e2-013a-9334d38d-00000f2f:Duke Chap
+ el Quad
+STATUS:CONFIRMED
+SUMMARY:Weekday Carillon Recital
+UID:CAL-8a00ec8b-979413b9-0198-ae341e04-00004cf6demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Concert_Music:/user/public-u
+ ser/Arts/Concert_Music
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Religious_Spiritual:/user/pu
+ blic-user/Topics/Religious_Spiritual
+X-BEDEWORK-SPEAKER:Duke Chapel Carillonneurs
+X-BEDEWORK-DUKE-WEBCAST:https://www.facebook.com/DukeChapel
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=dukechapel@duke.edu:Duke
+  Chapel
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:2000
+X-BEDEWORK-IMAGE-Y2:1333.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:2000
+X-BEDEWORK-IMAGE-CROP-HEIGHT:1333.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:A graphic with an image on the left and text on 
+ the right. The image shows a close-up\, eye-level shot of the top of Duke
+  Chapel's tower surrounded by green trees against a blue\, cloudy sky. Th
+ e text on the right side of the image reads: "Weekday Carillon Recital" a
+ nd "Duke University Chapel." Below the text is the Duke University Chapel
+  logo.
+X-BEDEWORK-SUBMITTEDBY:jtodd for Duke Chapel (agrp_DukeChapel)
+X-BEDEWORK-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081502482
+ 7PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/WeekdayCarillRecitalCalendar_2025081
+ 5024827PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=18832edc-1c702671-011c-70fb77c4-0000008f:Maschauer\
+ , Maria
+CREATED:20260209T155339Z
+DESCRIPTION:Grant Farred will discuss his new book Ethical Solidarity abou
+ t ethics\, politics\, and the abyss we face between hope and fulfillment.
+   His other recent books include Only A Black Athlete Can Save Us Now\, M
+ artin Heidegger Saved My Life and Entre Nous: Between the World Cup and M
+ e\, and A Sports Odyssey: My Ithaca Journal.
+DURATION:PT1H30M
+DTSTAMP:20260306T135542Z
+DTSTART;TZID=America/New_York:20260318T170000
+LAST-MODIFIED:20260306T135542Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b27e154-011b-2842819b-00000090:Friedl 22
+ 5
+STATUS:CONFIRMED
+SUMMARY:Ethical Solidarity: The Importance of Betrayal
+UID:CAL-8a00eca5-9af98aae-019c-431bc88b-0000613edemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
+ Sciences_AfricanandAfricanAmericanStudies,/principals/users/agrp_JHFC_Fra
+ nklinHumanitiesInstitute,/principals/users/agrp__ArtsandSciences_Literatu
+ re,":African and African American Studies (AAAS)\,Franklin Humanities Ins
+ titute (FHI)\,Literature
+X-BEDEWORK-SPEAKER:Grant Farred
+X-BEDEWORK-IMAGE-X1:76
+X-BEDEWORK-IMAGE-Y1:168
+X-BEDEWORK-IMAGE-X2:606
+X-BEDEWORK-IMAGE-Y2:521.3333333333333
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.33333333333326
+X-BEDEWORK-IMAGE-ALT-TEXT:Man in a black collared shirt\, wearing a hat an
+ d sunglasses.
+X-BEDEWORK-SUBMITTEDBY:pbodager for Cultural Anthropology (agrp_ArtsandSci
+ ences_CulturalAnthropology)
+X-BEDEWORK-IMAGE:/public/Images/Farred1_20260209035340PM.jpg
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Farred1_20260209035340PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T170000
+CATEGORIES:Medicine
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a0870ef-5181acea-0151-a1846788-00003e91:Rimmer\, J
+ ill
+CREATED:20251014T194502Z
+DESCRIPTION:The GI Research Conference is a monthly conference that highli
+ ghts ongoing research by various Duke and external investigators\, includ
+ ing fellows\, to allow discussion of both specific goals and long-term ob
+ jectives.
+DURATION:PT1H
+DTSTAMP:20251017T184630Z
+DTSTART;TZID=America/New_York:20260318T170000
+LAST-MODIFIED:20251017T184630Z
+LOCATION;X-BEDEWORK-UID=2c918085-71ed832f-0172-098647fa-0000767f:Virtual
+STATUS:CONFIRMED
+SUMMARY:Colorectal Cancer Prevention & Real-World Evidence
+UID:CAL-8a00ec8b-979413b9-0199-e44133cc-00001e8ddemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_SOM_Cli
+ nDep_Medicine,":Department of Medicine
+X-BEDEWORK-DUKE-SERIES:Gastroenterology Research Conference
+X-BEDEWORK-SUBMITTEDBY:dp187 for Division of Gastroenterology (agrp_SOM_Cl
+ inDep_Medicine_Div_Gastroenterology)
+X-BEDEWORK-SPEAKER:Drs. Cat Cheney & Samantha Menegas with Haley Hutchinso
+ n
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Africa focus
+CATEGORIES:Middle East focus
+CATEGORIES:Asia focus
+CATEGORIES:Human Rights
+CATEGORIES:Global
+CATEGORIES:Humanities
+CATEGORIES:Social Sciences
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Panel/Seminar/Colloquium
+CATEGORIES:Research
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a00ec8b-979413b9-0199-1b7d007b-000005c4:Hashmi\, R
+ aahim
+CREATED:20260126T145419Z
+DESCRIPTION:Regions are made and remade both politically and intellectuall
+ y.They are shaped\, debated\, and reimagined through politics\, scholarsh
+ ip\, and global change. Since the Cold War\, U.S. universities have relie
+ d on Area Studies as a central framework for shaping world regions\, incl
+ uding the Middle East. This model once rested on long-standing\, albeit c
+ ontested\, assumptions: that knowledge production follows disciplinary bo
+ undaries\, that regions correspond to coherent geographic and cultural un
+ its\, and that university knowledge constitutes a public good.\n\nToday\,
+  migration\, digital networks\, and especially shifting geopolitics chall
+ enge the older ways of debating and imagining regions. At the same time\,
+  funding structures\, institutional priorities\, and political debates ar
+ e reshaping higher education itself. These transformations raise urgent q
+ uestions for Middle East Studies-and for Area Studies more broadly.\n\nHo
+ w might we rethink regionalism for the twenty-first century? What would i
+ t mean to move beyond bounded geographic models toward inter-regional and
+  intra-regional frameworks that emphasize circulation\, comparison\, and 
+ connection? How can critical Area Studies address overlapping histories\,
+  diasporas\, transnational movements\, and global systems while still pre
+ serving deep linguistic\, historical\, and cultural expertise?What kind o
+ f institutional structures and ecosystems are needed to sustain such inqu
+ iry?\n\nThis conversation invites scholars and institutions to reconsider
+  how regions are made\, both intellectually and institutionally\, and to 
+ imagine new strategies for sustaining Middle East Studies in a rapidly ch
+ anging academic and political landscape.
+DURATION:PT1H30M
+DTSTAMP:20260309T175106Z
+DTSTART;TZID=America/New_York:20260318T170000
+LAST-MODIFIED:20260309T175106Z
+LOCATION;X-BEDEWORK-UID=8a0870ef-4fb9fa3c-014f-d73f5ffc-00000b5a:Rubenstei
+ n Library Carpenter Conference Room 249
+STATUS:CONFIRMED
+SUMMARY:Making Regions: Academic Strategies for Middle East Studies
+UID:CAL-8a00eca5-9af98aae-019b-facc6b1a-00001404demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Panel_Seminar_Colloquium:/us
+ er/public-user/Lectures_Conferences/Panel_Seminar_Colloquium
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Africa focus:/user/public-us
+ er/Topic of Event Focused on a Country or Continent (if applicable)/Afric
+ a focus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Asia focus:/user/public-user
+ /Topic of Event Focused on a Country or Continent (if applicable)/Asia fo
+ cus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Middle East focus:/user/publ
+ ic-user/Topic of Event Focused on a Country or Continent (if applicable)/
+ Middle East focus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Global:/user/public-user/Top
+ ic of Event Focused on a Country or Continent (if applicable)/Global
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social Sciences:/user/public
+ -user/Topics/Social Sciences
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Humanities:/user/public-user
+ /Topics/Humanities
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Human Rights:/user/public-us
+ er/Topics/Human Rights
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_Artsand
+ Sciences_AsianandMiddleEasternStudies,/principals/users/agrp_MiddleEastSt
+ udiesCenter,":Asian &amp\; Middle Eastern Studies (AMES)\,Duke University
+  Middle East Studies Center
+X-BEDEWORK-SPEAKER:Seteney Shami
+X-BEDEWORK-LOCATION:TBA
+X-BEDEWORK-SUBMITTEDBY:rsh55 for Duke Islamic Studies Center (agrp_JHFC_Du
+ keIslamicStudiesCenter)
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:15
+X-BEDEWORK-IMAGE-X2:1074
+X-BEDEWORK-IMAGE-Y2:731
+X-BEDEWORK-IMAGE-CROP-WIDTH:1074
+X-BEDEWORK-IMAGE-CROP-HEIGHT:716
+X-BEDEWORK-IMAGE-ALT-TEXT:flyer
+X-BEDEWORK-IMAGE:/public/Images/Making Regions_20260309055106PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Making Regions_20260309055106PM-thum
+ b.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Medicine
+CATEGORIES:Engineering
+CATEGORIES:Lectures/Conferences
+CATEGORIES:Utilities
+CATEGORIES:Lecture/Talk
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=2c918083-7c1b2592-017c-3466e187-00001f9f:Pachino\, 
+ Marcie
+CREATED:20260309T163656Z
+DESCRIPTION:Duke graduate students will present their research in a way th
+ e rest of us can understand.
+DURATION:PT1H
+DTSTAMP:20260309T163656Z
+DTSTART;TZID=America/New_York:20260318T170000
+LAST-MODIFIED:20260309T163656Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:Duke Research Cafe
+UID:CAL-8a003384-9cc4d1fe-019c-d3757541-000014f1demobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Lecture_Talk:/user/public-us
+ er/Lectures_Conferences/Lecture_Talk
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Medicine:/user/public-user/T
+ opics/Medicine
+X-BEDEWORK-CS;X-BEDEWORK-PARAM-DESCRIPTION="/principals/users/agrp_DukeUni
+ versityPostdoctoralAssociation,/principals/users/agrp_GraduateSchool,":Du
+ ke University Postdoctoral Association (DUPA)\,Graduate School
+X-BEDEWORK-LOCATION:Bseisu Coffee Bar
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:4 presenters with photos and talk titles
+X-BEDEWORK-SUBMITTEDBY:pachino for Engineering Graduate Student Programs &
+  Services (GSPS) (agrp_Engineering Graduate Student Programs & Services (
+ GSPS))
+X-BEDEWORK-IMAGE:/public/Images/Duke Research Cafe (530 x 353 px) (3)_2026
+ 0309043656PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Duke Research Cafe (530 x 353 px) (3
+ )_20260309043656PM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:India focus
+CATEGORIES:Multicultural/Identity
+CATEGORIES:Global
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260316T151038Z
+DESCRIPTION:Why is it so difficult to account for the role of identity in 
+ literary studies? Why do both writers and scholars of Indian English lite
+ rature express resistance to India and Indianness? What does this reveal 
+ about how non-Western literatures are read\, taught\, and understood? Dra
+ wing on years of experiences in classrooms and on U.S. university campuse
+ s\, Ragini Tharoor Srinivasan explores how writers\, critics\, teachers\,
+  and students of Indian English literatures negotiate and resist the cate
+ gories through which the field is defined: ethnic\, postcolonial\, and An
+ glophone.\n\nIn this talk\, Ragini Tharoor Srinivasan considers major con
+ temporary authors who disavow identity even as their works and public per
+ sonas respond in varied ways to the imperatives of being "Indian." Throug
+ h an innovative method of accented reading and sharing stories and syllab
+ i from her teaching\, Srinivasan relates the burdens of representation fa
+ ced by ethnic and postcolonial writers to the institutional and disciplin
+ ary pressures that affect the scholars who study their works. The lecture
+  will offer new insight into the dynamics that shape contemporary Indian 
+ English literature\, the politics of identity in literary studies\, and t
+ he complexities of teaching minoritized literatures in the West.\n\nAbout
+  the Speaker:\nRagini Tharoor Srinivasan is Assistant Professor of Englis
+ h at Rice University. She is the author of a literary studies monograph\,
+  Overdetermined (2025)\, a book of essays\, What is We? (2025)\, co-write
+ r of an epistolary memoir\, The End Doesn't Happen All at Once (2025)\, a
+ nd a co-editor of Thinking with an Accent (2023). Her public writing has 
+ appeared in numerous venues.\n\nThis event is sponsored by India@Duke and
+  the AMES department at Duke.
+DURATION:PT1H30M
+DTSTAMP:20260316T154214Z
+DTSTART;TZID=America/New_York:20260318T171500
+LAST-MODIFIED:20260316T154214Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:How Indian English Literature Becomes Ethnic\, Postcolonial\, and 
+ Anglophone
+UID:CAL-8a003384-9cc4d1fe-019c-f732f935-00001c3bdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=India focus:/user/public-use
+ r/Topic of Event Focused on a Country or Continent (if applicable)/India 
+ focus
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Global:/user/public-user/Top
+ ic of Event Focused on a Country or Continent (if applicable)/Global
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Multicultural_Identity:/user
+ /public-user/Other/Multicultural_Identity
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=preeti.singh@duke.edu:Pr
+ eeti Singh
+X-BEDEWORK-SPEAKER:Ragini Tharoor Srinivasan\, Assistant Professor of Engl
+ ish\, Rice University
+X-BEDEWORK-LOCATION:Pink Parlor\, East Duke Building
+X-BEDEWORK-IMAGE-ALT-TEXT:Ragini Tharoor Srinivasan headshot.
+X-BEDEWORK-SUBMITTEDBY:ar649 for Asian &amp\;amp\;amp\; Middle Eastern Stu
+ dies (AMES) (agrp_ArtsandSciences_AsianandMiddleEasternStudies)
+X-BEDEWORK-IMAGE:/public/Images/Screenshot 2026-03-16 at 11.08.30 AM_20260
+ 316031038PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Screenshot 2026-03-16 at 11.08.30 AM
+ _20260316031038PM-thumb.png
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:0
+X-BEDEWORK-IMAGE-X2:0
+X-BEDEWORK-IMAGE-Y2:0
+X-BEDEWORK-IMAGE-CROP-WIDTH:0
+X-BEDEWORK-IMAGE-CROP-HEIGHT:0
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Visual and Creative Arts
+CATEGORIES:Arts
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Social
+CATEGORIES:Technology
+CATEGORIES:Main
+CATEGORIES:Free Food and Beverages
+CATEGORIES:Party
+CATEGORIES:Giveaways
+CONTACT;X-BEDEWORK-UID=8a0292fd-8d13410f-018e-edb6e692-00007161:Rebecca Jo
+ hnson
+CREATED:20260312T021145Z
+DESCRIPTION:Get ready to cheer on Duke Basketball during the March Madness
+  tournament at Merch Madness! Come to the Co-Lab on Wednesday\, March 18t
+ h to join our bracket challenge\, make a Duke Basketball t-shirt\, and en
+ joy free Chick-fil-A!
+DURATION:PT2H
+DTSTAMP:20260312T021145Z
+DTSTART;TZID=America/New_York:20260318T180000
+LAST-MODIFIED:20260312T021145Z
+LOCATION;X-BEDEWORK-UID=8a0870ee-56fd49ba-0157-28f9a4a1-00007e6c:The TEC -
+  Technology Engagement Center
+STATUS:CONFIRMED
+SUMMARY:Merch Madness at the Co-Lab
+UID:CAL-8a003384-9cc4d1fe-019c-dfd0713f-0000564fdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Visual and Creative Arts:/us
+ er/public-user/Arts/Visual and Creative Arts
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Free Food and Beverages:/use
+ r/public-user/Other/Free Food and Beverages
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Giveaways:/user/public-user/
+ Other/Giveaways
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Party:/user/public-user/Othe
+ r/Party
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
+ er/Social
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Technology:/user/public-user
+ /Topics/Technology
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:graphic for event with date
+X-BEDEWORK-SUBMITTEDBY:rj215 for Innovation Co-Lab (agrp_InnovationCoLab)
+X-BEDEWORK-IMAGE:/public/Images/Orange and Black Grunge Basketball Tournam
+ ent Flyer (530 x 353 px)_20260312021145AM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/Orange and Black Grunge Basketball T
+ ournament Flyer (530 x 353 px)_20260312021145AM-thumb.png
+END:VEVENT
+BEGIN:VEVENT
+
+RECURRENCE-ID;TZID=America/New_York:20260318T230000Z
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Research
+CATEGORIES:Information Session
+CATEGORIES:Open House
+CATEGORIES:Main
+CATEGORIES:Student
+CONTACT;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf83-00000004:None
+CREATED:20260122T180513Z
+DESCRIPTION:We're hosting URS office hour sessions where you can feel free
+  to drop in with any questions regarding undergraduate research\, our awa
+ rds\, resources\, etc. No appointment necessary! We'll see you then.\n\nH
+ ere are the event details:\nLocation: Bostock\, Project Room 8\n\nMondays
+  12:00-2:00 pm (URS Staff Office Hours)\nTuesdays 5:00-7:00 pm (T-STAR Am
+ bassador Office Hours)\nWednesdays 7:00-9:00 pm (T-STAR Ambassador Office
+  Hours)\nThursdays 9:00-11:00 am (URS Staff Office Hours)
+DURATION:PT2H
+DTSTAMP:20260122T180513Z
+DTSTART;TZID=America/New_York:20260318T190000
+LAST-MODIFIED:20260122T180513Z
+LOCATION;X-BEDEWORK-UID=00f1fcdb-0f068baf-010f-068baf6e-00000000:None
+STATUS:CONFIRMED
+SUMMARY:T-STAR Ambassador URS Office Hours
+UID:CAL-8a00eca5-9af98aae-019b-e6e1c389-00002adcdemobedework@mysite.edu
+URL:https://undergraduateresearch.duke.edu/events
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Student:/user/public-user/Ut
+ ilities/Student
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Open House:/user/public-user
+ /Other/Open House
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Information Session:/user/pu
+ blic-user/Other/Information Session
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Research:/user/public-user/T
+ opics/Research
+X-BEDEWORK-STUDENT-CONTACT;X-BEDEWORK-PARAM-EMAIL=ursoffice@duke.edu:URS O
+ ffice
+X-BEDEWORK-LOCATION:Bostock Library\; Project Room 8
+X-BEDEWORK-IMAGE-X1:0
+X-BEDEWORK-IMAGE-Y1:-0.3333333333333144
+X-BEDEWORK-IMAGE-X2:530
+X-BEDEWORK-IMAGE-Y2:353
+X-BEDEWORK-IMAGE-CROP-WIDTH:530
+X-BEDEWORK-IMAGE-CROP-HEIGHT:353.3333333333333
+X-BEDEWORK-IMAGE-ALT-TEXT:URS Office Hours\; Project Room 8 in Bostock
+X-BEDEWORK-SUBMITTEDBY:sek59 for Undergraduate Research Support Office (ag
+ rp__ArtsandSciences_UndergraduateResearchSupportOffice)
+X-BEDEWORK-IMAGE:/public/Images/OH_duke calendar_20260122060513PM.png
+X-BEDEWORK-THUMB-IMAGE:/public/Images/OH_duke calendar_20260122060513PM-th
+ umb.png
+END:VEVENT
+BEGIN:VEVENT
+
+CATEGORIES:Engineering
+CATEGORIES:Other
+CATEGORIES:Utilities
+CATEGORIES:Tour
+CATEGORIES:Reception
+CATEGORIES:Social
+CATEGORIES:Main
+CONTACT;X-BEDEWORK-UID=8a018ccf-8b87f80e-018c-45b5cdab-00003947:Brandeis\,
+  alison
+CREATED:20251202T201918Z
+DESCRIPTION:PrattPhD departments and recruiting labs welcome prospective P
+ hD students to campus today with a campus tour and mixer dinner with the 
+ Engineering Student Council.
+DURATION:P1D
+DTSTAMP:20260202T133954Z
+DTSTART;VALUE=DATE:20260319
+LAST-MODIFIED:20260202T133954Z
+LOCATION;X-BEDEWORK-UID=18832edc-1b4f7314-011b-50c47c24-000000a2:Pratt Sch
+ ool of Engineering
+STATUS:CONFIRMED
+SUMMARY:Pratt 2026 PhD Recruiting Visit Kick Off - MARCH
+UID:CAL-8a00ec9e-9a83ce7f-019a-e0b82fe7-00000a8bdemobedework@mysite.edu
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Main:/user/public-user/Utili
+ ties/Main
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Tour:/user/public-user/Other
+ /Tour
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Social:/user/public-user/Oth
+ er/Social
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Reception:/user/public-user/
+ Other/Reception
+X-BEDEWORK-ALIAS;X-BEDEWORK-PARAM-DISPLAYNAME=Engineering:/user/public-use
+ r/Topics/Engineering
+X-BEDEWORK-SUBMITTEDBY:aab120 for Pratt School of Engineering (agrp_PrattS
+ chool)
 END:VEVENT
 END:VCALENDAR
 

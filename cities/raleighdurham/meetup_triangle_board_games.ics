@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313287248@meetup.com
-SEQUENCE:1
-DTSTAMP:20260317T053903Z
-DTSTART;TZID=America/New_York:20260317T183000
-DTEND;TZID=America/New_York:20260317T200000
-SUMMARY:Cary Jaycees Monthly General Membership Meeting 
-DESCRIPTION:Triangle Board Games and Bars\nThe are Cary Jaycees\, your local crew of young professionals who know how to blend community service with a whole lot of fun. If you’ve ever wanted to meet awesome people\, make a real impact\, or build your leadership skills while doing some seriously cool projects\, this is your group. Some of our regular attendees don’t RSVP so please don’t be discouraged if others haven’t RSVPd\n\nThe Jaycees are always looking for new members\, so if you’ve been thinking about getting more involved in Cary and beyond\, consider this your sign. The Jaycees are an 18-40 year old group but we welcome everyone to be an alumni member (poorly named as you don't need to be a past member.) We meet on the third Tuesday of every month at Gamers Geekery and Tavern at 6:30 PM and would love for you to stop by\, say hello\, and see what they’re all about. We cover the game fee for anyone playing with us and will also have appetizers to share.
-URL;VALUE=URI:https://www.meetup.com/triangle-board-games-and-bars/events/313287248/
-STATUS:CONFIRMED
-CREATED:20260209T234259Z
-LAST-MODIFIED:20260209T234259Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/e/0/e/600_489584558.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313454436@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260319T183000
 DTEND;TZID=America/New_York:20260319T230000
 SUMMARY:Play Board Games at the Geekery
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313566061@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260321T160000
 DTEND;TZID=America/New_York:20260321T190000
 SUMMARY:Play Games at Gamers Geekery!
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313639816@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260326T183000
 DTEND;TZID=America/New_York:20260326T230000
 SUMMARY:Play Board Games at the Geekery
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_dpfkwtyjcfblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T150000
 SUMMARY:Euchre or cards
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313703318@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260402T183000
 DTEND;TZID=America/New_York:20260402T230000
 SUMMARY:Play Board Games at the Geekery
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312872696@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260404T160000
 DTEND;TZID=America/New_York:20260404T190000
 SUMMARY:Play Games at Gamers Geekery!
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_bmrrvtyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260409T183000
 DTEND;TZID=America/New_York:20260409T230000
 SUMMARY:Play Board Games at the Geekery
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_dpfkwtyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260411T130000
 DTEND;TZID=America/New_York:20260411T150000
 SUMMARY:Euchre or cards
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_bmrrvtyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053903Z
+DTSTAMP:20260318T054443Z
 DTSTART;TZID=America/New_York:20260416T183000
 DTEND;TZID=America/New_York:20260416T230000
 SUMMARY:Play Board Games at the Geekery
@@ -173,6 +158,21 @@ CREATED:20260117T190203Z
 LAST-MODIFIED:20260117T190203Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/d/0/0/0/600_530993248.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_313259467@meetup.com
+SEQUENCE:1
+DTSTAMP:20260318T054443Z
+DTSTART;TZID=America/New_York:20260418T160000
+DTEND;TZID=America/New_York:20260418T190000
+SUMMARY:Play Games at Gamers Geekery!
+DESCRIPTION:Triangle Board Games and Bars\nOfficial event times are 4pm until 7pm\, but you are welcome to stay as long as you want.\n\nHow it works. Come on in\, grab a name tag at the bar area\, find the tables that are reserved for the Meetup group.\n\nThe $2.50 fee can be paid to the venue by talking to any of the bartenders. Food and drinks are available at the bar.
+URL;VALUE=URI:https://www.meetup.com/triangle-board-games-and-bars/events/313259467/
+STATUS:CONFIRMED
+CREATED:20260208T024915Z
+LAST-MODIFIED:20260208T024915Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/b/8/9/0/600_518147248.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/Triangle-Board-Games-and-Bars/events/ical/
 X-WR-CALNAME:Triangle Board Games and Bars

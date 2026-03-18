@@ -9,930 +9,6 @@ REFRESH-INTERVAL:P15M
 X-WR-CALNAME:Toronto Events
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13234/29517060/0/0
-DTSTART:20260213T230000Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/13234/1771023600000
-SUMMARY: Live Music / Arabic Music Night with Diar and Friends / Jay Wreh
-  / DJ TBA
-DESCRIPTION:More Info: dromtaberna https://www.dromtaberna.com/events-9O8
- Cm
-CATEGORIES:Concert,DROM-Taberna,DJ,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:More Info: dromtaberna https://www.dromtaberna.com/e
- vents-9O8Cm
-LOCATION:DROM Taberna\,458 Queen St W\, Toronto\, ON M5V 2A8\, Canada
-CREATED:20260127T044948Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260127T044948Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14071/29517120/0/0
-DTSTART:20260214T000000Z
-DTEND:20260214T060000Z
-URL:https://tockify.com/torevent/detail/14071/1771027200000
-SUMMARY: Open Mic Night - Love\, Lust & Longing Themed
-DESCRIPTION:19+\n\nTickets/More Info: brendeegreen https://www.brendeegre
- en.com/event-details-registration/bewyched-bothered-open-mic
-CATEGORIES:Spoken-Word/Poetry,Concert,The-Wych
-X-TKF-CUSTOM-PREVIEW:19+ Tickets/More Info: brendeegreen https://www.bren
- deegreen.com/event-details-registration/bewyched-bothered-open-mic
-LOCATION:The Wych\,1150 Davenport Rd\, Toronto\, ON M6H 2G5\, Canada
-CREATED:20260206T001312Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260214T034743Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14167/29517120/0/0
-DTSTART:20260214T000000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/14167/1771027200000
-SUMMARY: TAKING BACK VALENTINE'S DAY - Emo tribute night / DJ Hedspin
-DESCRIPTION:Doors 7pm/19+\n\nMore Info: instagram https://www.instagram.c
- om/p/DUi3XhrkR7h/
-CATEGORIES:Concert,Dina's-Tavern,DJ,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ More Info: instagram https://www.insta
- gram.com/p/DUi3XhrkR7h/
-LOCATION:Dina's Tavern\,486 Spadina Ave.\, Toronto\, ON M5S 2H1\, Canada
-CREATED:20260210T042052Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260210T042052Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14195/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/14195/1771034400000
-SUMMARY: Harbour Nightts (Yacht Rock/Disco/Funk) DJ event w/ JChameleon /
-  Scully Funk / Gazza
-DESCRIPTION:Doors 9pm/No Cover\n\nMore info: RA https://ra.co/events/2352
- 930
-CATEGORIES:DJ,DJ/Club/Rave,Junction-Underground
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/No Cover More info: RA https://ra.co/event
- s/2352930
-LOCATION:Junction Underground\,2907 Dundas St W\, Toronto\, ON M6P 1Z1\, 
- Canada
-CREATED:20260211T044005Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T044005Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13039/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/13039/1771034400000
-SUMMARY: Heated Rivalry Night
-DESCRIPTION:Doors 9pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca/
- event/heated-rivalry-night-the-phoenix-concert-theatre-tickets/14095024
-CATEGORIES:DJ,DJ/Club/Rave,Phoenix-Concert-Theatre
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: ticketweb https://www.ticketw
- eb.ca/event/heated-rivalry-night-the-phoenix-concert-theatre-tickets/1409
- 5024
-LOCATION:The Phoenix Concert Theatre\,410 Sherbourne St\, Toronto\, ON M5
- A 2K3\, Canada
-CREATED:20260123T184555Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260123T184555Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13446/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/13446/1771034400000
-SUMMARY: SERVICE - HEATED RIVALRY EDITION / BEATS BY THE HOT SAUCE FEATUR
- ING THE CC BOYS
-DESCRIPTION:Doors 9pm/19+\n\nMore Info: blackeagletoronto https://www.bla
- ckeagletoronto.com/
-CATEGORIES:DJ,DJ/Club/Rave,Black-Eagle
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ More Info: blackeagletoronto https://w
- ww.blackeagletoronto.com/
-LOCATION:Black Eagle\,457 Church St\, Toronto\, ON M4Y 2C5\, Canada
-CREATED:20260201T200409Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260201T200409Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13179/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/13179/1771034400000
-SUMMARY: Soul Hardware E.P. Listening Party w/ Pyro505 / Sure Yeah / Sire
- n (4)
-DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2354368
-CATEGORIES:Listening-Party,DJ,DJ/Club/Rave,Net-Plaza-Print-Shop
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23543
- 68
-LOCATION:Net Plaza Print Shop\,267 College St 2nd Floor\, Toronto\, ON M5
- T 1R6\, Canada
-CREATED:20260127T033607Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260127T033607Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13292/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/13292/1771034400000
-SUMMARY: Pre-Valentines RAP&B Party
-DESCRIPTION:Doors 9pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca/
- event/pre-valentines-rapb-party-the-mod-club-tickets/14058544
-CATEGORIES:DJ,DJ/Club/Rave,The-Mod-Club
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: ticketweb https://www.ticketw
- eb.ca/event/pre-valentines-rapb-party-the-mod-club-tickets/14058544
-LOCATION:The Mod Club\,722 College St\, Toronto\, ON M6G 1C2\, Canada
-CREATED:20260129T022955Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260129T023029Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14256/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/14256/1771034400000
-SUMMARY: LUIS F / PATMAKESMUSIC / DAN LEE / MARTIN CARRIERA / CHAMBS
-DESCRIPTION:Doors 9pm/19+\n\nNo Cover\n\nMore Info: instagram https://www
- .instagram.com/p/DUq6_6KEprD/?img_index=4
-CATEGORIES:DJ,Boogie-On-Queen,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ No Cover More Info: instagram https://
- www.instagram.com/p/DUq6_6KEprD/?img_index=4
-LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
-CREATED:20260213T004640Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260213T004640Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12445/29517240/0/0
-DTSTART:20260214T020000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/12445/1771034400000
-SUMMARY: StrobeFest Day 1 - Strobe Records 35th Anniversary Celebration w
- / Ron Allen Douglas Carter Cory Dawkins\, DJ Carl Allen\, Sharon R\, Ray 
- Ray\, DConcept
-DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2339257
-CATEGORIES:DJ,DJ/Club/Rave,The-Smith-House
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23392
- 57
-LOCATION:The Smith House\,171 College St\, Toronto\, ON M5T 1P7\, Canada
-CREATED:20260109T051137Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T043014Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13001/29517270/0/0
-DTSTART:20260214T023000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/13001/1771036200000
-SUMMARY: OG’s ONLY 001 : SIXTOO ’30’ 2XLP RELEASE PARTY
-DESCRIPTION:Doors 9:30pm/19+\n\n$30\n\nMore Info: bsmt254 https://www.bsm
- t254.com/event/ogs-only-001-sixtoo-30-2xlp-release-party/
-CATEGORIES:DJ,BSMT254,DJ/Club/Rave,Concert
-X-TKF-CUSTOM-PREVIEW:Doors 9:30pm/19+ $30 More Info: bsmt254 https://www.
- bsmt254.com/event/ogs-only-001-sixtoo-30-2xlp-release-party/
-LOCATION:BSMT254\,254 Lansdowne Ave\, Toronto\, ON M6H 3X9\, Canada
-CREATED:20260120T193649Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260120T193649Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14177/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/14177/1771038000000
-SUMMARY: Fantasy Fridays w/ GIMMEMAR
-DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2367261
-CATEGORIES:DJ,DJ/Club/Rave,Evangeline
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
- 67261
-LOCATION:Evangeline\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
-CREATED:20260211T040416Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T040416Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13426/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/13426/1771038000000
-SUMMARY: LOVE CONNECTION w/ DJ RAY S & DJ MAARTON
-DESCRIPTION:Doors 10pm/19+\n\nNo Cover\n\nMore Info: Instagram https://ww
- w.instagram.com/farsidetoronto/p/DUEzcCzgDkz/
-CATEGORIES:DJ,Farside-Bar,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ No Cover More Info: Instagram https:/
- /www.instagram.com/farsidetoronto/p/DUEzcCzgDkz/
-LOCATION:Farside Bar\,600 Gerrard St E\, Toronto\, ON M4M 1Y3\, Canada
-CREATED:20260201T192016Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260201T192016Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14243/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/14243/1771038000000
-SUMMARY: 派對動物 x 夜王 廣東歌之夜 party animal x night king cantopop party
-DESCRIPTION:Doors 10pm\n\nTickets: eventbrite https://www.eventbrite.ca/e
- /2026-02-13-x-party-animal-x-night-king-cantopop-party-tickets-1981922109
- 381
-CATEGORIES:DJ,DJ/Club/Rave,Rivoli
-X-TKF-CUSTOM-PREVIEW:Doors 10pm Tickets: eventbrite https://www.eventbrit
- e.ca/e/2026-02-13-x-party-animal-x-night-king-cantopop-party-tickets-1981
- 922109381
-LOCATION:Rivoli\,334 Queen St W\, Toronto\, ON M5V 2A2\, Canada
-CREATED:20260212T032738Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260212T032738Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/8785/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/8785/1771038000000
-SUMMARY: ALLEYCVT - 9 LIVES TOUR / DENNETT / COZY KEV
-DESCRIPTION:Doors 10pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca
- /event/alleycvt-9-lives-rebel-tickets/14583933
-CATEGORIES:DJ,DJ/Club/Rave,REBEL
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: ticketweb https://www.ticket
- web.ca/event/alleycvt-9-lives-rebel-tickets/14583933
-LOCATION:REBEL\,11 Polson St\, Toronto\, ON M5A 1A4\, Canada
-CREATED:20251003T180921Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251003T180921Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14190/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/14190/1771038000000
-SUMMARY: All My Love 4 U - Release Party w/ Jan Cool / Dial-Up Connection
-  aka 99hp
-DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2367006
-CATEGORIES:DJ,DJ/Club/Rave,The-Little-Jerry
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
- 67006
-LOCATION:The Little Jerry\,418 College St\, Toronto\, ON M5T 1T3\, Canada
-CREATED:20260211T043221Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T043221Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12440/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/12440/1771038000000
-SUMMARY: Heart Breaker’s Ball
-DESCRIPTION:Doors 10pm/19+\n\nMore Info: revivaleventvenue https://www.re
- vivaleventvenue.ca/event/heart-breakers-ball-2/
-CATEGORIES:Dance---Performance---Theatre,Revival,Market,DJ,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: revivaleventvenue https://
- www.revivaleventvenue.ca/event/heart-breakers-ball-2/
-LOCATION:Revival\,783 College St\, Toronto\, ON M6G 1C5\, Canada
-CREATED:20260109T045056Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260109T045056Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12230/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/12230/1771038000000
-SUMMARY: Surusinghe\, Brux\, Sasha Kalra and Choirboi presented by High T
- ide x Standard Time
-DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2335947
-CATEGORIES:DJ,Standard-Time,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2335
- 947
-LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
-CREATED:20260107T034334Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260120T191614Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12399/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/12399/1771038000000
-SUMMARY: ELECTROGASM - presented by: Pure Camp & Exposure Ther4py w/ 999A
- DJ / Stella Maise / Disthene / Castelvi / Miami Deathrow - LIVE (mtl)
-DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2326829
-CATEGORIES:DJ,Cafeteria,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2326
- 829
-LOCATION:Cafeteria\,1650 Dupont St\, Toronto\, ON M6P 3T2\, Canada
-CREATED:20260108T210055Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260108T210055Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14147/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/14147/1771038000000
-SUMMARY: Gotta Have House - Volume 006 w/ Manzzy @WhodafunkisGreg Monokro
- matic @diaz
-DESCRIPTION:Doors 10pm/19+\n\nRSVP: tickettailor https://www.tickettailor
- .com/events/noteveryoneunderstands/2053221
-CATEGORIES:DJ,DJ/Club/Rave,Reverie
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ RSVP: tickettailor https://www.ticket
- tailor.com/events/noteveryoneunderstands/2053221
-LOCATION:Reverie\,569 College St\, Toronto\, ON M6G 1B2\, Canada
-CREATED:20260210T014423Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260210T014423Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13711/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/13711/1771038000000
-SUMMARY: NuYo Ritmo presents: Marcel Ruiz\, Hangaëlle\, Roland Gonzales\,
-  Hasa
-DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2354850
-CATEGORIES:DJ,Bambi's,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
- 54850
-LOCATION:Bambi's\,1265 Dundas St W\, Toronto\, ON M6J 1X6\, Canada
-CREATED:20260203T033018Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T033018Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/11168/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/11168/1771038000000
-SUMMARY: ROSSI / TABBARA / PASHA / VICTOR DE GIORGIO
-DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
- /event/rossi-coda-tickets/14724663
-CATEGORIES:DJ,CODA,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
- web.ca/event/rossi-coda-tickets/14724663
-LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
-CREATED:20251210T174711Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251210T174711Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12796/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T080000Z
-URL:https://tockify.com/torevent/detail/12796/1771038000000
-SUMMARY: YA TAB TAB NIGHT
-DESCRIPTION:Doors 10pm/19+\n\nTickets: marsmcanada https://marsmcanada.ti
- cket-souq.com/events/146084
-CATEGORIES:DJ,DJ/Club/Rave,El-Mocambo
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: marsmcanada https://marsmcan
- ada.ticket-souq.com/events/146084
-LOCATION:El Mocambo\,464 Spadina Ave. #462\, Toronto\, ON M5T 2G8\, Canad
- a
-CREATED:20260114T184411Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260114T184411Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13498/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/13498/1771038000000
-SUMMARY: GAY RIGHTS (VOL. 10) w/ 999ADJ / BLIPTOR / MOMOCITA / COHEN / PS
- I / REDLINERS / GUSSYEE / SUCKSIREN / BOOTY CORNFED / KAI
-DESCRIPTION:Doors 10pm/19+\n\nTickets: showpass https://www.showpass.com/
- gayrights/
-CATEGORIES:DJ,DJ/Club/Rave,Buddies-in-Bad-Times
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: showpass https://www.showpas
- s.com/gayrights/
-LOCATION:Buddies in Bad Times\,12 Alexander St\, Toronto\, ON M4Y 1B4\, C
- anada
-CREATED:20260202T024717Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T024717Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13464/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/13464/1771038000000
-SUMMARY: OVERLOAD w/ KILL 9 1 / A_C_E. / Weston & Teston / Axel Esphinoza
-DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2356683\n\
- n
-CATEGORIES:DJ,Raven-Gallery,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2356
- 683
-LOCATION:Raven Gallery\,333 Yonge St #2\, Toronto\, ON M5B 1R7\, Canada
-CREATED:20260201T204246Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260201T204246Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14194/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/14194/1771038000000
-SUMMARY: Ozmozis presents Family & Friends Event w/ Oz Akgun & Friends (T
- BA)
-DESCRIPTION:Doors 10pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca
- /event/family-friends-event-ozmozis-tickets/14139984
-CATEGORIES:DJ,DJ/Club/Rave,Ozmozis
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: ticketweb https://www.ticket
- web.ca/event/family-friends-event-ozmozis-tickets/14139984
-LOCATION:Ozmozis\,10 Wellspring Ln\, Toronto\, ON M4Y 2C6\, Canada
-CREATED:20260211T043735Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T043735Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14042/29517300/0/0
-DTSTART:20260214T030000Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/14042/1771038000000
-SUMMARY: TH\;EN Toronto Debut w/ RIZA YILDIRIM / SAMARA DEL MARA / AYLA B
- 2B BLANCHECHO
-DESCRIPTION:Doors 10pm/19+\n\nTickets: eventbrite https://www.eventbrite.
- ca/e/then-toronto-debut-tickets-1978204101720
-CATEGORIES:DJ,DJ/Club/Rave,Nomad
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: eventbrite https://www.event
- brite.ca/e/then-toronto-debut-tickets-1978204101720
-LOCATION:Nomad\,725 Queen St E\, Toronto\, ON M4M 1H1\, Canada
-CREATED:20260205T170639Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260205T170639Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12946/29517330/0/0
-DTSTART:20260214T033000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/12946/1771039800000
-SUMMARY: Emo Night
-DESCRIPTION:Doors 10:30pm/19+\n\nTickets: Ticketweb https://www.ticketweb
- .ca/event/emo-night-toronto-at-sneaky-sneaky-dees-concert-venue-tickets/1
- 4683553\n\n
-CATEGORIES:DJ,DJ/Club/Rave,Sneaky-Dee's
-X-TKF-CUSTOM-PREVIEW:Doors 10:30pm/19+ Tickets: Ticketweb https://www.tic
- ketweb.ca/event/emo-night-toronto-at-sneaky-sneaky-dees-concert-venue-tic
- kets/14683553
-LOCATION:Sneaky Dee's\,431 College St\, Toronto\, ON M5T 1T1\, Canada
-CREATED:20260120T034850Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260120T034850Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/11465/29517330/0/0
-DTSTART:20260214T033000Z
-DTEND:20260214T070000Z
-URL:https://tockify.com/torevent/detail/11465/1771039800000
-SUMMARY: MK - Marc Kinchen w/ Mojie
-DESCRIPTION:Doors 10:30pm/19+\n\nTickets: ticketweb https://www.ticketweb
- .ca/event/mk-dprtmnt-tickets/14720733
-CATEGORIES:DJ,DJ/Club/Rave,DPRTMNT
-X-TKF-CUSTOM-PREVIEW:Doors 10:30pm/19+ Tickets: ticketweb https://www.tic
- ketweb.ca/event/mk-dprtmnt-tickets/14720733
-LOCATION:DPRTMNT\,473 Adelaide St W\, Toronto\, ON M5V 1T1\, Canada
-CREATED:20251215T200505Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251215T200606Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13460/29517330/0/0
-DTSTART:20260214T033000Z
-DTEND:20260214T073000Z
-URL:https://tockify.com/torevent/detail/13460/1771039800000
-SUMMARY: BADTAMEEZ DIL – VALENTINE’S SPECIAL |TORONTO |SHISHA| INDOOR +HE
- ATED PATIO
-DESCRIPTION:Doors 10:30pm/19+\n\nTickets: eventbrite https://www.eventbri
- te.ca/e/badtameez-dil-valentines-special-toronto-shisha-indoor-heated-pat
- io-tickets-1980827919630
-CATEGORIES:DJ,DJ/Club/Rave,Acqua-Supper-Club
-X-TKF-CUSTOM-PREVIEW:Doors 10:30pm/19+ Tickets: eventbrite https://www.ev
- entbrite.ca/e/badtameez-dil-valentines-special-toronto-shisha-indoor-heat
- ed-patio-tickets-1980827919630
-LOCATION:Acqua Supper Club\,50 Prince Edward Island Crescent\, Toronto\, 
- ON M6K 3C3\, Canada
-CREATED:20260201T202818Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260201T202818Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13641/29517360/0/0
-DTSTART:20260214T040000Z
-DTEND:20260214T053000Z
-URL:https://tockify.com/torevent/detail/13641/1771041600000
-SUMMARY: Bad Luck Love Show
-DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/b
- ad-luck-love-show
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
- hows/bad-luck-love-show
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041106Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041106Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13978/29517419/0/0
-DTSTART:20260214T045900Z
-DTEND:20260214T090000Z
-URL:https://tockify.com/torevent/detail/13978/1771045140000
-SUMMARY: DJ MR. MATTHEWS - 4am Last Call
-DESCRIPTION:Doors 11:59pm/19+\n\nMore Info: garrisontoronto http://www.ga
- rrisontoronto.com/listings.html
-CATEGORIES:DJ,The-Garrison,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 11:59pm/19+ More Info: garrisontoronto http://
- www.garrisontoronto.com/listings.html
-LOCATION:The Garrison\,1197 Dundas St W\, Toronto\, ON M6J 1X3\, Canada
-CREATED:20260205T152737Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260205T152737Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14191/29517419/0/0
-DTSTART:20260214T045900Z
-DTEND:20260214T120000Z
-URL:https://tockify.com/torevent/detail/14191/1771045140000
-SUMMARY: Vertigo Weekend w/ Jonathan Rosa\, KIMVANITY\, Circa
-DESCRIPTION:Doors 11:59pm/19+\n\nMore Info: RA https://ra.co/events/23671
- 28
-CATEGORIES:DJ,Vertigo,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:Doors 11:59pm/19+ More Info: RA https://ra.co/events
- /2367128
-LOCATION:Vertigo\,66 Gerrard St E\, Toronto\, ON M5B 2M2\, Canada
-CREATED:20260211T043447Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T043447Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14072/29517480/0/0
-DTSTART:20260214T060000Z
-DTEND:20260214T060000Z
-URL:https://tockify.com/torevent/detail/14072/1771048800000
-SUMMARY: VALLOWEEN! w/ MINDFRACTATION / SOLAR / ACID BURN / SMUT
-DESCRIPTION:19+\n\nTickets/More Info: brendeegreen https://www.brendeegre
- en.com/event-details-registration/valloween
-CATEGORIES:Spoken-Word/Poetry,Concert,The-Wych,DJ,DJ/Club/Rave,Dance---Pe
- rformance---Theatre
-X-TKF-CUSTOM-PREVIEW:19+ Tickets/More Info: brendeegreen https://www.bren
- deegreen.com/event-details-registration/valloween
-LOCATION:The Wych\,1150 Davenport Rd\, Toronto\, ON M6H 2G5\, Canada
-CREATED:20260206T001745Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260217T023153Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13237/29517870/0/0
-DTSTART:20260214T123000Z
-DTEND:20260214T230000Z
-URL:https://tockify.com/torevent/detail/13237/1771072200000
-SUMMARY: Experience CBC Olympic House Family Day Weekend!
-DESCRIPTION:CBC is opening its doors for the ultimate Family Day weekend 
- celebration.\n\nFrom February 14th to 16th\, the CBC Toronto Broadcast Ce
- ntre will be transformed into the CBC Olympic House—your home for three d
- ays of non-stop energy\, community spirit\, and Olympic thrills.\n\nThe e
- vent is free and features live performances\, activities for kids\, givea
- ways\, and the chance to try calling the action yourself in a broadcast.\
- n\nCome down with your friends and family and help create Canada’s loudes
- t cheering section.\n\nFor the full schedule of events\, visit http://cbc
- .ca/experiences http://cbc.ca/experiences cbc.ca/experiences.\n\n
-CATEGORIES:Dance---Performance---Theatre,CBC-Toronto-Broadcast-Centre
-X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/6755f3e6a02aaf
- 1c2599e757/69797eca2c97af2cfcb95131/scaled_1024.jpg
-X-TKF-CUSTOM-PREVIEW:CBC is opening its doors for the ultimate Family Day
-  weekend celebration. From February 14th to 16th\, the CBC Toronto Broadc
- ast Centre will be transformed...
-X-TKF-PROMOTION-BUTTON;label=cbc.ca/experiences;skip_details=false:http:/
- /cbc.ca/experiences
-LOCATION:CBC Toronto Broadcast Centre\,250 Front Street West\, Toronto\, 
- ON M5V 3G5\, Canada
-CREATED:20260128T031316Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260128T031526Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/9388/29518200/0/0
-DTSTART:20260214T180000Z
-DTEND:20260214T200000Z
-URL:https://tockify.com/torevent/detail/9388/1771092000000
-SUMMARY: Frequency Freaks Synthesizer Workshops
-DESCRIPTION:Free (PWYC)\n\nMORE INFO: arraymusic https://www.arraymusic.c
- a/frequency-freaks-synthesizer-workshops-2526/
-CATEGORIES:Workshop,Arraymusic
-X-TKF-CUSTOM-PREVIEW:Free (PWYC) MORE INFO: arraymusic https://www.arraym
- usic.ca/frequency-freaks-synthesizer-workshops-2526/
-LOCATION:Arraymusic\,155 Walnut Ave\, Toronto\, ON M6J 3W3\, Canada
-CREATED:20251027T020352Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251027T020352Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13956/29518200/0/0
-DTSTART:20260214T180000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13956/1771092000000
-SUMMARY: Winterfolk Blues and Roots Festival
-DESCRIPTION:Full Building\n\nTickets: winterfolk https://www.winterfolk.c
- om/wristbands/\n\n
-CATEGORIES:Concert,Tranzac
-X-TKF-CUSTOM-PREVIEW:Full Building Tickets: winterfolk https://www.winter
- folk.com/wristbands/
-LOCATION:Tranzac\,292 Brunswick Ave\, Toronto\, ON M5S 2M7\, Canada
-CREATED:20260204T235339Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260204T235339Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13828/29518230/0/0
-DTSTART:20260214T183000Z
-DTEND:20260214T200000Z
-URL:https://tockify.com/torevent/detail/13828/1771093800000
-SUMMARY: Arco
-DESCRIPTION:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-on/now-sh
- owing/
-CATEGORIES:Film,Fox-Theatre
-X-TKF-CUSTOM-PREVIEW:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-
- on/now-showing/
-LOCATION:Fox Theatre\,2236 Queen St E\, Toronto\, ON M4E 1G2\, Canada
-CREATED:20260203T232858Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T232858Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13372/29518230/0/0
-DTSTART:20260214T183000Z
-DTEND:20260214T200000Z
-URL:https://tockify.com/torevent/detail/13372/1771093800000
-SUMMARY: The Before Trilogy: BEFORE SUNRISE (1995)
-DESCRIPTION:Tickets: Revue https://prod3.agileticketing.net/websales/page
- s/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2F01%2F202
- 6&
-CATEGORIES:Film,Revue-Cinema
-X-TKF-CUSTOM-PREVIEW:Tickets: Revue https://prod3.agileticketing.net/webs
- ales/pages/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2
- F01%2F2026&
-LOCATION:Revue Cinema\,400 Roncesvalles Ave\, Toronto\, ON M6R 2M9\, Cana
- da
-CREATED:20260131T030201Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260131T030547Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13885/29518260/0/0
-DTSTART:20260214T190000Z
-DTEND:20260214T210000Z
-URL:https://tockify.com/torevent/detail/13885/1771095600000
-SUMMARY: Roman Holiday
-DESCRIPTION:More Info: paradiseonbloor https://paradiseonbloor.com/coming
- -soon/
-CATEGORIES:Film,Paradise-Theatre
-X-TKF-CUSTOM-PREVIEW:More Info: paradiseonbloor https://paradiseonbloor.c
- om/coming-soon/
-LOCATION:Paradise Theatre\,1006c Bloor St W\, Toronto\, ON M6H 1M2\, Cana
- da
-CREATED:20260204T000911Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260204T000911Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13203/29518320/0/0
-DTSTART:20260214T200000Z
-DTEND:20260214T230000Z
-URL:https://tockify.com/torevent/detail/13203/1771099200000
-SUMMARY: Community Piano Jam
-DESCRIPTION:Doors 3pm/19+\n\nMore Info: thepaintedlady https://www.thepai
- ntedlady.ca/events
-CATEGORIES:Concert,The-Painted-Lady
-X-TKF-CUSTOM-PREVIEW:Doors 3pm/19+ More Info: thepaintedlady https://www.
- thepaintedlady.ca/events
-LOCATION:The Painted Lady\,218 Ossington Ave\, Toronto\, ON M6J 2Z9\, Can
- ada
-CREATED:20260127T042157Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260127T042157Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13845/29518380/0/0
-DTSTART:20260214T210000Z
-DTEND:20260214T223000Z
-URL:https://tockify.com/torevent/detail/13845/1771102800000
-SUMMARY: Nirvanna the Band the Show the Movie
-DESCRIPTION:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-on/now-sh
- owing/
-CATEGORIES:Film,Fox-Theatre
-X-TKF-CUSTOM-PREVIEW:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-
- on/now-showing/
-LOCATION:Fox Theatre\,2236 Queen St E\, Toronto\, ON M4E 1G2\, Canada
-CREATED:20260203T234127Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T234127Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13373/29518410/0/0
-DTSTART:20260214T213000Z
-DTEND:20260214T230000Z
-URL:https://tockify.com/torevent/detail/13373/1771104600000
-SUMMARY: The Before Trilogy: BEFORE SUNSET (2004)
-DESCRIPTION:Tickets: Revue https://prod3.agileticketing.net/websales/page
- s/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2F01%2F202
- 6&
-CATEGORIES:Film,Revue-Cinema
-X-TKF-CUSTOM-PREVIEW:Tickets: Revue https://prod3.agileticketing.net/webs
- ales/pages/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2
- F01%2F2026&
-LOCATION:Revue Cinema\,400 Roncesvalles Ave\, Toronto\, ON M6R 2M9\, Cana
- da
-CREATED:20260131T030230Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260131T030536Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13642/29518440/0/0
-DTSTART:20260214T220000Z
-DTEND:20260214T233000Z
-URL:https://tockify.com/torevent/detail/13642/1771106400000
-SUMMARY: Roti\, Kapda Aur Comedy - A Desi Comedy Show
-DESCRIPTION:Cabaret\n\nTickets: comedybar https://comedybar.ca/shows/roti
- -kapda-aur-comedy-a-desi-comedy-show
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: comedybar https://comedybar.ca/show
- s/roti-kapda-aur-comedy-a-desi-comedy-show
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041256Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041256Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13643/29518440/0/0
-DTSTART:20260214T220000Z
-DTEND:20260214T233000Z
-URL:https://tockify.com/torevent/detail/13643/1771106400000
-SUMMARY: Valentine's Day Comedy Date Night
-DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/v
- alentines-day-comedy-date-night
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
- hows/valentines-day-comedy-date-night
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041351Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041351Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14202/29518440/0/0
-DTSTART:20260214T220000Z
-DTEND:20260215T013000Z
-URL:https://tockify.com/torevent/detail/14202/1771106400000
-SUMMARY: In Store Session: 1 Year of Clara Records w/ Chiara
-DESCRIPTION:Doors 5pm/19+\n\nFree Tickets: RA https://ra.co/events/236833
- 7
-CATEGORIES:DJ,DJ/Club/Rave,Rhythm
-X-TKF-CUSTOM-PREVIEW:Doors 5pm/19+ Free Tickets: RA https://ra.co/events/
- 2368337
-LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
-CREATED:20260211T232027Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T232027Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14013/29518470/0/0
-DTSTART:20260214T223000Z
-DTEND:20260215T010000Z
-URL:https://tockify.com/torevent/detail/14013/1771108200000
-SUMMARY: The Adam Dilouya Quintet\, Valentine’s Jazz ballads and swing
-DESCRIPTION:More Info: theemmetray https://www.theemmetray.com/entertainm
- ent/events-2023/
-CATEGORIES:Concert,The-Emmet-Ray
-X-TKF-CUSTOM-PREVIEW:More Info: theemmetray https://www.theemmetray.com/e
- ntertainment/events-2023/
-LOCATION:The Emmet Ray\,924 College St\, Toronto\, ON M6H 1A4\, Canada
-CREATED:20260205T162811Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260205T162811Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13783/29518500/0/0
-DTSTART:20260214T230000Z
-DTEND:20260215T010000Z
-URL:https://tockify.com/torevent/detail/13783/1771110000000
-SUMMARY: Big Tobacco & the Pickers
-DESCRIPTION:More Info: thecameron https://www.thecameron.com/shows
-CATEGORIES:Concert,Cameron-House
-X-TKF-CUSTOM-PREVIEW:More Info: thecameron https://www.thecameron.com/sho
- ws
-LOCATION:Cameron House\,408 Queen St W\, Toronto\, ON M5V 2A7\, Canada
-CREATED:20260203T180923Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T180923Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13002/29518500/0/0
-DTSTART:20260214T230000Z
-DTEND:20260215T020000Z
-URL:https://tockify.com/torevent/detail/13002/1771110000000
-SUMMARY: La Cueva: Underground Flamenco
-DESCRIPTION:Doors 6pm/All Ages\n\nTickets: eventbrite https://www.eventbr
- ite.ca/e/la-cueva-flamenco-underground-tickets-1974515145954
-CATEGORIES:Concert,BSMT254,Dance---Performance---Theatre
-X-TKF-CUSTOM-PREVIEW:Doors 6pm/All Ages Tickets: eventbrite https://www.e
- ventbrite.ca/e/la-cueva-flamenco-underground-tickets-1974515145954
-LOCATION:BSMT254\,254 Lansdowne Ave\, Toronto\, ON M6H 3X9\, Canada
-CREATED:20260120T193858Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260120T193858Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/13235/29518500/0/0
 DTSTART:20260214T230000Z
 DTEND:20260215T090000Z
@@ -947,424 +23,6 @@ LOCATION:DROM Taberna\,458 Queen St W\, Toronto\, ON M5V 2A8\, Canada
 CREATED:20260127T045018Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260127T045018Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13886/29518530/0/0
-DTSTART:20260214T233000Z
-DTEND:20260215T010000Z
-URL:https://tockify.com/torevent/detail/13886/1771111800000
-SUMMARY: 50 First Dates with Lindsay Mullan
-DESCRIPTION:More Info: paradiseonbloor https://paradiseonbloor.com/coming
- -soon/
-CATEGORIES:Film,Paradise-Theatre
-X-TKF-CUSTOM-PREVIEW:More Info: paradiseonbloor https://paradiseonbloor.c
- om/coming-soon/
-LOCATION:Paradise Theatre\,1006c Bloor St W\, Toronto\, ON M6H 1M2\, Cana
- da
-CREATED:20260204T000941Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260204T000941Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13374/29518545/0/0
-DTSTART:20260214T234500Z
-DTEND:20260215T010000Z
-URL:https://tockify.com/torevent/detail/13374/1771112700000
-SUMMARY: The Before Trilogy: BEFORE MIDNIGHT (2013)
-DESCRIPTION:Tickets: Revue https://prod3.agileticketing.net/websales/page
- s/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2F01%2F202
- 6&
-CATEGORIES:Film,Revue-Cinema
-X-TKF-CUSTOM-PREVIEW:Tickets: Revue https://prod3.agileticketing.net/webs
- ales/pages/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2
- F01%2F2026&
-LOCATION:Revue Cinema\,400 Roncesvalles Ave\, Toronto\, ON M6R 2M9\, Cana
- da
-CREATED:20260131T030322Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260131T030529Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13855/29518545/0/0
-DTSTART:20260214T234500Z
-DTEND:20260215T013000Z
-URL:https://tockify.com/torevent/detail/13855/1771112700000
-SUMMARY: Pillion
-DESCRIPTION:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-on/now-sh
- owing/
-CATEGORIES:Film,Fox-Theatre
-X-TKF-CUSTOM-PREVIEW:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-
- on/now-showing/
-LOCATION:Fox Theatre\,2236 Queen St E\, Toronto\, ON M4E 1G2\, Canada
-CREATED:20260203T234522Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T234522Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/12535/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T013000Z
-URL:https://tockify.com/torevent/detail/12535/1771113600000
-SUMMARY: Laugh It Off
-DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/L
- augh-It-Off-Bloor
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
- hows/Laugh-It-Off-Bloor
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260113T043619Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260113T043619Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13644/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T013000Z
-URL:https://tockify.com/torevent/detail/13644/1771113600000
-SUMMARY: Saturday Night F.O.M.O
-DESCRIPTION:Cabaret\n\nTickets: comedybar https://comedybar.ca/shows/satu
- rday-night-fomo
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: comedybar https://comedybar.ca/show
- s/saturday-night-fomo
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041446Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041446Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/6469/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T040000Z
-URL:https://tockify.com/torevent/detail/6469/1771113600000
-SUMMARY: Jared Freid
-DESCRIPTION:@ The Danforth Music Hall\n\nDoors 6pm/All Ages\n\nTickets: T
- icketMaster https://www.ticketmaster.ca/jared-freid-the-table-for-one-tor
- onto-ontario-02-14-2026/event/100062D3D3984814
-CATEGORIES:Comedy,The-Danforth-Music-Hall
-X-TKF-CUSTOM-PREVIEW:@ The Danforth Music Hall Doors 6pm/All Ages Tickets
- : TicketMaster...
-LOCATION:The Danforth Music Hall\,147 Danforth Ave\, Toronto\, ON M4K 1N2
- \, Canada
-CREATED:20250728T025220Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20250728T025220Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13174/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13174/1771113600000
-SUMMARY: A Show For Lovers w/ Monomyth / Atrophy / Slow Decay / Vesper
-DESCRIPTION:Doors 7pm/All Ages\n\n$15 or PWYC\n\nMore Info: instagram htt
- ps://www.instagram.com/samanthaputsonashow/p/DTtMOstEszb/
-CATEGORIES:Concert,Arraymusic
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages $15 or PWYC More Info: instagram 
- https://www.instagram.com/samanthaputsonashow/p/DTtMOstEszb/
-LOCATION:Arraymusic\,155 Walnut Ave\, Toronto\, ON M6J 3W3\, Canada
-CREATED:20260127T031428Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260127T031428Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13070/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13070/1771113600000
-SUMMARY: Andrew Callaghan - All Gas No Brakes x Channel 5 “Carnival”
-DESCRIPTION:Doors 6pm/19+\n\nTickets: admitone https://admitone.com/event
- s/toronto/pro/other/queen-elizabeth-theatre/andrew-callaghan/andrew-calla
- ghan/681d11117d3a4df5fd2d2c24
-CATEGORIES:Concert,Dance---Performance---Theatre,Film,Queen-Elizabeth-The
- atre
-X-TKF-CUSTOM-PREVIEW:Doors 6pm/19+ Tickets: admitone...
-LOCATION:Queen Elizabeth Theatre\,190 Princes' Blvd\, Toronto\, ON M6K 3C
- 3\, Canada
-CREATED:20260126T004346Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260126T004346Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13333/29518560/0/0
-DTSTART:20260215T000000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13333/1771113600000
-SUMMARY: Risqué at the Rivoli: Opera meets Burlesque
-DESCRIPTION:Doors 7pm/19+\n\nTickets: eventbrite https://www.eventbrite.c
- a/e/risque-at-the-rivoli-opera-meets-burlesque-tickets-1979748404772
-CATEGORIES:Dance---Performance---Theatre,Concert,Rivoli
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: eventbrite https://www.eventb
- rite.ca/e/risque-at-the-rivoli-opera-meets-burlesque-tickets-197974840477
- 2
-LOCATION:Rivoli\,334 Queen St W\, Toronto\, ON M5V 2A2\, Canada
-CREATED:20260129T035859Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260129T035859Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/10099/29518590/0/0
-DTSTART:20260215T003000Z
-DTEND:20260215T030000Z
-URL:https://tockify.com/torevent/detail/10099/1771115400000
-SUMMARY: Soundstreams presents: Arvo Pärt at 90 feat. Estonian Philharmon
- ic Chamber Choir
-DESCRIPTION:Tickets: rcmusic https://www.rcmusic.com/event-calendar/sound
- streams-estonian-philharmonic-chamber-choir-arvo-part-at-90
-CATEGORIES:Concert
-X-TKF-CUSTOM-PREVIEW:Tickets: rcmusic https://www.rcmusic.com/event-calen
- dar/soundstreams-estonian-philharmonic-chamber-choir-arvo-part-at-90
-LOCATION:Yorkminster Park Baptist Church\,1585 Yonge St\, Toronto\, ON M4
- T 1Z9\, Canada
-CREATED:20251107T001833Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251107T001833Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13346/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T030000Z
-URL:https://tockify.com/torevent/detail/13346/1771117200000
-SUMMARY: Top Shelf Temptation: A Valentine's Burlesque Show
-DESCRIPTION:Spirit of York Presents: Top Shelf Temptation A Valentine’s b
- urlesque experience\n\nStep into an intimate night of indulgence with spe
- ciality cocktails\, decadent bites\, and\, of course\, some of Toronto's 
- hottest burlesque talent. Your night will begin with a welcome cocktail (
- or mocktail) before you are shown to your seats in our restaurant-lounge.
-  From there\, performers will glide through the room\, blurring the line 
- between stage and spectator. We have 3 dazzling performers lined up\, eac
- h bringing two sizzling acts to set the mood for Valentine’s night. Betwe
- en the performances\, steal a moment with your date\, top up your cocktai
- ls\, and savor the evening as it unfolds around you.\n\nNo bad seats. No 
- safe distance. Just pure\, intoxicating energy in every direction.\n\nOur
-  bar team has crafted a menu of custom cocktails (& mocktails) for the ni
- ght\, with our happy hour offerings flowing alongside them. In the kitche
- n\, our chef delivers a lineup of decadent shareables. Seduction in every
-  sip. Temptation in every glance. This is Valentine’s the Spirit of York 
- way.
-CATEGORIES:Dance---Performance---Theatre,Spirit-of-York-Distillery-Co.
-X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/6755f3e6a02aaf
- 1c2599e757/697d12612d5ab23663e7fdee/scaled_1024.jpg
-X-TKF-CUSTOM-PREVIEW:Spirit of York Presents: Top Shelf Temptation A Vale
- ntine’s burlesque experience Step into an intimate night of indulgence wi
- th speciality cocktails\,...
-X-TKF-PROMOTION-BUTTON;label=Get Your Tickets;skip_details=false:https://
- www.opentable.com/booking/experiences-availability?rid=1264714&restref=12
- 64714&experienceId=631333&utm_source=external&utm_medium=referral&utm_cam
- paign=shared
-LOCATION:Spirit of York Distillery Co.\,12 Trinity St\, Toronto\, ON M5A 
- 3C4
-CREATED:20260130T201946Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260130T202036Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13514/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T033000Z
-URL:https://tockify.com/torevent/detail/13514/1771117200000
-SUMMARY: A Handful Of Dust
-DESCRIPTION:More Info: Instagram https://www.instagram.com/eyesore_cinema
- /p/DUMXFpgkeIG/
-CATEGORIES:Film,Eyesore-Cinema
-X-TKF-CUSTOM-PREVIEW:More Info: Instagram https://www.instagram.com/eyeso
- re_cinema/p/DUMXFpgkeIG/
-LOCATION:Eyesore Cinema\,1176 Bloor St W\, Toronto\, ON M6H 1N1\, Canada
-CREATED:20260202T030528Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T030528Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13316/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13316/1771117200000
-SUMMARY: Carina's Pink Valentines Day Show
-DESCRIPTION:Doors 7pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca/
- event/carinas-pink-valentines-day-show-hard-luck-bar-tickets/14080234
-CATEGORIES:Concert,Hard-Luck-Bar
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: ticketweb https://www.ticketw
- eb.ca/event/carinas-pink-valentines-day-show-hard-luck-bar-tickets/140802
- 34
-LOCATION:Hard Luck Bar\,772A Dundas St W\, Toronto\, ON M6J 1V1\, Canada
-CREATED:20260129T033225Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260129T033225Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/10709/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/10709/1771117200000
-SUMMARY: Christopher Owens w/ LUKA KAPLOWSKY
-DESCRIPTION:Doors 8pm/19+\n\nTickets: ticketweb https://www.ticketweb.ca/
- event/christopher-owens-the-garrison-tickets/14698733
-CATEGORIES:Concert,The-Garrison
-X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: ticketweb https://www.ticketw
- eb.ca/event/christopher-owens-the-garrison-tickets/14698733
-LOCATION:The Garrison\,1197 Dundas St W\, Toronto\, ON M6J 1X3\, Canada
-CREATED:20251126T032428Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260205T153308Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/11554/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/11554/1771117200000
-SUMMARY: FACS w/ SO TIRED / OIL GIANT
-DESCRIPTION:Doors 8pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca/
- event/facs-with-special-guests-the-dance-cave-tickets/14648933
-CATEGORIES:Concert,Dance-Cave
-X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: Ticketweb https://www.ticketw
- eb.ca/event/facs-with-special-guests-the-dance-cave-tickets/14648933
-LOCATION:Dance Cave\,529 Bloor St W\, Toronto\, ON M5S 1Y5\, Canada
-CREATED:20251216T203903Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260120T012426Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13922/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13922/1771117200000
-SUMMARY: Jamaal Cody
-DESCRIPTION:19+\n\nMore Info: instagram https://www.instagram.com/houndst
- oothto/p/DUQ7LX4ETZf/
-CATEGORIES:Concert,Houndstooth
-X-TKF-CUSTOM-PREVIEW:19+ More Info: instagram https://www.instagram.com/h
- oundstoothto/p/DUQ7LX4ETZf/
-LOCATION:Houndstooth\,818 College St\, Toronto\, ON M6G 1C8\, Canada
-CREATED:20260204T232619Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260204T232619Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/8481/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/8481/1771117200000
-SUMMARY: Josh Ross
-DESCRIPTION:Doors 7pm/All Ages\n\nTickets: Ticketmaster https://www.ticke
- tmaster.ca/josh-ross-later-tonight-tour-toronto-ontario-02-14-2026/event/
- 1000631BC9856B82
-CATEGORIES:Concert,History
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages Tickets: Ticketmaster https://www
- .ticketmaster.ca/josh-ross-later-tonight-tour-toronto-ontario-02-14-2026/
- event/1000631BC9856B82
-LOCATION:HISTORY\,1663 Queen St E\, Toronto\, ON M4L 1G5\, Canada
-CREATED:20250924T033540Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20250924T033540Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/9958/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/9958/1771117200000
-SUMMARY: MAANU
-DESCRIPTION:Doors 7pm/All Ages\n\nTickets: admitone https://admitone.com/
- events/toronto/pro/other/the-concert-hall/maanu/maanu/68f6985c62c7afbb99c
- 60d13
-CATEGORIES:Concert,The-Concert-Hall
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages Tickets: admitone https://admiton
- e.com/events/toronto/pro/other/the-concert-hall/maanu/maanu/68f6985c62c7a
- fbb99c60d13
-LOCATION:The Concert Hall\,888 Yonge St\, Toronto\, ON M4W 2J2\, Canada
-CREATED:20251105T234511Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251105T234511Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/10289/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/10289/1771117200000
-SUMMARY: Moein
-DESCRIPTION:Tickets: Ticketmaster https://www.ticketmaster.ca/moein-live-
- in-toronto-toronto-ontario-02-14-2026/event/10006341F10BFCCA
-CATEGORIES:Concert,Scotiabank-Arena
-X-TKF-CUSTOM-PREVIEW:Tickets: Ticketmaster https://www.ticketmaster.ca/mo
- ein-live-in-toronto-toronto-ontario-02-14-2026/event/10006341F10BFCCA
-LOCATION:Scotiabank Arena\,40 Bay St.\, Toronto\, ON M5J 2X2\, Canada
-CREATED:20251111T040818Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251111T040818Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14102/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/14102/1771117200000
-SUMMARY: TRACK MEET mixtapes / borealia / mudslap / strawberry cough
-DESCRIPTION:Doors 8pm/19+\n\nTickets: showclix https://www.showclix.com/t
- ickets/TRACKMEET26
-CATEGORIES:Concert,Horseshoe-Tavern
-X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: showclix https://www.showclix
- .com/tickets/TRACKMEET26
-LOCATION:Horseshoe Tavern\,370 Queen Street West\, Toronto\, ON M5V 2A3\,
-  Canada
-CREATED:20260209T234336Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260209T234336Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14166/29518620/0/0
-DTSTART:20260215T010000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/14166/1771117200000
-SUMMARY: The Funktion: Down To Funk
-DESCRIPTION:Doors 7pm/19+\n\nTickets: http://square.site http://square.si
- te http://square.site square.site
-CATEGORIES:Concert,Dina's-Tavern,Dance---Performance---Theatre,DJ,DJ/Club
- /Rave
-X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: http://square.site http://squ
- are.site http://square.site square.site
-LOCATION:Dina's Tavern\,486 Spadina Ave.\, Toronto\, ON M5S 2H1\, Canada
-CREATED:20260210T041658Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260210T041704Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -1402,98 +60,6 @@ LOCATION:Squirly's\,807 Queen St W\, Toronto\, ON M6J 1G1\, Canada
 CREATED:20260201T213558Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260201T213558Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13649/29518650/0/0
-DTSTART:20260215T013000Z
-DTEND:20260215T030000Z
-URL:https://tockify.com/torevent/detail/13649/1771119000000
-SUMMARY: Thirst Trap
-DESCRIPTION:Cabaret\n\nTickets: comedybar https://comedybar.ca/shows/thir
- st-trap
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: comedybar https://comedybar.ca/show
- s/thirst-trap
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041615Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041615Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/14014/29518650/0/0
-DTSTART:20260215T013000Z
-DTEND:20260215T040000Z
-URL:https://tockify.com/torevent/detail/14014/1771119000000
-SUMMARY: Isabella Sofia Quartet\, Valentine’s Day Jazz Vocals
-DESCRIPTION:More Info: theemmetray https://www.theemmetray.com/entertainm
- ent/events-2023/
-CATEGORIES:Concert,The-Emmet-Ray
-X-TKF-CUSTOM-PREVIEW:More Info: theemmetray https://www.theemmetray.com/e
- ntertainment/events-2023/
-LOCATION:The Emmet Ray\,924 College St\, Toronto\, ON M6H 1A4\, Canada
-CREATED:20260205T162833Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260205T162833Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13655/29518680/0/0
-DTSTART:20260215T020000Z
-DTEND:20260215T033000Z
-URL:https://tockify.com/torevent/detail/13655/1771120800000
-SUMMARY: The Rundown: The Best Of Comedy Bar
-DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/t
- he-rundown-the-best-of-comedy-bar
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
- hows/the-rundown-the-best-of-comedy-bar
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041819Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041819Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13177/29518680/0/0
-DTSTART:20260215T020000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13177/1771120800000
-SUMMARY: Love & Ritmo: A Latin Valentine's Night w/ Lox Rutz
-DESCRIPTION:Doors 9pm/19+\n\nMore Info: instagram https://www.instagram.c
- om/loxrutz/p/DT_p48xjbqa/
-CATEGORIES:Concert,Tapestry
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ More Info: instagram https://www.insta
- gram.com/loxrutz/p/DT_p48xjbqa/
-LOCATION:Tapestry\,224 Augusta Ave\, Toronto\, ON M5T 2L6\, Canada
-CREATED:20260127T032547Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260127T032547Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13064/29518680/0/0
-DTSTART:20260215T020000Z
-DTEND:20260215T045900Z
-URL:https://tockify.com/torevent/detail/13064/1771120800000
-SUMMARY: Valentine’s Night with Doghouse Rose\, Gaijin Smash & Mad Ones
-DESCRIPTION:Doors 9pm/19+\n\nTickets: eventbrite https://www.eventbrite.c
- a/e/valentines-night-with-doghouse-rose-gaijin-smash-mad-ones-tickets-198
- 0536439806
-CATEGORIES:Concert,Bovine-Sex-Club
-X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: eventbrite https://www.eventb
- rite.ca/e/valentines-night-with-doghouse-rose-gaijin-smash-mad-ones-ticke
- ts-1980536439806
-LOCATION:Bovine Sex Club\,542 Queen St W\, Toronto\, ON M5V 2B5\, Canada
-CREATED:20260126T003248Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260126T003248Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -1645,63 +211,6 @@ LOCATION:Bass Lounge\,91 Rylander Blvd #1001b\, Scarborough\, ON M1B 5M5\
 CREATED:20260201T203034Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260201T203034Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13846/29518710/0/0
-DTSTART:20260215T023000Z
-DTEND:20260215T040000Z
-URL:https://tockify.com/torevent/detail/13846/1771122600000
-SUMMARY: Nirvanna the Band the Show the Movie
-DESCRIPTION:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-on/now-sh
- owing/
-CATEGORIES:Film,Fox-Theatre
-X-TKF-CUSTOM-PREVIEW:Tickets: FoxTheatre https://www.foxtheatre.ca/whats-
- on/now-showing/
-LOCATION:Fox Theatre\,2236 Queen St E\, Toronto\, ON M4E 1G2\, Canada
-CREATED:20260203T234137Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T234137Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13375/29518710/0/0
-DTSTART:20260215T023000Z
-DTEND:20260215T040000Z
-URL:https://tockify.com/torevent/detail/13375/1771122600000
-SUMMARY: Valentine's Day: MY BLOODY VALENTINE (1981) - Uncut Version!
-DESCRIPTION:Tickets: Revue https://prod3.agileticketing.net/websales/page
- s/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2F01%2F202
- 6&
-CATEGORIES:Film,Revue-Cinema
-X-TKF-CUSTOM-PREVIEW:Tickets: Revue https://prod3.agileticketing.net/webs
- ales/pages/list.aspx?epguid=9416d3bf-ad16-479c-9d40-f0abda7cb4e9&mdy=02%2
- F01%2F2026&
-LOCATION:Revue Cinema\,400 Roncesvalles Ave\, Toronto\, ON M6R 2M9\, Cana
- da
-CREATED:20260131T030348Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260131T030522Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13656/29518740/0/0
-DTSTART:20260215T030000Z
-DTEND:20260215T043000Z
-URL:https://tockify.com/torevent/detail/13656/1771124400000
-SUMMARY: Double Down
-DESCRIPTION:Cabaret\n\nTickets: comedybar https://comedybar.ca/shows/doub
- le-down
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: comedybar https://comedybar.ca/show
- s/double-down
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T041927Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T041927Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -2036,14 +545,14 @@ URL:https://tockify.com/torevent/detail/14198/1771124400000
 SUMMARY: Forever Night 2: In Love and Darkness w/ Club Chow\, Venus in Fo
  il\, Kai\, Khary + residents
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2307163
-CATEGORIES:DJ,DJ/Club/Rave,Blk-Space-Studios
+CATEGORIES:DJ/Club/Rave,Blk-Space-Studios
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2307
  163
 LOCATION:Blk_Space Studios\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Cana
  da
 CREATED:20260211T045246Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260211T045246Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035335Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -2064,24 +573,6 @@ LOCATION:Sneaky Dee's\,431 College St\, Toronto\, ON M5T 1T1\, Canada
 CREATED:20260120T034936Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260120T034936Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/13662/29518800/0/0
-DTSTART:20260215T040000Z
-DTEND:20260215T053000Z
-URL:https://tockify.com/torevent/detail/13662/1771128000000
-SUMMARY: Late Night F*ckery
-DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/l
- ate-night-fckery-bloor
-CATEGORIES:Comedy,Comedy-Bar-Bloor
-X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
- hows/late-night-fckery-bloor
-LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
-CREATED:20260202T042110Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260202T042110Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -29111,6 +27602,25 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15653/29566020/0/0
+DTSTART:20260319T230000Z
+DTEND:20260320T040000Z
+URL:https://tockify.com/torevent/detail/15653/1773961200000
+SUMMARY: ✧─enfold─✧ ambient night & harm reduction fundraiser w/ erica / 
+ prince nifty / stella / DJ Trustfall
+DESCRIPTION:Tickets: eventbrite https://www.eventbrite.com/e/enfold-ambie
+ nt-night-a-fentaware-fundraiser-tickets-1984834889585
+CATEGORIES:Concert,It's-Ok*-Studios,DJ/Club/Rave
+X-TKF-CUSTOM-PREVIEW:Tickets: eventbrite https://www.eventbrite.com/e/enf
+ old-ambient-night-a-fentaware-fundraiser-tickets-1984834889585
+LOCATION:It's Ok* Studios\,468 Queen St W\, Toronto\, ON M5V 2B2\, Canada
+CREATED:20260318T004111Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T004111Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/12502/29566050/0/0
 DTSTART:20260319T233000Z
 DTEND:20260320T010000Z
@@ -29574,6 +28084,22 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15654/29566080/0/0
+DTSTART:20260320T000000Z
+DTEND:20260320T050000Z
+URL:https://tockify.com/torevent/detail/15654/1773964800000
+SUMMARY: So Free w/ Rose Hips
+DESCRIPTION:More Info: RA https://ra.co/events/2372721
+CATEGORIES:DJ/Club/Rave,The-Little-Jerry
+X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2372721
+LOCATION:The Little Jerry\,418 College St\, Toronto\, ON M5T 1T3\, Canada
+CREATED:20260318T004255Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T004255Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14084/29566110/0/0
 DTSTART:20260320T003000Z
 DTEND:20260320T030000Z
@@ -29625,6 +28151,23 @@ LOCATION:Houndstooth\,818 College St\, Toronto\, ON M6G 1C8\, Canada
 CREATED:20260305T204128Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260305T204128Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15655/29566140/0/0
+DTSTART:20260320T010000Z
+DTEND:20260320T060000Z
+URL:https://tockify.com/torevent/detail/15655/1773968400000
+SUMMARY: BODYCLOCK HOUSE WK 3 - MIX SIGNALS / Miss Kleio / Zola (TRM)
+DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2394506
+CATEGORIES:DJ/Club/Rave,The-Piston
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23945
+ 06
+LOCATION:The Piston\,937 Bloor St W\, Toronto\, ON M8X 1E9\, Canada
+CREATED:20260318T004440Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T004440Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -29827,6 +28370,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15649/29567340/0/0
+DTSTART:20260320T210000Z
+DTEND:20260321T000000Z
+URL:https://tockify.com/torevent/detail/15649/1774040400000
+SUMMARY: In Store Session: BABL
+DESCRIPTION:Doors 5pm/19+\n\nFree Tickets: RA https://ra.co/events/239520
+ 1
+CATEGORIES:DJ/Club/Rave,Rhythm
+X-TKF-CUSTOM-PREVIEW:Doors 5pm/19+ Free Tickets: RA https://ra.co/events/
+ 2395201
+LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
+CREATED:20260317T204156Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T204156Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14903/29567400/0/0
 DTSTART:20260320T220000Z
 DTEND:20260320T233000Z
@@ -29859,6 +28420,25 @@ LOCATION:Cameron House\,408 Queen St W\, Toronto\, ON M5V 2A7\, Canada
 CREATED:20260309T193348Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260309T193348Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15670/29567400/0/0
+DTSTART:20260320T220000Z
+DTEND:20260321T070000Z
+URL:https://tockify.com/torevent/detail/15670/1774044000000
+SUMMARY: Tit-4-Tat- OSTARA EQUINOX\, SOLSTICE SPRING FLING w/ Plastic Hea
+ rt Surgery / VUHNNY / 'PAVV' / 3mma / L0V3S1CK
+DESCRIPTION:Doors 6pm/19+\n\nTickets: RA https://ra.co/events/2376969
+CATEGORIES:DJ/Club/Rave,Three-Dollar-Bill
+X-TKF-CUSTOM-PREVIEW:Doors 6pm/19+ Tickets: RA https://ra.co/events/23769
+ 69
+LOCATION:Three Dollar Bill\,1592 Queen St W\, Toronto\, ON M6R 1A8\, Cana
+ da
+CREATED:20260318T031039Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031039Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30145,18 +28725,35 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15661/29567460/0/0
+DTSTART:20260320T230000Z
+DTEND:20260321T100000Z
+URL:https://tockify.com/torevent/detail/15661/1774047600000
+SUMMARY: V.ZERO.2 w/ Stashole @bbrucepaynee @seven.times.life @kaynives
+DESCRIPTION:Doors 7pm/19+\n\nTickets: RA https://ra.co/events/2381119
+CATEGORIES:DJ/Club/Rave
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: RA https://ra.co/events/23811
+ 19
+LOCATION:12 Isabella St\, Toronto\, ON M4Y 1M7\, Canada
+CREATED:20260318T024901Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T024901Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14960/29567490/0/0
 DTSTART:20260320T233000Z
 DTEND:20260321T030000Z
 URL:https://tockify.com/torevent/detail/14960/1774049400000
 SUMMARY: Bushwick Blues / Ami 8
 DESCRIPTION:More Info: RA https://ra.co/events/2384735
-CATEGORIES:DJ,DJ/Club/Rave,Ace-Hotel
+CATEGORIES:DJ/Club/Rave,Ace-Hotel
 X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2384735
 LOCATION:Ace Hotel\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
 CREATED:20260303T194339Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260303T194339Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035515Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30311,24 +28908,6 @@ LOCATION:Dance Cave\,529 Bloor St W\, Toronto\, ON M5S 1Y5\, Canada
 CREATED:20260205T190046Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260205T190046Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/15277/29567520/0/0
-DTSTART:20260321T000000Z
-DTEND:20260321T033000Z
-URL:https://tockify.com/torevent/detail/15277/1774051200000
-SUMMARY: Frequencies
-DESCRIPTION:More Info: instagram https://www.instagram.com/p/DVjoy5UESg3/
- ?img_index=3
-CATEGORIES:DJ/Club/Rave,Handlebar
-X-TKF-CUSTOM-PREVIEW:More Info: instagram https://www.instagram.com/p/DVj
- oy5UESg3/?img_index=3
-LOCATION:Handlebar\,159 Augusta Ave\, Toronto\, ON M5T 2L4\, Canada
-CREATED:20260309T200710Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260309T200710Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30500,6 +29079,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15277/29567580/0/0
+DTSTART:20260321T010000Z
+DTEND:20260321T050000Z
+URL:https://tockify.com/torevent/detail/15277/1774054800000
+SUMMARY: Frequencies: Rafael Khan\, Arc & Texture\, Josh Korody & Hycastl
+ e
+DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2378803
+CATEGORIES:DJ/Club/Rave,Handlebar
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23788
+ 03
+LOCATION:Handlebar\,159 Augusta Ave\, Toronto\, ON M5T 2L4\, Canada
+CREATED:20260309T200710Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031854Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15132/29567580/0/0
 DTSTART:20260321T010000Z
 DTEND:20260321T060000Z
@@ -30553,6 +29150,45 @@ LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
 CREATED:20260225T234522Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260225T234522Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15706/29567580/0/0
+DTSTART:20260321T010000Z
+DTEND:20260321T070000Z
+URL:https://tockify.com/torevent/detail/15706/1774054800000
+SUMMARY: Roost presents: Swingin' Bass Cabaret w/ Cozmic Cat / Flyboy / U
+ sed DJ / Sixtroke / Thom Foolery / Tremors
+DESCRIPTION:Doors 9pm/19+\n\nTickets: tickettailor https://www.tickettail
+ or.com/events/roostradio/2063165
+CATEGORIES:DJ/Club/Rave,Geary-Avenue-Warehouse-Project,Dance---Performanc
+ e---Theatre
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: tickettailor https://www.tick
+ ettailor.com/events/roostradio/2063165
+LOCATION:Geary Avenue Warehouse Project\,209 Geary Ave\, Toronto\, ON M6H
+  2C1\, Canada
+CREATED:20260318T040900Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040900Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15684/29567580/0/0
+DTSTART:20260321T010000Z
+DTEND:20260321T080000Z
+URL:https://tockify.com/torevent/detail/15684/1774054800000
+SUMMARY: DOPAMINE MACHINE: M-HIGH w/ TEO / Manzzy / Watson / Batiste / &i
+DESCRIPTION:Doors 9pm/19+\n\nTickets: eventbrite https://www.eventbrite.c
+ a/e/dopamine-machine-m-high-toronto-debut-tickets-1981000248069
+CATEGORIES:DJ/Club/Rave,Baro
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: eventbrite https://www.eventb
+ rite.ca/e/dopamine-machine-m-high-toronto-debut-tickets-1981000248069
+LOCATION:Baro\,485 King St W\, Toronto\, ON M5V 2Z4\, Canada
+CREATED:20260318T033749Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033749Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30684,6 +29320,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15705/29567640/0/0
+DTSTART:20260321T020000Z
+DTEND:20260321T060000Z
+URL:https://tockify.com/torevent/detail/15705/1774058400000
+SUMMARY: BIRTHDAY PARTY w/ MURDER CLUB
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2392151
+CATEGORIES:DJ/Club/Rave,Juice
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 92151
+LOCATION:Juice\,426 Ossington Ave\, Toronto\, ON M6J 3A7\, Canada
+CREATED:20260318T040616Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040616Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14381/29567640/0/0
 DTSTART:20260321T020000Z
 DTEND:20260321T060000Z
@@ -30754,6 +29407,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15692/29567640/0/0
+DTSTART:20260321T020000Z
+DTEND:20260321T060000Z
+URL:https://tockify.com/torevent/detail/15692/1774058400000
+SUMMARY: Heros and Villains w/ Alias Tar\, Beat.e\, Videospit\, and Solar
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2387205
+CATEGORIES:DJ/Club/Rave,Bampot-Tea-House,Dance---Performance---Theatre
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2387
+ 205
+LOCATION:Bampot Tea House\,201 Harbord St\, Toronto\, ON M5S 1H6\, Canada
+CREATED:20260318T035020Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035020Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15398/29567640/0/0
 DTSTART:20260321T020000Z
 DTEND:20260321T060000Z
@@ -30813,16 +29483,16 @@ UID:TKF/6755f42da02aaf1c2599e7ae/12774/29567640/0/0
 DTSTART:20260321T020000Z
 DTEND:20260321T070000Z
 URL:https://tockify.com/torevent/detail/12774/1774058400000
-SUMMARY: BASSIFICATION with ******\, EMRYSLAZULI\, Tender Talons & Bassif
- ication Crew
+SUMMARY: BASSIFICATION: with OZA\, EMRYSLAZULI\, Miss Bible\, TENDER TALO
+ NS & GIFCARTEL
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2343226
 CATEGORIES:DJ/Club/Rave,Cafeteria
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2343
  226
 LOCATION:Cafeteria\,1650 Dupont St\, Toronto\, ON M6P 3T2\, Canada
 CREATED:20260113T192942Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260303T200903Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T024248Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30889,13 +29559,13 @@ SUMMARY: Groove Hive with Patrick Topping (3 Hour Set) / Chapter 47 / Maz
  ara
 DESCRIPTION:Doors 10pm/19+\n\nTickets: get-in https://get-in.com/en/41851
  5
-CATEGORIES:DJ,Nomad,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,Nomad
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: get-in https://get-in.com/en
  /418515
 LOCATION:Nomad\,725 Queen St E\, Toronto\, ON M4M 1H1\, Canada
 CREATED:20260218T035842Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260218T035842Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032138Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -30970,6 +29640,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15687/29567640/0/0
+DTSTART:20260321T020000Z
+DTEND:20260321T100000Z
+URL:https://tockify.com/torevent/detail/15687/1774058400000
+SUMMARY: THE HUMAN TOUCH (ALL NIGHT)
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2382384
+CATEGORIES:DJ/Club/Rave,Boogie-On-Queen
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2382
+ 384
+LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
+CREATED:20260318T034158Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034158Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15092/29567670/0/0
 DTSTART:20260321T023000Z
 DTEND:20260321T060000Z
@@ -31022,6 +29709,42 @@ LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
 CREATED:20251210T203852Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20251210T203852Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15694/29567700/0/0
+DTSTART:20260321T030000Z
+DTEND:20260321T100000Z
+URL:https://tockify.com/torevent/detail/15694/1774062000000
+SUMMARY: TRUST A CHILL: trustfall / Ali Black / Raf Reza
+DESCRIPTION:Doors 11pm/19+\n\nMore Info: RA https://ra.co/events/2393693
+CATEGORIES:DJ/Club/Rave,Blk-Space-Studios
+X-TKF-CUSTOM-PREVIEW:Doors 11pm/19+ More Info: RA https://ra.co/events/23
+ 93693
+LOCATION:Blk_Space Studios\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Cana
+ da
+CREATED:20260318T035438Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035438Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15702/29567759/0/0
+DTSTART:20260321T035900Z
+DTEND:20260321T110000Z
+URL:https://tockify.com/torevent/detail/15702/1774065540000
+SUMMARY: Vertigo Weekend w/ Addy\, Andy Cue\, U.N.I
+DESCRIPTION:Doors 11:59pm/19+\n\nMore Info: RA https://ra.co/events/23950
+ 94
+CATEGORIES:DJ/Club/Rave,Vertigo
+X-TKF-CUSTOM-PREVIEW:Doors 11:59pm/19+ More Info: RA https://ra.co/events
+ /2395094
+LOCATION:Vertigo\,66 Gerrard St E\, Toronto\, ON M5B 2M2\, Canada
+CREATED:20260318T040147Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040147Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -31312,6 +30035,25 @@ LOCATION:Paradise Theatre\,1006c Bloor St W\, Toronto\, ON M6H 1M2\, Cana
 CREATED:20260303T175500Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260303T175500Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15709/29568720/0/0
+DTSTART:20260321T200000Z
+DTEND:20260322T040000Z
+URL:https://tockify.com/torevent/detail/15709/1774123200000
+SUMMARY: 11N17N presents: Spring Equinox Showcase w/ @CallOnMe @Dilim @Ha
+ lycon @Mood Architect PRSIS10S
+DESCRIPTION:Doors 4pm/19+\n\nMore Info: RA https://ra.co/events/2388860
+CATEGORIES:DJ/Club/Rave,Overture-Studios
+X-TKF-CUSTOM-PREVIEW:Doors 4pm/19+ More Info: RA https://ra.co/events/238
+ 8860
+LOCATION:Overture Studios\,163 Sterling Rd\, Toronto\, ON M6R 2B2\, Canad
+ a
+CREATED:20260318T041805Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041805Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32077,15 +30819,15 @@ DTSTART:20260322T010000Z
 DTEND:20260322T063000Z
 URL:https://tockify.com/torevent/detail/15556/1774141200000
 SUMMARY: AROUND | Golestān / KAMAKAN | Milidi | Chafic | Negin | Caleb (
- MMRI) | daena delam
-DESCRIPTION:@ Venue TBA\n\nDoors 9pm/19+\n\nTickets: RA https://ra.co/eve
- nts/2379165
-CATEGORIES:Concert,DJ/Club/Rave,Dance---Performance---Theatre
-X-TKF-CUSTOM-PREVIEW:@ Venue TBA Doors 9pm/19+ Tickets: RA https://ra.co/
- events/2379165
+ MMRI)
+DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2379165
+CATEGORIES:Concert,DJ/Club/Rave,Dance---Performance---Theatre,MOOI-Space
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23791
+ 65
+LOCATION:MOOI Space\,75 Pelham Ave\, Toronto\, ON M6N 1A5\, Canada
 CREATED:20260312T184119Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260312T184119Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041234Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32107,6 +30849,24 @@ LOCATION:Ground Control\,1279 Queen St W\, Toronto\, ON M6K 1L6\, Canada
 CREATED:20260305T193538Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260305T193552Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15688/29569020/0/0
+DTSTART:20260322T010000Z
+DTEND:20260322T070000Z
+URL:https://tockify.com/torevent/detail/15688/1774141200000
+SUMMARY: Record Release - You Tell Me That You Love Me (Electric Friends 
+ Music) w/ Brian Ireland / Adam Davis / Sleepy Freeman
+DESCRIPTION:Doors 9pm/19+\n\nMore Info: RA https://ra.co/events/2385366
+CATEGORIES:DJ/Club/Rave,Boogie-On-Queen
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ More Info: RA https://ra.co/events/238
+ 5366
+LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
+CREATED:20260318T034347Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034347Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32243,17 +31003,17 @@ UID:TKF/6755f42da02aaf1c2599e7ae/15071/29569080/0/0
 DTSTART:20260322T020000Z
 DTEND:20260322T060000Z
 URL:https://tockify.com/torevent/detail/15071/1774144800000
-SUMMARY: 8 - With sounds by @mxpavv / @el_la.ra / @karakara.wav / b2b set
-  from @christopher.gillett and @pauliexoxoxo
-DESCRIPTION:Doors 10pm/19+\n\nNo Cover\n\nMore Info: Instagram https://ww
- w.instagram.com/p/DVPd6dfgN89/
+SUMMARY: 8 - With sounds by Kara Kara / LaRa / Pauliexoxoxo b2b Chris Gil
+ lett / 'PAVV'
+DESCRIPTION:Doors 10pm/19+\n\nNo Cover\n\nFree Tickets: RA https://ra.co/
+ events/2389471
 CATEGORIES:DJ/Club/Rave,Farside-Bar
-X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ No Cover More Info: Instagram https:/
- /www.instagram.com/p/DVPd6dfgN89/
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ No Cover Free Tickets: RA https://ra.
+ co/events/2389471
 LOCATION:Farside Bar\,600 Gerrard St E\, Toronto\, ON M4M 1Y3\, Canada
 CREATED:20260305T185449Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260305T185449Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041939Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32405,15 +31165,32 @@ UID:TKF/6755f42da02aaf1c2599e7ae/15418/29569080/0/0
 DTSTART:20260322T020000Z
 DTEND:20260322T070000Z
 URL:https://tockify.com/torevent/detail/15418/1774144800000
-SUMMARY: On The Way Afterparty ft ________ x ________
+SUMMARY: On The Way Afterparty ft Eli Escobar and Lloyd
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2388390
 CATEGORIES:DJ/Club/Rave,Standard-Time
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2388
  390
 LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
 CREATED:20260310T192443Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260310T192443Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005004Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15710/29569080/0/0
+DTSTART:20260322T020000Z
+DTEND:20260322T073000Z
+URL:https://tockify.com/torevent/detail/15710/1774144800000
+SUMMARY: Happy Feet w/ 999ADJ / moii-chan / LeRose / CYLLA / blujazz
+DESCRIPTION:@ Venue TBA\n\nDoors 10pm/19+\n\nTickets: RA https://ra.co/ev
+ ents/2377642
+CATEGORIES:DJ/Club/Rave
+X-TKF-CUSTOM-PREVIEW:@ Venue TBA Doors 10pm/19+ Tickets: RA https://ra.co
+ /events/2377642
+CREATED:20260318T042114Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T042114Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32457,6 +31234,59 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15676/29569080/0/0
+DTSTART:20260322T020000Z
+DTEND:20260322T080000Z
+URL:https://tockify.com/torevent/detail/15676/1774144800000
+SUMMARY: THE CAGE PROJECT: RESISTANCE w/ Aida Arko / Behrad Tehrani / Ven
+ n / B12 B2B Inky1 / Shaaahrez B2B Beydeen
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2379074
+CATEGORIES:DJ/Club/Rave,Nomad
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2379
+ 074
+LOCATION:Nomad\,725 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260318T032303Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032303Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15708/29569080/0/0
+DTSTART:20260322T020000Z
+DTEND:20260322T090000Z
+URL:https://tockify.com/torevent/detail/15708/1774144800000
+SUMMARY: Deon Jamar
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2387019
+CATEGORIES:DJ/Club/Rave,1.4-Hertz
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 87019
+LOCATION:1.4 Hertz\,961 College St\, Toronto\, ON M6H 1A6\, Canada
+CREATED:20260318T041458Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041458Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15662/29569080/0/0
+DTSTART:20260322T020000Z
+DTEND:20260322T090000Z
+URL:https://tockify.com/torevent/detail/15662/1774144800000
+SUMMARY: Spring Reset: NEW DAY w/ TAKiN / Manzone & Strong / 2SHAY / Blan
+ chEcho
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2381160
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2381
+ 160
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T025220Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T025220Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14203/29569080/0/0
 DTSTART:20260322T020000Z
 DTEND:20260322T193000Z
@@ -32482,13 +31312,13 @@ URL:https://tockify.com/torevent/detail/14589/1774146600000
 SUMMARY: Jinn&Juice: ZĀR-birthday party w/ Sandwavv / ROU-H / Jaicyea / T
  arek Kadance
 DESCRIPTION:Doors 10:30pm/19+\n\nTickets: RA https://ra.co/events/2375128
-CATEGORIES:DJ,DJ/Club/Rave,Dance---Performance---Theatre,Tapestry
+CATEGORIES:DJ/Club/Rave,Dance---Performance---Theatre,Tapestry
 X-TKF-CUSTOM-PREVIEW:Doors 10:30pm/19+ Tickets: RA https://ra.co/events/2
  375128
 LOCATION:Tapestry\,224 Augusta Ave\, Toronto\, ON M5T 2L6\, Canada
 CREATED:20260226T035847Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260226T035847Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041259Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32563,6 +31393,24 @@ LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
 CREATED:20260216T185053Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260216T185053Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15703/29569199/0/0
+DTSTART:20260322T035900Z
+DTEND:20260322T110000Z
+URL:https://tockify.com/torevent/detail/15703/1774151940000
+SUMMARY: Vertigo Weekend w/ Da Mike\, Jonathan Rosa\, Tabbara
+DESCRIPTION:Doors 11:59pm/19+\n\nMore Info: RA https://ra.co/events/23950
+ 90
+CATEGORIES:DJ/Club/Rave,Vertigo
+X-TKF-CUSTOM-PREVIEW:Doors 11:59pm/19+ More Info: RA https://ra.co/events
+ /2395090
+LOCATION:Vertigo\,66 Gerrard St E\, Toronto\, ON M5B 2M2\, Canada
+CREATED:20260318T040251Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040251Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -32907,6 +31755,23 @@ LOCATION:The Emmet Ray\,924 College St\, Toronto\, ON M6H 1A4\, Canada
 CREATED:20260312T021731Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260312T021731Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15689/29570220/0/0
+DTSTART:20260322T210000Z
+DTEND:20260323T040000Z
+URL:https://tockify.com/torevent/detail/15689/1774213200000
+SUMMARY: Sunday Casual w. dConcept\, Gene King & Ray Ray
+DESCRIPTION:Doors 5pm/19+\n\nMore Info: RA https://ra.co/events/2396178
+CATEGORIES:DJ/Club/Rave,Boogie-On-Queen
+X-TKF-CUSTOM-PREVIEW:Doors 5pm/19+ More Info: RA https://ra.co/events/239
+ 6178
+LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
+CREATED:20260318T034448Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034448Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -33275,6 +32140,25 @@ LOCATION:HISTORY\,1663 Queen St E\, Toronto\, ON M4L 1G5\, Canada
 CREATED:20251125T041706Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20251125T041706Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15663/29570400/0/0
+DTSTART:20260323T000000Z
+DTEND:20260323T090000Z
+URL:https://tockify.com/torevent/detail/15663/1774224000000
+SUMMARY: Sunday SerVice: Manzone & Strong | SHERA | The Carrillo B [Mexic
+ o] | Don_Tay | Ramyzmo
+DESCRIPTION:Doors 8pm/19+\n\nTickets: tickettailor https://www.tickettail
+ or.com/events/wigglyevents/2091538
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: tickettailor https://www.tick
+ ettailor.com/events/wigglyevents/2091538
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T025417Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030336Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -34410,6 +33294,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15650/29574600/0/0
+DTSTART:20260325T220000Z
+DTEND:20260326T010000Z
+URL:https://tockify.com/torevent/detail/15650/1774476000000
+SUMMARY: Workshop Series: Clubcheck
+DESCRIPTION:Doors 6pm/19+\n\nFree Tickets: RA https://ra.co/events/239626
+ 6
+CATEGORIES:DJ/Club/Rave,Rhythm,Workshop
+X-TKF-CUSTOM-PREVIEW:Doors 6pm/19+ Free Tickets: RA https://ra.co/events/
+ 2396266
+LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
+CREATED:20260317T204236Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T204236Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14702/29574615/0/0
 DTSTART:20260325T221500Z
 DTEND:20260326T010000Z
@@ -35255,12 +34157,12 @@ DTEND:20260327T030000Z
 URL:https://tockify.com/torevent/detail/14961/1774567800000
 SUMMARY: Bushwick Blues / Ami 8
 DESCRIPTION:More Info: RA https://ra.co/events/2384736
-CATEGORIES:DJ,DJ/Club/Rave,Ace-Hotel
+CATEGORIES:DJ/Club/Rave,Ace-Hotel
 X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2384736
 LOCATION:Ace Hotel\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
 CREATED:20260303T194359Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260303T194359Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035521Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -37094,6 +35996,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15690/29579040/0/0
+DTSTART:20260329T000000Z
+DTEND:20260329T070000Z
+URL:https://tockify.com/torevent/detail/15690/1774742400000
+SUMMARY: ONE DIRTY MIXTAPE PARTY with DJs Jason Palma and Kevin Williams
+DESCRIPTION:Doors 8pm/19+\n\nMore Info: RA https://ra.co/events/2388134
+CATEGORIES:DJ/Club/Rave,Boogie-On-Queen
+X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ More Info: RA https://ra.co/events/238
+ 8134
+LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
+CREATED:20260318T034544Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034544Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15247/29579070/0/0
 DTSTART:20260329T003000Z
 DTEND:20260329T020000Z
@@ -37432,13 +36351,31 @@ URL:https://tockify.com/torevent/detail/11660/1774749600000
 SUMMARY: Fukhouse with Truncate\, Jeremy P. Caulfied\, Lee Osborne and Ia
  n Guthrie
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2326073
-CATEGORIES:DJ,Standard-Time,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,Standard-Time
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2326
  073
 LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
 CREATED:20251218T040956Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20251218T040956Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005227Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15672/29579160/0/0
+DTSTART:20260329T020000Z
+DTEND:20260329T063000Z
+URL:https://tockify.com/torevent/detail/15672/1774749600000
+SUMMARY: Wishing Well\, Part 20: A Retrospective w/ Starlight / DJ Duck D
+ addy / @Kai / GRRLCRRSH
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2392650
+CATEGORIES:DJ/Club/Rave,Bambi's
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 92650
+LOCATION:Bambi's\,1265 Dundas St W\, Toronto\, ON M6J 1X6\, Canada
+CREATED:20260318T031525Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031525Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -37475,6 +36412,23 @@ LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
 CREATED:20260218T031751Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260218T031751Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15677/29579160/0/0
+DTSTART:20260329T020000Z
+DTEND:20260329T070000Z
+URL:https://tockify.com/torevent/detail/15677/1774749600000
+SUMMARY: YALLAH HABIBI TORONTO (World Tour)
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2388528
+CATEGORIES:DJ/Club/Rave,Nomad
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 88528
+LOCATION:Nomad\,725 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260318T032427Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032427Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -37531,6 +36485,25 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15664/29579160/0/0
+DTSTART:20260329T020000Z
+DTEND:20260329T090000Z
+URL:https://tockify.com/torevent/detail/15664/1774749600000
+SUMMARY: Home of Bouncy Beats: JELO | Barroness | Melanie Sutherland Dick
+  Diamonds & NostraBrammus
+DESCRIPTION:Doors 10pm/19+\n\nTickets: tickettailor https://www.tickettai
+ lor.com/events/wigglyevents/2093616
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: tickettailor https://www.tic
+ kettailor.com/events/wigglyevents/2093616
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T025537Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T025537Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14711/29579170/0/0
 DTSTART:20260329T021000Z
 DTEND:20260329T043000Z
@@ -37556,13 +36529,13 @@ URL:https://tockify.com/torevent/detail/14416/1774751400000
 SUMMARY: GQOM.TO: Dark or Durban w/ Uzi / Sandwavv / Zohla / INCOGNITA
 DESCRIPTION:Doors 10:30pm/19+\n\nMore Info: RA https://ra.co/events/23724
  06
-CATEGORIES:DJ,DJ/Club/Rave,Handlebar
+CATEGORIES:DJ/Club/Rave,Handlebar
 X-TKF-CUSTOM-PREVIEW:Doors 10:30pm/19+ More Info: RA https://ra.co/events
  /2372406
 LOCATION:Handlebar\,159 Augusta Ave\, Toronto\, ON M5T 2L4\, Canada
 CREATED:20260218T173534Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260218T173534Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031932Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -39054,23 +38027,6 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:TKF/6755f42da02aaf1c2599e7ae/9918/29583360/0/0
-DTSTART:20260401T000000Z
-DTEND:20260401T063000Z
-URL:https://tockify.com/torevent/detail/9918/1775001600000
-SUMMARY: Adrian Sherwood (On-U Sound) Live Dub Sessions Tour w/ N1 Sound 
- / Ras Yunchie / Raf Reza
-DESCRIPTION:
-CATEGORIES:DJ,Standard-Time,DJ/Club/Rave
-X-TKF-CUSTOM-PREVIEW:
-LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
-CREATED:20251105T025145Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260123T194104Z
-TRANSP:OPAQUE
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/908/29583390/0/0
 DTSTART:20260401T003000Z
 DTEND:20260401T033000Z
@@ -39606,13 +38562,13 @@ SUMMARY: WiGGLY Warehouse: First Flight Express w/ Manzone & Strong | TAK
  ght / Nour | LeeLee Mishi | Rami Aburob | Luis F | Don_Tay
 DESCRIPTION:Doors 9pm/19+\n\nTickets: tickettailor https://www.tickettail
  or.com/events/wigglyevents/2037672
-CATEGORIES:DJ,Wiggle-Room,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
 X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: tickettailor https://www.tick
  ettailor.com/events/wigglyevents/2037672
 LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
 CREATED:20260201T191739Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260201T191739Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T025819Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -39691,6 +38647,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15673/29586360/0/0
+DTSTART:20260403T020000Z
+DTEND:20260403T060000Z
+URL:https://tockify.com/torevent/detail/15673/1775181600000
+SUMMARY: April Babies with Enzo Deejay\, Milch\, Cal-C & Invisible City
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2393507
+CATEGORIES:DJ/Club/Rave,Bambi's
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2393
+ 507
+LOCATION:Bambi's\,1265 Dundas St W\, Toronto\, ON M6J 1X6\, Canada
+CREATED:20260318T031633Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031633Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15136/29586360/0/0
 DTSTART:20260403T020000Z
 DTEND:20260403T060000Z
@@ -39760,6 +38733,24 @@ LOCATION:Cafeteria\,1650 Dupont St\, Toronto\, ON M6P 3T2\, Canada
 CREATED:20260310T193642Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260310T193642Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15665/29586360/0/0
+DTSTART:20260403T020000Z
+DTEND:20260403T080000Z
+URL:https://tockify.com/torevent/detail/15665/1775181600000
+SUMMARY: Break For LOVE feat. DJs Yogi\, Dave Campbell\, Jason Palma\, Ic
+ ed Misto
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2380396
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2380
+ 396
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T025907Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T025907Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -39904,6 +38895,55 @@ LOCATION:The Great Hall\,1087 Queen St W\, Toronto\, ON M6J 1H3\, Canada
 CREATED:20260218T192847Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260218T192847Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15629/29587650/0/0
+DTSTART:20260403T233000Z
+DTEND:20260404T023000Z
+URL:https://tockify.com/torevent/detail/15629/1775259000000
+SUMMARY: Killer B Cinema Presents: The Monster and the Girl!
+DESCRIPTION:Is it a Noir? Is it a monster movie? Could it be both? Join u
+ s on April 3rd to find out!\n\nAdvanced tickets are $5 or $8 at the door 
+ (Space is limited\, and tickets sell out fast)!\n\nTicket link: www.event
+ brite.ca/e/1984629874379?aff=oddtdtcreator https://www.eventbrite.ca/e/19
+ 84629874379?aff=oddtdtcreator\n\nDoors open at 7:30 pm\, and the movie be
+ gins at 8:00.\n\n*NO outside food or drinks\; please buy food and drinks 
+ from the venue.\n\n*All films have closed captioning.\n\nMovie info:\n\nT
+ he Monster and the Girl is a 1941 American black-and-white horror film di
+ rected by Stuart Heisler and released by Paramount Pictures.\n\nThe film 
+ revolves around a small-town church organist named Scott Webster (Philip 
+ Terry) attempting to save his sister\, Susan (Ellen Drew)\, from the clut
+ ches of big city gangster W. S. Bruhl (Paul Lukas). Scott is framed for t
+ he murder of one of Bruhl's gang and sentenced to execution. A scientist 
+ (George Zucco) salvages Scott's brain and transplants it into a gorilla. 
+ Using the strength of his new bestial body\, Scott begins stalking the ga
+ ngsters to exact his revenge. {Wikipedia}\n\nInfo about See-Scape:\n\nOur
+  movies will be shown on the second floor! There are two bars available i
+ n See-Scape. The bar is open on the second floor during our event and is 
+ cash only. Debit/Credit purchases are available on the main floor. See-Sc
+ ape also has an amazing menu. To learn more about See-Scape\, please clic
+ k here!\n\nwww.seescapeto.com/ https://www.seescapeto.com/\n\nSee-Scape i
+ s located at 347 Keele Street (the closest intersection is Keele/Dundas) 
+ and is easily accessible via TTC. (from Keele Station or Dundas West Stat
+ ion)\n\nParking: There is a Green P parking lot beside See-Scape and a fe
+ w other paid parking lots nearby.\n\nEach month\, join Lizzie Violet & Zo
+ ltan Du Lac for killer B-moves from the 1930s to the present!\n\nPlease l
+ ike our Facebook page and Instagram @killerbcinema so you don’t miss an i
+ nvite.\n\nThank you to See-Scape and their staff! They make our monthly e
+ vent extra unforgettable!\n\nWe hope to see you at See-Scape.
+CATEGORIES:Film,See-Scape
+X-TKF-FEATURED-IMAGE:https://d3flpus5evl89n.cloudfront.net/6755f3e6a02aaf
+ 1c2599e757/69b9b328b5a6eb2d3757fdca/scaled_1024.jpg
+X-TKF-CUSTOM-PREVIEW:Is it a Noir? Is it a monster movie? Could it be bot
+ h? Join us on April 3rd to find out! Advanced tickets are $5 or $8 at the
+  door (Space is limited\, and...
+LOCATION:See-Scape\, 347 Keele Street\, Toronto\, Ontario\,130 High Park 
+ Avenue Unit Main
+CREATED:20260317T200145Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T200145Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -40244,6 +39284,42 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15656/29587800/0/0
+DTSTART:20260404T020000Z
+DTEND:20260404T063000Z
+URL:https://tockify.com/torevent/detail/15656/1775268000000
+SUMMARY: Bambeeno featuring Bambii\, Nino Brown\, Young Teesh and special
+  guest Wondagurl
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2396384
+CATEGORIES:DJ/Club/Rave,Standard-Time
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2396
+ 384
+LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
+CREATED:20260318T005306Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005306Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15675/29587800/0/0
+DTSTART:20260404T020000Z
+DTEND:20260404T063000Z
+URL:https://tockify.com/torevent/detail/15675/1775268000000
+SUMMARY: Disgusting - Corporate Hell w/ ENSIDER / Momocita / Miss Bible /
+  Sofia Fly / 999ADJ
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2394727
+CATEGORIES:DJ/Club/Rave,Handlebar
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2394
+ 727
+LOCATION:Handlebar\,159 Augusta Ave\, Toronto\, ON M5T 2L4\, Canada
+CREATED:20260318T032048Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032048Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14383/29587800/0/0
 DTSTART:20260404T020000Z
 DTEND:20260404T070000Z
@@ -40338,13 +39414,13 @@ URL:https://tockify.com/torevent/detail/13723/1775268000000
 SUMMARY: HoneyLuv w/ KAMAL / C.MAC
 DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
  /event/honeyluv-coda-tickets/14105814
-CATEGORIES:DJ,CODA,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,CODA
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
  web.ca/event/honeyluv-coda-tickets/14105814
 LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
 CREATED:20260203T034921Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260203T034921Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032624Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -40454,6 +39530,22 @@ LOCATION:Tranzac\,292 Brunswick Ave\, Toronto\, ON M5S 2M7\, Canada
 CREATED:20260126T040555Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260126T040555Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15695/29589000/0/0
+DTSTART:20260404T220000Z
+DTEND:20260405T060000Z
+URL:https://tockify.com/torevent/detail/15695/1775340000000
+SUMMARY: The Library by Maktaba ft. Narcy & Shen
+DESCRIPTION:More Info: RA https://ra.co/events/2395600
+CATEGORIES:DJ/Club/Rave,Ace-Hotel
+X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2395600
+LOCATION:Ace Hotel\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T035610Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035610Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -40985,6 +40077,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15698/29589240/0/0
+DTSTART:20260405T020000Z
+DTEND:20260405T060000Z
+URL:https://tockify.com/torevent/detail/15698/1775354400000
+SUMMARY: 01: Aswat - أصوات feat. Shen
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2396147
+CATEGORIES:DJ/Club/Rave,Evangeline
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 96147
+LOCATION:Evangeline\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T035901Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035901Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15295/29589240/0/0
 DTSTART:20260405T020000Z
 DTEND:20260405T060000Z
@@ -41072,6 +40181,24 @@ LOCATION:Cafeteria\,1650 Dupont St\, Toronto\, ON M6P 3T2\, Canada
 CREATED:20260211T042020Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260310T193711Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15666/29589240/0/0
+DTSTART:20260405T020000Z
+DTEND:20260405T090000Z
+URL:https://tockify.com/torevent/detail/15666/1775354400000
+SUMMARY: Tribal & Bounce + Brothers of House w/ TAKiN / Junior Lopez / Ch
+ ris Campos / Melanie Sutherland / Corrado Q [bday beats]
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2384973
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2384
+ 973
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T030039Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030039Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -41463,6 +40590,25 @@ LOCATION:HISTORY\,1663 Queen St E\, Toronto\, ON M4L 1G5\, Canada
 CREATED:20251125T042459Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260218T201727Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15667/29590560/0/0
+DTSTART:20260406T000000Z
+DTEND:20260406T090000Z
+URL:https://tockify.com/torevent/detail/15667/1775433600000
+SUMMARY: Easter Edition Sunday SerVice: w/ FLIPSIDE | Manzone & Strong | 
+ Dan Medland & Brash-B | THIRDEYE
+DESCRIPTION:Doors 8pm/19+\n\nTickets: tickettailor https://www.tickettail
+ or.com/events/wigglyevents/2105821
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: tickettailor https://www.tick
+ ettailor.com/events/wigglyevents/2105821
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T030318Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030318Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -43178,6 +42324,22 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15696/29597700/0/0
+DTSTART:20260410T230000Z
+DTEND:20260411T040000Z
+URL:https://tockify.com/torevent/detail/15696/1775862000000
+SUMMARY: 02: Aswat - أصوات feat. SAWIFROMSPACE
+DESCRIPTION:More Info: RA https://ra.co/events/2395607
+CATEGORIES:DJ/Club/Rave,Ace-Hotel
+X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2395607
+LOCATION:Ace Hotel\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T035703Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035703Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14487/29597730/0/0
 DTSTART:20260410T233000Z
 DTEND:20260411T020000Z
@@ -43480,15 +42642,15 @@ UID:TKF/6755f42da02aaf1c2599e7ae/15443/29597880/0/0
 DTSTART:20260411T020000Z
 DTEND:20260411T070000Z
 URL:https://tockify.com/torevent/detail/15443/1775872800000
-SUMMARY: Rhythm presents **** *********
+SUMMARY: Rhythm presents Dyed Soundorom with Maves & Bella
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2378935
 CATEGORIES:DJ/Club/Rave,Rhythm
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2378
  935
 LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
 CREATED:20260310T195849Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260310T195849Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T204321Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -43523,6 +42685,41 @@ X-TKF-CUSTOM-PREVIEW:@ Venue TBA Doors 10pm/19+ Tickets: RA https://ra.co
 CREATED:20260128T044726Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260310T192030Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15685/29597880/0/0
+DTSTART:20260411T020000Z
+DTEND:20260411T080000Z
+URL:https://tockify.com/torevent/detail/15685/1775872800000
+SUMMARY: Laidback Luke Inside Future
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2395105
+CATEGORIES:DJ/Club/Rave,Future-Nightlife
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2395
+ 105
+LOCATION:Future Nightlife\,570 Queen St W\, Toronto\, ON M5V 2B5\, Canada
+CREATED:20260318T033936Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033936Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15678/29597880/0/0
+DTSTART:20260411T020000Z
+DTEND:20260411T080000Z
+URL:https://tockify.com/torevent/detail/15678/1775872800000
+SUMMARY: Mason Collective / TABBARA / PAVZO / PASTICH
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/mason-collective-coda-tickets/14758163?pl=CODA
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/mason-collective-coda-tickets/14758163?pl=CODA
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T032737Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032737Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -44108,14 +43305,32 @@ URL:https://tockify.com/torevent/detail/14422/1775955600000
 SUMMARY: NEO RAVE RESURRECTIONS w/ NiUNiU / Sulk Hogan (2) / THREECARDMON
  TY / NPCgroove / EZY / Brian Ng / JC
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2371278
-CATEGORIES:DJ,Geary-Avenue-Warehouse-Project,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,Geary-Avenue-Warehouse-Project
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2371
  278
 LOCATION:Geary Avenue Warehouse Project\,209 Geary Ave\, Toronto\, ON M6H
   2C1\, Canada
 CREATED:20260218T175209Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260218T175209Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040950Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15691/29599260/0/0
+DTSTART:20260412T010000Z
+DTEND:20260412T070000Z
+URL:https://tockify.com/torevent/detail/15691/1775955600000
+SUMMARY: A Dark Room & A Feeling feat Kai Alcé / Marcelo Cruz / Leo Love
+DESCRIPTION:Doors 9pm/19+\n\nTickets: eventbrite https://www.eventbrite.c
+ a/e/a-dark-room-a-feeling-1year-anniversary-tickets-1983469604982
+CATEGORIES:DJ/Club/Rave,Boogie-On-Queen
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: eventbrite https://www.eventb
+ rite.ca/e/a-dark-room-a-feeling-1year-anniversary-tickets-1983469604982
+LOCATION:Boogie\,1188 Queen St W\, Toronto\, ON M6J 1J6\, Canada
+CREATED:20260318T034729Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034729Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -44152,6 +43367,42 @@ LOCATION:Tranzac\,292 Brunswick Ave\, Toronto\, ON M5S 2M7\, Canada
 CREATED:20260105T212236Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260105T212236Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15699/29599320/0/0
+DTSTART:20260412T020000Z
+DTEND:20260412T060000Z
+URL:https://tockify.com/torevent/detail/15699/1775959200000
+SUMMARY: 03: Aswat - أصوات feat. Cheba Iman
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2395611
+CATEGORIES:DJ/Club/Rave,Evangeline
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 95611
+LOCATION:Evangeline\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T035930Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T035930Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15671/29599320/0/0
+DTSTART:20260412T020000Z
+DTEND:20260412T060000Z
+URL:https://tockify.com/torevent/detail/15671/1775959200000
+SUMMARY: Club Closet & Exposure Ther4py present: PATTERN CLASH w/ Shainge
+ l / MSDELICIOUS / Disthene / Alias Tar
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2381798
+CATEGORIES:DJ/Club/Rave,Three-Dollar-Bill
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2381
+ 798
+LOCATION:Three Dollar Bill\,1592 Queen St W\, Toronto\, ON M6R 1A8\, Cana
+ da
+CREATED:20260318T031257Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031257Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -46242,6 +45493,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15704/29607960/0/0
+DTSTART:20260418T020000Z
+DTEND:20260418T080000Z
+URL:https://tockify.com/torevent/detail/15704/1776477600000
+SUMMARY: Budakid - Jim Rider
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2389606
+CATEGORIES:DJ/Club/Rave,Story-Club
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2389
+ 606
+LOCATION:Story Club\,214 Adelaide St W\, Toronto\, ON M5H 1W7\, Canada
+CREATED:20260318T040435Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040435Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/13724/29607960/0/0
 DTSTART:20260418T020000Z
 DTEND:20260418T080000Z
@@ -46739,6 +46007,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15700/29609400/0/0
+DTSTART:20260419T020000Z
+DTEND:20260419T060000Z
+URL:https://tockify.com/torevent/detail/15700/1776564000000
+SUMMARY: 05: Aswat - أصوات feat. sabrout (NYC)
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2396149
+CATEGORIES:DJ/Club/Rave,Evangeline
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 96149
+LOCATION:Evangeline\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T040003Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040003Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15143/29609400/0/0
 DTSTART:20260419T020000Z
 DTEND:20260419T060000Z
@@ -46753,6 +46038,40 @@ LOCATION:Dance Cave\,529 Bloor St W\, Toronto\, ON M5S 1Y5\, Canada
 CREATED:20260307T213725Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260307T213725Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15657/29609400/0/0
+DTSTART:20260419T020000Z
+DTEND:20260419T060000Z
+URL:https://tockify.com/torevent/detail/15657/1776564000000
+SUMMARY: Rich Medina and Skratch Bastid
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2393652
+CATEGORIES:DJ/Club/Rave,Standard-Time
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2393
+ 652
+LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
+CREATED:20260318T005403Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005403Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15674/29609400/0/0
+DTSTART:20260419T020000Z
+DTEND:20260419T070000Z
+URL:https://tockify.com/torevent/detail/15674/1776564000000
+SUMMARY: IOU presents Sansibar w/ Ficilio / Rabzi
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2395426
+CATEGORIES:DJ/Club/Rave,Bambi's
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2395
+ 426
+LOCATION:Bambi's\,1265 Dundas St W\, Toronto\, ON M6J 1X6\, Canada
+CREATED:20260318T031723Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T031723Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -46782,13 +46101,13 @@ URL:https://tockify.com/torevent/detail/14553/1776564000000
 SUMMARY: Tribal & Bounce + Wiggle Room Records Release Party: David Herre
  ro [Spain] / TAKiN / Chris Campos / Tomy Villacorta
 DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2374437
-CATEGORIES:DJ,Wiggle-Room,DJ/Club/Rave
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
 X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2374
  437
 LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
 CREATED:20260226T003143Z
-DTSTAMP:20260316T120235Z
-LAST-MODIFIED:20260226T003143Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030412Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -48411,6 +47730,22 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15697/29617890/0/0
+DTSTART:20260424T233000Z
+DTEND:20260425T040000Z
+URL:https://tockify.com/torevent/detail/15697/1777073400000
+SUMMARY: 06: Aswat - أصوات feat. Maria Taifour
+DESCRIPTION:More Info: RA https://ra.co/events/2396152
+CATEGORIES:DJ/Club/Rave,Ace-Hotel
+X-TKF-CUSTOM-PREVIEW:More Info: RA https://ra.co/events/2396152
+LOCATION:Ace Hotel\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T035740Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035740Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15025/29617920/0/0
 DTSTART:20260425T000000Z
 DTEND:20260425T030000Z
@@ -48581,6 +47916,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15668/29617980/0/0
+DTSTART:20260425T010000Z
+DTEND:20260425T090000Z
+URL:https://tockify.com/torevent/detail/15668/1777078800000
+SUMMARY: Bailey TEMPR INTABEATS w/ BAILEY / SLIP & SLIDE / KICKIN' DEX / 
+ SPY AUDIO / YOSHIMOJO / BANDIT EMCEE / CATALYST / TIMBO
+DESCRIPTION:Doors 9pm/19+\n\nTickets: RA https://ra.co/events/2394122
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: RA https://ra.co/events/23941
+ 22
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T030541Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030541Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14320/29618010/0/0
 DTSTART:20260425T013000Z
 DTEND:20260425T033000Z
@@ -48599,6 +47952,40 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15658/29618040/0/0
+DTSTART:20260425T020000Z
+DTEND:20260425T070000Z
+URL:https://tockify.com/torevent/detail/15658/1777082400000
+SUMMARY: Daniel Avery and Vjollça
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2390825
+CATEGORIES:DJ/Club/Rave,Standard-Time
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2390
+ 825
+LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
+CREATED:20260318T005439Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005439Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15686/29618040/0/0
+DTSTART:20260425T020000Z
+DTEND:20260425T080000Z
+URL:https://tockify.com/torevent/detail/15686/1777082400000
+SUMMARY: Morten Inside Future
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2395109
+CATEGORIES:DJ/Club/Rave,Future-Nightlife
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2395
+ 109
+LOCATION:Future Nightlife\,570 Queen St W\, Toronto\, ON M5V 2B5\, Canada
+CREATED:20260318T034028Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T034028Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14545/29618040/0/0
 DTSTART:20260425T020000Z
 DTEND:20260425T080000Z
@@ -48613,6 +48000,25 @@ LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
 CREATED:20260226T001051Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260226T001051Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15707/29618040/0/0
+DTSTART:20260425T020000Z
+DTEND:20260425T090000Z
+URL:https://tockify.com/torevent/detail/15707/1777082400000
+SUMMARY: Darkest Hour with Britta Arnold (Kater\, Berlin)\, Jenner\, Dasa
+ \, and BeardCane
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2382744
+CATEGORIES:DJ/Club/Rave,Geary-Avenue-Warehouse-Project
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2382
+ 744
+LOCATION:Geary Avenue Warehouse Project\,209 Geary Ave\, Toronto\, ON M6H
+  2C1\, Canada
+CREATED:20260318T041027Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T041027Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -49026,6 +48432,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15701/29619480/0/0
+DTSTART:20260426T020000Z
+DTEND:20260426T060000Z
+URL:https://tockify.com/torevent/detail/15701/1777168800000
+SUMMARY: 07: Aswat - أصوات feat. Kimo (MTL)
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2396154
+CATEGORIES:DJ/Club/Rave,Evangeline
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 96154
+LOCATION:Evangeline\,51 Camden St\, Toronto\, ON M5V 1V2\, Canada
+CREATED:20260318T040040Z
+DTSTAMP:20260318T053409Z
+LAST-MODIFIED:20260318T040040Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14598/29619480/0/0
 DTSTART:20260426T020000Z
 DTEND:20260426T060000Z
@@ -49064,6 +48487,23 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15659/29619480/0/0
+DTSTART:20260426T020000Z
+DTEND:20260426T063000Z
+URL:https://tockify.com/torevent/detail/15659/1777168800000
+SUMMARY: Odd Soul featuring Keys N Krates\, Mix Signals and Saikiko Nagai
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2393740
+CATEGORIES:DJ/Club/Rave,Standard-Time
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2393
+ 740
+LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
+CREATED:20260318T005513Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T005513Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/12795/29619480/0/0
 DTSTART:20260426T020000Z
 DTEND:20260426T070000Z
@@ -49096,6 +48536,24 @@ LOCATION:Runnymede Hall\,821 Runnymede Rd\, Toronto\, ON M6N 3V8\, Canada
 CREATED:20260206T004528Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260206T004528Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15660/29619480/0/0
+DTSTART:20260426T020000Z
+DTEND:20260426T090000Z
+URL:https://tockify.com/torevent/detail/15660/1777168800000
+SUMMARY: SHANGO 3 YEAR ANNIVERSARY PARTY! WITH CHICAGO LEGEND Jamie 3:26\
+ , Kiki LeFreak & Iced Misto
+DESCRIPTION:Doors 10pm/19+\n\nMore Info: RA https://ra.co/events/2394178
+CATEGORIES:DJ/Club/Rave,Cafeteria
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ More Info: RA https://ra.co/events/23
+ 94178
+LOCATION:Cafeteria\,1650 Dupont St\, Toronto\, ON M6P 3T2\, Canada
+CREATED:20260318T024608Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260318T024608Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -49478,6 +48936,25 @@ LOCATION:The Phoenix Concert Theatre\,410 Sherbourne St\, Toronto\, ON M5
 CREATED:20260227T032714Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260227T032714Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15669/29620800/0/0
+DTSTART:20260427T000000Z
+DTEND:20260427T090000Z
+URL:https://tockify.com/torevent/detail/15669/1777248000000
+SUMMARY: Sunday SerVice: w/ BARRONESS [Birthday Beats] | Manzone & Strong
+  | Nour & Dick Diamonds
+DESCRIPTION:Doors 8pm/19+\n\nTickets: tickettailor https://www.tickettail
+ or.com/events/wigglyevents/2105846
+CATEGORIES:DJ/Club/Rave,Wiggle-Room
+X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: tickettailor https://www.tick
+ ettailor.com/events/wigglyevents/2105846
+LOCATION:Wiggle Room\,772 Dundas St W\, Toronto\, ON M6J 1V1\, Canada
+CREATED:20260318T030748Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T030748Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -50833,6 +50310,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15679/29628120/0/0
+DTSTART:20260502T020000Z
+DTEND:20260502T080000Z
+URL:https://tockify.com/torevent/detail/15679/1777687200000
+SUMMARY: MARTA / SPEN / TOM DUNO / VIDERI
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/marta-coda-tickets/14775233
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/marta-coda-tickets/14775233
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T032914Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T032914Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/12808/29628120/0/0
 DTSTART:20260502T020000Z
 DTEND:20260502T080000Z
@@ -51152,6 +50647,25 @@ LOCATION:The Opera House\,735 Queen St E\, Toronto\, ON M4M 1H1\, Canada
 CREATED:20260315T032512Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260315T032512Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15651/29629500/0/0
+DTSTART:20260503T010000Z
+DTEND:20260503T063000Z
+URL:https://tockify.com/torevent/detail/15651/1777770000000
+SUMMARY: Ghost Sessions Vol. 1 w/ Nick Holder / HXF (JEEP MIX) / John Kon
+ g / Negative Splits
+DESCRIPTION:Doors 9pm/19+\n\nTickets: shotgun https://shotgun.live/en/eve
+ nts/ghost-code-presents-2
+CATEGORIES:DJ/Club/Rave,Rhythm
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: shotgun https://shotgun.live/
+ en/events/ghost-code-presents-2
+LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
+CREATED:20260317T204443Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T204443Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -53996,6 +53510,25 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15652/29648220/0/0
+DTSTART:20260516T010000Z
+DTEND:20260516T070000Z
+URL:https://tockify.com/torevent/detail/15652/1778893200000
+SUMMARY: BODYWERK w/ JT Donaldson (3-HR SET) / Jason Hodges / Mr. Haze / 
+ Sadstab
+DESCRIPTION:Doors 9pm/19+\n\nTickets: tickettailor https://www.tickettail
+ or.com/events/aptentertainmentinc/2114857
+CATEGORIES:DJ/Club/Rave,Rhythm
+X-TKF-CUSTOM-PREVIEW:Doors 9pm/19+ Tickets: tickettailor https://www.tick
+ ettailor.com/events/aptentertainmentinc/2114857
+LOCATION:Rhythm\,141 Bathurst St\, Toronto\, ON M5V 2R2\, Canada
+CREATED:20260317T204558Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T204558Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/12516/29648280/0/0
 DTSTART:20260516T020000Z
 DTEND:20260516T033000Z
@@ -54014,6 +53547,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15693/29648280/0/0
+DTSTART:20260516T020000Z
+DTEND:20260516T060000Z
+URL:https://tockify.com/torevent/detail/15693/1778896800000
+SUMMARY: AEROMANCY w/ weathergirl / Ethernet / Azalea the Witch / Sulk Ho
+ gan / junie beats jones
+DESCRIPTION:Doors 10pm/19+\n\nTickets: RA https://ra.co/events/2391945
+CATEGORIES:DJ/Club/Rave,Bampot-Tea-House
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: RA https://ra.co/events/2391
+ 945
+LOCATION:Bampot Tea House\,201 Harbord St\, Toronto\, ON M5S 1H6\, Canada
+CREATED:20260318T035155Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T035155Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15420/29648280/0/0
 DTSTART:20260516T020000Z
 DTEND:20260516T063000Z
@@ -54027,6 +53578,24 @@ LOCATION:Standard Time\,165 Geary Ave\, Toronto\, ON M6H 2B8\, Canada
 CREATED:20260310T192722Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260310T192722Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15680/29648280/0/0
+DTSTART:20260516T020000Z
+DTEND:20260516T080000Z
+URL:https://tockify.com/torevent/detail/15680/1778896800000
+SUMMARY: DISTINCT MOTIVE / XI
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/distinct-motive-coda-tickets/14785533
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/distinct-motive-coda-tickets/14785533
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T033024Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033024Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -57093,6 +56662,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15681/29669880/0/0
+DTSTART:20260531T020000Z
+DTEND:20260531T080000Z
+URL:https://tockify.com/torevent/detail/15681/1780192800000
+SUMMARY: RODDY LIMA / BIPOLUR / TSENAMI / 2SLAV
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/roddy-lima-coda-tickets/14753223
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/roddy-lima-coda-tickets/14753223
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T033149Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033149Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14358/29669970/0/0
 DTSTART:20260531T033000Z
 DTEND:20260531T033000Z
@@ -57488,6 +57075,26 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15630/29675520/0/0
+DTSTART:20260604T000000Z
+DTEND:20260604T033000Z
+URL:https://tockify.com/torevent/detail/15630/1780531200000
+SUMMARY: Greensky Bluegrass
+DESCRIPTION:Doors 7pm/19+\n\nTickets: ticketmaster https://www.ticketmast
+ er.ca/greensky-bluegrass-toronto-ontario-06-03-2026/event/10006469FAD5639
+ 8
+CATEGORIES:Concert,The-Opera-House
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: ticketmaster https://www.tick
+ etmaster.ca/greensky-bluegrass-toronto-ontario-06-03-2026/event/10006469F
+ AD56398
+LOCATION:The Opera House\,735 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260317T201241Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T201246Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/13543/29675610/0/0
 DTSTART:20260604T013000Z
 DTEND:20260604T030000Z
@@ -57639,6 +57246,26 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15631/29676960/0/0
+DTSTART:20260605T000000Z
+DTEND:20260605T033000Z
+URL:https://tockify.com/torevent/detail/15631/1780617600000
+SUMMARY: Josh Groban w/ Jennifer Hudson
+DESCRIPTION:Tickets: ticketmaster https://www.ticketmaster.ca/josh-groban
+ -with-special-guest-jennifer-toronto-ontario-06-04-2026/event/1000638AC9D
+ 9C3D3
+CATEGORIES:Concert,Scotiabank-Arena
+X-TKF-CUSTOM-PREVIEW:Tickets: ticketmaster https://www.ticketmaster.ca/jo
+ sh-groban-with-special-guest-jennifer-toronto-ontario-06-04-2026/event/10
+ 00638AC9D9C3D3
+LOCATION:Scotiabank Arena\,40 Bay St.\, Toronto\, ON M5J 2X2\, Canada
+CREATED:20260317T201355Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T201355Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15302/29677020/0/0
 DTSTART:20260605T010000Z
 DTEND:20260605T033000Z
@@ -57766,6 +57393,24 @@ LOCATION:Jane Mallett Theatre\,Toronto Centre for the Arts\, 27 Front St
 CREATED:20260219T000552Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260219T000552Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15632/29678370/0/0
+DTSTART:20260605T233000Z
+DTEND:20260606T033000Z
+URL:https://tockify.com/torevent/detail/15632/1780702200000
+SUMMARY: Don Toliver w/ SahBabii / SoFaygo / Chase B
+DESCRIPTION:Tickets: ticketmaster https://www.ticketmaster.ca/don-toliver
+ -octane-tour-toronto-ontario-06-05-2026/event/1000643CA001BEE7
+CATEGORIES:Concert,Scotiabank-Arena
+X-TKF-CUSTOM-PREVIEW:Tickets: ticketmaster https://www.ticketmaster.ca/do
+ n-toliver-octane-tour-toronto-ontario-06-05-2026/event/1000643CA001BEE7
+LOCATION:Scotiabank Arena\,40 Bay St.\, Toronto\, ON M5J 2X2\, Canada
+CREATED:20260317T201532Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T201532Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -57901,6 +57546,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15682/29678520/0/0
+DTSTART:20260606T020000Z
+DTEND:20260606T080000Z
+URL:https://tockify.com/torevent/detail/15682/1780711200000
+SUMMARY: RINZEN / BUZNELO / ADINA NOVA / LIZARD TIME
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/rinzen-coda-tickets/14753763
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/rinzen-coda-tickets/14753763
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T033336Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033336Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14494/29679450/0/0
 DTSTART:20260606T173000Z
 DTEND:20260606T200000Z
@@ -57916,6 +57579,26 @@ LOCATION:Jane Mallett Theatre\,Toronto Centre for the Arts\, 27 Front St
 CREATED:20260219T000636Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260219T000636Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15639/29679480/0/0
+DTSTART:20260606T180000Z
+DTEND:20260607T033000Z
+URL:https://tockify.com/torevent/detail/15639/1780768800000
+SUMMARY: All Things Go Festival: Day 1 w/ KESHA / THE BEACHES / RACHEL CH
+ INOURIRI / HOLLY HUMBERSTONE / SOFIA CAMARA / BELLA KAY
+DESCRIPTION:Tickets: allthingsgofestival https://allthingsgofestival.com/
+ toronto/
+CATEGORIES:Concert,RBC-Amphitheatre,Festival
+X-TKF-CUSTOM-PREVIEW:Tickets: allthingsgofestival https://allthingsgofest
+ ival.com/toronto/
+LOCATION:RBC Amphitheatre\,909 Lake Shore Blvd W\, Toronto\, ON M6K 3L3\,
+  Canada
+CREATED:20260317T202535Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202535Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -58013,6 +57696,27 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15636/29679840/0/0
+DTSTART:20260607T000000Z
+DTEND:20260607T033000Z
+URL:https://tockify.com/torevent/detail/15636/1780790400000
+SUMMARY: Corinne Bailey Rae
+DESCRIPTION:Doors 7pm/All Ages\n\nTickets: TicketMaster https://www.ticke
+ tmaster.ca/like-a-star-celebrating-20-years-toronto-ontario-06-06-2026/ev
+ ent/100064540669C80A
+CATEGORIES:Concert,The-Danforth-Music-Hall
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages Tickets: TicketMaster https://www
+ .ticketmaster.ca/like-a-star-celebrating-20-years-toronto-ontario-06-06-2
+ 026/event/100064540669C80A
+LOCATION:The Danforth Music Hall\,147 Danforth Ave\, Toronto\, ON M4K 1N2
+ \, Canada
+CREATED:20260317T202149Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202149Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14389/29679840/0/0
 DTSTART:20260607T000000Z
 DTEND:20260607T033000Z
@@ -58027,6 +57731,26 @@ LOCATION:HISTORY\,1663 Queen St E\, Toronto\, ON M4L 1G5\, Canada
 CREATED:20260218T032656Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260218T032656Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15634/29679840/0/0
+DTSTART:20260607T000000Z
+DTEND:20260607T033000Z
+URL:https://tockify.com/torevent/detail/15634/1780790400000
+SUMMARY: Seedhe Maut
+DESCRIPTION:Doors 7pm/19+\n\nTickets: ticketmaster https://www.ticketmast
+ er.ca/seedhe-maut-10-years-of-seedhe-toronto-ontario-06-06-2026/event/100
+ 06434C95D447A
+CATEGORIES:Concert,The-Opera-House
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: ticketmaster https://www.tick
+ etmaster.ca/seedhe-maut-10-years-of-seedhe-toronto-ontario-06-06-2026/eve
+ nt/10006434C95D447A
+LOCATION:The Opera House\,735 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260317T201949Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T201949Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -58121,6 +57845,26 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15633/29680920/0/0
+DTSTART:20260607T180000Z
+DTEND:20260608T033000Z
+URL:https://tockify.com/torevent/detail/15633/1780855200000
+SUMMARY: All Things Go Festival: Day 2 w/ LORDE / WET LEG / DEL WATER GAP
+  / JADE LEMAC / MOMMA / FLOWER FACE
+DESCRIPTION:Tickets: allthingsgofestival https://allthingsgofestival.com/
+ toronto/
+CATEGORIES:Concert,RBC-Amphitheatre,Festival
+X-TKF-CUSTOM-PREVIEW:Tickets: allthingsgofestival https://allthingsgofest
+ ival.com/toronto/
+LOCATION:RBC Amphitheatre\,909 Lake Shore Blvd W\, Toronto\, ON M6K 3L3\,
+  Canada
+CREATED:20260317T201818Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T201851Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/11325/29681220/0/0
 DTSTART:20260607T230000Z
 DTEND:20260608T003000Z
@@ -58171,6 +57915,26 @@ LOCATION:Tranzac\,292 Brunswick Ave\, Toronto\, ON M5S 2M7\, Canada
 CREATED:20260216T183510Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260216T183510Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15635/29681280/0/0
+DTSTART:20260608T000000Z
+DTEND:20260608T033000Z
+URL:https://tockify.com/torevent/detail/15635/1780876800000
+SUMMARY: Seedhe Maut
+DESCRIPTION:Doors 7pm/19+\n\nTickets: ticketmaster https://www.ticketmast
+ er.ca/seedhe-maut-10-years-of-seedhe-toronto-ontario-06-07-2026/event/100
+ 06437BB60702C
+CATEGORIES:Concert,The-Opera-House
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: ticketmaster https://www.tick
+ etmaster.ca/seedhe-maut-10-years-of-seedhe-toronto-ontario-06-07-2026/eve
+ nt/10006437BB60702C
+LOCATION:The Opera House\,735 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260317T202050Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202050Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -58344,6 +58108,26 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15638/29684130/0/0
+DTSTART:20260609T233000Z
+DTEND:20260610T033000Z
+URL:https://tockify.com/torevent/detail/15638/1781047800000
+SUMMARY: Bleachers w/ Momo Boyd
+DESCRIPTION:Doors 6pm\n\nTickets: ticketmaster https://www.ticketmaster.c
+ a/bleachers-forever-toronto-ontario-06-09-2026/event/1000646A993B7B0E
+CATEGORIES:Concert,RBC-Amphitheatre
+X-TKF-CUSTOM-PREVIEW:Doors 6pm Tickets: ticketmaster https://www.ticketma
+ ster.ca/bleachers-forever-toronto-ontario-06-09-2026/event/1000646A993B7B
+ 0E
+LOCATION:RBC Amphitheatre\,909 Lake Shore Blvd W\, Toronto\, ON M6K 3L3\,
+  Canada
+CREATED:20260317T202416Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202416Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/13609/29684160/0/0
 DTSTART:20260610T000000Z
 DTEND:20260610T013000Z
@@ -58397,6 +58181,24 @@ LOCATION:The Mod Club\,722 College St\, Toronto\, ON M6G 1C2\, Canada
 CREATED:20260309T225344Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20260309T225344Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15637/29684160/0/0
+DTSTART:20260610T000000Z
+DTEND:20260610T033000Z
+URL:https://tockify.com/torevent/detail/15637/1781049600000
+SUMMARY: Villanelle
+DESCRIPTION:Doors 7pm/19+\n\nTickets: ticketmaster https://www.ticketmast
+ er.ca/villanelle-toronto-ontario-06-09-2026/event/100064613CADA688
+CATEGORIES:Concert,The-Garrison
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/19+ Tickets: ticketmaster https://www.tick
+ etmaster.ca/villanelle-toronto-ontario-06-09-2026/event/100064613CADA688
+LOCATION:The Garrison\,1197 Dundas St W\, Toronto\, ON M6J 1X3\, Canada
+CREATED:20260317T202253Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202253Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -58690,6 +58492,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15683/29688600/0/0
+DTSTART:20260613T020000Z
+DTEND:20260613T080000Z
+URL:https://tockify.com/torevent/detail/15683/1781316000000
+SUMMARY: SAN PACHO / PASTICH / STEFANO DIMILAN / LAARA
+DESCRIPTION:Doors 10pm/19+\n\nTickets: Ticketweb https://www.ticketweb.ca
+ /event/san-pacho-coda-tickets/14785083
+CATEGORIES:DJ/Club/Rave,CODA
+X-TKF-CUSTOM-PREVIEW:Doors 10pm/19+ Tickets: Ticketweb https://www.ticket
+ web.ca/event/san-pacho-coda-tickets/14785083
+LOCATION:CODA\,794 Bathurst St\, Toronto\, ON M5R 3G1\, Canada
+CREATED:20260318T033500Z
+DTSTAMP:20260318T035915Z
+LAST-MODIFIED:20260318T033500Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/9392/29689500/0/0
 DTSTART:20260613T170000Z
 DTEND:20260613T190000Z
@@ -58704,6 +58524,26 @@ LOCATION:Arraymusic\,155 Walnut Ave\, Toronto\, ON M6J 3W3\, Canada
 CREATED:20251027T020419Z
 DTSTAMP:20260316T120235Z
 LAST-MODIFIED:20251027T020419Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15640/29689800/0/0
+DTSTART:20260613T220000Z
+DTEND:20260614T033000Z
+URL:https://tockify.com/torevent/detail/15640/1781388000000
+SUMMARY: Goose w/ Julian Lage
+DESCRIPTION:Doors 5pm\n\nTickets: ticketmaster https://www.ticketmaster.c
+ a/goose-summer-2026-toronto-ontario-06-13-2026/event/10006436F232DAAE
+CATEGORIES:Concert,RBC-Amphitheatre
+X-TKF-CUSTOM-PREVIEW:Doors 5pm Tickets: ticketmaster https://www.ticketma
+ ster.ca/goose-summer-2026-toronto-ontario-06-13-2026/event/10006436F232DA
+ AE
+LOCATION:RBC Amphitheatre\,909 Lake Shore Blvd W\, Toronto\, ON M6K 3L3\,
+  Canada
+CREATED:20260317T202640Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202640Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
@@ -59009,6 +58849,25 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15641/29694210/0/0
+DTSTART:20260616T233000Z
+DTEND:20260617T033000Z
+URL:https://tockify.com/torevent/detail/15641/1781652600000
+SUMMARY: Post Malone w/ Jelly Roll / Carter Faith
+DESCRIPTION:Tickets: ticketmaster https://www.ticketmaster.ca/post-malone
+ -presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED4720CBE
+CATEGORIES:Concert,Rogers-Stadium
+X-TKF-CUSTOM-PREVIEW:Tickets: ticketmaster https://www.ticketmaster.ca/po
+ st-malone-presents-the-big-ass-toronto-ontario-06-16-2026/event/1000643ED
+ 4720CBE
+LOCATION:Rogers Stadium\,105 Carl Hall Road\, Toronto\, ON M3K0A1\, CA
+CREATED:20260317T202740Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202842Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/14952/29694240/0/0
 DTSTART:20260617T000000Z
 DTEND:20260617T033000Z
@@ -59157,6 +59016,25 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15643/29695680/0/0
+DTSTART:20260618T000000Z
+DTEND:20260618T030000Z
+URL:https://tockify.com/torevent/detail/15643/1781740800000
+SUMMARY: Marcus King Band w/ Penelope Road
+DESCRIPTION:Tickets: ticketmaster https://www.ticketmaster.ca/marcus-king
+ -band-darling-blue-pt2-toronto-ontario-06-17-2026/event/10006464DC333C41
+CATEGORIES:Concert,Massey-Hall
+X-TKF-CUSTOM-PREVIEW:Tickets: ticketmaster https://www.ticketmaster.ca/ma
+ rcus-king-band-darling-blue-pt2-toronto-ontario-06-17-2026/event/10006464
+ DC333C41
+LOCATION:Massey Hall\,178 Victoria St\, Toronto\, ON M5B 1T6\, Canada
+CREATED:20260317T203111Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T203111Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/15153/29695680/0/0
 DTSTART:20260618T000000Z
 DTEND:20260618T033000Z
@@ -59213,6 +59091,24 @@ TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15642/29695680/0/0
+DTSTART:20260618T000000Z
+DTEND:20260618T033000Z
+URL:https://tockify.com/torevent/detail/15642/1781740800000
+SUMMARY: underscores w/ Umru
+DESCRIPTION:Doors 7pm/All Ages\n\nTickets: ticketmaster https://www.ticke
+ tmaster.ca/underscores-galleria-north-american-chapter-toronto-ontario-06
+ -17-2026/event/10006459B5ADAE57
+CATEGORIES:Concert,The-Opera-House
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages Tickets: ticketmaster...
+LOCATION:The Opera House\,735 Queen St E\, Toronto\, ON M4M 1H1\, Canada
+CREATED:20260317T202953Z
+DTSTAMP:20260317T211715Z
+LAST-MODIFIED:20260317T202953Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:TKF/6755f42da02aaf1c2599e7ae/12562/29695770/0/0
 DTSTART:20260618T013000Z
 DTEND:20260618T030000Z
@@ -59227,6 +59123,154 @@ LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
 CREATED:20260113T045301Z
 DTSTAMP:20260317T020233Z
 LAST-MODIFIED:20260113T045301Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/11648/29697060/0/0
+DTSTART:20260618T230000Z
+DTEND:20260619T030000Z
+URL:https://tockify.com/torevent/detail/11648/1781823600000
+SUMMARY: Bailey Zimmerman w/ Hudson Westbrook / Blake Whiten
+DESCRIPTION:Tickets: ticketmaster https://www.ticketmaster.ca/bailey-zimm
+ erman-different-night-same-rodeo-toronto-ontario-06-18-2026/event/1000632
+ 4C6974B1A
+CATEGORIES:Concert,RBC-Amphitheatre
+X-TKF-CUSTOM-PREVIEW:Tickets: ticketmaster https://www.ticketmaster.ca/ba
+ iley-zimmerman-different-night-same-rodeo-toronto-ontario-06-18-2026/even
+ t/10006324C6974B1A
+LOCATION:RBC Amphitheatre\,909 Lake Shore Blvd W\, Toronto\, ON M6K 3L3\,
+  Canada
+CREATED:20251217T045441Z
+DTSTAMP:20260317T230234Z
+LAST-MODIFIED:20251217T045441Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/12505/29697090/0/0
+DTSTART:20260618T233000Z
+DTEND:20260619T010000Z
+URL:https://tockify.com/torevent/detail/12505/1781825400000
+SUMMARY: Bad Romance: An Improvised Hallmark RomCom
+DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/b
+ ad-romance
+CATEGORIES:Comedy,Comedy-Bar-Bloor
+X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
+ hows/bad-romance
+LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
+CREATED:20260113T040948Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260113T040948Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/13674/29697090/0/0
+DTSTART:20260618T233000Z
+DTEND:20260619T010000Z
+URL:https://tockify.com/torevent/detail/13674/1781825400000
+SUMMARY: Bad Romance: An Improvised Hallmark RomCom
+DESCRIPTION:Main Stage\n\nTickets: comedybar https://comedybar.ca/shows/b
+ ad-romance
+CATEGORIES:Comedy,Comedy-Bar-Bloor
+X-TKF-CUSTOM-PREVIEW:Main Stage Tickets: comedybar https://comedybar.ca/s
+ hows/bad-romance
+LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
+CREATED:20260202T043255Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260202T043255Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/14274/29697120/0/0
+DTSTART:20260619T000000Z
+DTEND:20260619T013000Z
+URL:https://tockify.com/torevent/detail/14274/1781827200000
+SUMMARY: Makam Nights
+DESCRIPTION:Living Room\n\nMore Info: Tranzac https://tranzac.org/calenda
+ r\n\n
+CATEGORIES:Concert,Tranzac
+X-TKF-CUSTOM-PREVIEW:Living Room More Info: Tranzac https://tranzac.org/c
+ alendar
+LOCATION:Tranzac\,292 Brunswick Ave\, Toronto\, ON M5S 2M7\, Canada
+CREATED:20260216T180302Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260216T180302Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/9510/29697120/0/0
+DTSTART:20260619T000000Z
+DTEND:20260619T013000Z
+URL:https://tockify.com/torevent/detail/9510/1781827200000
+SUMMARY: The Pro Show
+DESCRIPTION:Cabaret\n\nTickets: comedybar https://comedybar.ca/shows/the-
+ pro-show
+CATEGORIES:Comedy,Comedy-Bar-Bloor
+X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: comedybar https://comedybar.ca/show
+ s/the-pro-show
+LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
+CREATED:20251028T035846Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260113T173447Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15369/29697120/0/0
+DTSTART:20260619T000000Z
+DTEND:20260619T033000Z
+URL:https://tockify.com/torevent/detail/15369/1781827200000
+SUMMARY: Arkells
+DESCRIPTION:Doors 7pm/All Ages\n\nTickets: ticketmaster https://www.ticke
+ tmaster.ca/arkells-toronto-ontario-06-18-2026/event/10006453DD6F2091
+CATEGORIES:Concert,History
+X-TKF-CUSTOM-PREVIEW:Doors 7pm/All Ages Tickets: ticketmaster https://www
+ .ticketmaster.ca/arkells-toronto-ontario-06-18-2026/event/10006453DD6F209
+ 1
+LOCATION:HISTORY\,1663 Queen St E\, Toronto\, ON M4L 1G5\, Canada
+CREATED:20260310T025532Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260310T025532Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/15059/29697120/0/0
+DTSTART:20260619T000000Z
+DTEND:20260619T033000Z
+URL:https://tockify.com/torevent/detail/15059/1781827200000
+SUMMARY: The Bug Club w/ The Boojums
+DESCRIPTION:Doors 8pm/19+\n\nTickets: DICE https://dice.fm/event/6d22o2-t
+ he-bug-club-the-boojums-18th-jun-the-garrison-toronto-tickets
+CATEGORIES:Concert,The-Garrison
+X-TKF-CUSTOM-PREVIEW:Doors 8pm/19+ Tickets: DICE https://dice.fm/event/6d
+ 22o2-the-bug-club-the-boojums-18th-jun-the-garrison-toronto-tickets
+LOCATION:The Garrison\,1197 Dundas St W\, Toronto\, ON M6J 1X3\, Canada
+CREATED:20260305T181652Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260305T181700Z
+TRANSP:OPAQUE
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:TKF/6755f42da02aaf1c2599e7ae/4481/29697210/0/0
+DTSTART:20260619T013000Z
+DTEND:20260619T033000Z
+URL:https://tockify.com/torevent/detail/4481/1781832600000
+SUMMARY: Laugh Sabbath
+DESCRIPTION:Cabaret\n\nTickets: Comedybar https://comedybar.ca/shows/laug
+ h-sabbath
+CATEGORIES:Comedy,Comedy-Bar-Bloor
+X-TKF-CUSTOM-PREVIEW:Cabaret Tickets: Comedybar https://comedybar.ca/show
+ s/laugh-sabbath
+LOCATION:Comedy Bar Bloor\,945 Bloor St W\, Toronto\, ON M6H 1L5\, Canada
+CREATED:20250610T044432Z
+DTSTAMP:20260318T025309Z
+LAST-MODIFIED:20260113T040735Z
 TRANSP:OPAQUE
 CLASS:PUBLIC
 END:VEVENT

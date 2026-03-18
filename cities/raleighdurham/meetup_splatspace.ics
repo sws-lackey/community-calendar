@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313532285@meetup.com
-SEQUENCE:1
-DTSTAMP:20260317T053909Z
-DTSTART;TZID=America/New_York:20260317T190000
-DTEND;TZID=America/New_York:20260317T200000
-SUMMARY:Splat Space Community Biolab meeting
-DESCRIPTION:Splat Space - Durham's Hackerspace\nWe will meet to discuss individual or group research projects\, logistics of our bio space at SplatSpace\, or developments in biology. Attendees are encouraged to lead a discussion on any of these topics. Non-Splat members are welcome.\nAgenda for Tuesday:\n\n1. (5 minutes) Organizational update: new attendees\, money added to/spent from the bio supplement fund\n2. (20 minutes) Updates/data sharing/asks on individual projects and Valonia group project\n3. (10 minutes) Discussion about next month goals for Valonia project\n4. (10 minutes) Space update: equipment changes\, cleaning\, etc\n5. (5 minutes) Fundraising: awarded\, in-progress\, and upcoming applications for personal and group projects\n6. (infinite) Open lab time
-URL;VALUE=URI:https://www.meetup.com/splatspace/events/313532285/
-STATUS:CONFIRMED
-CREATED:20260226T004623Z
-LAST-MODIFIED:20260226T004623Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/9/b/4/600_532591156.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313547534@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260318T170000
 DTEND;TZID=America/New_York:20260318T200000
 SUMMARY:Woodshop Wednesdays
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313590338@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260321T130000
 DTEND;TZID=America/New_York:20260321T160000
 SUMMARY:Open House
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313763615@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260322T120000
 DTEND;TZID=America/New_York:20260322T140000
 SUMMARY:Triangle Mutual Aid Comms Meetup
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313214243@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260324T190000
 DTEND;TZID=America/New_York:20260324T200000
 SUMMARY:Splat Space Board meeting
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313657333@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260325T170000
 DTEND;TZID=America/New_York:20260325T200000
 SUMMARY:Woodshop Wednesdays
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313696051@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260328T120000
 DTEND;TZID=America/New_York:20260328T130000
 SUMMARY:Monthly Cleanup
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313697496@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T160000
 SUMMARY:Open House
@@ -147,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_vvmrvtyjcgbcb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260401T170000
 DTEND;TZID=America/New_York:20260401T200000
 SUMMARY:Woodshop Wednesdays
@@ -162,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_wqrxvtyjcgbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053909Z
+DTSTAMP:20260318T054450Z
 DTSTART;TZID=America/New_York:20260404T130000
 DTEND;TZID=America/New_York:20260404T160000
 SUMMARY:Open House
@@ -173,6 +158,21 @@ CREATED:20260205T014034Z
 LAST-MODIFIED:20260205T014034Z
 CLASS:PUBLIC
 ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/7/a/3/d/600_532591293.jpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:event_ttxkvtyjcgbkb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260318T054450Z
+DTSTART;TZID=America/New_York:20260407T190000
+DTEND;TZID=America/New_York:20260407T210000
+SUMMARY:Splat Space Member Meeting
+DESCRIPTION:Splat Space - Durham's Hackerspace\nOn the first Tuesday of every month\, we hold our Member Meeting. This meeting is an opportunity for the Splat Space board to update the members on events\, issues and news related to Splat Space.\n\nWhile the majority of our members attend in person and we encourage them to do so\, we stream the meeting using Google Meet for those who want to attend remotely.\n\nClick this link attend the meeting online.\n\nhttps://meet.google.com/usc-eavv-jkc
+URL;VALUE=URI:https://www.meetup.com/splatspace/events/ttxkvtyjcgbkb/
+STATUS:CONFIRMED
+CREATED:20251231T012646Z
+LAST-MODIFIED:20251231T012646Z
+CLASS:PUBLIC
+ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/a/9/4/c/600_529363340.jpeg
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/splatspace/events/ical/
 X-WR-CALNAME:Splat Space - Durham's Hackerspace

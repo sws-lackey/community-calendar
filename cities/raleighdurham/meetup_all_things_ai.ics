@@ -25,24 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_313557207@meetup.com
-SEQUENCE:1
-DTSTAMP:20260317T053907Z
-DTSTART;TZID=America/New_York:20260317T120000
-DTEND;TZID=America/New_York:20260317T130000
-SUMMARY:Lunch and Learn: Securing your Model Context Protocol Footprint
-DESCRIPTION:All Things AI (Live)\nLeaders across industries are using the Model Context Protocol (MCP) to put tools in the hands of their AI agents\, so they can do real work and drive measurable return on AI investments. However\, it’s critical that MCP be implemented with guardrails to protect against malicious actors and unintended actions. Stacklok will show you how to use its open source ToolHive MCP platform to curate a trusted MCP registry and implement auth\, token exchanges and other security best practices so you can put MCP into production\n\n**Model Context Protocol (MCP) Overview**\n\nMCP is an open standard developed by Anthropic that provides a universal way for AI models to connect with external data sources\, tools\, and services. Think of it as a "USB-C port for AI"—a single\, standardized protocol that replaces the need for custom integrations between every AI application and every data source. MCP uses a client-server architecture where AI-powered applications (clients) connect to lightweight MCP servers that expose specific capabilities like database access\, API integrations\, or file system operations. This means developers can build one integration that works across any MCP-compatible AI platform\, dramatically reducing the fragmentation of the current ecosystem. For businesses\, MCP enables AI assistants to securely access real-time company data—from Slack and Google Drive to CRMs and internal databases—without sacrificing control or security. It's rapidly gaining adoption across the industry\, with companies like Google\, Microsoft\, Salesforce\, and many others building MCP support into their platforms.
-URL;VALUE=URI:https://www.meetup.com/all-things-ai-live/events/313557207/
-STATUS:CONFIRMED
-CREATED:20260227T143701Z
-LAST-MODIFIED:20260227T143701Z
-CLASS:PUBLIC
-ATTACH;FMTTYPE=image/jpeg:https://secure.meetupstatic.com/photos/event/5/7/8/7/600_532942407.jpeg
-END:VEVENT
-BEGIN:VEVENT
 UID:event_313538303@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260318T120000
 DTEND;TZID=America/New_York:20260318T130000
 SUMMARY:Lunch & Learn: Building Agents with Granite Workshop
@@ -57,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_310492667@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T070000
 DTEND;TZID=America/New_York:20260324T190000
 SUMMARY:All Things AI: The Southeast's Biggest AI Conference
@@ -72,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312972559@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T090000
 DTEND;TZID=America/New_York:20260323T160000
 SUMMARY:AI for Agents Workshop
@@ -87,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312972607@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T090000
 DTEND;TZID=America/New_York:20260323T110000
 SUMMARY:AI for Business Professionals Workshop
@@ -102,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_312972708@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T090000
 DTEND;TZID=America/New_York:20260323T160000
 SUMMARY:AI for DevOps Workshop
@@ -117,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313558729@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T090000
 DTEND;TZID=America/New_York:20260323T120000
 SUMMARY:Major League Hacking AI Roadshow at All Things AI 2026
@@ -132,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313559169@meetup.com
 SEQUENCE:1
-DTSTAMP:20260317T053907Z
+DTSTAMP:20260318T054448Z
 DTSTART;TZID=America/New_York:20260323T133000
 DTEND;TZID=America/New_York:20260323T163000
 SUMMARY:Major League Hacking AI Roadshow at All Things AI 2026 (Afternoon Edition)

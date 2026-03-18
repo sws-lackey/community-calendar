@@ -3619,10 +3619,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260507T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260507T210000
-UID:d4f1e2f1c848b18586f8cd8152695cb5@bostontheatrescene.com
+UID:6dfed6900a6bda3d6e06f7c9071b87ea@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3674,10 +3674,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260508T193000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260508T213000
-UID:3396059d3acc09ec5c56941749d3b263@bostontheatrescene.com
+UID:8a5542080c0ef2818970764cb3a19679@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3746,10 +3746,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260509T193000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260509T213000
-UID:620ac8f7d0ca838ef04f125b30a3055f@bostontheatrescene.com
+UID:23ca56e8f18d67b1774e4856f047cef5@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3801,10 +3801,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260510T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260510T210000
-UID:6b4da830a721f646c3cbd456a4c72150@bostontheatrescene.com
+UID:a1ca06accd38180d41bd27fe0b83e07e@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3840,10 +3840,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260512T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260512T210000
-UID:bc7eee337bc73f2d0e8459c7f5e8093a@bostontheatrescene.com
+UID:5626efa9df7a30316a4c7cb8a3518cc1@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3869,10 +3869,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260513T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260513T210000
-UID:4832e543c8fe4fdc373e32387640f1fd@bostontheatrescene.com
+UID:1253041bf819d67f28b73ae8418fbc18@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -3912,10 +3912,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260514T190000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260514T210000
-UID:b993fe3ee7f361816b4decc53b49bca6@bostontheatrescene.com
+UID:07f3ce48ba0e30a51e7631dd4efb3180@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -4011,10 +4011,10 @@ END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260515T193000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260515T213000
-UID:b16bde147b7d4106a3e0570004c5b565@bostontheatrescene.com
+UID:1cbe2dcd20c5881992276bbc620b01f9@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -4072,10 +4072,10 @@ BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260516T140000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260516T160000
-UID:7e2511ef96ad30c565c0cef656dab1d2@bostontheatrescene.com
+UID:5f84e12b66d1520811e55da21aacb9c4@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -4130,10 +4130,10 @@ BEGIN:VEVENT
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-URLS:{"Boston Theatre Scene": "https://www.bostontheatrescene.com/shows-and-events/oedipus-el-rey/"}
 X-SOURCE-ID:boston_theatre_scene
-SUMMARY:Oedipus El Rey
+SUMMARY:Oedipus el Rey
 DTSTART;TZID=EDT;VALUE=DATE-TIME:20260517T130000
 DTEND;TZID=EDT;VALUE=DATE-TIME:20260517T150000
-UID:85ad18a906389194ffd359524daa281a@bostontheatrescene.com
+UID:44ba335a4387efeea5ae9975de75f21b@bostontheatrescene.com
 ATTACH;FMTTYPE=image/jpeg:https://images.bostontheatrescene.com/uploads/20
  25/07/25-26-Season-Announce-GFX-Showart-with-accolades_Oedipus.jpg?resize=
  300%2C300&gravity
@@ -4181,6 +4181,18 @@ DESCRIPTION:
 LOCATION:Lyric Stage Company\, 140 Clarendon St\, Boston\, MA
 URL:https://www.lyricstage.com/production/something-rotten/
 X-SOURCE:Lyric Stage Company
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Ovationtix Wheelock": "https://ci.ovationtix.com/177/production/1247439"}
+X-SOURCE-ID:ovationtix_wheelock
+SUMMARY:Charlotte's Web
+DTSTART;TZID=EDT;VALUE=DATE-TIME:20260518T140000
+DTEND;TZID=EDT;VALUE=DATE-TIME:20260518T160000
+UID:4e27667e0c4ce2bf0fad743bdb8ec6ce@ovationtix.com
+DESCRIPTION:
+LOCATION:Wheelock Family Theatre
+URL:https://ci.ovationtix.com/177/production/1247439
+X-SOURCE:Wheelock Family Theatre
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Emerson Theatres": "https://emersontheatres.org/event/the-screwtape-letters/"}

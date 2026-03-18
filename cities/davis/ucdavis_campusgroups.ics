@@ -5494,6 +5494,16 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=907323
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260403T023000Z
+DTEND;VALUE=DATE-TIME:20260403T040000Z
+UID:1943ed404ffc11076ccc6f46449e39e23132026_6:11:04_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908480
+URL:https://aggielife.ucdavis.edu/rsvp?id=908480
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weekly General Meeting
 DTSTART;VALUE=DATE-TIME:20260404T000000Z
 DTEND;VALUE=DATE-TIME:20260404T020000Z
@@ -5638,6 +5648,16 @@ DESCRIPTION:This event will provide students the opportunity to engage wit
  rough the topic of sports and teamwork. --- Event Details: https://aggieli
  fe.ucdavis.edu/rsvp?id=908470
 URL:https://aggielife.ucdavis.edu/rsvp?id=908470
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260410T023000Z
+DTEND;VALUE=DATE-TIME:20260410T040000Z
+UID:4feea6da8abefe4c97c5776aeb29a16a3132026_6:21:48_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908481
+URL:https://aggielife.ucdavis.edu/rsvp?id=908481
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
@@ -5800,6 +5820,16 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=907325
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260417T023000Z
+DTEND;VALUE=DATE-TIME:20260417T040000Z
+UID:75d26e978f8055942128efd282f7c4263132026_6:21:49_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908482
+URL:https://aggielife.ucdavis.edu/rsvp?id=908482
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weekly General Meeting
 DTSTART;VALUE=DATE-TIME:20260418T000000Z
 DTEND;VALUE=DATE-TIME:20260418T020000Z
@@ -5942,6 +5972,16 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=907326
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260424T023000Z
+DTEND;VALUE=DATE-TIME:20260424T040000Z
+UID:ae2a1bab87e84626a0400a9c697d5c783132026_6:21:50_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908483
+URL:https://aggielife.ucdavis.edu/rsvp?id=908483
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weekly General Meeting
 DTSTART;VALUE=DATE-TIME:20260425T000000Z
 DTEND;VALUE=DATE-TIME:20260425T020000Z
@@ -6031,6 +6071,18 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=908460
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DAiCon 2026
+DTSTART;VALUE=DATE-TIME:20260426T170000Z
+DTEND;VALUE=DATE-TIME:20260427T010000Z
+UID:7900755e2ca474f06bae0949877366749302025_5:21:54_PM@campusgroups.com
+DESCRIPTION:An anime convention held on the UC Davis campus welcoming all 
+ ages. --- Event Details: https://aggielife.ucdavis.edu/rsvp?id=906165
+LOCATION:UC Davis Conference Center/UC Davis alumni center\, 1 Shields Ave
+ \, Davis\, California 95616\, United States
+URL:https://aggielife.ucdavis.edu/rsvp?id=906165
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chess Club Meeting
 DTSTART;VALUE=DATE-TIME:20260427T000000Z
 DTEND;VALUE=DATE-TIME:20260427T020000Z
@@ -6098,6 +6150,16 @@ DESCRIPTION:A collection of different events every Thursday hosted by our
  club\, ranging from marshmallow tower building to jeopardy! --- Event Deta
  ils: https://aggielife.ucdavis.edu/rsvp?id=907327
 URL:https://aggielife.ucdavis.edu/rsvp?id=907327
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260501T023000Z
+DTEND;VALUE=DATE-TIME:20260501T040000Z
+UID:91294570f6b2c5151da258620e8e4f543132026_6:21:50_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908484
+URL:https://aggielife.ucdavis.edu/rsvp?id=908484
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
@@ -6257,6 +6319,16 @@ DESCRIPTION:A collection of different events every Thursday hosted by our
  club\, ranging from marshmallow tower building to jeopardy! --- Event Deta
  ils: https://aggielife.ucdavis.edu/rsvp?id=907328
 URL:https://aggielife.ucdavis.edu/rsvp?id=907328
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260508T023000Z
+DTEND;VALUE=DATE-TIME:20260508T040000Z
+UID:2b42ff2074aab9c17e273e29d85649943132026_6:21:51_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908485
+URL:https://aggielife.ucdavis.edu/rsvp?id=908485
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
@@ -6429,6 +6501,18 @@ URL:https://aggielife.ucdavis.edu/rsvp?id=907741
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASC 2026 Team banquet
+DTSTART;VALUE=DATE-TIME:20260515T000000Z
+DTEND;VALUE=DATE-TIME:20260515T040000Z
+UID:e5804d74e5c021aa8b2a2b91e1b658a6322026_3:41:57_PM@campusgroups.com
+DESCRIPTION:This event will host all 9 teams that competed during the annu
+ al ASC competition this year. It will also recognize the team coaches/ment
+ ors and those graduating. --- Event Details: https://aggielife.ucdavis.edu
+ /rsvp?id=908448
+URL:https://aggielife.ucdavis.edu/rsvp?id=908448
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Meeting
 DTSTART;VALUE=DATE-TIME:20260515T020000Z
 DTEND;VALUE=DATE-TIME:20260515T030000Z
@@ -6437,6 +6521,16 @@ DESCRIPTION:A collection of different events every Thursday hosted by our
  club\, ranging from marshmallow tower building to jeopardy! --- Event Deta
  ils: https://aggielife.ucdavis.edu/rsvp?id=907329
 URL:https://aggielife.ucdavis.edu/rsvp?id=907329
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nav Night
+DTSTART;VALUE=DATE-TIME:20260515T023000Z
+DTEND;VALUE=DATE-TIME:20260515T040000Z
+UID:76546fdb8779488ba393c87dabc3c03a3132026_6:21:52_PM@campusgroups.com
+DESCRIPTION:Large Group Meeting --- Event Details: https://aggielife.ucdav
+ is.edu/rsvp?id=908486
+URL:https://aggielife.ucdavis.edu/rsvp?id=908486
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 BEGIN:VEVENT
@@ -6537,6 +6631,28 @@ DESCRIPTION:Sunday Chess Club Meeting in Shields room 167 from 5 PM to 7 P
 LOCATION:Shields Library room 167\, 1 Shields Ave\, Davis\, California 956
  16\, United States
 URL:https://aggielife.ucdavis.edu/rsvp?id=907306
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Meetings
+DTSTART;VALUE=DATE-TIME:20260519T011500Z
+DTEND;VALUE=DATE-TIME:20260519T021500Z
+UID:6b60cd21dd2af32b681f9c39cb71065112262025_1:49:15_AM@campusgroups.com
+DESCRIPTION:Weekly meeting over zoom for all members --- Event Details: ht
+ tps://aggielife.ucdavis.edu/rsvp?id=907814
+URL:https://aggielife.ucdavis.edu/rsvp?id=907814
+X-SOURCE:UC Davis CampusGroups
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSD Weekly Meeting
+DTSTART;VALUE=DATE-TIME:20260519T030000Z
+DTEND;VALUE=DATE-TIME:20260519T053000Z
+UID:5b6cd996229251d870567a0e04e8aca09262025_7:16:29_PM@campusgroups.com
+DESCRIPTION:Come join us for our weekly Davis Swing Dancers meeting! We me
+ et at 8 pm on Monday nights in Giedt 1001. We teach FREE beginner lessons 
+ every single week. --- Event Details: https://aggielife.ucdavis.edu/rsvp?i
+ d=905984
+URL:https://aggielife.ucdavis.edu/rsvp?id=905984
 X-SOURCE:UC Davis CampusGroups
 END:VEVENT
 END:VCALENDAR

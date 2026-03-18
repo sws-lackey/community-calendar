@@ -278,6 +278,60 @@ X-LIVEWHALE-CUSTOM-REGISTRATION-LINK:https://iubloomington.joinhandshake.
 X-LIVEWHALE-CUSTOM-ROOM-NUMBER:Career Studio
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260327T173000Z
+DTEND:20260327T190000Z
+LOCATION:GLOBAL &amp\; INTERNATIONAL STUDIES BUILDING - Room Number: 1060
+GEO:39.170002;-86.517492
+SUMMARY:EASC Colloquium: Shang Wei
+DESCRIPTION:Professor Wei Shang specializes in pre-modern Chinese literat
+ ure and culture\, especially the fiction and drama of the Ming and Qing d
+ ynasties. His research interests also include print culture\, book histor
+ y and intellectual history of the same period. His book &#8220\;Rulin Wai
+ shi" and Cultural Transformation in Late Imperial China (2003) addresses 
+ the role of Confucian ritualism and fiction in shaping the intellectual a
+ nd cultural changes of the eighteenth century. His other publications are
+  concerned with Jin Ping Mei Cihua (The Plum in the Golden Vase)\, late M
+ ing culture\, fiction commentary\, and medieval poetry\, including Writin
+ g on Landmarks: From Yellow Crane Tower to Phoenix Pavilion (2020). He is
+  the editor and co-editor of several volumes in both English and Chinese\
+ , and a contributor to The Cambridge History of Chinese Literature (2010)
+ .
+X-ALT-DESC;FMTTYPE=text/html:<p><span data-teams="true">Professor Wei Sha
+ ng specializes in pre-modern Chinese literature and culture\, especially 
+ the fiction and drama of the Ming and Qing dynasties. His research intere
+ sts also include print culture\, book history and intellectual history of
+  the same period. His book <i>&#8220\;Rulin Waishi" and Cultural Transfor
+ mation in Late Imperial China</i> (2003) addresses the role of Confucian 
+ ritualism and fiction in shaping the intellectual and cultural changes of
+  the eighteenth century. His other publications are concerned with <i>Jin
+  Ping Mei Cihua</i> (<i>The Plum in the Golden Vase</i>)\, late Ming cult
+ ure\, fiction commentary\, and medieval poetry\, including <i>Writing on 
+ Landmarks: From Yellow Crane Tower to Phoenix Pavilion</i> (2020). He is 
+ the editor and co-editor of several volumes in both English and Chinese\,
+  and a contributor to <i>The Cambridge History of Chinese Literature</i> 
+ (2010).</span></p>
+UID:20260327T173000Z-2241113@events.iu.edu
+DTSTAMP:20260317T102046Z
+URL:https://events.iu.edu/live/events/2223883-easc-colloquium-shang-wei
+CATEGORIES:Culture and languages,Lectures, talks, seminars, and conferences
+LAST-MODIFIED:20260317T142046Z
+ATTACH:https://events.iu.edu/live/image/gid/140/width/168/height/168/crop
+ /1/src_region/0,0,300,300/30280_image.rev.1772211317.png
+X-LIVEWHALE-TYPE:events
+X-LIVEWHALE-ID:2241113
+X-LIVEWHALE-TIMEZONE:America/New_York
+X-LIVEWHALE-IMAGE:https://events.iu.edu/live/image/gid/140/width/168/heig
+ ht/168/crop/1/src_region/0\,0\,300\,300/30280_image.rev.1772211317.png
+X-LIVEWHALE-IMAGE-CAPTION:<span data-teams="true">Shang Wei</span>
+X-LIVEWHALE-COST:Free
+X-LIVEWHALE-CONTACT-INFO:<p>\n  For any questions\, please contact easc@i
+ u.edu\n</p>
+X-LIVEWHALE-SUMMARY:<p>\n  <span data-teams="true">Join EASC as we welcom
+ e Dr. Shang Wei\, professor of pre-modern Chinese Literature at Columbia 
+ University</span>\n</p>
+X-LIVEWHALE-CUSTOM-ROOM-NUMBER:1060
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260327T200000Z
 DTEND:20260327T210000Z
 LOCATION:Online
@@ -1446,13 +1500,14 @@ DTSTAMP:20260310T112055Z
 URL:https://events.iu.edu/live/events/2146202-taiwan-studies-initiative-m
  ilk-tea-month-bubble
 CATEGORIES:Culture and languages
-LAST-MODIFIED:20260310T152055Z
+LAST-MODIFIED:20260317T135859Z
 X-LIVEWHALE-TYPE:events
 X-LIVEWHALE-ID:2234264
 X-LIVEWHALE-TIMEZONE:America/New_York
 X-LIVEWHALE-CONTACT-INFO:<p>easc@iu.edu</p>
 X-LIVEWHALE-SUMMARY:<p>\n  Bubble tea making demonstration and workshop\n
  </p>
+X-LIVEWHALE-RSVP:1
 X-LIVEWHALE-CUSTOM-ROOM-NUMBER:GA 1122
 END:VEVENT
 BEGIN:VEVENT

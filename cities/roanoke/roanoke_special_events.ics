@@ -301,6 +301,22 @@ UID:8727
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mill Base Camp will be a free\, public gathering on private la
+ nd\, with vendors and food trucks at Riverdale in the outdoor event space
+  there. Throughout the day\, participants will make use of the public tra
+ ils for various rides.  https://www.roanokeva.gov/calendar.aspx?EID=8893
+DTEND;TZID=America/New_York:20260620T210000
+DTSTAMP;TZID=America/New_York:20260317T134322
+DTSTART;TZID=America/New_York:20260620T120000
+LAST-MODIFIED;TZID=America/New_York:20260317T134322
+LOCATION:<p>Mill Mountain Park and Roanoke River Greenway</p> -   Roanoke 
+ VA 24011
+SEQUENCE:0
+SUMMARY:Mill Base Camp
+UID:8893
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Beer and bands to raise money for local charities. https://www
  .roanokeva.gov/calendar.aspx?EID=8699
 DTEND;TZID=America/New_York:20260619T213000
